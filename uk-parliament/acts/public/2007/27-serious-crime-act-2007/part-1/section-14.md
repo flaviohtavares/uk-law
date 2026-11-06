@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (182).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 14. Restrictions relating to other enactments[^c-4ba25e5d6ab1b203ed61e8d7de251068]
 

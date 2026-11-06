@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 60. Scope of an EDP: area, kind and volume of development and time period[^c-1380bb3d38a2add4600c559673273696][^c-9ed5b2716b9669ab946457f2a7c87f50]
 

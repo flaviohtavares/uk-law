@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 72. Securing EHC plans for certain detained persons[^c-bc41333a7be43c32f7a0e1350bbb49e7]
 

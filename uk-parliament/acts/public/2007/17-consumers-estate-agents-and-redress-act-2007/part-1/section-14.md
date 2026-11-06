@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-01-27. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 14. Reference of matters to the Gas and Electricity Markets Authority[^c-d67603c439dae12180cb803fbb78c4eb]
 

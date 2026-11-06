@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 57B. Statement of policy.[^c14105341][^c19324771][^c-929dc95eac7afac443ea4e095b07fde3]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 13. Statutory sick pay in Northern Ireland: lower earnings limit etc[^c-017acd0a10e5063fb84aea03df124c66][^c-4eac1b8c7ecb3e50720c330285c04c74]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 52. Transfer and amendment of functions under Mental Health Act 1983[^c-dcf9ce81cadacbf278720427a49597d7]
 

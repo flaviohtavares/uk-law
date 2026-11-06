@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1092
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 4. Design and manufacture in accordance with essential safety requirements and sound engineering practice[^M_E_cbd26ed9-4e70-4e2a-bd8b-4c22251c21fe]
 

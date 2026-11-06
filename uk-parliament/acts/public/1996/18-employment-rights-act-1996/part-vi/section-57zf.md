@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 57ZF. Complaint to employment tribunal[^c-9b9a5b4d863f0ab222e6f5c0e622878a]
 

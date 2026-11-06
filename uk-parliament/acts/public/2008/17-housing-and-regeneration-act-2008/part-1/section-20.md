@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 20. Powers to borrow[^c-7de41084bb7c53d1b583952cd1fb1656]
 

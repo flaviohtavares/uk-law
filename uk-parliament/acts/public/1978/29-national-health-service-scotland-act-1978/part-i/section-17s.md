@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## (not yet in force: 17S). (not yet in force: Eligibility to be contractor under pharmaceutical care services contract)[^c20973211]
 

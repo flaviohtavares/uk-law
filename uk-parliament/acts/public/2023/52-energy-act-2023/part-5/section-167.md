@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 167. Direction for transmission licence to have effect as electricity system operator licence[^c-25ab5d72b19203f3b739f10ad9cb76ff][^c-2b626718efba8d9734059445f04ea010]
 

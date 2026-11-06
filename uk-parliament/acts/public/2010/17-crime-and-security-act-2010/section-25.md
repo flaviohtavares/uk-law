@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2022-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 25. Contents and service of a domestic violence protection notice[^M_I_9f905133-e8e3-4a97-8786-73573c8d4f07][^M_I_67b9dc09-4953-42eb-c1b9-ff093d4865b7][^c-196d923327b28a8d2404d8c113f6635c][^c-8ef9403c9e41845db856a4d1d0917fb7]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2016-07-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 154. Prohibition of disclosure of information[^c-3d053704faf447659d1da8467c657c75]
 

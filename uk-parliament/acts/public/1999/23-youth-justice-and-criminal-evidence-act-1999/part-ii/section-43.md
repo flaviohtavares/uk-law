@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 43. Procedure on applications under section 41.[^c9546201][^c-35d0c87380a9f52ccab4ec89f3ea5057]
 

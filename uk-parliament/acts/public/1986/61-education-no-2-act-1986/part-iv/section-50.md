@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 50. Grants for teacher training, etc.[^c-9dff5f0b77a20fc0edc4a55a3942bbb6]
 

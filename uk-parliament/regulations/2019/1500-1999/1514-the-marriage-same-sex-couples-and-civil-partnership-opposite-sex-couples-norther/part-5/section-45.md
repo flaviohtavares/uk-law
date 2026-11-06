@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 45. Continuity of civil partnership or marriage on change of gender[^c-e69cbc26d25bf534facc2a0c0f710774]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 83. Meaning of “administration charge”[^c-bb54aa5dd7bd467da0166d83ce075f71]
 

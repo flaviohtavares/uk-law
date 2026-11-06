@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2024-11-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 23. Terms of appointment of Attorney General[^c-1be1815b1064cde6b2e67d660aeef5d1]
 

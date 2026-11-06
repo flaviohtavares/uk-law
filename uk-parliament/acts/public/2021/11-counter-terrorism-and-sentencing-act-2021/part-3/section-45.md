@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-03-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 45. Persons vulnerable to being drawn into terrorism: timing of independent review
 

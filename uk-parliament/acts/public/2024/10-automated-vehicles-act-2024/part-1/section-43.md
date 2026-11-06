@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 43. Fees[^c-9af93ff40d3f943ad0a40b4d8eca89c0]
 

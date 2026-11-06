@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (46).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 61. Orders and regulations[^c-67fc65a67736f208e1df572520c3fed7][^c-6e4ff21d71ebdb7b69a5a6785b8630c7][^c-b201210d562f353b170a098668b61008]
 

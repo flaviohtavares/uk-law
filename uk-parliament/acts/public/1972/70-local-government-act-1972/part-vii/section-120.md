@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 120. Acquisition of land by agreement by principal councils.[^c15107621][^c15107631][^c15107641][^c15107651][^c15107661][^c18891531][^c-119e4cc5aa04b006173a90c09b68dd8b][^c-393c490034ccee27e7bacbf1ee5cda6a][^c-314756c87c0b2fa759a3283dec983a95][^c-586eec021f5466412cf99e6fc3f1cf10][^c-4b6ff0b3878b405f55f29e4b717dffdd][^c-d19c5d06b9460e6624d0c17dc6a56f9b][^c-b075f9609d727072b4f25f2c3af694bb]
 

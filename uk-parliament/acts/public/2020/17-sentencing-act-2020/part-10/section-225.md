@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 225. Restriction on consecutive sentences for released prisoners[^c-3f8b64088e2eb607f9bb89451f62f95c]
 

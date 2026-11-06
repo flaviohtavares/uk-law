@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2017/1012
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 83. Enterprise zones[^c-e5c3d8746e196f28c5cf9a1b5e355420]
 

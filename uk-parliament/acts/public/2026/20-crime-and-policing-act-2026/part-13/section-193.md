@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 193. Notification requirements for child cruelty offenders[^c-81be700a4e7776a01917fdd84a99da98]
 

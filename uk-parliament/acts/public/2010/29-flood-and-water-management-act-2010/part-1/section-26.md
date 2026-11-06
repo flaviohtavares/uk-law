@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-12-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/29
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 26. “The Minister”[^c-ccfd819e186e787d98ca797a0e33134b]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 29. Service of documents[^c-78a25e6ca1545013480a66c90def5430][^c-a98de3f32ce6723886a1382c110a2b48][^c-c81feb37656eaf3bc78298b4b2aec581]
 

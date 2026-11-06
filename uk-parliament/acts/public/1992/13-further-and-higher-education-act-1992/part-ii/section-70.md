@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 70. England: assessment of quality of education provided by institutions.[^c-c7eea67275f7e3ce49f3dfffe3d219ca][^c11066061][^c-5bdd5b54ac516c77dbceba47c97e54b1]
 

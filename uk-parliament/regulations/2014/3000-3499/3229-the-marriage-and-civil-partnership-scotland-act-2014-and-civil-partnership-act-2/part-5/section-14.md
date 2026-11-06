@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 14. Effect of consular or armed forces marriage between civil partners[^c-d29d09ffcd37368c8da43549a36a0f37]
 

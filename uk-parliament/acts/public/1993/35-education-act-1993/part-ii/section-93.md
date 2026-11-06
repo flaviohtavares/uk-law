@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 93. Recovery from local funds of sums in respect of maintenance grant.
 

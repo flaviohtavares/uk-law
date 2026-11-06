@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 161. Time for payment[^c-fd5c423174d94cd56b00e3914800a6da][^c-e3634034bab4be7cd4cb838ceea63874][^c-208b34e624542ff86d7428e16b1c030d][^c-e3634034bab4be7cd4cb838ceea63874]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 173. Hospital food standards[^c-0320a778e25ce16350c41eabdd9b0f4c][^c-a35da1904c0abaf0eabd9de447d48000]
 

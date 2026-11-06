@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 51A. Duty to provide for named individuals: England[^c-087dbd35698eb6d76925f12d3222ad0c][^c-a9c906fb2857094e41f3ba8c13ece351][^c-14d5b544371f46cf1c7f24204f79794b][^c-ba073900a82cc063e268dcbd4de0883d][^c-adfb662281a5a60fd39b0c7802c88624][^c-1b99e461143ec7bd0dcfa00885145054]
 

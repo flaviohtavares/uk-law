@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Directions with respect to mediation.[^c-69388deffefd9ea71dc5ee56fc4c7e3e]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-29.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 10. Overseas government pensions (India, Pakistan and Burma).[^c8663841]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27. Performance of assessment functions by a designated body[^c-a4e8070eb0586d0dffb0fcd52829b622]
 

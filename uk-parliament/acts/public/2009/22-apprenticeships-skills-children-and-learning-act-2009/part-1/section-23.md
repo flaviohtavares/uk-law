@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 23. Duty to prepare and submit draft specification: England[^c-5af529d8409ad91273ae5ec338274a3f][^c-86e3546cc5697f54eb7036d249310bac]
 

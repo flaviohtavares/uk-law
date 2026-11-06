@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 31. Absconding defendants[^c-ebe1b46fee2c98358c73b00db2887a16]
 

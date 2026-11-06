@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 80. Liability of corporate officers etc[^c-e20c47886fb2af9e6ac188e7c165a2b9]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 102. Appointment of committees.[^c15105241][^c15105251][^c18606661][^c18606671][^c18860081][^c-4a954e6abb73c2fc0030490aceec4318][^c-23cb90f71449e19b69246e9a9faa40d2][^c-63cd26864969a65472a2a31328d9e213][^c-8c763e47c9e7661ce2b5daef7bf1a1e7][^c-682485d0420296cfd1e5293d8b885822][^c-3d07a0f58ff1a5399a86c66fab6ebca3]
 

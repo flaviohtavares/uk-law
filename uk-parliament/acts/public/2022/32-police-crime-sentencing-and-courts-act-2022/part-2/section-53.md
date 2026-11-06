@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 53. Power to specify date of attendance at police station for fingerprinting etc[^c-0b21e27b4ee931df37d80cdb938090d4]
 

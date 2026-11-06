@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 59. Functions of ethical standards officers.[^c-d304e0aef251840ed17e3e98f53f482f]
 

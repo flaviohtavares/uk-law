@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 38. Section 37: supplemental provision[^c1952845]
 

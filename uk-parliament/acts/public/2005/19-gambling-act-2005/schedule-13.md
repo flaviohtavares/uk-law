@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 13 — Licensed Premises Gaming Machine Permits[^c-723f8eee3e750fc68ebc6adb92314b77]
 

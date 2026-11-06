@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-08-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/14
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 29A. Duty to check barring information[^c-78da5d9ad6f5a46a696d9f0545fe8766]
 

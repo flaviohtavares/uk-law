@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 91B. Mine operators to give the appropriate agency six months’ notice of any proposed abandonment.[^c18733401][^c-512e1b8c7c08b8ab1b8b64101e4b8706]
 

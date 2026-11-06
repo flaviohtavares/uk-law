@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 30. Abolition of Local Safeguarding Children Boards[^c-38b4eafe79d10abe88ead38175036fb5][^c-36f53a4dba91cff9dbed5ef7f834ce9a]
 

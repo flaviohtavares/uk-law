@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 49. False alarms of fire[^c-e9ff50514bf47a87a838110d7ef6b353][^c-2cc96be50f2095210bf3a85b8f2c5ed0]
 

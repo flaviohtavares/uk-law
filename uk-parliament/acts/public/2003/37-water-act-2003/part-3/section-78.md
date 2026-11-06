@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2022-01-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 78. National security[^c-ef8084d90ba8ae055937798bce1e9fae][^c-57d4e4eaa734b064530673abeb81841b]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 138C. Application of sections 138A and 138B to other authorities[^c-4ffa9422b10ccd6c2147d51500be3168]
 

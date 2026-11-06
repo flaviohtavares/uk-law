@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 124. Powers of a higher education corporation in Wales.[^c-ab5c36250c0a0f36f0225d4062d38a7f]
 

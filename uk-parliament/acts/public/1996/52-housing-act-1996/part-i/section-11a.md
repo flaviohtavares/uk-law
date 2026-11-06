@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 11A. Increase in value of house attributable to home improvements to be disregarded[^M_C_f9f7041a-760b-4dfb-b746-e04ccf09abe8][^c-929009d983cff0d5877a0494cb28ef56][^c-e30b0c84267786fa9a93e873714a59e8]
 

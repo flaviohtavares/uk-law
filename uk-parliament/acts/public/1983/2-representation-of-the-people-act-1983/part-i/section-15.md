@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (71).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland; Scotland (the versions of this text differ in extent).
 
 ## 15. Service declaration.[^c14479681][^c14479691]
 

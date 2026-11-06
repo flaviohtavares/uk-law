@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. Administration and management of services[^c-03477279c50bbb27711066616a136e1b]
 

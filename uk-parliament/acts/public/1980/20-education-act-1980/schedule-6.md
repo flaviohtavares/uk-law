@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2007-04-01.
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 6[^c990846]
 

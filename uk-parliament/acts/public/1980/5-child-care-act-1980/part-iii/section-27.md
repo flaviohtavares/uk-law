@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27. Financial assistance towards expenses of maintenance, education or training of persons over seventeen.
 

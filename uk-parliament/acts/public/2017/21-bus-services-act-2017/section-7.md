@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-01-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 7. Advanced ticketing schemes[^c22721971]
 

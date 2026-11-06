@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-11-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/28
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 12. Advisory Committee on SIs.[^c-d0195ed75c084986cb4c473d85f47993][^c1044326]
 

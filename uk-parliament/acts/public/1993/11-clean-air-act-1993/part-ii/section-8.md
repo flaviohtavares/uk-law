@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 8. Requirement to fit arrestment plant for burning solid fuel in other cases.
 

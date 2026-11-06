@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 3. Duty to consider parental representations[^c-5288cd42df552d95fa3f830838b1f1c9]
 

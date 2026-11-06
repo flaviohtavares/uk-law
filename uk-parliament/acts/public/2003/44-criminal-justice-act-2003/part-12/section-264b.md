@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 264B. Consecutive terms: supplementary[^M_C_df5e507d-911d-4c12-f668-64d6220e0ae3][^M_C_c2911633-81ba-4836-9e2b-b763d432a36b][^M_C_3d54cede-59f3-45cf-aea2-88a29387600a][^c-e85bf666aed00e84ad9f4fb18ba9b518][^c-7366982145a790f12baf2e9cc1c1df44]
 

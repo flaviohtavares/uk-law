@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 5A. Obligations that are met by complying with obligations in the Directive[^c-a2d108c690a812360bdcc21fb72e8124]
 

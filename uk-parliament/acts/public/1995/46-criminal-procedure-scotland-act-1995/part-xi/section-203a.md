@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 203A. Reports about organisations[^c-4bd36c1816726330e6f50f952e8cc0b4]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 132. Solicitors (Northern Ireland) Order 1976[^c-8868d6dd6283ab8e7a9462aed4c19737]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (205).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## SCHEDULE 4B — Additional Pension: Accrual Rates for Purposes of Section 45(2)(d)[^c-96f9d51a6eb57ba494fc021bbe327ccc]
 

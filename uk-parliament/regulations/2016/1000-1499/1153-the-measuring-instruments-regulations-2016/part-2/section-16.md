@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1153
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 16. Introductory[^M_E_a5df87c0-97dd-44bf-f82c-6f024970dcef]
 

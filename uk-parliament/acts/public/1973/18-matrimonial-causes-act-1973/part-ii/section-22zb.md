@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-08-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22ZB. Matters to which court is to have regard in deciding how to exercise power under section 22ZA[^c-b1d0aee692876002353ab90b1ebb855c]
 

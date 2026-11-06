@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 124ZA. Instrument of government of higher education corporations in England[^c-4ac7f6c3a1d1d67a5d2927c35c890a24]
 

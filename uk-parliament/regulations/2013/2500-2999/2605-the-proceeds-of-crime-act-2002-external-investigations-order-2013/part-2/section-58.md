@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-04-26.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 58. Requirements for making of customer information order[^c-de09d272b55bdfb9fd900a3331d2e4d1]
 

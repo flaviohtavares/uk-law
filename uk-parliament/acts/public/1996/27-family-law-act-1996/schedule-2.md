@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 2 — Financial provision[^c-0f9d0fb8db63840b5bf2d776567830fb]
 

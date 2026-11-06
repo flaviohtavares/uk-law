@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 55. Modification of appointment and licence conditions[^c-48d961ed2572628523cad5e27b8bcd7f]
 

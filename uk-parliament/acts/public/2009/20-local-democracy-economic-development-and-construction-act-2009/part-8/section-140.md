@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 140. Adjudicator's power to make corrections[^c-b84653af60c7a38dcb9aa3bb6c58368e][^c-137b78c0c44ed40d44dc944c910987fa][^c-f3088020c5199c03667c3aec4e4da9f9]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 289. Approval in relation to particular European employer[^c-b04934cd888e7276c0a6939405dcd835]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2026-07-08. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/11
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 92. Road closure: permission.
 

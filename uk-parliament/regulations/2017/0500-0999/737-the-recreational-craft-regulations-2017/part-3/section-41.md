@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2017/737
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 41. Presumption of conformity[^c-12670231f3c374f20e69238889c21b77][^M_E_f1dd6d15-62a6-4bf3-a6ef-5b13143876f4]
 

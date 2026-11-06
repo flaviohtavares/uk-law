@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## (not yet in force: 47M). (not yet in force: Sections 46 to 47H: interpretation)[^c22810711][^c20485971]
 

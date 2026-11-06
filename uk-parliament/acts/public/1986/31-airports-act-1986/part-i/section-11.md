@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (51).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 11. Application of Trustee Investments Act 1961 in relation to investment in the successor company.[^c-6873c3bf9b79ba5b170ad7df6811ae1e]
 

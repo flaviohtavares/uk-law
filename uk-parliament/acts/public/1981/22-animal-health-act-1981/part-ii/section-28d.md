@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 28D. Deliberate infection: deprivation of entitlement to compensation[^c-38ecb1de89e57bd6d620fecc0fe10591]
 

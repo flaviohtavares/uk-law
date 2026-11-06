@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 120. Requirements for leases which are for 7 years or less or which are assured tenancies etc.[^c-1d10ed90a3c7ab8a8cc8fa040996f0bf]
 

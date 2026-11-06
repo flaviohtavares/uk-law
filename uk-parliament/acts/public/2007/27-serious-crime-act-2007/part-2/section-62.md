@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (182).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 62. No individual liability in respect of corporate manslaughter[^c-abc0582ca1fd6573a8335be409dc972b][^c-8fac712985455041598b9ce15117ddd2][^c-8fac712985455041598b9ce15117ddd2]
 

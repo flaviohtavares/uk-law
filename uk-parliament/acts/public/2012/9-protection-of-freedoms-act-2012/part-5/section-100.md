@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 100. Advisers[^c-2af508d0ad6be3ea03fa6550c096d662][^c-10055670946d6469fa770d174d883ef6]
 

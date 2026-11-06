@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (154).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15A. Sexual communication with a child[^c-a5daeee8d2c863bcce1f43ab236fdf26]
 

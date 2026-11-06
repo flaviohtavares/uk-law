@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 29. Her Majesty's Inspectors of Constabulary[^c-f1fe37897bd0016f4d3ff5d47a0960cb]
 

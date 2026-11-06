@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31. Procedure for direct conferral of general functions on mayor[^c-9dbfff820b72c3e0bea10e960e7878a4]
 

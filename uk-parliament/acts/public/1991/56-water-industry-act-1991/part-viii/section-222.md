@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 222. Application to the Isles of Scilly.[^c-ad37253885abe79367d8c8f0fe73e3cb]
 

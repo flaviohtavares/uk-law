@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. Duration and conditions of licences.[^c13769661][^c13769671]
 

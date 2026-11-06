@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 35. Exercise of powers: land with a Crown or Duchy interest[^c-2f0721bb2b2856ee10ef2807f236372b][^c-5ecad89c62bcd75febe1f6e41d783d8c]
 

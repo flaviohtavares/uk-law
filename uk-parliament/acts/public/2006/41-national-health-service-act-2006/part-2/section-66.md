@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 66. Intervention orders[^c-997b07a8a3e693d907a6caddb6f14c1d]
 

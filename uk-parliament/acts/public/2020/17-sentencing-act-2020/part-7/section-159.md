@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 159. Application of proceeds of property subject to deprivation order[^c-11f221698f2241d5bb101584e4551fb3]
 

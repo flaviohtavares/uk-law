@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-02-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/9
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 32. Direct labour organisations.[^c-03f9f6390a382936e82998f772cafaae]
 

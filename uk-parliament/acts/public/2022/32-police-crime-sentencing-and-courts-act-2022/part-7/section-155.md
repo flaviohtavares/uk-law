@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 155. Duty to consult on unpaid work requirements[^c-6dc8874bc88b26c88c8e8c2d690f9756][^c-0fe76f777d7def38d7a5fbcb41815a29]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 34. Provision of information relating to outsourced workers[^c-73b1d3bca44912264a985c659d0745e7]
 

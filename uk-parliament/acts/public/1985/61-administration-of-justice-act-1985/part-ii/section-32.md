@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/61
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32. Provision of conveyancing or other services by recognised bodies.[^c20408551][^c-0a13fa12be2cdfaa2fae6a17f10b473d]
 

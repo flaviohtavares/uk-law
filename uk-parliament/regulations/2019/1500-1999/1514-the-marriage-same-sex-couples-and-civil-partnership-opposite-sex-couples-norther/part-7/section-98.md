@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 98. Tax Credit (Appeals) Regulations (Northern Ireland) 2002[^c-3a61530404c4106fed260b0f75a40424]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 111. Subsidiary powers of local authorities.[^c15106411][^c15106421][^c15106431][^c15106441][^c20521101][^c-f4e8544438f0a1841f2c370e9d50c297][^c-f385186b3409bfd1352b7ccaf708d1db]
 

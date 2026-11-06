@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 56H. Intervention by YPLA[^c-18f23fb8eff74c341ea406b773d27894]
 

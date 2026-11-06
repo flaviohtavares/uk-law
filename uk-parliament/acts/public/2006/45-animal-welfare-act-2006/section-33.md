@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Deprivation[^c-400ca286e1390d42e2d19810452762f1][^c-bef58c1097b533b56c8a9d1a319af4d3][^c-2d0b990434153d5b5ad57c6b5e93806d]
 

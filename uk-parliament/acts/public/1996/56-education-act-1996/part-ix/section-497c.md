@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 497C. Academies: power to secure performance of proprietor’s duties[^c-5a4087feb17f8ff55842274b918624a7]
 

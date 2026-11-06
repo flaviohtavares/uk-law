@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 148. Free property[^c-d6379e4c796a8a3b5be2d53f8a8993e5][^c-d59f6c2a9c42161ca1815c0c61d9e1f6][^c-d59f6c2a9c42161ca1815c0c61d9e1f6]
 

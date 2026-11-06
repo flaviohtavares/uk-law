@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5/23-24/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 39. Power to prohibit publication of certain matter....[^c6083931][^c-84cd5675ec3d3317b9d4717d7dba07b1][^c-f7d53a7844b29117556ca43cca1e7b9b][^c-152d400609b7ad197b4126f937ee5a05][^c-9898193ef5614607aa765a87e4ae8d27][^c-d043d937f6bf51b3f4dd94913b78cc4c][^c6083921]
 

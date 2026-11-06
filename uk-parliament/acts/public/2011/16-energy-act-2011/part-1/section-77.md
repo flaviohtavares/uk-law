@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 77. Power to modify energy supply licences: procedure and supplemental[^c-01ee570d144e7a159926bc9796e08b68]
 

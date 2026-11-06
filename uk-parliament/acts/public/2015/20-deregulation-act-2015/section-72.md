@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 72. Removal of requirement to report loss or theft of licence etc to police[^c-43bda22cc572bdadc93817e5064d52e5]
 

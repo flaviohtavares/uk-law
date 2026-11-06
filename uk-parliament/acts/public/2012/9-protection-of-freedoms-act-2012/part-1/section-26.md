@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 26. Requirement to notify and obtain consent before processing biometric information[^c-4285c5f70b5cdb9367514e2db297aebd][^c-2ddb47259ff02c92da2c64503f95381e]
 

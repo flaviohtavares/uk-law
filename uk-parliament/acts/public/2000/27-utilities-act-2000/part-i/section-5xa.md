@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/27
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## 5XA. Laying of accounts before Scottish Parliament , Senedd Cymru or the Northern Ireland Assembly[^c-60607f6970fd0f953ad6688434b78d40][^c-b47e3dfdf79496dda2ad33dbc2f9fc1c]
 

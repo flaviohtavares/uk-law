@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 302. Effect of decision of court upon an appeal.[^c611829][^c611830][^c611831][^c-cbf256d5ac1d7055fef3f56dec0eb8bf][^c611828]
 

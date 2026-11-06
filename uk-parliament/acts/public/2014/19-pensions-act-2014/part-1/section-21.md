@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 21. “Old state pension”[^c-204aece8e6d4f3b6c311b5faf53206dd][^c-28adc1c33adce7c792d69b9f455dd302][^c-054ee355cc3c6dca6a3ec6b4f64ca0e1][^c-ae38f67954c3f6ff1706e6bbd7a77ae5][^c-d27bd5c4ba8ea51378555b444598092a][^c-28adc1c33adce7c792d69b9f455dd302][^c-054ee355cc3c6dca6a3ec6b4f64ca0e1][^c-ae38f67954c3f6ff1706e6bbd7a77ae5][^c-d27bd5c4ba8ea51378555b444598092a]
 

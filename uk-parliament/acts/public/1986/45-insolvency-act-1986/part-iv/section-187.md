@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 187. Power to make over assets to employees.[^c15573711][^c20432531][^c-45254d99a4865eb560e071ca46cba26c][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-073d25415826c009e8f1dc147ae003c4][^c-281face317decc6eef6a0512134b0a6a][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

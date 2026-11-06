@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 54. Amendment of existing provisions about schemes for ordinary elections[^c-4357171787b74748c36357c6a636f908]
 

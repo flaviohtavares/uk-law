@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (46).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 62. Transitional provision[^c-555959d36369c5c11bae16380b4b53b4][^c-e56281341eec639300eb85f6ae76a28a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 44. Compensation for injurious affection.[^c-39b5102c86ac3d5a0f5b19876396f0db]
 

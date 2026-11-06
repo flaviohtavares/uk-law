@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 78. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-bfdfe9668637805b2ab72419311bda29]
 

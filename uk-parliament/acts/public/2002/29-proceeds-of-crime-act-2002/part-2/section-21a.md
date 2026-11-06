@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21A. Order made: reconsideration of benefit on decrease in value and sale etc[^c-be63ef65ceecf8950d7a0ddca22526c5]
 

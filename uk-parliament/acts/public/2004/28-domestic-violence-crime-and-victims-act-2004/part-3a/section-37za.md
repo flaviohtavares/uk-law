@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (171).** Text as at 2026-09-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37ZA. Victim impact statements where restriction order made[^c-fd8752d7e20012fdcdeccb014af9aca1]
 

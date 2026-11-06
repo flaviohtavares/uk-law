@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-02-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 70. Power of relevant Minister to give financial assistance to charitable, benevolent or philanthropic institutions[^c-b79a6ff22246ce8a065f42f697138ebb][^c-09ef5997a50327a204faa188a0854894][^c-81e24d8de0ed8d00fcbdfde9459bd145]
 

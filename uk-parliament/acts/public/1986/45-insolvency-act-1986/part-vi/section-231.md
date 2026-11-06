@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 231. Appointment to office of two or more persons.[^c15574881][^c20433871][^c-3b5687443eff6fe052a814ff24f9eece][^c-1833ba36373f3ae0946a06692da15a40]
 

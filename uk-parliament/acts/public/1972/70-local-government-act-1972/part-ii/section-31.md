@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 31. Provision supplementary to sections 27A to 27L (Extent: W).[^c15089401][^c-c830218b4cbb7056a8ca814c710e55ed]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 118. Closure orders: premises associated with persistent disorder or nuisance[^c-714368f543d168b7a51b5a4c2f9acbfe]
 

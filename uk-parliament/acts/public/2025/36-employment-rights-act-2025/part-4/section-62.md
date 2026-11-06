@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 62. Requirement to contribute to political fund[^c-71c0d5ae0c3d39d4e8798c310bf9a4e7]
 

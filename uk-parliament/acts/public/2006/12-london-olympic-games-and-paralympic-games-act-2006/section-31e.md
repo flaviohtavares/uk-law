@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2014-12-02.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 31E. Sale or other disposal[^c-a9909df5f66dbc7e0d1f0222ab6d111d]
 

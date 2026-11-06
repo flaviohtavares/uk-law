@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2214
 >
-> Extent: England, Wales.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 37. Wholesome water consumption calculation[^M_E_8f3715ac-8ab8-483b-abd0-0add7d88c45e][^c-d866944f0b361971d4c8fa3aad221fcf][^c-c8b6f1825c866f576219c2dd49ca530c][^c-ac81b8177717f79fd23d87e01c6202fd]
 

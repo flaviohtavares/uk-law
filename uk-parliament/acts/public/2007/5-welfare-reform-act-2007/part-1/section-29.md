@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 29. Transition relating to Part 1[^c-6610aa7337b744d67f4c1ecd03720202][^c-ca60ab9ac5784d23c72e290395d3faea][^c-82d93ce0730aeba4ad71828aa6d7e370][^c-b741926f2c348be0444683025be02bbc]
 

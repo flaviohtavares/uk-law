@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 38. General powers exercisable by the tribunal.[^c833502][^c833503]
 

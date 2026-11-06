@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-08-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 333ZA. Compulsory acquisition of land[^c-c9d70079c6471977e41bcfe904bb1eb9][^c-a761f600a6cde50131649a6bffe0cf99]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 29. Financial responsibilities of integrated care boards and their partners[^c-bef3ce103e814e21359e0a2a9d37abac][^c-13521d9863ab77fe20558a821510ca01]
 

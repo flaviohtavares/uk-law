@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-05-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 87. Further requirements[^c-5fd43e5a8866e2c907d38907acb40abb][^c-deba9ab2dcce6744e5646dd94223a018]
 

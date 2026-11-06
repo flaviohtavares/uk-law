@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2022-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 46. Offence of allowing minors access to air weapons[^c-792706e513a9c505d6862b9a20e41ad5]
 

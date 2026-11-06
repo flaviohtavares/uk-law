@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27A. Oversight and support of NHS trusts[^c-bc0db3e2b007245be0d176be6646a025]
 

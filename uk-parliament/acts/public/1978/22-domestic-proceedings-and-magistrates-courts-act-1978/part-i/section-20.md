@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2014-04-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 20. Variation, revival and revocation of orders for periodical payments.[^M_C_dbfb6762-46c4-41e9-a333-557ee41cb69d]
 

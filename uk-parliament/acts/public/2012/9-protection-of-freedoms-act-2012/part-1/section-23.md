@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 23. Inclusion of DNA profiles on National DNA Database[^c-a624df73333a0cf7496873ad59e98198]
 

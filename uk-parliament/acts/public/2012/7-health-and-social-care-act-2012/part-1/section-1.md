@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. Secretary of State's duty to promote comprehensive health service[^c-4c5acf5448cccb149af80c244f90df57][^c-90899e411728db2580abf28813dbd193]
 

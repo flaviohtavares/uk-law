@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 18. Entry and search after arrest.[^c16916651][^c-f2aee5e70f5a3cb9974a7ed143b59cfa][^c-4fd6669bc530294e3712046d22f7e166][^c-267f0ccc2339c287919a338555b3acb7][^c-1457c759b8b06502f4178bf0faf76a85][^c-b719244af8f3e7b8c52456534ee258c0][^c-588cc2e265186d37357f56d7680fcd93][^c-c58c75bf7d6c4d0e73785607d815a797][^c-8be27ec531dc7277aba97817da717146][^c11315241]
 

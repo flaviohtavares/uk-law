@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 3 — Tribunal jurisdictions to which section 31 applies[^c-429b1fecc9d7f406b5c3474fc24c88db]
 

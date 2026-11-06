@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 342A. Application to justice of the peace: power to make regulations[^c-61407902398b90b10340d3ceb0ef6bf8]
 

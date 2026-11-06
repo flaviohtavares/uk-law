@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 2A. Designated standard[^c-a1bfb5e1ae3c7971c8d25499a9f0ed66]
 

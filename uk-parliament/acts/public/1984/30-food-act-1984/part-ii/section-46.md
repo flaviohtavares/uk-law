@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. Restriction on liability under s. 45.[^M_F_b4938a61-6a43-4c69-9944-f9c13d5e5388]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 41. Directions as to minimum budget.[^c-93d642e10959bed57011bcc296eb09ab][^c-11a4e3a8a2bdcaa7a0ab4fb9dcfac4e9][^c-336c674fb0451033f14fb632071b3b0a]
 

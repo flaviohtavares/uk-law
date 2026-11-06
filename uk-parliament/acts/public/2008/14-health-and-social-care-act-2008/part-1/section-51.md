@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 51. Failings by Welsh NHS bodies[^c-faa056ca5f6d9d8faf95e9b20061eab0][^c-8a12b4558a21ee6c829213b66952535c]
 

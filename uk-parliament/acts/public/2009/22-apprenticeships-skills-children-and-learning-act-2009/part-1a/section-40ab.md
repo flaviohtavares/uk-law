@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 40AB. Sharing of technical education information by or with Ofqual[^c-a9091a0b94395568b176e2b474be6117][^c-ee96820e708471d9139ec0a57cf4b3c6]
 

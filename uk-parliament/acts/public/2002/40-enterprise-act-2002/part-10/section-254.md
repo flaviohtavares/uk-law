@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-10-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 254. Application of insolvency law to foreign company[^c19222041][^c-3d842c8db810ca7ab23dc24ffef88377][^c-e9664b061f0588d07a3d4f6e22218d28][^c-b283ec8603f3441defcaa00f1bbac579][^c-b3111c661c78d471143ce04dceae541b][^c-6c22cb85e0befedcc32dc1ed716687c6][^c-6f3d06e9566da3f507f2799611dc77e5]
 

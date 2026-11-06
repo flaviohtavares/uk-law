@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 62. Premises etc to which alcohol prohibition does not apply[^c-c5612979d3f202e26e5feb76dd1db48d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 7A. National jurisdiction for callings of custody cases in a JP court[^c-048a645304dc01def4c3aea59c3de077]
 

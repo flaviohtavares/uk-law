@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 3. Apprenticeships: simplification[^c22547821][^c-1aed9d0d6f5c0ad07cd8589eefa6d7cf]
 

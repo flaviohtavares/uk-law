@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 121. Co-operation between prescribed bodies[^c1942064][^c-8aea6fc9ddd0d350227c212145b22a0d]
 

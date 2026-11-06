@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 92. Power to designate person to exercise functions under this Part[^c-644d8f7cebc828905a9c4fcecfb61ae3][^c-2279987807ed6579717dd575ace757ff]
 

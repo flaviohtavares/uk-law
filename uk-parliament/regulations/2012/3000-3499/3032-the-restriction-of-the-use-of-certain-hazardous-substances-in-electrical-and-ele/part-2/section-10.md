@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 10. Prohibitions on placing EEE on the market[^M_E_334fc7cf-1ce1-48f7-c3b7-81f9181483ac]
 

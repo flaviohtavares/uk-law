@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1152
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 60. Compliant regulated non-automatic weighing instruments which present a risk[^M_E_eae8f324-3739-4a30-eb84-fd77c0a4d0d3]
 

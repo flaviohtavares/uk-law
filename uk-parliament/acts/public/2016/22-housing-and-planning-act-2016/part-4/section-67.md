@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (34).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 67. Consequential changes to HCA's duty to give grants[^c-2829eb40147c06f521efb3bb98c986e9]
 

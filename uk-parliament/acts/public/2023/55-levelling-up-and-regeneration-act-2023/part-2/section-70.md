@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 70. Payment of allowances to committee members[^c-cae603cb1905ee7daade29b386fee446]
 

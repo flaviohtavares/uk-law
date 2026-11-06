@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 8 — Appointment, suspension and removal of senior police officers[^c-223ddd164a37ebbbbf41e64a6ca6b876]
 

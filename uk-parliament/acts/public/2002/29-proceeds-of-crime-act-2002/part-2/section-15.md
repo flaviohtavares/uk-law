@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Effect of postponement[^c-c9864dd6dec70ebe893b9ef4411a2f96]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-03-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 53. Extinguishment of unrecorded rights of way : England.[^c-ac38f716be60e48be43900331f37f85f][^c-31b58be404895dc7e24e09236ebcbd4e]
 

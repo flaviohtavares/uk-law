@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 7C. Recovery of section 7A supplements: Scotland[^c18135951]
 

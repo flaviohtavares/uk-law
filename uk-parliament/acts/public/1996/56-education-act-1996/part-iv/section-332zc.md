@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 332ZC (affected by repeal, see note). Case friends (affected by repeal, see note) ...[^c-74e06f33b7f3770c0766f91b7e000906][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-06284793e140ec229b316bb815434d54]
 

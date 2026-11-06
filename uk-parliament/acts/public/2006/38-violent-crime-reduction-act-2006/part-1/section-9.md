@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2021-07-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. Interim orders[^c-a2486e9ce1de0e676bcae2a074792166][^c-ab6a7143d2151e7e49825d109f27748c][^c-810f3b9274e105f8002309e34bb5d0c6][^c-281c227bf035958eefd32950a6a05a27]
 

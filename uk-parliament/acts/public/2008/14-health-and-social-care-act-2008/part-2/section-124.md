@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 124. Regulation of social care workers: Wales[^c-90940e3cdaefc62c1cff9f4177d15f18]
 

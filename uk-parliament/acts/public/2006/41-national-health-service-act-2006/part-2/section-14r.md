@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14R. Duty as to improvement in quality of services[^c-d504964dfc83cb183dafe3faf00dd2f6]
 

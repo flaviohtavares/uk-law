@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-06-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4. Appeals against orders.[^c-e0bc6799fa83592762b797b61c1ea988]
 

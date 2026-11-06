@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 28I. Specified diseases: Scotland[^c-61cc0d17848a09d87a7709114ba164f4]
 

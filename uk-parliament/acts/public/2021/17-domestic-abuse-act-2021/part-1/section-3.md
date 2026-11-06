@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 3. Children as victims of domestic abuse[^c-15e7f30d190089cbbca489f6e224fb33][^c-2ce34a5cd283b1b9b345f81fba087b32][^c-c9af77347d0ec66e7765a4e812b39b45]
 

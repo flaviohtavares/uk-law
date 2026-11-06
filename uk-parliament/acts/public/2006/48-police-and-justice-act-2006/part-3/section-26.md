@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 26. Anti-social behaviour injunctions[^c-c68de88ad9c073f64d06d263949ba2f1]
 

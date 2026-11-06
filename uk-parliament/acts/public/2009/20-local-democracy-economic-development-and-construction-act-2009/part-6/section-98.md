@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 98. Preparation and publication of scheme: new EPB[^c-d1909ec7788aa33d372c1c52b991ca1a]
 

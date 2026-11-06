@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 14 — Review of medical certificates of cause of death and cremations: Scotland[^c-4266af03feb6aea331133bea9368dff7]
 

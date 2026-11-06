@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2026-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 17D. Personal dental services: persons with whom agreements may be made.[^c14161341][^c20954351][^c20954321][^c20966171]
 

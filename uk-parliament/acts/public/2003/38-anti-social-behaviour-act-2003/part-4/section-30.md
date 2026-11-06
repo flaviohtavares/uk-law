@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 30. Dispersal of groups and removal of persons under 16 to their place of residence[^c-34602cb574ff4a834015aab7ed76477e]
 

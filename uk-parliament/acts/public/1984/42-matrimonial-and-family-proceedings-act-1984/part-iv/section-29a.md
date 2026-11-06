@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 29A. Application of Part IV to annulled marriages.[^c4594981]
 

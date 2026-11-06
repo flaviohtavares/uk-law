@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 4 — Abolition of the Horserace Betting Levy System: Consequential Amendments
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 264. Urban authority may require repair and cleansing of culverts.[^c611675][^c-0684c57dca90ec5dfcaa58427571eadd][^c-87acc56e8c4d10bf0feb514a849b9434][^c-c565a98b8df4f14763a6af57ee5803bf]
 

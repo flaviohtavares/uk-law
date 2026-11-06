@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-09-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. Terms of appointment[^c-14e1a835266949ec978838c1eea4fcb9][^c-23e6a7baeb0f4b6edf751ab9209271ca]
 

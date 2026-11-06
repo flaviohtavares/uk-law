@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 111. Financial Assistance Scheme: indexation of payments for pre-1997 service[^c-9ba3beec5bb654f082df422367130ea2]
 

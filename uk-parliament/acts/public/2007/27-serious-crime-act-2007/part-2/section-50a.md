@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (182).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 50A. Extra-territorial offences: defence for intelligence services and armed forces[^c-e8373b87f7497b67dead46ae8f56847a]
 

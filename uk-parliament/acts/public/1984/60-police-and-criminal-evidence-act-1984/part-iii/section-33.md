@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Execution of warrant not in possession of constable.[^c11321201]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 72. Transfer of functions: changes in governance arrangements[^c-06cbc17c3f56be2166c215390e9f75a6]
 

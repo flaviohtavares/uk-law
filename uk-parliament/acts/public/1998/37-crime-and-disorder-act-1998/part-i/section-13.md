@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-06-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Appeals against child safety orders.[^c-afc10ba6c2bb58639d752ac3c06f3c3a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 34. Indexation of amounts, &c.[^c12486511][^c-ef20efdd5eefc72513b967db566d1245][^c-d66c0e09ebd1d6586ddeb71af9013af7]
 

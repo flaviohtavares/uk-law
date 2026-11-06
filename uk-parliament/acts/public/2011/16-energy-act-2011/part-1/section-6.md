@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 6. Consents and redress etc[^c-ed22942995c6e90f1dfbcf4e5c60816e]
 

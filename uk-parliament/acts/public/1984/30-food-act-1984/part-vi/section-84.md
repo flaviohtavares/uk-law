@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-18.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 84. Where division not practicable.[^M_F_4ec27734-9373-498d-a5d9-25ee3b89e643]
 

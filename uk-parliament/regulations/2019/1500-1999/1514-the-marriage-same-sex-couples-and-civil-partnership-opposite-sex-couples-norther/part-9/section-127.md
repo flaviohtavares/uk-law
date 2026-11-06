@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 127. King George VI Memorial Youth Council Act (Northern Ireland) 1957[^c-ad7bcf5ff3fc8f223b5e47f3465216af]
 

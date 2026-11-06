@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2022-01-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 42. Standards of performance in relation to sewerage services[^c-b793d56cf671f7a8c443cd49bc4c8b71]
 

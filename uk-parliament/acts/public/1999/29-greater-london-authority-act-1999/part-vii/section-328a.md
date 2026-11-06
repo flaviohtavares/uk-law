@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 328A. Directions etc by the Mayor[^M_F_423933d2-3f49-4c26-df0a-b3e56709a926]
 

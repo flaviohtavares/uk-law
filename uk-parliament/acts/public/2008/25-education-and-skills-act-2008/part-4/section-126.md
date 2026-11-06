@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 126. Appeal by proprietor against order of justice of the peace[^c-b620e2a3ca1ef02e72631039513e18e1]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 115. Power to stop and search for prohibited fireworks[^c-2401d0310340c00cff1ff01bfbf13fac]
 

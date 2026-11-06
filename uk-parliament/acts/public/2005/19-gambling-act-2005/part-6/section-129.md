@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 129. Exemption for small-scale operators[^c-aeef5415c343c470f493eab531f62316][^c-b91b4450fb503a3b47fb51f92755c42a][^c-b91b4450fb503a3b47fb51f92755c42a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 31. Consultation with National Lottery Commission[^c-aaa9a105e2e3f80e4b54e4a5d3540195]
 

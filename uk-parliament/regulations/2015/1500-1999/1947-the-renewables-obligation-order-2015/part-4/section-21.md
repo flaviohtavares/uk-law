@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-03-27.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 21. Further confirmations required for ROCs certifying matters within section 32B(3) and (5) of the Act where electricity generated otherwise than on land
 

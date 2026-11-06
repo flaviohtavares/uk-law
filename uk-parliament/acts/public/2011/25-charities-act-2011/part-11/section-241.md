@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 241. Notice of transfer of CIO's undertaking to another CIO
 

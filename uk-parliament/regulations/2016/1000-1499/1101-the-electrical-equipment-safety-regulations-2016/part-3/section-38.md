@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 38. Declaration of conformity[^M_E_e3d76a3c-430c-4bd2-c0be-59060102c410][^c-769b6351c4b8c73da24c5edf028e2b7d]
 

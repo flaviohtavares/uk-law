@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 38C. Obligations which are met by complying with obligations in the Directive that relate to safety data sheet[^c-3c6b9581de1cc9355962501a52a7d89b]
 

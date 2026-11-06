@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 30B. ... section 30A: notices[^c-cf0f06684ddfba8013016f7150773288][^c19219221][^M_F_b7d7cfd9-e4c8-4048-b1bc-0542748ce7a4]
 

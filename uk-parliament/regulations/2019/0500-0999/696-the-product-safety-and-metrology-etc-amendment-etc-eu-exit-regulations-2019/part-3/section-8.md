@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 8. Amendment of the Measuring Instruments (EEC Requirements) Regulations 1988[^c-daaf076abc2229859e87c7b685d775b8]
 

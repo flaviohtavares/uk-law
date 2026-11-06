@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 14. Financial sustainability requirement[^c24458191][^c-7f116b37e67ab1a43cd04aaa202a27ca]
 

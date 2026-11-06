@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 27. Restrictions on accounts: account holders[^c-67b4afe7f9d780d6d0512fa394b452a3][^c-415090250d5027fba851ce917d3e95c3]
 

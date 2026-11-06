@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. The NHS Commissioning Board[^c-b3a6cb0d47324e03c1898f7ddd3bcc6b][^c-50f7bb582b444ee8d70737c336f2fcf3]
 

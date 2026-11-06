@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 72. Duty of local authority to have regard to guidance[^c-3d7b09f293fd3447c85ad9e3438b9929][^c-81ffb0eb20e62c98df124b83aeaf3944]
 

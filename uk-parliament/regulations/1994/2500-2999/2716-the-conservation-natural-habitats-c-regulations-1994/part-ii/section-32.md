@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-10.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 32. Powers of compulsory acquisition (affected by repeal, see note)[^M_F_384ff143-09f9-4397-e92d-975e7c5e1212][^c-2dd38f22e3f0e7272da0337fa848725f][^c-2dd38f22e3f0e7272da0337fa848725f]
 

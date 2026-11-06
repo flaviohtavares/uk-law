@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. Ban on grant or assignment of certain long residential leases of houses[^c-d3b32bad09af9e0ba73007d5643b1305]
 

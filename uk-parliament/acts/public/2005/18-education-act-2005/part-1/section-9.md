@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. Power or duty to treat other inspection as section 5 inspection[^c-fea16c3e25a659ab96d1754b750e4b59]
 

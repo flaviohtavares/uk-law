@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2016-05-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 24. The Department of Justice’s long term policing objectives.[^c-72a5a716ed20f08c30a83be06d063cd8]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 109. Duty to give notices and statements to the Regulator in respect of certain events
 

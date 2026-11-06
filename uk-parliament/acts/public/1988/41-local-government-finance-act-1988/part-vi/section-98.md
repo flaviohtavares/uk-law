@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (93).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/41
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 98. Other transfers between funds.[^c13072671][^c-4102bd57b7dfa1935e1ada6872724849][^c-0c54dee3428636abb7195dea61c0ea12]
 

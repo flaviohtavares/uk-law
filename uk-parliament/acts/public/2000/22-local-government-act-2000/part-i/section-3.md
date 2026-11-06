@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 3. Limits on power to promote well-being.[^c-30b563df56aa06677d05d3ce5d92caa7]
 

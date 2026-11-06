@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 12. Converted or changed civil partnerships[^c-4a48d0257575a39202e99978aabd401a]
 

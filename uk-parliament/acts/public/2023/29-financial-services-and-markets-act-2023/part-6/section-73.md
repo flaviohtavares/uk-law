@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 73. Credit unions[^c-d92d694a102ffea2a8a623566d1cb09a][^c-6cbb6ca4a6a293de2e5d7130424566b5]
 

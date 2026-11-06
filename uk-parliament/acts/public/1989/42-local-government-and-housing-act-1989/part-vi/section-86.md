@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (36).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/42
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 86. Recoupment of subsidy in certain cases.[^c-6f8f395f7b820e8da429c3a8a9162a00]
 

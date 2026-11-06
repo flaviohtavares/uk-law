@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 1 — The Welsh Council[^c-5d62282b0df7c3553ef7e101c0b40825]
 

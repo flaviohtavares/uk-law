@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 103. Right of officers of the Service to have access to adoption agency records[^c-8929f57f17e53b8f690c6d528885ac74]
 

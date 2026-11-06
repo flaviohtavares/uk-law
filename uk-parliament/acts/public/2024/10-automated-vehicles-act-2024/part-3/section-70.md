@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 70. Additional power in respect of information and material[^c-937b030a7edf43048aff9926ca0a4680]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/17
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 92A. Suspension of club premises certificate for failing to pay annual fee[^c-4ba3412120152eacc9df5dd61dfc7753][^c-4d33a75014babf9362d3e82934983c52]
 

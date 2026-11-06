@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 139. Release at direction of Parole Board: timing[^c-5063a05fa26de05af22b409ceec03edd][^c-cc0d45325dca7a07933cf2277b44b0ac]
 

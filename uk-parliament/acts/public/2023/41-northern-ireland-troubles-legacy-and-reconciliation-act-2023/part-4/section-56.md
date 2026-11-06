@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-05-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 56. Designated persons and funding[^c-c8ee05166f00b470b7184c33fe5f89c0][^c-a9744191b0e9401cc961bb65e66cfcff]
 

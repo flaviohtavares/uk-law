@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 13 — Resolution of disputes about planning obligations: Schedule to be inserted in the Town and Country Planning Act 1990
 

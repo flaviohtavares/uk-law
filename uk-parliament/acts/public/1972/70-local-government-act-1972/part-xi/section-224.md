@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 224. Arrangements by principal councils for custody of documents.[^c15119721][^c15119731][^c15119741][^c18866851][^c-9d90cc99a3b0f57d40d7f12dde67444f][^c-18500c6ad0795505aedb5514f2233e28][^c-930db1d778a0188133987be3d1935d9e]
 

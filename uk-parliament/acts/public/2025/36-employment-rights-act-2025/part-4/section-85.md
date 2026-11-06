@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 85. Removal of power to impose levy[^c-b0939dcb19e6db7c9790b0a6f4715512][^c-a0ab49c66600eb151db872c3b74c58df]
 

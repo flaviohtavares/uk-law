@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-05-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. Review of Pubs Code[^c-ab9b4116d46ebf9b2d72fde6b5ca1bec]
 

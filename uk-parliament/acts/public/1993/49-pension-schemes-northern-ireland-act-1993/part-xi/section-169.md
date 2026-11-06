@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (70).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/49
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 169. Grants to advisory bodies etc.[^c-9ec64d5df32399c60f5aa21e1f14ef83]
 

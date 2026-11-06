@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 7 — Partners of local panels[^c-d72084e76c3a4589e2cd8b64f2bf5a9a][^c-1da1c5a3da0765d61484ca38a0ba0dc6]
 

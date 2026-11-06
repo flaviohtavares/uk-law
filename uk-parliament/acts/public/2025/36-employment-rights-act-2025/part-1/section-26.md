@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 26. Dismissal during pregnancy[^c-764ab42949c569f07cc9ee91ee59dde6][^c-d16171f63c29e81e96634c2d4c4d1002]
 

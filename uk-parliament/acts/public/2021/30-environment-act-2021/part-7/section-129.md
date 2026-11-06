@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 129. Modification of obligation by agreement[^c-59665d2c1d233b10eb0bd1ed2038b5be][^c-6e0b7bf901f7d144f044c93ce527eb84]
 

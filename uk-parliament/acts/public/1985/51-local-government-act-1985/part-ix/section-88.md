@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/51
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 88. Research and collection of information.[^c-5f239ddef677d1df57803cd484c6ca5d][^c-cbbffbd2a99b6e3bdb86adcc3fa72ba9]
 

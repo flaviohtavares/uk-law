@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19. Applications by registered persons[^c-f987969560711b43e6661e31ce22a799][^c-b563b8a964f368c72ee88d3a5ed935f6][^c-2f7787093ee060d294c32ad95259c083][^c-2035e0d59a5da2016f9739cfbe249cc6][^c-fe1cef3adfeac5982cc68b4689cf041a]
 

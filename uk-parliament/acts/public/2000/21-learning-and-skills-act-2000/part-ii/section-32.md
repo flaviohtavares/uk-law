@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32. Education and training for persons over 19.[^c-58d1269eaec68c21bc689ec57e09cc93]
 

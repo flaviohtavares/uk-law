@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/32
 >
-> Extent: England, Wales.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## 34. Arrangements for government of new schools[^c-a40ba0d2e054330c6bbe7f869fcf0793][^c-04946b76be818f1852bc617c7e4f5be7]
 

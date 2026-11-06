@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 3 — Conferral of primary care functions on integrated care boards etc
 

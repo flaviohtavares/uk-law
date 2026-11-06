@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 165. Power of members of staff of further education institutions to use force[^c-511b1f77221a99888bd0abb5357200ab]
 

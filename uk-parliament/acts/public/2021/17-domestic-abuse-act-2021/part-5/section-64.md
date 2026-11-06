@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 64. Special measures in civil proceedings: victims of domestic abuse etc[^c-974275482276645ee248634764ee08e8]
 

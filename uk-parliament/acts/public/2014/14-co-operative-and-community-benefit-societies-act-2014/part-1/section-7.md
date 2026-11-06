@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2023-08-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 7. Cancellation of registration: additional procedure in cases involving condition D[^c-e15223b00f1569f76ea0b0a309324c5c]
 

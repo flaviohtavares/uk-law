@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/61
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 34. Modification of existing enactments relating to conveyancing etc.[^c-cdbb8a9acaf3423b6a5b98aee3d96786]
 

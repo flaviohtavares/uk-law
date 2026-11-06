@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 50R (Extent: W). Impact (Extent: W)[^c-b58d6d1af50922f76c3dbd47ac225e89]
 

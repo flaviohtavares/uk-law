@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 29. Equipment, facilities, services and organisations[^c-e74c93f2048347d1ac41e691737b48da][^c-8f3f0ef1e56c378d5d8084a7bff2483e]
 

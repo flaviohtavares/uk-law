@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1967/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 22. Dissolution of Pig Industry Development Authority.[^c-7577bc0863432ff01363a4368c9e757c]
 

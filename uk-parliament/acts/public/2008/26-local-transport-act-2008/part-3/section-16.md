@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16. Postponement of provision of particular facilities or standards of service[^c-d8b84445a58af0f562c2ea339cf564f6][^c-b31fa5e1903fe7ad50a31a6f15bb83bd]
 

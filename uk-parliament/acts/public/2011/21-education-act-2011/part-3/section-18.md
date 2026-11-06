@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2018-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 18. Abolition of the School Support Staff Negotiating Body[^c-6e47d5522fbb2ce8e651785c4df33b94]
 

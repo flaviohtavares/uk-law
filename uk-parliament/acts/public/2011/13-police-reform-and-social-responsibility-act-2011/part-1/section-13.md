@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Information for police and crime panels[^c-4a675f243bc68788922d24dfc4f5f697][^c-2c226baade8130cfaa59fc3115297d92][^c-90587bb8864199268d228f1643faddd9][^c-65a8d275cc4cbc74db8a52b4476c90cc][^c-4c46050dfac40a90dacef174eccfb7be]
 

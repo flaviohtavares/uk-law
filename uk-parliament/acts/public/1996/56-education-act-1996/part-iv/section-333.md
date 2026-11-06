@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 333. Constitution of (affected by repeal, see note) (affected by repeal, see note) ... Tribunal. (affected by repeal, see note) (affected by repeal, see note)[^c-7cb3463ea54ab5ab1f42573267274782][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-137b4f8de2ff0e8a01a3d8da909cc9eb][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-44c659fdf3ae27bfa95ab072d6157d41]
 

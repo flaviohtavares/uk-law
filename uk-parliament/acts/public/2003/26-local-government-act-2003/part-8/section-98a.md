@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 98A. Procedure for orders under section 97: Wales[^c-932e8d109fdb422ae98f3ace364377d4]
 

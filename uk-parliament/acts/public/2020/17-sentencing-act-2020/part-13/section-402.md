@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 402. Powers to re-sentence[^c-7761adbbb578c2ef99f1a60a7938ee03]
 

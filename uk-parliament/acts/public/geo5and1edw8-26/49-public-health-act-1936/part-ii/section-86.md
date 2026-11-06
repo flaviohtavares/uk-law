@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 86. Provision of cleansing stations.[^c611522][^c611523][^c-5aef1df75a909cdcdcc698fba2875215][^c-1a4366f71c3c39568e82bc8f70702106][^c-b68b247484caf48ba62aad63ae4027e1][^c-5534da7b6592be14a89e96d69a0ee6f8][^c-93247e68497fac28c1c6760d9c1a9350][^c-7ee600ae4dc24c0d0c7f88c7382450ff][^c-146314f0da2b4f580df282628b6250d7][^c-9d65d05665d27e678091ae6e0f65d443][^c-94958acf0b2eab0e9bdc8659e3783cf3]
 

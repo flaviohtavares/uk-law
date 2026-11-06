@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 27. Application for approval.[^c-f4fdfe879b2cc8be4f03bd16f2dc043f]
 

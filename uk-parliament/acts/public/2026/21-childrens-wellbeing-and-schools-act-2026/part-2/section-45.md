@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 45. Unregistered independent educational institutions: prevention orders[^c-4298f6c3ef28739ad79eaa340347dd62]
 

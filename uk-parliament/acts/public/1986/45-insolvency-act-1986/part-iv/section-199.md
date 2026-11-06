@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 199. Costs of application for leave to proceed (Scottish companies).[^c15573821][^c20433181][^c-c98bc9d8ffeb1e84591a6ad0614f0268][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-1db1931a1c876a586db7ca99761442c1][^c-cb0d63e4e395057377d34382c4d840e5][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

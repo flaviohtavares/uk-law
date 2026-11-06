@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 73. Sections 71 and 72: consequential amendments
 

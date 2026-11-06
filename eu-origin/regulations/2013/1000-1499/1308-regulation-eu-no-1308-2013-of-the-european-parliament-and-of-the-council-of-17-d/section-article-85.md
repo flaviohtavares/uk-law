@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-02-16. See https://www.legislation.gov.uk/changes/affected/eur/2013/1308
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland; Scotland (the versions of this text differ in extent).
 
 ## Article 85. Existing optional reserved terms[^M_E_y3sn3bxd-22ho-fhyj-1j0k-67320a94e31ba][^c-856b6965dbb8eb3dc14f1c3a267837e8]
 

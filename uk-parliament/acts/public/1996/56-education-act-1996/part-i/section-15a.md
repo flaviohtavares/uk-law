@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15A. Powers in respect of education and training for 16 to 18 year olds.[^c15241491][^c-26f5741b42bd943abfee4a0cc954ee05][^c-aba633921576d5e57c154c3579f70cb4][^c15241481][^c-956f6d767f901aaa2cf6018510361c9f]
 

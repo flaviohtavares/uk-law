@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 48. Provision of education for persons subject to youth detention[^c-e2e7cf4018531758abc4dbcece070bf9]
 

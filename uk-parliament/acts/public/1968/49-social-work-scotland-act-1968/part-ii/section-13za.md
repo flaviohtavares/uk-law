@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-01-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1968/49
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 13ZA. Provision of services to incapable adults[^c-7779c4bb6cd722a189712bcd7ba34189]
 

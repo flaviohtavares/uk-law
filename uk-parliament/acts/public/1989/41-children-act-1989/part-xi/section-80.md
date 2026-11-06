@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (96).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 80. Inspection of children’s homes etc. by persons authorised by the Appropriate National Authority.[^c15169051][^c15169041][^c-f83ce203a7b0d825a6027129576148ab]
 

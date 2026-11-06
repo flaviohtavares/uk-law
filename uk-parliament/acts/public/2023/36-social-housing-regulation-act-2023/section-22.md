@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. Standards relating to information and transparency[^c-431f860409e326049bf006286761f9f4][^c-16e7b1ad269f1356c3653209b1a09f7f]
 

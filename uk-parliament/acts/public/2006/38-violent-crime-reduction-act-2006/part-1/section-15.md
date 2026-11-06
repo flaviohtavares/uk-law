@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2021-07-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Power to impose charges on licence holders etc. in zones[^c-2abb5bdef03372c9a3b0490b817837b4][^c-3579583f81991cd22d79ccb0d82f42ef]
 

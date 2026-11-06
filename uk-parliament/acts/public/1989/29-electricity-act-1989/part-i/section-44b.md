@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (62).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 44B. Meaning of “section 44B dispute”[^c-900ea886bbf1e3573afd45617d64e30c][^c-5cf0a57b85a7285325eef19bdce98c94]
 

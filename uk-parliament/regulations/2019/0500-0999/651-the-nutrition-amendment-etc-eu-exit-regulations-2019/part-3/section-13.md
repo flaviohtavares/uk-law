@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-08-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Amendment of the Addition of Vitamins, Minerals and Other Substances (England) Regulations 2007[^c-007bd04787b102f0b976204c03dae818]
 

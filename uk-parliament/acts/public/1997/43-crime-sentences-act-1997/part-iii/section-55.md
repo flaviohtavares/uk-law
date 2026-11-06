@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2026-06-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland, Northern Ireland (the versions of this text differ in extent).
 
 ## 55. Minor and consequential amendments.[^c11467681][^c11467691]
 

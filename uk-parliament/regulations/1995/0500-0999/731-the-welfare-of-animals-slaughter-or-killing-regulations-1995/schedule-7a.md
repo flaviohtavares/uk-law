@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## SCHEDULE 7A (Extent: W) (affected by repeal, see note) — KILLING OF BIRDS BY EXPOSURE TO GAS MIXTURES ELSEWHERE THAN IN A SLAUGHTERHOUSE (Extent: W) (affected by repeal, see note)[^c-60f6f2846ff7f4d940a3f24946bb5583][^c-29e8ef3a5d57f823261f46df805d0311][^c-29e8ef3a5d57f823261f46df805d0311]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (173).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7. Appointment of local auditor[^c-f19402fba1d6c8c9b7b7ddbf2594976b][^c-19d69212a3a4edab2c273831898df620]
 

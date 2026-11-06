@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 59. Power to make public spaces protection orders[^c-9e14ca474e77fa5efde2a0c431c2a7fc][^c-13713de9db1b0c9d8820bd1917a3ad39]
 

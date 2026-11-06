@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 126. Sustainable community strategies[^M_F_e2a5d12f-713c-49d0-dead-e8377799b64e]
 

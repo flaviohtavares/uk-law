@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Records of proceedings to be kept ....[^c-46cd849220f1ad785d6fcf85fbfb36ec][^c4402161]
 

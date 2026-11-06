@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-09-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 135. Alteration of transmission activities requiring licence[^c-838a9c0c6bd06d773b14143ffbf0936a][^c-95f5dc0a752b95ac3d5d19954999529d]
 

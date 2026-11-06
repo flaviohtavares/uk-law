@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2025-01-17. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 27. Practice directions[^c-bb691cd562c57c0b062a225c2f9fe965]
 

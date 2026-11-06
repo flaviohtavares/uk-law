@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 302. Transfer schemes in respect of previously transferred property[^c-4e55390db5242d675c3cde1664693a05][^c-4c757d563dc16da9d7bb0025a7e723dc][^c-8f4211ab674097db8a866e5ef80e79dc][^c-300b365bb74db61fc10323d4a9f9e109]
 

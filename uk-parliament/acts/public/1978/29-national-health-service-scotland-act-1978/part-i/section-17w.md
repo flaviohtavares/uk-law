@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## (not yet in force: 17W). (not yet in force: Drug Tariff)[^c20973261]
 

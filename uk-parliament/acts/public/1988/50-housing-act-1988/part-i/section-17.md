@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/50
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 17. Succession to assured tenancy.[^c12866141][^c-0ac140b1ceb2fe962010c27e3efa5fac]
 

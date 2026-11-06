@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 91. Grouping or de-grouping parishes[^c-ee4913a712c98b560faf2f867b80e997][^c-283d20f62dd0aa5a5402bcadd93b5b87][^c-f3c62259bbabae8cceef9c0f60a4925e]
 

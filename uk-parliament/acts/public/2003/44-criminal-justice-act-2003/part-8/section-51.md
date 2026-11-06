@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 51. Directions for live links in criminal proceedings[^c-fae1fa6d7423b08d004f05a23a4d9d7d]
 

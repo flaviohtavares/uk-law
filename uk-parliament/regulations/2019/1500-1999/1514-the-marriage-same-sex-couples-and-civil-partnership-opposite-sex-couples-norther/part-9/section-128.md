@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 128. Land Registration Act (Northern Ireland) 1970[^c-2675efd6da823eb03d3211aef6995a27]
 

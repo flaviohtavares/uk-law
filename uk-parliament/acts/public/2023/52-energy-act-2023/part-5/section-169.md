@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 169. Modification of licences etc[^c-a919f0c1dd76a2c3244308c9a0042569]
 

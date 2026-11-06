@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1092
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 11. Labelling of vessels[^M_E_32f60095-b1fd-412f-95d9-d831d7333649]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16. Supply of information by public bodies[^c-72a564b2b8cb494647e0057729115a18]
 

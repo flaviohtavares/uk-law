@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 148. Marine boundaries of SSSIs and national nature reserves[^c2007923][^c-7ce0c0b5317a433e4f059b0a223f95c4]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 19. Temporary electoral identity documents: supplemental[^c-789f7ff6939d9bb22b9584ce90b5474b]
 

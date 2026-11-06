@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28. Breach of terms of arrangements: notices and penalties[^c-56b8d8182b7ffcc3dbed6c62ae1591b7]
 

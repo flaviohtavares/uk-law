@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (261).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 133A. Assessment of disabled person’s ability to control a motor car in an emergency.[^c13989751][^c13989761][^M_F_1b36f5e0-759b-4fd8-b1be-3adfc411c385]
 

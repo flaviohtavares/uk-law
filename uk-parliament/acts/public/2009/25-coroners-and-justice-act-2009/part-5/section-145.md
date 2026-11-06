@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-03-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 145. Transfer to Parole Board of functions under the Criminal Justice Act 1991[^c-50466d483c10ea713571329d8ed7bfed]
 

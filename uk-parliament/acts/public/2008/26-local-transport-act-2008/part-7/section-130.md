@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 130. Use of information relating to foreign-registered vehicles[^c-14efa5eb45821a7dd427310c7086cda4]
 

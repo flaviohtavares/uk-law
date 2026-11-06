@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2025-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/53
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5. Frequency with which lists are compiled[^c-4c4f12f1fd99a18b1e935a3241a94d86]
 

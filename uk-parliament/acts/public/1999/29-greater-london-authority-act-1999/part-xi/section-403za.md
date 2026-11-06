@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-08-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 403ZA. Co-operation with local government pension scheme managers[^c-26a6e7271eac03e3e58781d4e9471751]
 

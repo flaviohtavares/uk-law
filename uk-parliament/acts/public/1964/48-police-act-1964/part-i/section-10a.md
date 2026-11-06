@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 10A. Appointment of clerk.[^c11162781]
 

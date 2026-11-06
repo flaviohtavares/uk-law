@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19. Indeterminate sentences: determination of tariffs[^c-d606a4ca5da73a7e343161b1ce09b054]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/54
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 35A. Power of High Court to award interest on debts and damages.[^c-b98517601e1f4dba3bf3a99ad54e83e7][^c12332571]
 

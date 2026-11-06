@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2018-01-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 6. Power of Secretary of State to exempt particular acts of discrimination required by or under statute.[^c-7be528fdb39ae51e678f410530daa377]
 

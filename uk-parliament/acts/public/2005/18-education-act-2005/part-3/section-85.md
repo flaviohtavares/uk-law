@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 85. Qualifying activities and eligible institutions in relation to HEFCW funding[^c-75ac868d6409c44b5aa4c3f60ef3f2e1]
 

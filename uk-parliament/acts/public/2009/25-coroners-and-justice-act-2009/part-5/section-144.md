@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-03-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 144. Treatment of convictions in other member States etc[^c-713e7b44c7c6eff870ab4c0f4f9ca292][^c-3d37f945d45eb20a523748ed94b7bd64][^c-f26d6018f0c978a3932ca236bb7b53d7]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 324. Backing of certain warrants from the Isle of Man. (affected by repeal, see note)[^M_F_8976ff85-885b-4a45-b72f-b8464f87d197][^M_F_8976ff85-885b-4a45-b72f-b8464f87d197]
 

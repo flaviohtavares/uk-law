@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-17. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 56. Live links in magistrates' court appeals against requirements or restrictions imposed on a potentially infectious person[^c-ef843685ccdaf51007c18c1a1df51eb9]
 

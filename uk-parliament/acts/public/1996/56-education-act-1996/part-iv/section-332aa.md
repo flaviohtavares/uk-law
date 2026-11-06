@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 332AA (affected by repeal, see note). Advice and information (affected by repeal, see note) ...[^c-5c22fb7259c43f2de3e9d2457f44945e][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-0fcc56503e773fd28b3d982fa1ac62f1]
 

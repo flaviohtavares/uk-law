@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2025-08-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/24
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 16. Power of employment tribunal to impose financial penalty on employers etc[^c2181316][^c-70e04634d854492d0f5e78c3ed8481e4]
 

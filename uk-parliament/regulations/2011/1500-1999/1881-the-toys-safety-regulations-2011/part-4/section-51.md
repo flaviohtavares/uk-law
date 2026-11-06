@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2011/1881
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 51. Provision of information by approved bodies to the Secretary of State[^M_E_74e30946-79a9-45fa-9a97-c39bb9bb93a9][^c-061b5f73ebd94a03b4071aa42d7abcb1]
 

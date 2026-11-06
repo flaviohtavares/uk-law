@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2017-03-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 22. Industrial action affecting supply of goods or services to an individual.
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England.
 
 ## 13. Constitution of parish meeting, etc.[^c-e19dc3ebc9b6de5aca8b9f5708bcb317]
 

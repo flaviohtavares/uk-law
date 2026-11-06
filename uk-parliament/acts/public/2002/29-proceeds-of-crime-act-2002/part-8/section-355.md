@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 355. Further provisions: confiscation , money laundering, detained cash, detained property , frozen funds and cryptoasset investigations[^c-2cb8af880387e49da3673cfa07424ad1][^c-627e9d3f76876b2d8f32af4f1c026d1d][^c-77bc12589b6a3a3b3e6444fc2a79e395]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2023-05-03. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/72
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 31A. Non-compliance with certain requirements of the FIC Regulation[^c-a83ea9faa9bdd1214796ec90c8316beb]
 

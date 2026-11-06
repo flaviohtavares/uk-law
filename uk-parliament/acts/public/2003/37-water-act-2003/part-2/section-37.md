@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2022-01-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. Conditions relating to costs of water regulation[^c-3dbb49948bd7ca118450ee76db454517]
 

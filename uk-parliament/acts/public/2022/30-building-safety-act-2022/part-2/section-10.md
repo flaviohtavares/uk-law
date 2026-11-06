@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Committee on industry competence[^c-b88a2b9d2c65d1eac4fe058bd6f1e1b7][^c-cd5ac2e466266ea8bb42cb308aae3f1e]
 

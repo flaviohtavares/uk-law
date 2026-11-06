@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 80B. Financial penalty for providing false or misleading information to trustees or managers[^c-e2e1c054cb4732fa3313d72d736b0054]
 

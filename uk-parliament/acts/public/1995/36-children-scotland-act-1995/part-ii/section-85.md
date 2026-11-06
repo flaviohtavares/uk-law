@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2025-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 85. Application for review of establishment of grounds of referral.[^c-399878cc11ca162042991a4bdffd6f22][^c-94c196232a62ac385266fa1cbdfbe04c][^c-2f15c9ac922d921b2f9545a207b9eccf]
 

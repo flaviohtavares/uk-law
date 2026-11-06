@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 39. Recognition of overseas dissolution etc. granted outside country of domicile[^c-006d2d00dc6fae27e48292e2c5d4bcad]
 

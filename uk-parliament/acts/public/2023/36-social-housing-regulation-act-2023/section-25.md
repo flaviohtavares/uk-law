@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 25. Secretary of State’s duty to give direction about providing information to tenants[^c-737ec5fc86e1b2e57373598a1ea87751]
 

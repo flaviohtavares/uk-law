@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-04-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/24
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 55. Provision of money for trade union modernisation[^c-7304b9c3104267d77937158be63525ea]
 

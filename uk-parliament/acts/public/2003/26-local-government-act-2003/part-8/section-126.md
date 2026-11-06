@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 126. Financial provisions[^c-96c2edabf0239a0a36d06c389da3f350]
 

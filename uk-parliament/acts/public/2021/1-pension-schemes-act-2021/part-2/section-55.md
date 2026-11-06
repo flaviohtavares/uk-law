@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 55. Qualifying schemes: supplementary[^c24459341][^c-fc5f7fb7ca227abf0e80e69fcff3223a]
 

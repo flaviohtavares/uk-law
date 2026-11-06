@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 16. Pensioner's option to suspend state pension[^c-2632dc5d54b71af6d996e81142e689b4]
 

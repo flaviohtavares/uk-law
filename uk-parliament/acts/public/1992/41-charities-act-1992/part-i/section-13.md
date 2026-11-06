@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Commissioners’ concurrent jurisdiction with High Court for certain purposes.[^c-68d0b2d8dc2e8aed043db1d3ee2b8464]
 

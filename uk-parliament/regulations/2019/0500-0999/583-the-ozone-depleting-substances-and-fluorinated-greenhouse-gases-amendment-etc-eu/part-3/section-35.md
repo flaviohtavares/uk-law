@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 35. The Fluorinated Greenhouse Gases Regulations 2015[^c-a65297a8166ea5ed1c7570b0301453a3]
 

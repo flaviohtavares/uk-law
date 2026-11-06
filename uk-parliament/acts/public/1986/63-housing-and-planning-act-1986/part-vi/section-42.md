@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2013-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/63
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 42. Recovery of Minister’s costs in connection with inquiries.[^c11872471][^c11872481][^c-174d2cb0ae87da0bca6634856a324a08][^c-ad94298891f07cf8fdfa5b859d622d76]
 

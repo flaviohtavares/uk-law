@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 26B. Duties in relation to climate change etc[^c-badc0546b89370a394f7336e3128b6d9]
 

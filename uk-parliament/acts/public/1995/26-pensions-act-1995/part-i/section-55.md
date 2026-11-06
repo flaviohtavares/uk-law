@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 55. Section 51: end of annual increase in GMP.[^c-d4f3ee40d86e905ed0c22a4423c0fcbf]
 

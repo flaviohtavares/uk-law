@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 28A. Setting of objectives for police authorities.[^c11163851]
 

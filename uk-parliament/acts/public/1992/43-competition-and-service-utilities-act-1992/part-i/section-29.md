@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2010-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 29. Procedures for dealing with complaints.[^c859797]
 

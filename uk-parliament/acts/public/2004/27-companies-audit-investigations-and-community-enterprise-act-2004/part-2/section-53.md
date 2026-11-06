@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 53. Ceasing to be a community interest company[^c-4ea255f3c6056969cbc0c5e876d29272][^c-f0ed606106f22bb2e2f10f6553b6b89b][^c-ff9a50a6f7a90aa9833b46b8e1522f5c][^c-6a8c2dc50ce7c3ed6419722e0f916c57]
 

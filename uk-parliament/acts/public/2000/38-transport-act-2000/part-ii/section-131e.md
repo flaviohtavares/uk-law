@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 131E. Appeals where proposed continuation considered exempt[^c-807e693c32d5ef03d8a68e3119adf041][^c-c05adb8597f2acc398b3fefbd54794ff][^c-32eef3667ec55534daf4d4e1e54b8d6a]
 

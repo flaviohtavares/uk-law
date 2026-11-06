@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 5. Powers of inspection for securing compliance with section 3 and corresponding Northern Ireland legislation.[^c-5ab7f4870e6deb5e2a5e8a115c7e56c0]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2016-07-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 154A. Exception to the prohibition: public authorities[^c-746209a87aefd8eb9dd121b3e9197a3d]
 

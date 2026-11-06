@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 59. Offence of further disclosure of information[^c-1f51d4d1c6cdc2bf6dfa59379b513f83]
 

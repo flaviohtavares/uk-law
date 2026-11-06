@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 7. Amendment of the Measuring Container Bottles (EEC Requirements) Regulations 1977[^c-b42c976ed11ed5e1908cfaa16b433460]
 

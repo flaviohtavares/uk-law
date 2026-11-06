@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 89. Restriction on imposing imprisonment on persons under 21.[^c-8b3d1f33f53b705f018241d61a6577ea]
 

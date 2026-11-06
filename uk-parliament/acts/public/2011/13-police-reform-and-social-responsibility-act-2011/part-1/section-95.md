@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 95. Police: complaints[^c-0ca43df8ab8e67d5d26f2dde1786680f][^c-aa1e21601547997b5282ad03f6f92f03][^c-ec71157e4c6ee3ca361c539e0085a377]
 

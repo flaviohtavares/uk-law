@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 58. Appeals and claims by children: pilot schemes (affected by repeal, see note)[^c-f2a8d39a671a4a00a97652b64280828b][^c-6417af1590538bda58842d1642edec1c][^c-6417af1590538bda58842d1642edec1c]
 

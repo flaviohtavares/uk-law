@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 42. Transfer to High Court by order of the county court .[^c15968941][^c-971a4049e38f94ce52ff72aa04702e6d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7. Interim injunctions[^c-473ec77976ae43a06c0d1b11fdeb8ff3]
 

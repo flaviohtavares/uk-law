@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (205).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 167ZED. Liability to make payments of additional statutory paternity pay[^c-26fe400e3315d03449340d8287463499]
 

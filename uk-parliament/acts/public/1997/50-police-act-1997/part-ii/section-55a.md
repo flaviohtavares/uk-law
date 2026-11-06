@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 55A. Removal of certain members appointed under section 55[^c-bb82d393f70dabe032c66aeac0609bc4]
 

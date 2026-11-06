@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2024-02-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/50
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 6. Absent vote at elections for an indefinite period.[^c1039833][^c1039834]
 

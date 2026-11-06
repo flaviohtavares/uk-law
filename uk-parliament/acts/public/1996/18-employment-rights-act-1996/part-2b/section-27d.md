@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 27D. How tips etc must be dealt with[^c-dcb7a33d8c0392e2aa2acf35478d4d57]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 58. Extension of provisions about registrar etc.[^c-fada580a67d06c3fb2c8ad847039bb1a]
 

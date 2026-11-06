@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Notice of proposals.[^c12426231][^c-17dc053cf0f70259d2ba4a31576398e5]
 

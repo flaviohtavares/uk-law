@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2016-07-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 122. Parts of buildings let off as separate factories—other provisions.[^c-7b0de6a6e7578944c83195c2c4a61726]
 

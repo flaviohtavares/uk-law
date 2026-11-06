@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-12-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 11. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c11833681]
 

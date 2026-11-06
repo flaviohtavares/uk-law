@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2021-07-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 26. Designated public places[^c-c69a6702276b8a31831c91fb71e63412][^c-702df593a3ecc0f4b4db57df9517968c]
 

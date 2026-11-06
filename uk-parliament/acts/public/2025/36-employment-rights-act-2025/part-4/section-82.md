@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 82. Removal of investigatory powers[^c-cf72127e6dce1f7c76cfc5a001377b35]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (32).** Text as at 2025-06-19. See https://www.legislation.gov.uk/changes/affected/eur/2013/1306
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England; Wales; Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## Article 75. Payment to beneficiaries[^M_E_5e78b0b1-accb-4aad-a574-70cda2a2542d]
 

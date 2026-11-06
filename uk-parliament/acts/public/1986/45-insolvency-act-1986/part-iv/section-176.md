@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 176. Preferential charge on goods distrained , etc.[^c20430471][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-8eade624eac50a312814b6a8da4d43fd][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-734b7d501411c92aa6bad3da9bf0ab44]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 45. Duty to submit a funded decommissioning programme[^c-6b054df71ed4f14b964a3f26d3ed1d53]
 

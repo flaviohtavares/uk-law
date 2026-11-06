@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 43. Warrants of further detention.[^c11322971][^c-2ffc723617c0affe1e2e7e848baf346a][^c-ac353f1d37ae7588e90b184d0d09d6fd][^c-b8ec4dd0834d52c51aef0153461345a5][^c11322961]
 

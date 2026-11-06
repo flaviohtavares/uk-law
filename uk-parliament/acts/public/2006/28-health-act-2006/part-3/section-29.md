@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 29. Control of pharmacy premises: representative of pharmacist in case of death or disability[^c-f89584181c9f064b278e117ae7c9d6ff]
 

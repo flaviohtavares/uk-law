@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (186).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 130AA. Revaluation of flat rate accrual amount[^c-8e6e0f0460891639deea27a5f52753d3]
 

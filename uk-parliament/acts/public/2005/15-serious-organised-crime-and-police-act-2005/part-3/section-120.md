@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 120. Staff custody officers: designation[^c-aca40aad81581d2c623e7588e6316857]
 

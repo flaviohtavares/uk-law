@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 89. Consultation ...[^c19906251][^c-7be2f793cbc549f70befa3416a0f1b6f][^c-65d4c2b9d3d54d1a8c49dfa837b5e4e4]
 

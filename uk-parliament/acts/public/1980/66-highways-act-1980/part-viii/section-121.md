@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 121. Supplementary provisions as to public path extinguishment and diversion orders.[^c13425041][^c13425051][^c13425061][^c13425071][^c13425081][^c18589021]
 

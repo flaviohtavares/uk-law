@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 7 — Charitable incorporated organisations[^c-5094fe118af60ac5d0108d8b6a15fa32]
 

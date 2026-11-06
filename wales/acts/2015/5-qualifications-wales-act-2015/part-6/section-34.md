@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-08-01.
 >
-> Extent: England, Wales.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## 34. Restriction on funding and provision of certain courses[^c-ae5faab2258f127a4c9419db1ac93b9e]
 

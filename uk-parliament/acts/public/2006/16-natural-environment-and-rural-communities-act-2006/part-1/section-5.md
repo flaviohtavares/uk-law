@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5. Carrying out proposals etc.[^c-7fe33ebfc366afe6fa2737f9c92a9919]
 

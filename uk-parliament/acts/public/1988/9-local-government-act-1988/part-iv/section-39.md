@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-02-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/9
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 39. Control of stray dogs.[^c-1e874f7b080c21dd70f3d82c7b9b4ec4]
 

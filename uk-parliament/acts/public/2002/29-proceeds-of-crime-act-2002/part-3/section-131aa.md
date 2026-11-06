@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 131AA. Destruction of seized cryptoassets[^c-f1bf108faa6e6c4061a5e13aa207e7fa][^c-4ab4b1a9edd48528c1df8446858c96f4]
 

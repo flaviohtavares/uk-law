@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 101. Sections 98 and 100: matters to which NHS England must have regard[^c-95f404a749ed888bf801462f3a197d37][^c-a685f38cec10306b9bed8bb17fcd7b1d]
 

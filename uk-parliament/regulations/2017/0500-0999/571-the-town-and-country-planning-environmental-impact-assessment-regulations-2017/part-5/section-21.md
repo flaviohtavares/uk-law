@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21. Provision of copies of environmental statements, any other information and further information for the Secretary of State on referral or appeal
 

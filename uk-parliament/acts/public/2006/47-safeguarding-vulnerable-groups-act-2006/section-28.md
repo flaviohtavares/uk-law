@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (46).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 28. Independent monitor[^c-c1c5dae7c67a49df1b177fdb5686a089][^c-80b4fb904ee14c5f2fce193b3d774c71][^c-7f6b8eeb5ef45172d8074627c19e6b2e][^c-500e9e08d2cd802ee00c2b8837dd880b]
 

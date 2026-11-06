@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Democratic arrangements of connected authorities[^c-fab3ed5e20af480c5248b419c9c3d9dc]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 145. Vesting of company property in liquidator.[^c15573041][^c20429591][^c-939b702f01ec94a51fbe2e54982fcc87][^c-19a0dbd549ca6815d6c057f3c4163f52]
 

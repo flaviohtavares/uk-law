@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 186. Interim payments[^c-d75d0a5ef33c666576bc164f868e6be0][^c-9f7630100fb0bee3a3dbda1545f54369][^c-85813573544152d94d8068f5d8d11a27][^M_I_b8ac3531-91d5-45da-acf7-6ac9bd27e16d][^c-9f7630100fb0bee3a3dbda1545f54369]
 

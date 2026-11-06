@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 268. Inquiries under Private Legislation Procedure (Scotland) Act 1936.[^c14939411]
 

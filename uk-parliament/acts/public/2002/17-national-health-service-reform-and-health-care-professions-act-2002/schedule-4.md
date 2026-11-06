@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 4 — Local Health Boards[^c-bb93eccf52dc6ff6e5a223477cf6d6b6]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/uksi/2001/544
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 89K. Advice, investigation or representation in relation to a claim for a specified benefit[^c-1bd07fdf9bd2c4efb6220c0fc9c87e2e]
 

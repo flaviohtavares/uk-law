@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2025-06-25. See https://www.legislation.gov.uk/changes/affected/asp/2006/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 47A. Complaint or investigation relating to Northern Ireland Troubles[^c-0d9bbe9a103928abd66507456c84e9f6]
 

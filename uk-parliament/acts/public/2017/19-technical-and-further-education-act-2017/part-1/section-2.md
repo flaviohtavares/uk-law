@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Information about technical education: access to English schools[^c-6a7ad72dab144e3ee218fe453ea6e70d]
 

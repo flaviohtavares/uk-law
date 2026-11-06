@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 108A. Procedure where documents removed[^c-7c446b4040af0df9e0e5442f29918dd0][^c-20337fb7f44c83a02a514e639fccbe97][^M_C_fdc5bc4a-28fa-40aa-beb8-69abec1d007f][^c-f9f150e68dc2ea96e5125036049b6244][^c-2e544d44fe348ce3a0704d30d3b85a88][^c-eba9e98c583263128826a7febf7879b0]
 

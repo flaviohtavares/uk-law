@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 57. Additional rights of children and young persons.[^c11324501][^c-57bfcccdae943ec235b6e3c5810d1ea2][^c-2deabd5049b2dfa7c5614f9021ffd97a]
 

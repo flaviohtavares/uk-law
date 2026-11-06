@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 146. Threatening, abusive or insulting behaviour towards emergency workers[^c-a34e5e6924d87d14ac1c8dcacc8617d0]
 

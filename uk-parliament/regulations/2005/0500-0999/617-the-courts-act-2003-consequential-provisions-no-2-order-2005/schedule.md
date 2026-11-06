@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2015-03-06.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## SCHEDULE — CONSEQUENTIAL AMENDMENTS
 

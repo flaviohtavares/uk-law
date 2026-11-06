@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2017/737
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 54B. Register of notified bodies established in the United Kingdom[^c-ff70ef5a0e85238b4daaca08ccf4fed5]
 

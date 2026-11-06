@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (29).** Text as at 2026-05-12. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28A. Modules of courses: modification of Chapter in relation to powers of the Secretary of State[^c-1deedf6855896ab85ce8a680fb3a60f3]
 

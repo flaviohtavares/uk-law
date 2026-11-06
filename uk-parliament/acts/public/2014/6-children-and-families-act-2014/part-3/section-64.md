@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 64. Supply of goods and services[^c-b9b2f8534f21bb1b191ef000f36443ce]
 

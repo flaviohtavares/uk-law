@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 58A. Appointment and dismissal of certain teachers at schools with a religious character: Wales[^c-8751086acfa6e046dcf951cecc0af628]
 

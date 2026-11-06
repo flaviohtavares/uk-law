@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 139. Restriction of Community Infrastructure Levy to Greater London and Wales[^c-22100e204a396b8b2562ccdae08b23dd]
 

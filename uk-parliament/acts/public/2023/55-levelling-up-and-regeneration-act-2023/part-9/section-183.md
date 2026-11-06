@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 183. Conditional confirmation[^c-537d6bcba5411cb4e96d2512b47fea35][^c-6a7162a7520704489c6991dde0891226][^c-76144725c869781a4d4bce518e968940]
 

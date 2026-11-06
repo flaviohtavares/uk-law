@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 72. Traffic regulation on byways etc. in National Parks[^c-ab0479779e73131047330c88adac9b91][^c-02aa998e790dc0e3f545ed009b91e502]
 

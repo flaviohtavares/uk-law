@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (205).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 128. Disability working allowance.[^c-63b4c085cd272d60d8f49e862f912b72]
 

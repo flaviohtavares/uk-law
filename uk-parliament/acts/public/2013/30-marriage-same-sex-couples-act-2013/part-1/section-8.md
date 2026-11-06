@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-04-28.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8. Power to allow for marriage of same sex couples in Church in Wales[^c-60b9998ab9253e04d07ef2c0cd3316ee]
 

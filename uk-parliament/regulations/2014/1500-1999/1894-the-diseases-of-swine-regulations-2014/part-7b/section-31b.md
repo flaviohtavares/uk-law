@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-29.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 31B. Cleansing and disinfection of premises etc. in England[^c-2e34b9a818969462be2cf1bbff55271b]
 

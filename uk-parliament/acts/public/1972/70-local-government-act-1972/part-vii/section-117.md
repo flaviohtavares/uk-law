@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 117. Disclosure by officers of interest in contracts.[^c15107401][^c15107411][^c15107421][^c15107431][^c18858421][^c18885551][^c20521041][^c22561571][^c-8fafe89064f4c009f1abc0056e24a654][^c-9cf045c883ea9989ab07f8194232d8f2]
 

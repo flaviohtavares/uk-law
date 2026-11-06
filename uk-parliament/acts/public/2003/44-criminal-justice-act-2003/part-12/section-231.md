@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 231. Appeals where previous convictions set aside[^c-b409bf5b6522327fb3ad8fcc31ca3960]
 

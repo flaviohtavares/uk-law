@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 48. Determination of applications for registration where restrictions in force[^c2199631][^c-0fbe49259c786b4c861ded0c54c606a0]
 

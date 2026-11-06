@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 236. Term of detention and training order[^c-0eb39f60c5bc9b3f918d73f2748a0e19]
 

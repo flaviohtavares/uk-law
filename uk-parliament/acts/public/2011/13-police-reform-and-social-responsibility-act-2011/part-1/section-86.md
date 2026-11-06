@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 86. Powers in connection with HMIC inspections[^c-8eee70f103bde6ab97d97b75a290f825]
 

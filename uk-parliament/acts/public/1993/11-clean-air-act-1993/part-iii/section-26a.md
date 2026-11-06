@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 26A. Duty of local authority to reimburse for adaptations of vessels in England[^c-319331e76c7f5cbe65893ecdf4f21be9]
 

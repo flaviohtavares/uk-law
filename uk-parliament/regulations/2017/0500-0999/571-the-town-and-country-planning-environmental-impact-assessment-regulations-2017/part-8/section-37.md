@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. Screening opinions of the local planning authority
 

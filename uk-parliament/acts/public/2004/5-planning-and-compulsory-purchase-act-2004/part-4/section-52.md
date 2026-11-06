@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 52. Temporary stop notice[^c-0bff2b227348d90ff1abfbd5c5f7d5bb][^c-e8293cf3a4123e3b7c9301ac3396d2bd][^c-b3e1d4bd0f71e657419c1bfd8299a2c6]
 

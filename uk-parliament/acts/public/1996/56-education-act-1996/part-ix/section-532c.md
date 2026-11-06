@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 532C. Pilot schemes: local authorities and duration[^c-267baf253ff698b33af7bdfc33646400]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 82. Pensions etc. of justices’ chief executive, justices’ clerks and staff in inner London area.
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-08.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 15. Power to make provision for period before commencement of new social security appeal provisions.[^c11210681]
 

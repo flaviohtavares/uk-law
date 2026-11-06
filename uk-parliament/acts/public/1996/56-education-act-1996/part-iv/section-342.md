@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 342. Approval of non-maintained special schools.[^c17956161][^c-52fefa21c99232f145133f3a5fa5109b][^c-ae9de1f959394538b45b675d32e62895][^c17956141]
 

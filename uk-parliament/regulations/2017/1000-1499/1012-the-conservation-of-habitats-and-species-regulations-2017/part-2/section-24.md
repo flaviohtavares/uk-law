@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2017/1012
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 24. Assessment of implications for European sites and certain Ramsar sites[^c-7c622f3c4a2b5c615428359a4e9763b9]
 

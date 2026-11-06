@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 4. Nominated representatives[^c-575f6c8b260c1614d0c7a130eb10fa1a][^c-2c25dd4583062734de48854d5bd34a5c]
 

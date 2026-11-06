@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (173).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36. Disclosure of information[^M_I_4f40131a-b2a3-43d0-b5d1-f7aa524dfaa2][^c-b9af771a60054737d43a4e9bf2e03fe7]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-08-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 25. Matters to which court is to have regard in deciding how to exercise its powers under ss. 23, 24 , 24A, 24B and 24E.[^c8895801][^c-6dbbd9454efc5cf1bf46536248e833de]
 

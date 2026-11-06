@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 303. S.298 to s.302: supplementary
 

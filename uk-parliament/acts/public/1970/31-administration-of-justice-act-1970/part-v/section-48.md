@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1970/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 48. Variation in rate of payments in maintenance order registered in magistrates’ court.[^c9992621]
 

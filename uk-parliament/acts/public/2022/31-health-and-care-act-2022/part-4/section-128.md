@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 128. Investigations relating to Wales and Northern Ireland[^c-3270b2cc2a6c06c74c5b98e556b7ac8d][^c-682ee0c22c4bf0790fa2664c7d27484d]
 

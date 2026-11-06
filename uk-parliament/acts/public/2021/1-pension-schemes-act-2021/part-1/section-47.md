@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 47. Powers to extend definition of qualifying schemes[^c24459251][^c-dda363b239dc4bb460e1079c6e258ffa]
 

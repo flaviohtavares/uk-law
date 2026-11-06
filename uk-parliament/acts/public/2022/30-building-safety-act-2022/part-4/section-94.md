@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 94. Complaints procedure operated by the regulator[^c-2175e1e2fa73651ef079d90b6de1105d][^c-901bc55d096fb9d9525b7f2352b120e1]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 95. Effect of sales information request[^c-dd603e3a371bacf5d7dc21cb66045fac]
 

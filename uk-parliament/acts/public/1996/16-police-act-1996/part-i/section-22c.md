@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 22C. Duty of policing bodies to keep collaboration agreements under review[^c-0a484dd46d77de1090776766308edb39][^c-4f9f9105669dc5807973bb743c318b2e]
 

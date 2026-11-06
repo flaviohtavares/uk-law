@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 142. Public Order (Northern Ireland) Order 1987[^c-fa2d2431e073d762c52b8062c65a295f]
 

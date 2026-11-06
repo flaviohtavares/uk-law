@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Slavery and trafficking prevention orders on application[^c-dec5ff41f91a6e2d446d2439f0718ce5]
 

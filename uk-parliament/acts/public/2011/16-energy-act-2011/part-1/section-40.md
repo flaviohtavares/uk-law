@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 40. Regulations and orders[^c-40cd3c59f09d783114548b919cda30be]
 

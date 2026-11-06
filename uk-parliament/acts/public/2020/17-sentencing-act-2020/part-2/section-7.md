@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7. Restorative justice requirements[^c-d85b3b8f2de3491f12bdae77b383de37]
 

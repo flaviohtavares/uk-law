@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 37. Payment of housing benefit[^c-b64d8285c8973a8dd7438de786e739bd]
 

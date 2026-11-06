@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 65D. Unconnected multiple employer schemes: promotion or marketing requirement[^c-b4cfa194cb2a881f57444010b509e6ac]
 

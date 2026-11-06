@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Control of borrowing[^c-4bce8caecce1bb3e3e38cfbfc67b93f1][^c-56512e53e4c1c1ad017221548cfd6060]
 

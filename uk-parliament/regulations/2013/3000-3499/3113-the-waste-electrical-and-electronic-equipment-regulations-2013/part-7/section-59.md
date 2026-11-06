@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 59. Charges[^c-f098349dbd389d1578e4615963b7d98a]
 

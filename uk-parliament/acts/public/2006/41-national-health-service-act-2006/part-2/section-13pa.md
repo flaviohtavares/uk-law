@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13PA. Duty to cooperate for education and training functions and specified functions[^c-7f07b16b5402a0f43c7124c11be4e134][^c-c17c605fbd7569f0644650e6ed66435c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36. Assessment of education, health and care needs[^c-b4f200849ebdba000a3db7ed175e7e1f][^c-2aaf048d9597a8a71055e59802ee85f5][^c-15b3effe8515ec83b5e3759d4bf67797]
 

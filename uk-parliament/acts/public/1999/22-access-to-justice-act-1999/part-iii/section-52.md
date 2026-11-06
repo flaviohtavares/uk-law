@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 52. Commissioner’s functions.[^c-ee9a0de5e199b7f7837738dbed641066]
 

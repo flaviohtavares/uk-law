@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-09-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16. Guidance about specified victim support roles[^c-94ac77e90392d0ac1eb4876b13e972eb][^c-0a3b87c084933bf3dd776348cea04d80]
 

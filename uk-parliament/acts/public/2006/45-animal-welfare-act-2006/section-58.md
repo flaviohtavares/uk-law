@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 58. Scientific research[^c-794d4a4a8a02fb88f6e6791c6f2d8e6e][^c-64cc81ae43ca241fbc2ce0ab8c3160c4]
 

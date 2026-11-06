@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 63. Secretary of State to indemnify appropriate agency in certain cases.[^c-10cb63648592ab083a21d61d5b309c6f]
 

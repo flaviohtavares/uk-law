@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 6. Challenge of decisions.[^c15569181][^c21430341][^c-5cd9c8460d5cf34b54cb12e626387718][^c-6808213c59bdc58adc7874e67de7eef3][^c-5969f9c44a418e9f83213d2a0087adad][^c-9700d312d985436a858eae9798d49154]
 

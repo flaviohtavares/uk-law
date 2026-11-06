@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-17. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 46. NHS pension schemes: suspension of restrictions on return to work: Scotland[^c-f0e6619574b7cc1c70ed026c273051a4]
 

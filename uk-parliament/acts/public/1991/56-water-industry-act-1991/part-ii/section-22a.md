@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22A. Penalties[^c-76254f9ae5a1e19f619f8e91bd6ee182][^c19768381]
 

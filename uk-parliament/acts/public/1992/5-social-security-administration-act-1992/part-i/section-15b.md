@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (192).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 15B. Expenses of paying sums in respect of vehicle hire etc.[^c-9682dc8c0d7dd60c0e8ff47c07416800]
 

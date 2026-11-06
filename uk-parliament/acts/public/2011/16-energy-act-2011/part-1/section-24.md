@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 24. Recovering green deal payments: electricity suppliers[^c-d47c9187b9892118360be608ea2b093b]
 

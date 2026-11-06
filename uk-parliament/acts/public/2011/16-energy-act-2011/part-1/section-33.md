@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 33. Duty to report[^c-fec59458bdba886f77fa1c4332e3cc9f]
 

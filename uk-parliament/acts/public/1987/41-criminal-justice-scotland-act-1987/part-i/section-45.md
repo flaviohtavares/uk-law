@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2013-01-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 45. Minor amendments in relation to drug trafficking. 4 & 5 Geo. 5 c. 59.[^c933533]
 

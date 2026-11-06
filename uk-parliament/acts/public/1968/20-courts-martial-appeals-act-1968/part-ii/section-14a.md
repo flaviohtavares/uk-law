@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1968/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: E.W..
 
 ## 14A (Extent: E+W). Substitution of conviction on different charge after guilty plea (Extent: E+W)[^c-b826768892f1d29ea192cfef4b74cebc][^c-f74091addd37cf61361096a9b8b662d5]
 

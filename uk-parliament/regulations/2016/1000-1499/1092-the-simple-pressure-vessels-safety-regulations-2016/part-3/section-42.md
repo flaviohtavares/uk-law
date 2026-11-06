@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1092
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 42. Records and correspondence language requirements[^M_E_6ff65fb7-49fd-47fe-e59c-0b4074f50319]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 343. Value of prize[^c-3d8d73b2eb7fe8ea23c30d446992e5df]
 

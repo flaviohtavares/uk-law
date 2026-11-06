@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 29. Inspection plan[^c-e042835425b21c3f8b26c4e8e9a10219][^c-2cf9efb309b56abf3a339aafe63c59bb]
 

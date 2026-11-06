@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (62).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 41B. Promotion of reductions in home-heating costs: electricity distributors and electricity suppliers[^M_F_a1a52859-0980-4e18-e10c-e457142fb093]
 

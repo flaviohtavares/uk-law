@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 49A. Application to police of section 44 and related provisions.[^c20328121][^c16375901]
 

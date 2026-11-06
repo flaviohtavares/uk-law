@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 237. Offences against byelaws.[^c15125261][^c15125271][^c15125281][^c15125291][^c15125301][^c15125311][^c18867641][^c22561641][^c-0fe5e87c8489a76081a3d89d700d3091][^c-f6dcb37cea839681f0458be1344651f9]
 

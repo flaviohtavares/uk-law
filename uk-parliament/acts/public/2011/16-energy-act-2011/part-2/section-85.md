@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 85. Variation of notices under sections 82 and 84[^c-78600fce772187e6132e66a801f44bd8]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 104A. Progress report to company and creditors ... ...[^c-eb4857d2bd84a66b3bb9700ef926548c][^c21414961][^c-55605633bf262eadcccff38c568d182c][^c-70884f26f5197609ed384aa54464b124]
 

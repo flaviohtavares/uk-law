@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (13).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/3
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 42. Police volunteers: police barred list and police advisory list[^c22718771][^c-d69a01e4a7afd26f129b613cba6d1fd1]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 28. Warrants for entry, search and seizure[^c-fd1fe72b0710143ef6fa51c6964d277a]
 

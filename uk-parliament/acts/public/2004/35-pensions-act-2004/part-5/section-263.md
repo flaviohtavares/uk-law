@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 263. Increase in age at which short service benefit must be payable[^c-9416608270ce8014c8a8c0a411d2f01d]
 

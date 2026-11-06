@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2021-07-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 58. Power of entry and search of relevant offender's home address[^c-1f892b57fdf8f18e48ede248f20ad677]
 

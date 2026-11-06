@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 37. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c1107219]
 

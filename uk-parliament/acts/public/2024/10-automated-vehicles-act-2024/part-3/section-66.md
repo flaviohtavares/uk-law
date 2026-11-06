@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 66. Offences of impeding investigation[^c-1ea198e9e007b7748548c38e7dc12796]
 

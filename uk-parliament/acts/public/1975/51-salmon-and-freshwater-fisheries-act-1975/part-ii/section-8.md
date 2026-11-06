@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-06-28.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 8. Fishing mill dams.[^c-e8966721ae3abd08e826315ee4e9eb21]
 

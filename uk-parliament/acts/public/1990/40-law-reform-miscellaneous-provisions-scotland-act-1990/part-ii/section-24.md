@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-03-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 24. Rights of audience in the Court of Session, the House of Lords, the Judicial Committee of the Privy Council and the High Court of Justiciary.[^c13713021]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2022-01-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 29. Water resources management schemes: referral to Secretary of State[^c-4a29ae853c22adc9ddffd466ba3407d2]
 

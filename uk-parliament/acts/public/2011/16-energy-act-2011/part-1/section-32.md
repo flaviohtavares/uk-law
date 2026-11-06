@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 32. Exercise of scheme functions on behalf of the Secretary of State or a public body[^c-9c50d44c189fc7c5b70539b0f5e66364]
 

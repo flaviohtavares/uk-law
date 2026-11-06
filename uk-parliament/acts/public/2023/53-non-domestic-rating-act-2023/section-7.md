@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2025-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/53
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7. Completion notices[^c-b98b923c16777e17a2266b4194065a02]
 

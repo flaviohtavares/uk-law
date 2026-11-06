@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 56. Right conferred by Part III.[^c-28c3b5517268fcb9c30c974d639c6f19]
 

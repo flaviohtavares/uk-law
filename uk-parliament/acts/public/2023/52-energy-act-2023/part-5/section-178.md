@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 178. Principal objective and general duties of Secretary of State and GEMA under Part 5[^c-540d62eeb06596ea26a1437a9234bf47]
 

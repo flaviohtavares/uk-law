@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 4 — CONSEQUENTIAL MODIFICATION OF THE SOCIAL SECURITY PENSIONS ACT 1975 AND THE SOCIAL SECURITY CONTRIBUTIONS AND BENEFITS ACT 1992
 

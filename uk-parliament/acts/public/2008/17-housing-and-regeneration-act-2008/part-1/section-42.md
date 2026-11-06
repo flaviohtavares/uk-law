@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 42. Agency arrangements with UDCs[^c-95680bf049b32c8c9f413fe4ab254bc5]
 

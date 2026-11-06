@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 398. Meaning of customer information[^c-b6bf08d0128e2e1dee7607c27fa26ce1][^c-bff9f5d636249918f6abea603aeb1111][^c-6e1c7124a0d8d6c782b3981b49fdb991][^c-52a2d22bbb2d1046252f489ac43d6771]
 

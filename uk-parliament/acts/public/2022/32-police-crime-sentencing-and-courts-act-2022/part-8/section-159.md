@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 159. Consecutive detention and training order and sentence of detention: effect of early release decision[^c-a100324534990a5fc0b951de6b9e7395]
 

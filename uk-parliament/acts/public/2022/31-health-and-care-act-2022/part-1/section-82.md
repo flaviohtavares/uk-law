@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 82. Duty to provide assistance to the CMA[^c-d99fa530c5d578baa4a8fdc9cb824450][^c-ee6e48c137e0a8f1d2d2cad95ad773fb]
 

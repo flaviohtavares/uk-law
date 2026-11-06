@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 179. Restrictions on framework power conferred by section 178[^c-b8ce2bcbe9af622c1fb1bbc0b5daa24e][^c-eefc95e0c1aea5a8a4060b7d01882592]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 46. Supplementary powers[^c-d78519c5a02375e85bb15398aa761c8d][^c-0307d5f74c686d67c1b10b0012bd45ac][^c-f1697b166a3dbfb007c54cf3120faf4b]
 

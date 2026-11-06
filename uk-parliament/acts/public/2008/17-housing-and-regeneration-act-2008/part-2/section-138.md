@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 138. Charity: accountant's report[^c-b03288a7f25bd28c584f04e6a6f05314]
 

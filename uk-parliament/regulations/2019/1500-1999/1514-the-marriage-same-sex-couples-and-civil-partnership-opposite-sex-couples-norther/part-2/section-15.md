@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 15. Prescribed forms relating to marriage[^c-e53b877817846956e4d31a35159c0bfd]
 

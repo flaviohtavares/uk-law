@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (25).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 36A. Consultation before the grant of certain licences.[^c19493501][^c-a474e28bdd10ac8326cd0d1f9b5c8098]
 

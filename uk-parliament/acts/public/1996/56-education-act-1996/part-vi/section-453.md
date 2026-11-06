@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 453. Examinations: prohibition of charges and recovery of wasted fees.[^c-441d63926442d1859ee17352d1e0d68a][^c-06dd79d0f477f057e7be418e2e48584c][^c-06dd79d0f477f057e7be418e2e48584c]
 

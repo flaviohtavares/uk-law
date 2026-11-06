@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-04-28.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7. Opt-in: “deathbed marriages”[^c-9a169d4cc4441a45c22df1df9a970808]
 

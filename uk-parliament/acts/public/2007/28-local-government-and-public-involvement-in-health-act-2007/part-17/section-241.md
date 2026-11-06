@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 241. Repeals[^c-4e2363b27002a4e55fec0bbda821f27f][^c-43129a2bd97e0598204ad3636ed8239b][^c-a19ef721ef6ece453a5724ee96b2e64f][^c-97cc1987e09996ea5badc0b4a34233d4][^c-f0a07f038a8ad5194328d1d1e7080658][^c-98765a4308f30c42943baca57cc7f0bc][^c-fc3c35a3eb1131dc9e07fc0f94a430b5][^c-707be7f339ab67c4ed2a6188795addea][^c-ddb1c0621dc4c280ffa5b1ed32282575][^c-01308e861307d6ba37f2a28fcba36cb7][^c-960087ca00f3b77194dff64feb6ae750]
 

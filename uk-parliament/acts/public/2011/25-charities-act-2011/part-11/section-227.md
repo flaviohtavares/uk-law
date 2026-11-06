@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 227. Registration and coming into effect of amendments
 

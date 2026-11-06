@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2214
 >
-> Extent: England, Wales.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 12. Giving of a building notice or an application for building control approval[^M_E_c8056b5f-228f-4331-9cec-109dbb0cbe23][^c-0c6833750cbaddac604dff2c3bf80bf2]
 

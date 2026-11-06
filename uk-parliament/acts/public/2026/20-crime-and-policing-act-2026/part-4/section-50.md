@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 50. Power to make CCE prevention order[^c-3df31e2028632ec8d9c9720a37fad8d2][^c-49bbd0f1c64605cbc29e7eb31a2421a5]
 

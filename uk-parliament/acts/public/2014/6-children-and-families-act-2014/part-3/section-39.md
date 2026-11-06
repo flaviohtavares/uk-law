@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 39. Finalising EHC plans: request for particular school or other institution[^c-163b6c3fb356421fcd68944a0419836d]
 

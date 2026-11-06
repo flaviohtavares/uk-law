@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2023-09-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 32. Power to accept part payment of arrears in full and final satisfaction[^c2172197]
 

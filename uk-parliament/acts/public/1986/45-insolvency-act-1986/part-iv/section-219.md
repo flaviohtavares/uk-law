@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 219. Obligations arising under s. 218.[^c20433731][^c-b6d3fb2c6ba4a67e416aae9dce8e466c][^c-e13b839860d6546e17dc37605884a23a][^c-76e2973a6e63552f111440f473c8a993][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

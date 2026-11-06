@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (70).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/49
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 95. Trustees’ duties after exercise of option.[^c11727331][^c-319de149edc3ac2badcc8a73df2334f0][^c-ffdd91e770d2a0454737caa0e6cb730c][^c-920bb60c1ce06dc0c76d1607b21a3fe0][^c-e85fea2e415384a1b766bba1856ecba0][^c-1368bfeb548beae7095fdc1eb44efb86][^c-68f4c7fdf9c127a7b2b46794e9001ddc][^M_C_8e4050fe-336e-4969-e5e3-8da54d86dcc6][^c-6790fe922104d7e9084eb19b5e79dc40][^c-cbf0a5666b1309fee0affdd24765ea00][^c-f53df92d47ce06087555263c0f5ca81b][^c-62bee984aaeb07378a04396a62699012][^c-a0cd0f17bedd4c219bce58141ffdbdb7][^c-79633432f7275a3a5c49b3e505a9bb24][^c-920bb60c1ce06dc0c76d1607b21a3fe0][^c-e85fea2e415384a1b766bba1856ecba0]
 

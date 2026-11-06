@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 61ZA. No compensation where modification to protect environment: England[^c-d8ee13fd67e311360e2cfa7854a0aabc]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/65
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 149A. Arrangements for discharge of, or assistance with, planning functions in England[^c-1671d55eae3d6695d2b5ca8f635ce767]
 

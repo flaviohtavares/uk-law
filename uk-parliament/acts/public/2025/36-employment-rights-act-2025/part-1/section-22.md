@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 22. Sexual harassment: power to make provision about “reasonable steps”[^c-b8bdd9726cb72578250480dc7d71c87b][^c-fb5ec5e8b281308d7d3320e1788b5731]
 

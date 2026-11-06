@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2018-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 87. Local Acts and instruments in and around Greater London.
 

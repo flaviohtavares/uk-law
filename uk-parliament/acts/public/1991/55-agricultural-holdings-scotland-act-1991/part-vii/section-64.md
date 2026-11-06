@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2021-02-28. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 64. Appointment of arbiter in cases where Secretary of State is a party.[^c-ee44d0a74d2f2b4822c96434e849ce41]
 

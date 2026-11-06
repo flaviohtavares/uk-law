@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 27L. Determination of complaints about tips etc[^c-5a6fbdeae32e6954ef0f0f9eacf5c885]
 

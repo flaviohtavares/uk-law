@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-09-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 185. Adjustment of transmission charges[^c-a81591351961f6253f46b257505499d5][^c-e3fbf9874d0e06ac672993772902d700]
 

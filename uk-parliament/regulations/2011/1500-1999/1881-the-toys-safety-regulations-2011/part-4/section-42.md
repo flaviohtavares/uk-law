@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2011/1881
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 42. Duty to perform Type examinations[^M_E_4f7c46ed-d223-4fcd-efcf-51c1e91654c0][^c-220a61655a0637025db756574af26d2f]
 

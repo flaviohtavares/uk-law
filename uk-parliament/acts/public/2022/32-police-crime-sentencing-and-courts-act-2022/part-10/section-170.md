@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 170. Notification orders: Scotland[^c-2af3d0f1534c1b797b1f7767d19ee381][^c-366e69f3aa7086eea05b378a073d8526]
 

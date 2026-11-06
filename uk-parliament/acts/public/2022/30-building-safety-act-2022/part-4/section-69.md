@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 69. Recommendations about definition of “higher-risk building” etc[^c-4a253b3032dc50721e327e98d55441f9]
 

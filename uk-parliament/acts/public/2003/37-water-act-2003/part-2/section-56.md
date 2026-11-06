@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2022-01-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 56. Licensing of other water suppliers[^c-1fdcd8ad89b089b2fc624e1ba3d25457][^c-310f14314c2bd6a1d28fdf37d886e906][^c-036238358476c16c72daed6ab5834b8b][^c-41491a9d13ab4cde3e03b3cc890858bd]
 

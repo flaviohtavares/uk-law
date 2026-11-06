@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 142. Grants to local policing bodies[^c-0f76e0dfdbc0c64433f50cece7cef6c9]
 

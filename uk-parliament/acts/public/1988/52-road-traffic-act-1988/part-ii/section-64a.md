@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (261).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 64A. Failure to hold EC certificate of conformity for unregistered motor cycle or tractor[^c-5cddec8d6f86e3dd5f4ceb60f92a5899]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (34).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 183. Notice of general vesting declaration procedure[^c-7a9c39bd733aeec0637de63d55a8ba2f][^c-5b25610844566b75e29edb3c0fe8e8c0][^c-4bb72356005faa60dd764e8ff11e8048]
 

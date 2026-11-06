@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 4. Appointed day for provisions relating to the abolition of maintenance liability of relatives[^c-0f7849805fc051fbaf6339d8eec42449]
 

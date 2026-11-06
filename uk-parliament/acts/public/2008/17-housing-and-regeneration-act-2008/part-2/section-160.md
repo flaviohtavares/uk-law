@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 160. Company and limited liability partnership: arrangements and reconstructions[^c-66f39a4ab5c8f0f3692b0113ba402388][^c-eaa298aac8a7ed88be7adc1b5b8fda8d]
 

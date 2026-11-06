@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 116. Right of landlord to distrain notwithstanding order.[^c-87287f5d06a7fe545489e96f5c1ba7a1]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 223G. Means of meeting expenditure of integrated care boards out of public funds[^c-0e3b16e5d40ebb3e54bf72fd10f9ff08][^c-1f69d47caf7ad4abe93033ae36af797b][^c-0c397e45d931f1ce56cf205140795de4]
 

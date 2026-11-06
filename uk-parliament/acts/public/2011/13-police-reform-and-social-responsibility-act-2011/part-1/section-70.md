@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 70. Declaration of acceptance of office of police and crime commissioner[^c-001f0026122b19668003e665a2d3005a][^c-dcdc6662548c99981e3038ad17933190][^c-a7f5131e970c6c7e69809210a12eb4b3]
 

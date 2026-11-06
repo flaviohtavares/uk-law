@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 49. Removal of power to appoint trust funds and trustees[^c-9d25ca6fd1c55b0ff684dc97b4d457cb][^c-c282235108b675f555134a73553bd3c8]
 

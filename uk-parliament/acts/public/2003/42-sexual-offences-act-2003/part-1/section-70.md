@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (154).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 70. Sexual activity with a corpse (affected by repeal, see note)[^c-7c2052227feb82f4d86e82eb793258e0][^c20916631][^c20916631]
 

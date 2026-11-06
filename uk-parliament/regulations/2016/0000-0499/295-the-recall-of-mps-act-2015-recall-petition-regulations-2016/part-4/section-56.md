@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 56. Absent signers list: Northern Ireland[^c-a6f18ee0a9518b340aa8bf4991d9c1bd]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 40. Content and effect of deduction from earnings orders[^c-081c1bb159baa64cd66fb9c0172390e1][^c-839ccc04f84e9c3c73af16d1d55034f3]
 

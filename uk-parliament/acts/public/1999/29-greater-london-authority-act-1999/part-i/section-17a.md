@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-08-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 17A. Free delivery of election addresses.[^c-b0ff2adf420b1e5d6f9bb6ff60d86dcb][^c-ebc0eccbab01948d056fded895051efe][^c-cbd3fef8f26a0e1b90069ca3b7d9ae28][^c-0e2184870f8eaa14586f3f96dfa9df1a][^c12800071]
 

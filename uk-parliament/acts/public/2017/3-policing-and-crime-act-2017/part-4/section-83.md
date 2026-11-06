@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (13).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/3
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 83. Protective searches: individuals removed etc under section 135 or 136 of the Mental Health Act 1983[^c22719191][^c-77bdaeaedc8e724a3105114278764f48]
 

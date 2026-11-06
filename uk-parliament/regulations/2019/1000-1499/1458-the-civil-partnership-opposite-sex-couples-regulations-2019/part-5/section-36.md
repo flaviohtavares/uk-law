@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36. Registration of civil partnership following a change of gender by either party[^c-bdac2358a345f08ba051fb0a0ea9dbc2]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## SCHEDULE 6 — OLD CASES PAYMENTS ADMINISTRATION[^c-3c7fee58db2dc00f0b0b89182f89d369]
 

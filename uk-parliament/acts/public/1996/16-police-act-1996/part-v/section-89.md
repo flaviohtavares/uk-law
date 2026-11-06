@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 89. Assaults on constables.[^c-00778d852e1485d922ce5634d02e6470][^c-922433c6b9bd5860614823e1719a3115]
 

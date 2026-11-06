@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 1 — Powers of Administrator or Administrative Receiver[^c-899b27a8b3e1f148cc4e959978a22563][^c15587621][^c20442051][^c-be0a8c5295e99e3aa052efa99b4755e7][^c-451b4ae15f40b9f964c561d1f4a2ef7c]
 

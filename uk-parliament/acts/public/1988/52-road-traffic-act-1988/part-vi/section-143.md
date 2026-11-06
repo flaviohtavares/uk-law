@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (261).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 143. Users of motor vehicles to be insured ... .[^c13990171][^c13990161][^c-52b113fd83cf8f76825ea094a1f4646e]
 

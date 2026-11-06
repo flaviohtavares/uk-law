@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (34).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 26. Management orders following banning order[^c-21577525c1eb0fd664ee09757aea8b34][^c-df978faeaa4b40c85ac20bb8e652c28b]
 

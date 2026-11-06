@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 82. Sexual activity in presence of child etc[^c-14fef23e0c56b3d86f75734b5447ffa7]
 

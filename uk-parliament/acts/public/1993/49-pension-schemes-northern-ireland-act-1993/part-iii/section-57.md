@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (70).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/49
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 57. Deduction of contributions equivalent premium from refund of scheme contributions.[^c11725471][^c-b4145d27277f1cb5b9be8d577d390a42]
 

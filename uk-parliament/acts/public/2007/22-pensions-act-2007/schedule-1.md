@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2022-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 1 — State pension: consequential and related amendments
 

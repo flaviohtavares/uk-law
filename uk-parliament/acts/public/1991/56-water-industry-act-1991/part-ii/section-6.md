@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6. Appointment of relevant undertakers.[^c-3991eb84e01fe13f54e123df9be7a81e]
 

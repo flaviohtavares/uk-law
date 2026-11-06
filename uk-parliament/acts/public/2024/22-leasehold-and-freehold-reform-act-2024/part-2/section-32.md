@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32. Right to require leaseback by freeholder after collective enfranchisement[^c-f1c7c54aea4685f6cbf52fa50e01a730]
 

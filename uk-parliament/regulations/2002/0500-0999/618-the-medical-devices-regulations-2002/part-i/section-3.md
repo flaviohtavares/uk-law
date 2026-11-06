@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/618
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 3. Scope of these Regulations[^M_E_42f89574-2304-40d1-ef2c-12f80e3ce13b]
 

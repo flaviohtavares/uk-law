@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SIXTH SCHEDULE — Provisions of Act which do not extend to Wales
 

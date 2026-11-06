@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 55. Enforcement and compliance[^c-3ae08dde0f5c60dea8fae285cb33072b]
 

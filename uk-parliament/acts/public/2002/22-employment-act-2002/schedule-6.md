@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2025-01-17. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 6 — Use of information for, or relating to, employment and training
 

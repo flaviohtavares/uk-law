@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (105).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 7A. Meaning of “the first abolition date” and “the second abolition date”[^c-15762a0b01427f8485f800411993c339]
 

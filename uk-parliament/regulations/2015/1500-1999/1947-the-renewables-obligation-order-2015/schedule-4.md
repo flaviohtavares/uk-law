@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-03-27.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 4 — THE ROC REGISTER
 

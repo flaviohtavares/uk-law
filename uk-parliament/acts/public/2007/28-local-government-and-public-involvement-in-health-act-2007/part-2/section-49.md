@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 49. Order for elections by halves or elections by thirds: transitional provision[^c-f3e6b87ac3fc19aaee6095e07bbb8014]
 

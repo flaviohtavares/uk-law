@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (25).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 78W. The appropriate Agency to have regard to guidance given by the Secretary of State.[^c13740071][^c13739731]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 51. Duration of permission and consent[^c-87d2505b76145a05b0ac9e81b0b21e97]
 

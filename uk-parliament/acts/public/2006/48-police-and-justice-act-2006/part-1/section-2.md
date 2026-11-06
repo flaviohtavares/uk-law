@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Amendments to the Police Act 1996[^c1764149][^c-41311a7bb45afbfc39f1d3c2fa6d9868][^c-27869e389dd8e2ed5258c72adcd34d1e][^c-5a20616d474bf919cb86ad9a0f969bd4][^c-2092ac1488d3ff9079fc2abcdb93a414][^c-a5e939fcd404a1a1d89ef8ef4faa7618][^c-8e0d11840564b4878a8c3349ae0a3ca7]
 

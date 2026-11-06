@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (145).** Text as at 2026-06-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 30. Offence of failing to comply with improvement notice[^c2051114]
 

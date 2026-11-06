@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2017-04-11.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 107. Company to continue the payment of feu duties, &c.[^c5626921]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 144. Parental compensation orders[^c-8a779da87a6a646b7a8dbef62218996d]
 

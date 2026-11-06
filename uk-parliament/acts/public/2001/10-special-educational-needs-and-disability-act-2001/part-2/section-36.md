@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2021-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2001/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 36. Codes of practice[^c-c87f5a6e062bfe523901c7673f3fede7][^c457598]
 

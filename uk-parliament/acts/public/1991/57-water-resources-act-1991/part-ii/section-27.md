@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 27. Rights to abstract small quantities.[^c-ff5363a10733830aee1809c6accfd82d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2024-01-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 180. Proceedings against market property by unsecured creditors.[^c13696301][^c13696311]
 

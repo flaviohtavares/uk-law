@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/50
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 14B. Interim determination of rent by (affected by repeal, see note) the appropriate tribunal (affected by repeal, see note)[^c12866111][^c-a8af3a7a8d2ba1d4b12c7318e1c007df][^c-a8af3a7a8d2ba1d4b12c7318e1c007df][^c-8d312c77d915b86bf602b4c5de63717c][^c-a8af3a7a8d2ba1d4b12c7318e1c007df]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31. Food and drink provided at Academies[^c-7f305b077d44adc4d5ad8189afd4f9d6]
 

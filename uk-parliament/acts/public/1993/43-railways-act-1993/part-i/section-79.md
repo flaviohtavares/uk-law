@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 79. Annual reports by the Rail Passengers’ Council and the Rail Passengers’ Committees.[^c14110081]
 

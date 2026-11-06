@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 5 — Provision relating to Wales[^c-70c47bf6310a5985a2d371e9fd50d576]
 

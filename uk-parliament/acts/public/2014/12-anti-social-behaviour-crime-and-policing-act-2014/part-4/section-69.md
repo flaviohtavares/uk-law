@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 69. Powers of community support officers[^M_F_b66c5b3d-125d-4837-a9f6-1ec3b2a4bf5c]
 

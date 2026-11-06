@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (156).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 53A. Small accidental failures in relation to electronic voting to be disregarded[^c-84ef7ffc1cf672c3cc42da5f9b51997f]
 

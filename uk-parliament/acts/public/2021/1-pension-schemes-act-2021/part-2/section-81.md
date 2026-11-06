@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 81. Withdrawal of authorisation[^c24480911][^c-0edf908687108d25235637bcd917511a]
 

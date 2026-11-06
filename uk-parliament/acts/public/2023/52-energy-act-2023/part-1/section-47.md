@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 47. Modification under the Enterprise Act 2002[^c-f506ad991a80d8b0847f10549a17e436]
 

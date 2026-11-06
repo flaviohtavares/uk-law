@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 60. Inducements: interpretation[^c-ad8c55eb7dd700fe370210e50c4964b4]
 

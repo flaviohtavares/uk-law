@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 53E. Guidance about civilian staff employed by local policing bodies and chief officers[^c-89bca4b66f6e45d9c831da3262d2c6d2][^c-a69d5b92baf14f9f5f5bed6adf5564e1][^c-f66f9cf8dbfe6d0b96ba1c3ff36fe770]
 

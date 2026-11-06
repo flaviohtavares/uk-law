@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/anaw/2016/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5. Requirement to register[^c-19d3b77fab37de8bbac4815f12cf8ea9][^c-fedc82c615e586fd17598bac38dd4c31][^c-d68903dbfef1fc0ffde219ef701d71e6][^c-58d97f4ba14e5aff4c51b77eaa0fbcf0]
 

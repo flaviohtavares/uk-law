@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-09-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 57. Stop and search under Terrorism Act 2000[^c-7d5c1f6ee6451e7a75c654333973ff47]
 

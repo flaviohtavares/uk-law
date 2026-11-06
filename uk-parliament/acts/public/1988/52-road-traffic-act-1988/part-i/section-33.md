@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (261).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 33. Control of use of footpaths , bridleways and restricted byways for motor vehicle trials.[^c19263471][^c22576781]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 78. New defence for purposes of journalism and other special purposes[^c-fc7277827e2b8c07d53cd24e92248a36]
 

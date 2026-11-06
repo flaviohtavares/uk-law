@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 507A. Local authorities in England: functions in respect of recreational and training facilities for children under 13[^c-e55c8e5718f853ccdca46d9f9f6d50d8][^c-df82d42709314c7296748c08b3554faa]
 

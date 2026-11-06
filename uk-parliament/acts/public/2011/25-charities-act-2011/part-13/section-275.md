@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 275. Resolution to replace purposes of unincorporated charity[^c-ed8b32464fe9310a30865bcb8ab0b7a1]
 

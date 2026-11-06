@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 85. Power to respond to petition or application[^c-f8c186aa4791ce5757c5ec4d73f871c6][^c-a89141f9dcca87d548a48377dfc65204]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2024-11-28. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 28. Penalty points to be taken into account on conviction.[^c10858591]
 

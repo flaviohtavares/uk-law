@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/17
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 124. Convictions coming to light after grant ...[^c-27d29372090ac3913b62f32407b22093]
 

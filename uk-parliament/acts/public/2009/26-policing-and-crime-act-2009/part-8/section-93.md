@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 93. Criminal conviction certificates to be given to employers[^c-9e3e6797024f947834d59dc083b3604b]
 

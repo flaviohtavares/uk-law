@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1091
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 45. Presumption of conformity of approved bodies[^c-a9d7c3c7b824bdfb5cc0b88495245c7b][^M_E_6a6273e1-9362-4c6d-eb3f-a708a75209d7]
 

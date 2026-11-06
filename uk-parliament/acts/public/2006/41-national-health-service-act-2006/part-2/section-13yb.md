@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13YB. Directions in respect of functions relating to provision of services[^c-70d2f9c3403451f3e8aa91932cc412bc][^c-c17c605fbd7569f0644650e6ed66435c]
 

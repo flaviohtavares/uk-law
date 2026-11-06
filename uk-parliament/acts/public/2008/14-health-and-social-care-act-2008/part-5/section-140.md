@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 140. Pharmaceutical services[^c-0402495d9e8d5929b857872ba5aeae21][^c-a745310d05f6df856cc51e135983cab4]
 

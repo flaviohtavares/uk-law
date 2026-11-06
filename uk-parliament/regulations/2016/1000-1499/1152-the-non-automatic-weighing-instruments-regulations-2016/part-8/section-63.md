@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1152
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 63. Compliance notice procedure[^M_E_e3d62d80-ba68-4edc-b137-0a0e2ce27fe0]
 

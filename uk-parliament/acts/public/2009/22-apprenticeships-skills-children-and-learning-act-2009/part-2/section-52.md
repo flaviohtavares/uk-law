@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 52. Release from detention of child or young person with special educational needs[^c-391e70695b01a8cad94808e271839ebd][^c-6c1dac2f4fc21f012fdd0e8ae3a5500c]
 

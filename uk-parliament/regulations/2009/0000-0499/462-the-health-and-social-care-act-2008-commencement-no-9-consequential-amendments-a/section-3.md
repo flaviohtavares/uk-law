@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 3. Appointed day for provisions relating to public health protection[^c-9af32e45ccd684c266546fbc493af16c]
 

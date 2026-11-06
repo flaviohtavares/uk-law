@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 255C. Prisoners excluded from automatic release under section 255B or 255BA[^c-ad5ab4e10bb8406212c53772c4c02664][^c-1f245ec9ec10746a986d2fd3dbf3ffc7][^c-ad9c2bc53516bdc69645a8f71e932e46][^c-155c0f69a8116c840c0366b45e57112f][^c-03d0bbc7ed98a99d6a10260a5418db32][^c-93163290605a335edc461a50ab7243e7]
 

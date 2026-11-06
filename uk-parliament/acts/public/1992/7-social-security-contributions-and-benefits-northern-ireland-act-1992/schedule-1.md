@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (205).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## SCHEDULE 1 — Supplementary Provisions Relating to Contributions of Classes 1, 1A, 1B, 2 , 3 and 3A[^c16399521][^c-44e31d8c8292e3a5bb5100388283936d]
 

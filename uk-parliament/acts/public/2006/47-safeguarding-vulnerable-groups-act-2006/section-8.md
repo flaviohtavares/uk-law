@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8. Person not to engage in regulated activity unless subject to monitoring[^c-53933c70893d69e8c3c563c4c5d01941]
 

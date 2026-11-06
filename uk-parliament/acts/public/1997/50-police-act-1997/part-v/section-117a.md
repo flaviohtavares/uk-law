@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/50
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Northern Ireland (the versions of this text differ in extent).
 
 ## 117A. Other disputes about section 113B(4) information[^c-1ee609d00e315b7fcfd45644c62b6a85][^M_E_322ef728-2004-493e-d138-7fb9eeb24664]
 

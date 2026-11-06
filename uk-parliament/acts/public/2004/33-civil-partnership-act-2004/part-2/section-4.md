@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (29).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/33
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4. Parental etc. consent where proposed civil partner under 18[^c-8e5bc9819f161d848b38f06c0cc0ce90]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (91).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/53
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 35A. Extension of disqualification where custodial sentence also imposed[^c-8887334e4cbf3c64cb4e14943dccafe0][^c-0387693a069fe9bc82b0f8a3425f795f][^c-912ffc50b9463b16ca8426ec4152f916]
 

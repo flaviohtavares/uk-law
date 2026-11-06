@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2014-04-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28. Powers of High Court and family court in relation to certain orders under Part I.[^c-e8469b8e420f0bb4f8c9fab1bd30b6cf][^c-217541ece5c2cb7d05a8c62794e0253d]
 

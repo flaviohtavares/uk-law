@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4B. Learning aims for persons over 19: payment of tuition fees[^c-66016114329b4091953459a02faf4e76]
 

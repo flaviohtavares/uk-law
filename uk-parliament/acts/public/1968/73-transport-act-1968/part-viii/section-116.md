@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2024-05-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1968/73
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 116. Transfer of responsibility for maintenance of highways on bridges over certain railways, inland waterways, etc.[^c15331081][^c15331091][^c15331101][^c15331111][^c15331121][^c15331131][^c-7c111eb3f2e076506b30a123743c1474][^c-ca338843879e60dd57e1a5b64ad5d8f1][^c-72530f88347db8ba29d740b08f9430e5][^c-080459f1df067623fe952b70aa7a1bdd][^c-2a3b073eb10067ca529a772b479ee1af][^c-dcf76ef168e993053305570762a1b4e7][^c-e50d9bd430c674266d8659da4bd82d42][^c-70dffd49cf5eebb561cac362b37b3091][^c-c7f82741684ee26218a80bd208c1c0b0][^c-3e51d665930211681e28daec08deb021][^c-1560db77655000da784aeed0d97a6264][^c15331071]
 

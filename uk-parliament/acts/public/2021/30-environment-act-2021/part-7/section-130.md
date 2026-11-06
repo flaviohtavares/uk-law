@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 130. Discharge or modification of obligation by Upper Tribunal[^c-74ad165f00b9b7ade37b0ef852d476c7][^c-98a17f2ea2c7f8b35b618d688322172d]
 

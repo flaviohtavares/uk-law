@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2023-08-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 118. Power to apply provisions about company arrangements and administration etc[^c-238b22a9f2fd8a8e208974211dc7a2a5][^c-238b22a9f2fd8a8e208974211dc7a2a5][^M_F_25c06fcd-676a-4fe7-e48b-35738ff22994]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Adjournment of trial.[^c18238491][^c19963601][^c19963651][^c19963661][^c19963671][^c-8cbdf8f9cb4306642a78521f8221903a][^c-e379fa824a5c93fa554feea8d02ad229][^c-b24f9a1922466f939422345ddc15aff6][^c-0671d1d36503a50c1f9b8514f980a12e][^c-ee9faff8972c0f7d8902e5367465e693]
 

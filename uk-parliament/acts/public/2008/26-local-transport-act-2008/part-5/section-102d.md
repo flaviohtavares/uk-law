@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 102D. Power to make provision supplemental to section 102B[^c-6c947fd084a0c5d36701b12fbe779010]
 

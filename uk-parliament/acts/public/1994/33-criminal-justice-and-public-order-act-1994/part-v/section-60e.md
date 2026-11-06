@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/33
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 60E. Offence under section 60C: forfeiture[^c-39ddeb6bd16cacf7f1dfb59dc413f246]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-09-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Disclosures by victims that cannot be precluded by agreement[^c-056651b4e49a66fd64d2023b44f7b4c8][^c-55472a332f4441be8fad2a30ca72e828][^c-92b9cb772c2ec6394a038ea56be308a1]
 

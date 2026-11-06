@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 169D. Directions about notifications[^c-b090ee45c53f8a45d9c44b7cad0e5de8][^c-2860e877450d39a905f3f6c5ffa5edd2]
 

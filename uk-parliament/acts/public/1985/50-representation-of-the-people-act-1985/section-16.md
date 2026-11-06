@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2024-02-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/50
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 16. Postponement of poll at parish or community council elections.[^c-8d5255a6ac9c43c5eb8c646e08194eae]
 

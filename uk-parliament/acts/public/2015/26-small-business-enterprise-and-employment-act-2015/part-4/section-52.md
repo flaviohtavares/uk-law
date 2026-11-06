@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-05-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 52. Information about arbitration[^c-eea145eb7f247920e7a050df4f82b5da]
 

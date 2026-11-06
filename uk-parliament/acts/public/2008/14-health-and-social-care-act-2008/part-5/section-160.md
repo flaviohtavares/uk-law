@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 160. Minor and consequential amendments relating to Part 5[^c-c96c2f040184520f6ffaa360a2c50db0][^c-496ae643714a4ef8d8621f904d5960c0]
 

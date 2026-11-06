@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 103. Power of ITAs to make charging schemes[^c-a305b9ea68b18cb0ded169759812a37c][^c-58185185a3ef8076135d2284f8f82a02]
 

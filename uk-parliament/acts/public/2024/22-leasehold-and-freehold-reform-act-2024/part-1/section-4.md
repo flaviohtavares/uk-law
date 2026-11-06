@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4. Series of leases whose term would extend beyond 21 years[^c-2c78cfa7eeaadf49ed2dd05532441108]
 

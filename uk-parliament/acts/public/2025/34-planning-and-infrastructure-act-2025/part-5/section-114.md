@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 114. New powers to appoint an inspector[^c-3b4b240fa89707cc19a30cbf2fe1d4a6]
 

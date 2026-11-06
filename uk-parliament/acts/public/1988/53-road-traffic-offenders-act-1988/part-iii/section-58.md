@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (91).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/53
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 58. Effect of endorsement of counterpart without hearing.[^c-2c9f7f1ba7578c5c0fad9858107ae0b8][^c-2be21789f496579c1cfc04c89ada6d23]
 

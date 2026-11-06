@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE A1 — Moratorium where directors propose voluntary arrangement[^c-4142161b62407b080c5cbbcc1b9502da]
 

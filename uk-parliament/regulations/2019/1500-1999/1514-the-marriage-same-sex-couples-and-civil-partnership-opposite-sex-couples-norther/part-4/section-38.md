@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 38. Property rights where parents not married to, or civil partners of, each other[^c-df5985fcf3a332577fe7e35e46b5d4b2]
 

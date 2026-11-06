@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/anaw/2016/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 82. Application for registration[^c-a3c17062a9eef7500c7e8a94a84e2d39]
 

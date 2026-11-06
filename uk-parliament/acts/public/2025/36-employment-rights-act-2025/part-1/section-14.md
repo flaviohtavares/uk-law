@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 14. Policy about allocating tips etc: consultation and review[^c-3a14ae697557647f442be5f23a28b410]
 

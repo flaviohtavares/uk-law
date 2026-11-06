@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 108. Tariffs[^c-771b0d0f8aa31f3fc69652acb27650f2]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (186).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 107C. Health in pregnancy grant: civil penalty for fraud, etc.[^c-0f2d7c4ee381e8ebf9aabc34bad11ffc]
 

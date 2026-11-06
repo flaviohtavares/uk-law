@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-03-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 54. Excepted highways and rights of way : England.[^c-6e6bed9ec608d58a3870635ec22b34ba][^c-b1211ed855c0b85b116538a25c8eb2f1]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (57).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 91. Remands of children otherwise than on bail[^c22554241][^c-b9a0289786a9010511ed81c21851076f][^c-ca6de7d9bb679a0430c7621be4f3aac1][^c-ca6de7d9bb679a0430c7621be4f3aac1]
 

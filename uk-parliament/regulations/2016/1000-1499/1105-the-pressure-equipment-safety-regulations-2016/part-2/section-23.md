@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1105
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 23. Information identifying importer[^M_E_8b89d9d7-3cfc-48df-c5a8-a1b1b37d9886][^c-8a077072b7f3dc740c8a1d561a750482]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 38. Contribution notices where avoidance of employer debt[^c-7be46ffb9a215a307d7ecb0096bd7eff][^c-efa22510869d944425cfc4026fc01d05][^c-dc10379a5ba0f51c9a7019fba4d95067][^c-cb0915d6a3c69890a94130a919c79212][^c-e944056f48f6acb4bbfe57fa98d64f6c][^c-b89e9a23dae7cbf89d4ebedf1f22c984][^c-7be46ffb9a215a307d7ecb0096bd7eff]
 

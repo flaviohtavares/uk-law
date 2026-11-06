@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4. English apprenticeships: funding arrangements[^c-5a69bee2732516e34f6f58e1f2e0eada]
 

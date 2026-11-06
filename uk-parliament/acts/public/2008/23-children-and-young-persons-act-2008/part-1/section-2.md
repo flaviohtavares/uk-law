@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/23
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 2. Restrictions on arrangements under section 1[^c-be189bd920488af91017605db19a68d8]
 

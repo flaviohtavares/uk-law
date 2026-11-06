@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (31).** Text as at 2025-11-13. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 23A. Modification of conditions under section 23: supplementary[^c-bfa30ca029837a7b2793688df4182c07]
 

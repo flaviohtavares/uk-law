@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27. Power of youth court to remit offender who attains age of 18 to magistrates' court other than youth court for sentence[^c-15e9e2dd04e9ebb1fc89be5a5448ee9a]
 

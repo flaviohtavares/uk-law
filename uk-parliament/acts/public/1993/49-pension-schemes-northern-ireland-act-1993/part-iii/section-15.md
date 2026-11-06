@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (70).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/49
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 15. Discharge of liability where guaranteed minimum pensions secured by insurance policies or annuity contracts.[^c-76f0a337ef3a63c8140c64a09dd0859e]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Abolition of scandalising the judiciary as form of contempt of court
 

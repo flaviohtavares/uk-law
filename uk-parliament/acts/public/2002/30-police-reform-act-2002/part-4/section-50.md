@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 50. Persons engaging in anti-social behaviour[^c-f5727accfcd9af9912173c1cb75f3dbe]
 

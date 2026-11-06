@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-04.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 34. Commission to exercise certain ministerial functions.[^c941446]
 

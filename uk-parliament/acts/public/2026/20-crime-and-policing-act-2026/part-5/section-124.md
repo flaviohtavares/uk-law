@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 124. Review of indefinite notification requirements: Northern Ireland[^c-06d6362b18126d4e8d4bac08e9e07c42]
 

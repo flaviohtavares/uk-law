@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-04-26.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 34. Supplementary[^c-74b2ee26218ec0449e24493c2d9ce75c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (34).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 85. Power to change rents and procedure for changing rents[^c-a9ab167b4ea2cea97dea82f6b213a1f0]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19. Other public authority functions[^c-03eeb240d4827414578ceaacfb27eae1]
 

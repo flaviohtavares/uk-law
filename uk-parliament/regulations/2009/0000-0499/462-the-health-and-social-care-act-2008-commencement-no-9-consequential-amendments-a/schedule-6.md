@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 6 — Revocations[^c-0b990f51074f31f0ba5d6710f2a2dda0]
 

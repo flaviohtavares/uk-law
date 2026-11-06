@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-02-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 30. Restriction on education authority entering into certain contracts.[^c1309671]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 5 — Identification and apportionment, etc., of property[^c-dec874a4904b9acfb25b60b50a52016e]
 

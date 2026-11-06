@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Power to transfer local public functions to permitted authorities[^c-395f525f9064ca0597a8950ea0583db1]
 

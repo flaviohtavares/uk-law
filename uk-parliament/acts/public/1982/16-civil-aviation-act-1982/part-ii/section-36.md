@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (29).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1982/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 36. Health control at Secretary of State’s aerodromes ....[^c2535711][^c-b2ee4bd8dc88bf15a38f6978c6f0fd9b]
 

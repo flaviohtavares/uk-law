@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-08-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Amendment of the Food for Particular Nutritional Uses (Addition of Substances for Specific Nutritional Purposes) (England) Regulations 2009[^c-b8f9adfea00526c0b8da78283fcb6103]
 

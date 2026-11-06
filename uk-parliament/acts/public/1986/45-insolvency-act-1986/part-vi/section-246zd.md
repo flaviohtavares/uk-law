@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 246ZD. Power to assign[^c-206d476a5552666cebaaa4877154982d][^c-45747bd3a2f867979bd970317a8228a4][^c-23bc64dcd1a6443eedccd8ebcb057cfd][^c-8034e7836d55fcaea923dfc97ac2d57b][^c-4386c5f3e4e18039b99c67135bfdbe98][^c-788371096f8da5425d0cd572175725cd][^c-4b06c573d13781127772e1fab23ee123][^c-53906134beb8ba8f11196eb3f9a76eff][^c-788371096f8da5425d0cd572175725cd]
 

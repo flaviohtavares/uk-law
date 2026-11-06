@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 62. Failure to substitute.[^c12079231]
 

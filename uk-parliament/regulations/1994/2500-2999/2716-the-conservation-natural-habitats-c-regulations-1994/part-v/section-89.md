@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-10.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 89. Payments under certain agreements offered by authorities (affected by repeal, see note)[^M_F_590906e6-4af2-4046-f110-791cda192589][^c-2dd38f22e3f0e7272da0337fa848725f][^c-2dd38f22e3f0e7272da0337fa848725f]
 

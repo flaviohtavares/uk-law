@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 90. Water quality: powers of Welsh Ministers[^c-e7db5b8c8fe805a26b71da074dc9ac87]
 

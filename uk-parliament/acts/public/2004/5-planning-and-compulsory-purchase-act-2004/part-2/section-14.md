@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 14. Survey of area: minerals and waste planning authorities and county councils[^c-f51cd4c15e54f74c6741ac5680a53b3a]
 

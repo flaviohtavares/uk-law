@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21. Submission of draft framework for issue: Wales[^c-04a3eb8fcbc01dc8d5f7e6ee97115938][^c-86e3546cc5697f54eb7036d249310bac]
 

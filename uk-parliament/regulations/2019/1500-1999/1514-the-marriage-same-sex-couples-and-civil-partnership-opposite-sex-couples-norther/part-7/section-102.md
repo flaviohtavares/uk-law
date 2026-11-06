@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 102. Financial Assistance Scheme Regulations 2005[^c-c947f3c5d6ed53460f9365b9631384f4]
 

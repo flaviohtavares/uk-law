@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-03-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 71. Slavery, servitude and forced or compulsory labour[^c-e01111654bf488ef4e6785cb76d0c439]
 

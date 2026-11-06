@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (91).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 137FD. FCA general rules: charges for claims management services[^c-7a4ed9585598a512576153d95966d88f][^c-e922c816a6b3c56cc617ae59c14f3510]
 

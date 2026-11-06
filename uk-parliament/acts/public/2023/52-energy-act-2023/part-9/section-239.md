@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 239. Energy smart regulations[^c-b149dc2c0d63131845d4f463638bddb5][^c-92b39a986735b5fc18a0fe86c576554b]
 

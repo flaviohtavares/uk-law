@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2019-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1967/86
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 2 — General Restrictions to be observed by persons having access by virtue of Part II of this Act to land which is or which gives or forms part of access to Open Country
 

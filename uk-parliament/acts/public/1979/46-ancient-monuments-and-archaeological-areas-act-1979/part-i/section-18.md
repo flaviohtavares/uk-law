@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1979/46
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 18. Powers of limited owners for purposes of sections 12, 16 and 17.[^c250914]
 

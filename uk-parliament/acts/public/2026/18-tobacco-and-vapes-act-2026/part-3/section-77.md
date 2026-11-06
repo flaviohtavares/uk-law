@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 77. Ban on manufacture of snus etc[^c-68e87c08f1a024f990f43da57b996495]
 

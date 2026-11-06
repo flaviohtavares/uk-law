@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2025-08-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/24
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 9. Extended power to define “relevant proceedings” for conciliation purposes[^c2181315][^c-de29f769c8449a12fcbd714690a95003]
 

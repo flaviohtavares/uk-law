@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 55. County Courts Act (Northern Ireland) 1959[^c-f879b903fa7c76d9f6e9a8c803f0de4b]
 

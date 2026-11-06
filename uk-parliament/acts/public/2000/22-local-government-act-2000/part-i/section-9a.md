@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9A. Procedure for orders made by the Welsh Ministers under section ... 7[^c-cb63c264db7f0cf5e621218dc1461792][^c-10c01659b5f6fa827460b7fbdd2727a8][^c-5f7caf20b0dc638cc235cb8e2cafdc53]
 

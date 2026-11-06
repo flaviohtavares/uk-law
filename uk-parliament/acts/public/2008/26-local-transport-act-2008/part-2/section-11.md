@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 11. Duty to have regard to transport needs of disabled persons[^c-a64d33ac96c918fcb8777d5bb8605906][^c-e7aa32b6ada359c43c9c46e96ffe5e9e]
 

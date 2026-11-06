@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 153. Relationship between schemes and strategies[^c-56c0d8df498b01ba9a04555ad7cbd5ba][^c-89ae643c8fcac9d63e840fd3b07312fa]
 

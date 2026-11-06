@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 43. Additional contributions and action[^c-2574e474acf43e5300553aff408c25bb][^c-c1e445f611bfb2b54192782f9a4ff101][^c-3a30b74ff5f4c79f26f2864299fb8f30]
 

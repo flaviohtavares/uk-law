@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 151. Applications for certificates of NHS charges[^c552125][^c-a388ad28903f1b6dce8493ba7eef925b][^c-b58527fc5d0b7dd19c831ff825d49784]
 

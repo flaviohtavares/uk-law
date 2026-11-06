@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 122. Statutory authority as a defence to actions in nuisance etc.[^c-0f1e89704adb58f3fe1d1137ca08075a]
 

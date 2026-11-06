@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 44. Short-term use of London accommodation: relaxation of restrictions[^c-a88dceb88790c09be2649c09745b3a0b]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 24. National DNA Database Strategy Board[^c-23d8262ffe8b9bbeb68e9af22ed88263]
 

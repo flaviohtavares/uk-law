@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 101. Indemnification of members and officers of relevant authorities.[^c1428013][^c-6e975b2cf9f16dcfd4975a3248e8ede3][^c-6e811ca10f0f1db487900ff5b4090e81][^c-61c26a032f99ff3cfe2229752a965c06][^c-23cc1438c2dc260f708faa4ee140ef04][^c-4c43bf6864fd71406cbfe41e87a1d455][^c-441101a7618523078d7131ea23d265da][^c-68cbaaf8ed481c75507590ffa7830b57][^c-ab859c08ea279812e4fab045f6ff78c3][^c-2ad34629905e4849342cfdd6d64d63da][^c-71408f2e8c476dba24fc053bd26089eb][^c-dcd4ce627a00a132d5ca659399fabab3][^c-ff5ee18c9e2ed2c932d4449899a77303]
 

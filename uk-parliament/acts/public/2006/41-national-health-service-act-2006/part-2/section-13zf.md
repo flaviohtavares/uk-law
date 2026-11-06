@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13ZF. Secretary of State directions to provide information[^c-82d9f757a105dee8d80d0c23139b8000][^c-c17c605fbd7569f0644650e6ed66435c]
 

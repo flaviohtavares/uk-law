@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 26. Parenting orders in respect of criminal conduct and anti-social behaviour : youth offending teams[^c-93935ba989e952ee477d672a15b60556][^c-c590f7843e2770dcecee938879378f80]
 

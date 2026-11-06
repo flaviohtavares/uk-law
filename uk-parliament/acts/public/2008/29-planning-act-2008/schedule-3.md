@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 3 — Examination of applications by Secretary of State[^c-b49ebe51344bc8c9b21214fa4647e354]
 

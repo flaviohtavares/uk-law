@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 173. Determinations under this Chapter[^c-459f6748827aeb9b8d165b9a6145bf30][^c-9a5e3c8f813ac61e458888bb0362e484]
 

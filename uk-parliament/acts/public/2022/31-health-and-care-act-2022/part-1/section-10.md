@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Public involvement: carers and representatives[^c-a4ebcf6cb769db1a05845d1ba9b309ff][^c-6afa861951b37e05c0943abe912c6577]
 

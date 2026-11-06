@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 84. Reports in relation to alleged compliance breaches[^c-66b76b7b5ce7ca5b077f76a2085edc54]
 

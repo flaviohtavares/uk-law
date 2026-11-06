@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 24. Amendment of the Simple Pressure Vessels (Safety) Regulations 2016[^c-5349d6d617bf533edd256d63a4646c51]
 

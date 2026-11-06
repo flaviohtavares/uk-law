@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1977/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 103. Extension of privilege for communications with solicitors relating to patent proceedings.[^c8021391][^c8021401][^c-b0bddc923c5de46cd44d3301cd177cd8]
 

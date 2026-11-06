@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-16.
 >
-> Extent: England, Wales.
+> Extent: England, Wales, Scotland, NI.
 
 ## SCHEDULE 4 — Form of consignment note[^c-fe933b2f228a3eb8bcb7d2bb34ad9f0c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21. New arrangements with respect to governance of English local authorities[^c-7115785f9318df998d7a66569a63986d][^c-31e5e3776050f8c4774331fbcaf3b4a3][^c-7fe11c1d2ce4a54e6345b44a28a697e2][^c-f75b5f6d6a43a4878528bd9267c9ffd2]
 

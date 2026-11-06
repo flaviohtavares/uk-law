@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 273A. Television link evidence from other parts of the United Kingdom[^c-7f3d0412e3bf706fbaef301ecd56cd40]
 

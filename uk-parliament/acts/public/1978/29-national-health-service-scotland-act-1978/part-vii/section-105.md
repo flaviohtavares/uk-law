@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2026-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 105. Orders, regulations and directions.[^c-03c680b97e59502d42da8d0be9a50e9e]
 

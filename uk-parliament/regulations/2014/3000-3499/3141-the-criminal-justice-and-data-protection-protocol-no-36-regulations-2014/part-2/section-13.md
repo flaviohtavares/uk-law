@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Sending overseas confiscation orders to the court[^c-7973195aa53db5437f77bcf0457944ee]
 

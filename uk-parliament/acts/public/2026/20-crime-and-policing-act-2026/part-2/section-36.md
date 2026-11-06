@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 36. Remote sale and letting of crossbows[^c-f186eb275a5f93dd54383932a0926db5]
 

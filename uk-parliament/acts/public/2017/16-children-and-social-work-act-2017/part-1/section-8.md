@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8. Care orders: permanence provisions[^c-d53c986270e6c17a6da9b7b2904868f5]
 

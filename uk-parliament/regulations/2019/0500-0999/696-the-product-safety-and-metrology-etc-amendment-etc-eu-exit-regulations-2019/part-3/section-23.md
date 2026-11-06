@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 23. Amendment of the Electromagnetic Compatibility Regulations 2016[^c-b2f1d0896bcd1626523547a8146272fd]
 

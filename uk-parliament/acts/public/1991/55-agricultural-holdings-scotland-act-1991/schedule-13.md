@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2021-02-28. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 13 — Repeals and Revocations
 

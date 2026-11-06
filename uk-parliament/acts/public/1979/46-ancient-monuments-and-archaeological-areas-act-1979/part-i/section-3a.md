@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1979/46
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 3A. Application for variation or discharge of conditions[^c-aa2291decfab72edd1f28f218800cceb]
 

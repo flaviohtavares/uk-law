@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 232. Keeping, introduction and removal of fish[^c2007970][^c-4f052fe825b3137468b97ad954f9a9ef]
 

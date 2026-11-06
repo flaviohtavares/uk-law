@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 146. Mandatory concessions: supplementary.[^c14881451][^c-5d4abb4b4c4c4ae281ef2b4f8f91b487][^c-4c15e05157adc6fadfbb9b6f8ffc8c5e][^c-ac8f01c2d4ea3a1d02caefd88f5eee4d][^c-c05adb8597f2acc398b3fefbd54794ff]
 

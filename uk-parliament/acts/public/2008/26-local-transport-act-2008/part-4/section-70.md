@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 70. Extension of maximum length of subsidised services agreements[^c-6fd67dc172ce0cc801366470f971948e][^c-6d3ca6607fe5caad7f437c67a24cfad7]
 

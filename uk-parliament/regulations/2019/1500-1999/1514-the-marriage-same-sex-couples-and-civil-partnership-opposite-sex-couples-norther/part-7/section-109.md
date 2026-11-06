@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 109. Rate Relief regulations of 2007[^c-558735af21b8b921a8cec2511bbce31e]
 

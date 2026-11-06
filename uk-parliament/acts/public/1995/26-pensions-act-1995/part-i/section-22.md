@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 22. Circumstances in which following provisions apply.[^c-91e39e3db0a7149cd90a19c23b34c8fe][^c-ec328b9b2cef8ffd50f4894859f00f36][^c-28201cfda64f571d40c2a374f599ffd7]
 

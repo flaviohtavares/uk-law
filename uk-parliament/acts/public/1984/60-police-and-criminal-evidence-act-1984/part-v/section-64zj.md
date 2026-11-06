@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## (not yet in force: 64ZJ). (not yet in force: Destruction of fingerprints taken under section 61(6A))[^c20929631]
 

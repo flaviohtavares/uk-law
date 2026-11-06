@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-03-04.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 5 — Accounting information to be supplied to the Office of Rail and Road upon request
 

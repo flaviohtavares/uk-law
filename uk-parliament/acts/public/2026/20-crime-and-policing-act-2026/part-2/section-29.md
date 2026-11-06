@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 29. Maximum penalty for offences relating to offensive weapons[^c-06a8e5d1a643f36b30734ddcf512a44e]
 

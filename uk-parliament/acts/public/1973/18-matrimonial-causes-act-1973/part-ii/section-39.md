@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-08-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 39. Settlement, etc. made in compliance with a property adjustment order may be avoided on bankruptcy of settlor.[^c8900761]
 

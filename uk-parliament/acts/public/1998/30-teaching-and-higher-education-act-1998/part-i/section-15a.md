@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (29).** Text as at 2026-05-12. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15A. Supply of information by contractor, agency, &c.[^c-442705315006b8333a47d0eb68f7b5af]
 

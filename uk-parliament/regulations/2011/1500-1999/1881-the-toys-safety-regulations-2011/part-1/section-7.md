@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2011/1881
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 7. Presumption of conformity[^M_E_772833c6-01f8-4163-bfb2-20e7d2b28c6d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1105
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 31. Requirements which must be satisfied before a distributor makes pressure equipment or assemblies available on the market)[^M_E_c6385112-8362-4d01-98ff-fdd4a485c1c7]
 

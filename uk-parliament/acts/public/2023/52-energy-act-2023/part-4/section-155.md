@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 155. Power to modify Gas Act 1986 in relation to hydrogen[^c-9e9aa49214b7ec947a11bc5eb9a682ad]
 

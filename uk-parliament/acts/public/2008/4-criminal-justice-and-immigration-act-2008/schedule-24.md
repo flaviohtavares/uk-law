@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 24 — Section 327A of Criminal Justice Act 2003: meaning of “child sex offence”[^c-18045a60d852a82fa2688f1f32189ea8]
 

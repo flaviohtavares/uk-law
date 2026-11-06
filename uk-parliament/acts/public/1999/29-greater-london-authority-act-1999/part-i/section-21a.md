@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-08-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21A. Disqualification relating to sexual offences etc[^c-f18ee8699538e6cbe24e8a0a287f6e19][^c-2aae8014726959d81b97bab0b0645c2d]
 

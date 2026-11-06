@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/61
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 40. Legal aid complaints: preliminary.[^c20471601][^c-f29de6d56fa1587fd72362165e1c1f77]
 

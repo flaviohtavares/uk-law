@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 315. Armed forces: local connection test[^c-df3ca7517b88125ad4bc9837785ba65a][^c-459c5a6e3e3fea1e53ef63f32ef8d9f5]
 

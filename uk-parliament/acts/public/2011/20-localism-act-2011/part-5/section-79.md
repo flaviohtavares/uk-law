@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 79. Council tax: minor and consequential amendments[^c-28e54a4554c06180ca2c02d685238928]
 

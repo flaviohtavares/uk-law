@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 135. Inspection of accounts.[^M_C_0bbc84f0-1e83-4722-964d-2c8df1547bb0]
 

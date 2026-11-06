@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## (not yet in force: 17R). (not yet in force: Mandatory contract term: provision of prescribed pharmaceutical care services)[^c20973211]
 

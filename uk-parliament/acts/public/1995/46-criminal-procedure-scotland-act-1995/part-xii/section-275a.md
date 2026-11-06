@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 275A. Disclosure of accused’s previous convictions where court allows questioning or evidence under section 275[^c16033591]
 

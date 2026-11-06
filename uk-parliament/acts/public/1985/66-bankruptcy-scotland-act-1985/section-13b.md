@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 13B. Termination of Accountant in Bankruptcy's functions as interim trustee where not appointed as trustee
 

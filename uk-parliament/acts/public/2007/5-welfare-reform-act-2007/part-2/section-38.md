@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 38. Duty to send inspection reports to the Secretary of State[^c-d7335886f1568a9ff69c95b4a49903cf][^c-b64d8285c8973a8dd7438de786e739bd]
 

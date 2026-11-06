@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 16. Amendment of the Aerosol Dispensers Regulations 2009[^c-07121e6fcda3187fabd51543d87a511b]
 

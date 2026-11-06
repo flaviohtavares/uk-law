@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 4 — Powers of Liquidator in a Winding Up[^c15587701][^c15587711][^c20442091][^c22718251][^c-e04e8145649990235b9d6e0d47b61c00][^c-4acee1c75f7c60fea56b66055159a780][^c-feb993c59b12c400709a595bcdd7c0da][^c-7b718e45cc9573595bd79530db1c4ec8]
 

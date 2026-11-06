@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 2 — Functions of Independent Police Complaints Commission in relation to SOCA[^c-39ab3255659f8a4af0f8232b27106086]
 

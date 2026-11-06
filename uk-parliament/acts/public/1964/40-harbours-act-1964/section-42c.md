@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-23. See https://www.legislation.gov.uk/changes/affected/ukpga/1964/40
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 42C. Consent of Welsh Ministers required for certain orders and schemes[^c-fc6d0bc129a80e34f0a1abd1195cc833]
 

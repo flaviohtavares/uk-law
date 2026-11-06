@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4. Unnecessary suffering[^c-6c4263ded07cf816292d03028e4bc63e][^c-88dbe89ab6759e9b1648f450657df068]
 

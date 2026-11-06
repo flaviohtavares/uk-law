@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 75. Offences relating to the physical protection of nuclear material and nuclear facilities[^c-8a17339fc851f79d80016e91749ff66d]
 

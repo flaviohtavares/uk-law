@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-18.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 75. Joint boards.[^M_F_b1f9505b-9d8f-439e-e788-27afba166af4]
 

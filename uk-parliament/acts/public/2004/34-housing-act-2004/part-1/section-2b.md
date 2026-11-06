@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (145).** Text as at 2026-06-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2B. Qualifying residential premises[^c-6177f7f86cf6614dbafc8a1f93c07cc7]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 194B. References by the Commission[^c14471341][^c-aa1c071fce0e8f0e29ba26b81490cfed]
 

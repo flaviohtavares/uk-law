@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 100. Provision of financial resources[^c-fbe2c2b6fd88c599d54026106beac1a5][^c-08138150687d932c238722daf1ebd8c4][^c-c555fc11ce4ccd53ca7bbc5c8b1ce926][^c-57b7e9d6e23fd05a88104111bb952eb0][^c-074237242ad322fb40ce98dc63ecea58][^c-1a1852386517bdec3d9678ef3443ec86][^c-8066f147b1bab032ee39781f33719333][^c-f7ca3ee518d7e11ebe086eab5446e82f][^c-b5fc0d431f73355996f18af308912075][^c-8eb9087296985c50ee79ac14b9c45837][^c-4cf4b0234f9ddc169a5d8437c030595f][^c-945db9172c78104b0fd0dd5915394baf][^c-32c01cd21eba0cad5024ff569b3c3f0e][^M_C_a7fd1156-0bbb-421f-f4f2-79c83e7a9c17]
 

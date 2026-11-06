@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2016-07-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## THIRD AND FOURTH SCHEDULES[^c14259341][^c14259341]
 

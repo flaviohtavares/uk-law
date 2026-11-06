@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/27
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 22BB. Traffic regulation on byways etc. in National Parks in England and Wales[^c19175821]
 

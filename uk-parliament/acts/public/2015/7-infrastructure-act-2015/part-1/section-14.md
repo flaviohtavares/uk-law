@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-12-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14. Periodic reports by the Secretary of State[^c-809de62cce43deea47686f5569857181]
 

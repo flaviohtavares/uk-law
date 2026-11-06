@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-03-27.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 78. Provision of information required by the Authority to carry out its functions
 

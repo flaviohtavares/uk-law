@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 64. Release on licence etc: drug testing requirements.[^c10579311][^c-7cf25b8d3ec4ba3bb5472e6954ea8236][^M_C_409875bd-3bd0-46af-bf7c-b64ce1a42555][^c-f6cdedfbcdbafbb0dcd05fd7099adf7e]
 

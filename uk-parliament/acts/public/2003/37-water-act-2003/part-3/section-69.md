@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2022-01-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 69. Grants for drainage works and flood warning systems[^c-dd8a4bdf6ccf5fa5ca69dca3e6f88220][^c-cc8b983be96f314e31918ebd40478c35]
 

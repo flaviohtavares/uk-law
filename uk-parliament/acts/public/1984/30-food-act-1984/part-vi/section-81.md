@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-18.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 81. Sampling of milk.[^M_F_97c584f9-20e3-4ff3-8dfe-b6d2d3a61b53]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 138A. Regulations made by Welsh Ministers under section 71(7A) or sections 89 to 90[^c-82a89e35379ae332ac3d85a5963f7160][^M_F_60fa6a2b-8868-4e14-9557-4316ad033882]
 

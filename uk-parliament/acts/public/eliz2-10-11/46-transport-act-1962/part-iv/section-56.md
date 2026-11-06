@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-10-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 56. The Passengers’ Council and London Transport Users’ Committee.[^c4795451][^c4795461][^c4795471][^c4795481][^c4795491][^c4795501][^c4795511][^c-eebb458b1cd8b3056e8c92d73c215cd1]
 

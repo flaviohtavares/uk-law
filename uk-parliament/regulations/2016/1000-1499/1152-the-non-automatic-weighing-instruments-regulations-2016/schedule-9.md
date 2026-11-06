@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1152
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 9 — DECLARATION OF CONFORMITY (No XXXX)[^c-17dfad508aad3b38f013346be85e0eea][^M_F_1b859b7a-07d3-42fa-c4fa-138b742fff5e]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 35. Early removal of prisoners liable to removal from United Kingdom[^c-99e610121d64a9f9e83b66984d34acff]
 

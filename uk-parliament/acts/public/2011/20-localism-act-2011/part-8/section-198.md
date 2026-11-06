@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 198. Mayoral development corporations: establishment[^c-1f33aaa1bfaaf2324ee23081679fe3cb][^c-33af7f6251c3975033daec9725e33def][^c-548922647a36fd8f18f9c9731a0d9de8][^c-3375e98e1835a6eefd480721b74ed6ec]
 

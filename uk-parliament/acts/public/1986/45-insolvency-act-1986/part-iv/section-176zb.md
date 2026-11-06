@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 176ZB. Application of proceeds of office-holder claims[^c-62ddc160551848a3517252f3915544f5][^c-7b10c784550ef85c6418f8632a537f58][^M_C_692505ab-735d-42ca-be06-25e1bb7fa95b][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-84aada7db04ac8e4884e6f24bef3dc8b][^c-046c62718afda61298418da75cff5947][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

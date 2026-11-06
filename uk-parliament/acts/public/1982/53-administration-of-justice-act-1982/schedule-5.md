@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-07-11.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 5[^c20817311][^c20817311]
 

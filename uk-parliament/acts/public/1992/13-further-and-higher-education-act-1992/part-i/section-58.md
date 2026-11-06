@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 58. Reorganisations of schools involving establishment of further education corporation.[^c-8d0150fc576e2f63fa342f8a925836c0]
 

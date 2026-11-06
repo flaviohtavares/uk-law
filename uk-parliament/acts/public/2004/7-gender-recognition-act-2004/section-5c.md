@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 5C. Protected Scottish civil partnership: applications by both civil partners[^c-13d678ebdfe7b6bb0d20353f456517d6]
 

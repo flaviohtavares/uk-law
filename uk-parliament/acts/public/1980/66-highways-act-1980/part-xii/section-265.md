@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 265. Transfer of property and liabilities upon a highway becoming or ceasing to be a trunk road.[^c-e4e492c1298892031e073f7b27f3e840][^c-421989bf9db4732211db1831e7c21c45][^c-b369d59599e73dac73db17e979890954][^c-af78b184f9b0f490923890fc07d3619c][^c-4f8b38c6ce052c679b95f122d19da6ba][^c-fce1e9c086e2aab404ad9a2f569903e5][^c-109b08c810a9670b86bc0f62b46134dd][^c-333b8e690f27ab37935f4081e8b23c75][^c-f553329d1fe5db0b57b9e22a257b75ef][^c-3ab105776a3feb3dfd83235efe683827][^c-15f66e77e299c32d39964d304bdc9e4f][^c-1f940444db6b542fab5e0215a6736b70][^c-0e9cf6144cce8b69106fc2ada1bd81b0][^c-c5ef98ae614aa8089608d48478673d79][^c-5611fc5847d0867797b3ab57778d4c91][^c-297c13789f239a7bcdccb1676f32ed99][^M_C_32943380-f88f-4e60-ee5b-ba3fb1dfbe59][^c13431081]
 

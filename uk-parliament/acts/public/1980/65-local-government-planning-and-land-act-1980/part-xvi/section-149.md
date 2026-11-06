@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/65
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 149. Corporation as planning authority.[^c-b631ee0d2473e32528e87fdb70069563]
 

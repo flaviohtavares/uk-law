@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-03-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 20ZE. Direction under section 20ZD(1): appeal by practitioner[^c-a7f10a8093565311294905d3e82275a6]
 

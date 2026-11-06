@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 8. Movement generally.[^M_E_a76d7791-528e-4956-8b30-6925c29eade3]
 

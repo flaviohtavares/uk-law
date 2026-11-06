@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 66. Repeal of redundant provisions[^c-e4b5006808e69bd18bfc63433c53f986]
 

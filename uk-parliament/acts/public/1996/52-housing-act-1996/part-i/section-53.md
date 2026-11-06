@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 53. General provisions as to determinations.[^c-de8c1803c676c0bd87f5297c7a25b339][^c-14f084733d881443b4686ffaffc53b1d]
 

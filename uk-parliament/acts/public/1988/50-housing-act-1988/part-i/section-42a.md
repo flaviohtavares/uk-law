@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/50
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 42A. Information as to determination of rents in England[^c-43de83f41ffdb65f664abbf686834e17]
 

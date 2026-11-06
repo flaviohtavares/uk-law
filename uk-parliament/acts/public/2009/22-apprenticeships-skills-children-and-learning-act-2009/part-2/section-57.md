@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 57. Local authorities in England: provision of transport etc for adult learners[^c-8ad801dea2593f4f90ab9f54c540e37b][^c-062d27e760c356996de33ee6a2c9d7a4]
 

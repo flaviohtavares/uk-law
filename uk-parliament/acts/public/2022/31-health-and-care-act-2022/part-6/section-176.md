@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 176. Fluoridation of water supplies: transitional provision[^c-1d734eebdf477350fdf1eb6a6b7f35e8][^c-2c95dcbd9d78ceb59c564a6395a910bf]
 

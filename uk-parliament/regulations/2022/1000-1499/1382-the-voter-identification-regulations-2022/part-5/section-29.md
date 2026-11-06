@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 29. Replacement of anonymous elector’s document following change of electoral number[^c-5f4e6e845b083732cbb4b53541a3ded7]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 207. Mental health treatment requirement[^c-66fb90da21e6767f671b1c02ce254e9a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 257. Application to. . . planning authorities of provisions as to listed buildings.[^c14937401][^c14937411]
 

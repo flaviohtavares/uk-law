@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2026-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 12IH. Duty to ensure adequate time given to clinical leaders[^c-b452f596645752b5047a81972efe4a04][^c-0c84678f47a4af49b6ba3b6ab8a3067b][^c-ce9748a54bd5ff9d4bed946e0c225594][^c-96c90e85c6f8a2afb6723fd23bdc8c43][^c-579c923316e143a968d434aa55ba11ee]
 

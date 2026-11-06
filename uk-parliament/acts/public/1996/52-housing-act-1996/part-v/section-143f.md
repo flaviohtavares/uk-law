@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 143F. Review of decision to seek possession[^c-cfd9b1862ed38760054708aa094bfd0b]
 

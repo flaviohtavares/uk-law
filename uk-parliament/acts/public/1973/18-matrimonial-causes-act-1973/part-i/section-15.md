@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-08-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Application of sections 8 and 9 to proceedings for a nullity of marriage order[^c-6cd4461a59d321da2e671057ee4fd2a7]
 

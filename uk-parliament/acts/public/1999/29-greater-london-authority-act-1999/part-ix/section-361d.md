@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-08-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 361D. The London Environment Strategy: adaptation to climate change[^c-27faca22c10b0c61b49aa80b79a4c984][^c-7eb654bc70241e7c381ad52ead1c756b]
 

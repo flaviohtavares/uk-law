@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-10.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 113. Amendment of Schedules[^c-cc32a5b873bd5e57926dad5605e38883]
 

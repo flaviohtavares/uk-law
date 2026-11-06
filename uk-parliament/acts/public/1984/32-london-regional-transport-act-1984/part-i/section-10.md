@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Power of Secretary of State to require exercise of powers of disposal, etc.[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/53
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 106A. Power to disapply provisions of this Part[^c-b3383c424f4700e5ab4c5cb9d6ed2bd0]
 

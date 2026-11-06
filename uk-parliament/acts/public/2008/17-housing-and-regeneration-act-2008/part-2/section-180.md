@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 180. Right to acquire[^c-cc2f9116cc8eb8d38e9b198f43b0232c][^c-4cabd11e9d1a9afe227c4747ad209503]
 

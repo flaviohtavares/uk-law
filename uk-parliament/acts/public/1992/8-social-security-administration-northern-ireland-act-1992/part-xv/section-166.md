@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (186).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 166. Assembly, etc. control of orders and regulations.[^c14907731][^c-3e2868445aeae7525597ee09cf407850]
 

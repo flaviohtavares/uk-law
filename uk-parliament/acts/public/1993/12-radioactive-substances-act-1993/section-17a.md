@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2023-12-20. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 17A (Extent: E+W) (affected by repeal, see note). Review of authorisations and inspection of premises authorised in this Act[^c-c4d4961743ab21faedb9b65cf41d0860][^c-219ec3c811c540b8343eee293eb3dc14][^c-e9d0a9b304f40a37f2f17cfba4bdac53][^c-11668f4df0b6ec605ac78be05b1f2a61]
 

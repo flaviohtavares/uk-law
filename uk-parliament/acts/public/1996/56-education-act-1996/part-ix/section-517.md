@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 517. Payment of fees at schools not maintained by a local authority.[^c15252861][^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]
 

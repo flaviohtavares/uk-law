@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 188. Notification that company is in liquidation.[^c15573721][^c20432631][^c20432671][^c-75f99f8aa24095b4abd47e843e99cc48][^c-281face317decc6eef6a0512134b0a6a][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

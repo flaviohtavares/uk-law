@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/50
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 23. Termination of (affected by repeal, see note) tribunal’s (affected by repeal, see note) functions. (affected by repeal, see note)[^c-fc20bf788fddf36d09dbf266cb7b193f][^c-fc20bf788fddf36d09dbf266cb7b193f][^c-022c3478a2b7738f94988403c7e34c09][^c-fc20bf788fddf36d09dbf266cb7b193f][^c-fc20bf788fddf36d09dbf266cb7b193f]
 

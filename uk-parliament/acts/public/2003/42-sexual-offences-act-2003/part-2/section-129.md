@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (154).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 129 (Extent: E+W) (affected by repeal, see note). Effect of conviction (Extent: E+W) (affected by repeal, see note) etc. (Extent: E+W) (affected by repeal, see note) of an offence under section 128 (Extent: E+W) (affected by repeal, see note) etc (Extent: E+W) (affected by repeal, see note)[^c-30898360abe68d9ccbf000961635935c][^c-30898360abe68d9ccbf000961635935c][^c-30898360abe68d9ccbf000961635935c][^c-30898360abe68d9ccbf000961635935c][^c-da2118050e477f6f28ea87f1237ef2d1][^c-30898360abe68d9ccbf000961635935c]
 

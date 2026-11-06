@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 41. Careers advice in further education institutions: Ofsted inspection[^c-6e6884f68c9dfb7a59a0612e6f63587f]
 

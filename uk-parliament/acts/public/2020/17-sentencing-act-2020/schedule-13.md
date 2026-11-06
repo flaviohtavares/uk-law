@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 13 — Special sentence for offenders of particular concern: offences[^M_C_58e0e85f-822c-4e5b-c767-0b1561881a90][^c-ae9f90effa03225eb5530c9dab259c7d]
 

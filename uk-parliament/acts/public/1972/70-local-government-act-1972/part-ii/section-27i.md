@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, W..
 
 ## 27I (Extent: W.). Power of council for a group of communities to apply for an order dissolving the group (Extent: W.)[^c-cb46c61eab1dc86ac5c2f9d35fe4f6ad]
 

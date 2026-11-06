@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/50
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Northern Ireland (the versions of this text differ in extent).
 
 ## 120AD. Registered persons: copies of certificates in certain circumstances[^c-24283388b3ca9276f45b506c58d5b160][^M_E_fa2c35b6-53f0-4377-aa2d-2bd42f79b2fd]
 

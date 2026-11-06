@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 271BZB. Child witnesses in certain solemn cases: modifications of section 271A[^c-5bb059c9db7c3f0086ea901f6401e6d8]
 

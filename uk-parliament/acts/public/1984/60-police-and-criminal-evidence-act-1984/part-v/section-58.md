@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 58. Access to legal advice.[^c11324701][^c11324711][^c18893921][^c18895651][^c19560131][^c-8005bafd2943108d692af160185589ed][^c-e57c745dc3f437729f602d140d9a470b][^c-333b987fdd0ab2e8b961df8882bdfafc]
 

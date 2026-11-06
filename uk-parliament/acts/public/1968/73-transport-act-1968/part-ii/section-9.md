@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2024-05-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1968/73
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland; Scotland (the versions of this text differ in extent).
 
 ## 9. Passenger Transport Areas, Authorities and Executives. (affected by repeal, see note) Areas, Authorities and Executives.[^M_E_97dced1c-a6bd-4f8b-f3de-ba90710d73eb][^c-2c60cb638bcff2664f8f2274aed6ac7e][^c-6cf9f1324f527262840d83c1f48a9887]
 

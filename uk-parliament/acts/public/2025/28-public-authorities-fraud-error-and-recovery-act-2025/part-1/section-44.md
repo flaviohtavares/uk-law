@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 44. Suspension of deduction from earnings orders[^c-24a443d5990483423738b0dc79440ad8][^c-1a8bba37be8b844caaba0c4668ad0a7f]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (32).** Text as at 2025-06-19. See https://www.legislation.gov.uk/changes/affected/eur/2013/1306
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Wales, Scotland, Northern Ireland; England (the versions of this text differ in extent).
 
 ## Article 82. Access to commercial documents[^M_E_a5e09gab-jrro-q3om-67sp-66474a9f24e39]
 

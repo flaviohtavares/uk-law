@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2024-05-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1968/73
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 123. Power of highway and other authorities to contribute to cost of barriers, etc., at level crossings.[^c15333801]
 

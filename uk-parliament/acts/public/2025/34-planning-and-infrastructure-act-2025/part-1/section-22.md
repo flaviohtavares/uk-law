@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. Applications for necessary wayleaves: fees[^c-8bd81e166f4b62601f86b97165e2806d]
 

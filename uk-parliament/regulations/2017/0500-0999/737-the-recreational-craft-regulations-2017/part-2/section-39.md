@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2017/737
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 39. Authorised representatives[^c-ede4161f7e1735425b231a2cb58b1597][^M_E_dc6aa63a-245e-4b7b-c230-25e5f8b25bff]
 

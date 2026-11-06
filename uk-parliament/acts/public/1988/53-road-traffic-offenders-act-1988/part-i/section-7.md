@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (91).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/53
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 7. Duty of accused to provide licence.[^c18157711][^c18157721][^c18157731][^c18157701]
 

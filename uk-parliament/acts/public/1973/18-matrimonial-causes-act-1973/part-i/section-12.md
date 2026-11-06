@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-08-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Grounds on which a marriage is voidable.
 

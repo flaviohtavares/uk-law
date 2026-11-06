@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (71).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 13B. Alteration of registers: pending elections.[^c14479551][^c14479561][^c14479572][^c19642661][^c20058391][^c-c808b266f86cc189821437399f30d41f][^c-65560c276b27f51f257ad8c1584dd377][^c-bf6fc929efc8cd4ba5aeb03cfd0ebf96][^c-6a1d607fd26bcabea91fbca644637c17][^c-20f8b47d4ec19f3a2183c0aa92918997][^c-e3da6c977f36eb5ecb1546ea04411b7a][^c-68dd7c709e9e71656a4042ad24c2e9b8]
 

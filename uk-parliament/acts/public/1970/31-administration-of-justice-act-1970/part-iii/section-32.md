@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1970/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 32. Extension of existing powers of court to order disclosure of documents,inspection of property, etc.[^c9992121]
 

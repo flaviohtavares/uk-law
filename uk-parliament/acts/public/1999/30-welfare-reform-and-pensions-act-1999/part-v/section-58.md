@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 58. Optional work-focused interviews.[^c-e93cac438d0743046c3b80510b0f34c3]
 

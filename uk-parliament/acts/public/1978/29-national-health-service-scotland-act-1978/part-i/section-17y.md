@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## (not yet in force: 17Y). (not yet in force: Assistance and support: primary medical services and pharmaceutical care services)[^c20973301]
 

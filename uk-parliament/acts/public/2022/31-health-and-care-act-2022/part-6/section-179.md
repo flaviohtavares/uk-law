@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 179. Child safeguarding etc in health and care: policy about information sharing[^c-2339d8ad531cc3468fe4eff38bf87bf2]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 66. Functions of governing body in relation to excluded pupils.[^M_F_6cf2f6d5-5363-4a0c-9e13-f34a1dc1f49f]
 

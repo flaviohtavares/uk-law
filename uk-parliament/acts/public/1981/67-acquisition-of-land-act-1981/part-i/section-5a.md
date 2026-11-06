@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5A. Power to require information[^c-f86d15d3d35468300dee6430695fdcc5][^c-f8af215601e813d6d2eb118e780a6439][^c-1c9073dc7fffef29345a68238274c654]
 

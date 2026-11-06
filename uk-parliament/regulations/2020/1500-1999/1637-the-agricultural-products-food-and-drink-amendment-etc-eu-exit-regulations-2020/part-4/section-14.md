@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 14. The Wine Regulations 2011[^c-a5045b790d7a77654a04425976b7be49]
 

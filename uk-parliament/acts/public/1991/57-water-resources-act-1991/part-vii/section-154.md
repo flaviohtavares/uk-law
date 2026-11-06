@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 154. Compulsory purchase etc.[^c-8388e42e30601bdab0ad54dcea3e3143][^c-29ddfbff9fce7f9a17efee3e2b69f664][^c-9229ec19d210ef4163545a0aeabb7137][^c-55992c785ab6e15c7e722f78d099a9d3]
 

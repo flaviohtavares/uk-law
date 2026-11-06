@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 52. Appeal against veto[^c-ccba79bf64eff91ac26efb97074ee2bc][^c-8fd6ff5aba084733e5f966df0aed65cb][^c-4269cbfd26eb8b0c069211a17de87c26]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Education administration order[^c-c2947e3b06576ec24828cce17e7abfc7]
 

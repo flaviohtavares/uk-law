@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (96).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17B. Vouchers for persons with parental responsibility for disabled children : Wales.[^c-7376ac6aedf2578952c53c783aec7489][^c-d97e50f8fd132c8f70819eea48c71052]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 27. Application and interpretation of Chapter 2[^c-abbc9b9f4451c929114a52da908b950e]
 

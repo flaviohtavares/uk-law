@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12A. Right of first refusal for registered social landlord[^M_C_f9f7041a-760b-4dfb-b746-e04ccf09abe8][^c-8ae84532b5b73e228c31b3ad8c0f7a9e][^c-cf5002447317b9c61edd473d38606478]
 

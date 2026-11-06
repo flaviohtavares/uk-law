@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 154. Northern Ireland Practice and Education Council for Nursing and Midwifery (Appointments and Procedure) Regulations (Northern Ireland) 2002[^c-9aabb8d1eb7687fc7c342ed0bcfc661a]
 

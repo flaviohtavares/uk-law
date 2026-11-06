@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 62. Nature restoration levy: charging schedules[^c-6a960495f3446657683fb63920e5f077][^c-935d19415c11560c832e9142a28742d0]
 

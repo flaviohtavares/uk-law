@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36. Removal of maximum period for unpaid work requirement[^c-132642a261bf40adf606d9f6e8cf8399][^c-c23def6cb0ccfa51a489286463b64f03]
 

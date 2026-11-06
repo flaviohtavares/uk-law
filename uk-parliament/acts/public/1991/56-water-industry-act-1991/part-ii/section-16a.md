@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16A. CMA's power of veto following report[^c19758841][^M_F_941a0666-14b3-4384-e969-9d95b05ca6d7][^c-c7ae2f2f74af87c2e60173f29398f41c]
 

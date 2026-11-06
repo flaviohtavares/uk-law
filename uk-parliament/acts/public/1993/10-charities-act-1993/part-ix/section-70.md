@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 70. Relaxation of restrictions on wider-range investments.[^c-c19229d866e13afe36d39b34d22ef788]
 

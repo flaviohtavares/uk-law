@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 237. Interpretation of Chapter 2[^c-c17f5970750a9ea2339c3be74b09b383]
 

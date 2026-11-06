@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-22.
 >
-> Extent: England, Wales.
+> Extent: England, Wales, Scotland.
 
 ## 146. Existing assured tenancies to continue as [section 4A](https://www.legislation.gov.uk/ukpga/1988/50/section/4A) assured tenancies[^c-a1942783531ca4d1d1a587260e4f0563]
 

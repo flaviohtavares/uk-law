@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 259. Nuisances in connection with water-courses, ditches, ponds, &c.[^c611660][^c611661][^c-0d22f6694695547fe2d376ddc0ce72fa][^c-a61fc588436e08e55eac60caaddf656c]
 

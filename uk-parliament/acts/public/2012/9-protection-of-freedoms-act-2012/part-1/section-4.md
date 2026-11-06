@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4. Persons arrested for or charged with a minor offence[^c-1e409fc131360482e066af9ea90d2266]
 

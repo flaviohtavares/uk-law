@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 44. Major infrastructure projects[^c-26d7e5c80a4ccfa5fab44a4d88c83f2c][^c-f147bca60962ef6324d77e789b7b98df]
 

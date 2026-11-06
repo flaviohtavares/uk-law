@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 3. Inability to make decisions[^c2090552][^c-d74b9c7d6b0abf3dde52ef3ca579d618]
 

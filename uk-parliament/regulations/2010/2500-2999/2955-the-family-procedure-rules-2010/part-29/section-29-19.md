@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2955
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 29.19. Allocation of proceedings to another level of judge[^c-4e44f8eac2f31b2c9c4c85d1c9487d67]
 

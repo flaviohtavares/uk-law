@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 104. Disqualification for membership of committees and joint committees.[^c15105821][^c18860101][^c18889701][^c20528631][^c-3b7240a84deb0e3ac6a8dcd1a2843a81][^c-4a954e6abb73c2fc0030490aceec4318][^c-392ea1cb2fa55ae1cc72680c1dd2dbd0][^c-ceac6f079de2f688ba80146edb04a208]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1152
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 50. Monitoring[^M_E_60584efa-ae9b-406b-e8d7-694783f60237][^c-6b0a91f0fbfd2f7a675ec012ad9a4534]
 

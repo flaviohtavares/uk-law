@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. Duty to dismiss ordinary administration application[^c-2f06d0c02484bb7962b074f63d95236d]
 

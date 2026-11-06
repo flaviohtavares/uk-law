@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (34).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 175. Enhanced authorisation procedures etc. for certain surveys[^c-af5b991ed76bbabffb7619a2e4074890][^c-e828b13d159e817f122fa0877207f705][^c-329892eb0abcce8be9c4474ef60b59a2]
 

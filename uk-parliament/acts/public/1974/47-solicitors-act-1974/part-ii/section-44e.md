@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 44E. Appeals against disciplinary action under section 44D[^c-7e3c3cabd2ce4989a6c86eeb6214cd72][^c20571631][^c19663341]
 

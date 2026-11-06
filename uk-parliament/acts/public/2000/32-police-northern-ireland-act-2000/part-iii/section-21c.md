@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2016-05-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 21C. Other reports by sub-groups to Belfast district policing partnership[^c-59738e25fc09d5b5076c310d379af496]
 

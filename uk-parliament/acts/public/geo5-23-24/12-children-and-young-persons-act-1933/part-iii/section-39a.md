@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5/23-24/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 39A. Prohibition on publication of certain matters: providers of information society services[^c-9e4c7832bb0c691aa62b7aca0bbd727b]
 

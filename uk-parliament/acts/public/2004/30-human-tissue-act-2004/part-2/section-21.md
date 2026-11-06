@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 21. Procedure on reconsideration[^c-2434e88c2a0e055c2a7ce0132a253863][^c-9a4b6e1414b1d9fde81347ddac07961b][^c-1fa8c43c455e974a2ad18f85c4cb4620][^c-2a289e4cfe4dfd4a30138fdb021849cd][^c-43385babb410f23831df3fff6d132316][^c-6326ef0684cc31f4a27be5d4edeeaa1d][^c-4749444ce2b9b8e8ff059d8c762c5db7][^c-27d7df2cdfda35a06b154f00dac05e7e]
 

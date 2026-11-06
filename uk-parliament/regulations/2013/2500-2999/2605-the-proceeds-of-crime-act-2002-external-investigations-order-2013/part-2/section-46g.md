@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-04-26.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 46G. Holding of property: trusts and company arrangements etc.[^c-792d3d207261ae0143b4fac7ae821867]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 7 — Sixth forms requiring significant improvement: Wales[^c-8c57d0f59d2ae21c7ff18dcfc7f9feef]
 

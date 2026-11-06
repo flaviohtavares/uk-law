@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2017-09-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 8 — . . .[^c858967]
 

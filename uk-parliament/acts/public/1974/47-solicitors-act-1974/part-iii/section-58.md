@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 58. Remuneration of a solicitor who is a mortgagee.[^c13351201][^c13351211]
 

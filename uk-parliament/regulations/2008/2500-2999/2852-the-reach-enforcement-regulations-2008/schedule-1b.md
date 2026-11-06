@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 1B — Table of REACH provisions relating to protected NI imports[^c-8febe55d260fff47ffd0c0af04ff6852]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 88. Filling of casual vacancy in case of chairman, etc.[^c-e3f07d9eccf075d63bd36d76cc792d30][^c-1551ddf38c187376cac27b875c328132][^c-5a0b3fba4c43364fb4776cd4586ee41e]
 

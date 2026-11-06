@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 151. Membership and proceedings of IFC authorities[^c2007925][^c-cd859c6d9f975bd4ff7a3afb6df8dd59]
 

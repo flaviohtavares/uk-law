@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 690A. Branch registration under the Eleventh Company Law Directive ([89/666/EEC](https://www.legislation.gov.uk/european/directive/1989/0666)).[^c17418541]
 

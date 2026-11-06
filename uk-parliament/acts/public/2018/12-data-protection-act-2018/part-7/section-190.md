@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 190. Post-review powers to make provision about representation of data subjects[^c23269181][^c-579c3cd911e92166215a70e270b7943b]
 

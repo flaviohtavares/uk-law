@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 10 — References by Monitor to the CMA[^c-2206a4ed7c7aa2c9403368506b5be36d]
 

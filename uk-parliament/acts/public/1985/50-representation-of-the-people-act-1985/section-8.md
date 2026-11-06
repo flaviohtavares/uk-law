@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2024-02-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/50
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 8. Proxies at elections.[^c1039880][^c1039882][^c2014906][^c-3937c2e39ee26fad70d41d86bcaabed6][^c1039881]
 

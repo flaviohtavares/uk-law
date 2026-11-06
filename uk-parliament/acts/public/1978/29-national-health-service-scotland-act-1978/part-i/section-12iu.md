@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2026-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 12IU. HIS: power to require information[^c-8dd9cf4ba13d19266fa9ee22221f8518]
 

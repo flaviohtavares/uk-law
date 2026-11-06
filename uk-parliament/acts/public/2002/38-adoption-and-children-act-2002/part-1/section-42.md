@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 42. Child to live with adopters before application[^c-53673d9caf599d0421828ad8b7994139][^c-00ae06480429686cbbdef01be735da3e][^c-70f906b41be5ca4a6226121dc3aeb546][^c-ce22dbd2771efdf0593df7bf5495cba6]
 

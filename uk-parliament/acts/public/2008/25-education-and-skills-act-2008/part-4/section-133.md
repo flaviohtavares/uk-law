@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 133. Regulations under section 132: supplementary[^c-693bfe2b13382ec8c6613490392b3723]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## Schedule 11 — The Qualifications and Curriculum Development Agency[^c-e73c85fcf90e752c86e74f9817a4f74f]
 

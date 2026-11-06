@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 256. Power of NHS England or an integrated care board to make payments towards expenditure on community services[^c-0e5109ca358f597e7642b90ffcf98ef4][^c-c26379f595629655ada8a57e0d3d2bfd][^c-186bad0e952df75a366caa0d94ab4b83][^c-eba1436a30efaa41d2007ad005b295ea]
 

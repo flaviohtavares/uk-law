@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 147. Minor and consequential amendments[^c-9ff218d53e72bf5889abb441023d2781][^c-246ace1dc063979df14d53f2a5106709][^c-386ad4e86067c9e839d5eb3b12e79105][^c-a10174591f700a9cb9544518efb86640][^c-d19bfd0c0e219a2576b3a39c4eb40df4][^c-5163a9b0de4ae7e2524f46b989b65dad][^c-80687aae9277012286dd58547001484d][^c-256123cfe094b5955e63132c347fc0c4][^c-532871bb65cb3595bb70537cf401483d]
 

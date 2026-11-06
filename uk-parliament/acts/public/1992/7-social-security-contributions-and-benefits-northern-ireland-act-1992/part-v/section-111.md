@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (205).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 111. Workmen’s compensation, etc.[^c-4c42360cdf49608bf0dcfe1bcd7855eb]
 

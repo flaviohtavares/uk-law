@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2021-02-28. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 45A. Compensation arising as a result of diversification and cropping of trees[^c-000f649418acd4d36ab6bdc70b6cc195][^c-288996eb104df12ebc606edc7957cae7]
 

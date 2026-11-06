@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 49. Form and authentication of documents.[^c-2483e8fe05b3fa3ac8f102715a180088][^c-e9278188990452858ba385c84b1bc962][^c-a73e9d21838c31e403069610c9cfe7be][^c-ce9e8a642fd6608ac760a275697321f7]
 

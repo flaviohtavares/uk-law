@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 11. Qualifying institutions[^c-ea806ca573afa13e5bf47c625e22e6a7][^c-98224d60ebd886619073790c1218fa75]
 

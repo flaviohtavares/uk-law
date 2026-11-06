@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-29.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 4. Effect of re-employment.[^c8663091]
 

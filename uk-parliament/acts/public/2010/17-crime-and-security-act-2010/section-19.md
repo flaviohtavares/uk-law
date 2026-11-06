@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 19. Material subject to the International Criminal Court Act 2001[^c-d9e71a2b9923e6c318c5c92fa189f678]
 

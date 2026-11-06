@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2017/1012
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14. Consultation as to inclusion of site omitted from the list[^c-63617f3b38ab0451b01e240cdd86ff11]
 

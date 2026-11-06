@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Funding for service integration[^c-3a45dd6e8ffdf9f9acc212147676869c][^c-9693462305bad9999b2aeb0df8c84f69]
 

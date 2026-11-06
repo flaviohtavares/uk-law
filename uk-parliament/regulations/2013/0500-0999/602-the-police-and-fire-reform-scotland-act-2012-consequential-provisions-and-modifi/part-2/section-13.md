@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2024-05-01. See https://www.legislation.gov.uk/changes/affected/uksi/2013/602
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 13. Provision of goods and services[^c-fc8183bd16f99ebf45f2ac0f767f1b63]
 

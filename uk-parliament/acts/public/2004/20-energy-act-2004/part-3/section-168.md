@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-09-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 168. Modifications of particular or standard conditions[^c-ff7feef9d22a3fd2cc0771dbd7db2540][^c-6ecbca2562a3c5581953b7d8588ba2fd][^c-9a9ba38510a5e178498ff389b22b0a31][^c-656e02a0185857c795b0c6d274c17389]
 

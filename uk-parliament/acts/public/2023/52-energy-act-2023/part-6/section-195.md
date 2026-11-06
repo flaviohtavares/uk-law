@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 195. Directions under section 194[^c-f568311785cec7325a85f0df7459c939][^c-b5ee1553f9d94fa0340a7670e4f298b1]
 

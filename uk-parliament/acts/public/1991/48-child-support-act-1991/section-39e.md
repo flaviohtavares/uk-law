@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (110).** Text as at 2022-03-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 39E. Variation and revocation of orders following payment[^c-37aa56a290809b52ab922f52cc1c530a]
 

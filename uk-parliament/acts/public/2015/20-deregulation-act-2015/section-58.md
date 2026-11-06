@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 58. Household waste: de-criminalisation[^c22547891][^c-56c96ac62b395198ded9ab48a1985e32]
 

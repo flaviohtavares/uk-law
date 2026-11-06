@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (13).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/3
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 8 — Part to be inserted as Part 4A of the Police Act 1996[^c22720221][^c-5700ad47bb8fe988b1b289ccb7c28b04]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 112. Duration of transitional period (affected by repeal, see note)[^c-3de1e579bf1e1dc2a66e20053d4738d6][^M_F_1e6e68e3-bf1a-4895-cc7c-731b9d698999][^c2191309][^M_F_1e6e68e3-bf1a-4895-cc7c-731b9d698999]
 

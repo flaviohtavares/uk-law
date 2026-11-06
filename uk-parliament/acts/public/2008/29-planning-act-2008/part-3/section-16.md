@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16. Electric lines[^c-744a66e05baf103b6e3d4b9770d7861d]
 

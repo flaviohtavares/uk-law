@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1976/63
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9A. Bail decisions relating to children or young persons who are accused of offences mentioned in Schedule 2 to the Magistrates' Courts Act 1980[^c-50e4432e2c0db9822bd142ea6841f50d][^c-ee738d22d131578af2a4c6c8dc5830d5]
 

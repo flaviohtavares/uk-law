@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. Crime and disorder reduction grants[^c-b8373446a866c5cbeade569b7bec9ecd][^c-64d600e7cab66808916baa197ce95d4c][^c-b55a0d5aa3473fbe7a9b823eb484cbf8]
 

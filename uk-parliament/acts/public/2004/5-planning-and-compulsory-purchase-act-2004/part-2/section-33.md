@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 33. Urban development corporations (affected by repeal, see note)[^c-4a34b2bcc89a9370b56261e8e0aefa83][^c-8a97c92a490e3d72a39742f1fe777c91][^c-66b206efe3e504a200801217f5a84a3a][^c-66b206efe3e504a200801217f5a84a3a]
 

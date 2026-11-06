@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 34. Programme of enforcement action: Wales[^c-6ab40c47e50a8388fc873f61ee1da30b]
 

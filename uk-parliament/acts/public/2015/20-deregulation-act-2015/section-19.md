@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 19. Insolvency and company law: miscellaneous[^c-b599a222c9f7855cd81847f5b21091ad][^c-e276f8c2dd031a18207d1c2387ca6d9b][^c-ae11b466944bb27a5ebccbc53271962b]
 

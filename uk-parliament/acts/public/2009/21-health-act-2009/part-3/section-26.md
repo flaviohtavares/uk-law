@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 26. New arrangements for entry to pharmaceutical list[^c-c294c5f20192956924619c64f43a0acc]
 

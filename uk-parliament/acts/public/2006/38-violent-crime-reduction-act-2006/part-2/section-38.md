@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2021-07-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 38. Meaning of “realistic imitation firearm”[^c-e45571ca69c5091a33b31f009a14c42c]
 

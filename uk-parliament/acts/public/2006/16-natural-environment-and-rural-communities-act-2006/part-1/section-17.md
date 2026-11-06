@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Commission for Rural Communities[^c-9d3ecc9523cacaafb2ebb6555303d3eb][^c-cbe9b57a1fbf78079064c233a3162261]
 

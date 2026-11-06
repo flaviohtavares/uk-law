@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Appointment of health and safety lead by registered provider[^c-b362cd83ef06e5694518058d2e08ded1]
 

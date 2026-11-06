@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 1. Fire and rescue authorities[^c-5e415b9b199d0809e5cde7ddbf9d9e6a][^c-cbd02b100333aa961b77c00911ec16dc]
 

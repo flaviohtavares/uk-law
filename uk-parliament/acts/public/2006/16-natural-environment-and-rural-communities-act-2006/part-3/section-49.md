@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 49. Registration etc. of certain captive birds[^c-60b6ddd99e88f275d2217506b1fc0401]
 

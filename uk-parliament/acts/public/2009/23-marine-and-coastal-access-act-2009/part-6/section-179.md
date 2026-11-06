@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 179. Supplementary powers[^c-6c40c3f3d3d2588bf47ef225fda874e6]
 

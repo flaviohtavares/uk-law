@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 1 — Section 1: exceptions
 

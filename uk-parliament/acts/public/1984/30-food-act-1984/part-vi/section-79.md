@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-18.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 79. Right to have samples analysed.[^M_F_ae705862-477e-4310-a965-e2852ac45852]
 

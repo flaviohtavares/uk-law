@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 90A. Codes of practice: public service pension schemes[^c-d94d6c31babd7b6874e7525991978a42]
 

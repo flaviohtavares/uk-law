@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 51. Agency workers who are not otherwise “workers”[^c-c539abadc1329748020210857c1202fb][^c-4cc46879287bb63ab5dcd6fcf2e58998]
 

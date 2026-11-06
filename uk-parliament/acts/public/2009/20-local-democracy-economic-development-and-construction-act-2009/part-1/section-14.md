@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14. Requirement to take steps[^c-bbcf8ca1b7d2008ee1015b20b13e624d]
 

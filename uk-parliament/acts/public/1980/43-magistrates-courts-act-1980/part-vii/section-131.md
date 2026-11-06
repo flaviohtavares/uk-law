@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 131. Remand of accused already in custody.[^c19422571][^c-d7f7350a214da36f70d4a0c407c13f57]
 

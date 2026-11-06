@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 73. Repeal of duties to promote autonomy[^c-a5045eafeafb0122f4ddce2d70c7eabf][^c-889a3def5aeab74e6585b45e6c389def]
 

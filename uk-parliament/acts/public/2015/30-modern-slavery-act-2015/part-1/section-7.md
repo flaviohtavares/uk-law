@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7. Confiscation of assets[^c-b1c40f6e9f13126e13921db8339db3ed]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Development of policies by ITA no longer joint duty with district councils[^c-9136fcf8d06dfe5f60392df42e9aa438][^c-55b8c20f27e17eab8d69591f4e29979d]
 

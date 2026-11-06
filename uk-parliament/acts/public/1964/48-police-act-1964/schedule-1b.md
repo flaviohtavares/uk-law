@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## Schedule 1B — POLICE AUTHORITIES ESTABLISHED UNDER SECTION 3[^c11165941]
 

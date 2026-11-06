@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 113. Section 112: exceptions[^c-2d861b0211054972f3676b277409c6df][^c-f8be3343370f9541a04fb6d681c310c7]
 

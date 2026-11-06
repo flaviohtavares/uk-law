@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 320. Repeals and revocations[^c-c0cc46b462dd6a7ab07af9d446c16703][^c-d3df942d1ae8ae091b511b26511a379f][^c-7f77f75f0fb2f4e66927d697c9b03d00][^c-8e11065ea6167b7ebbeeda58e4f0c0b1][^c-28ef7d2beacc14d1f663cc95860e9927][^c-d7be5d0f31f0c3412161f8611651cd68][^c-5715bdd008acf7cc1afc074759ea9703][^c-ea173202f998b643f83a4f8df9db344d][^c-0846949fdb421d6df47d86f650278e93][^c-9cb565c8a44bdcad1a1f93b43340096f][^c-8437de4bee577debbdfcc491d3d90fa1][^c-2a1dd165c8cd167ad654dcee0429e3bb][^c-ad07cd9d67a4f34c4227aa6c144ce078][^c-6a976b4200e2787d4f92c42b77d0df0d]
 

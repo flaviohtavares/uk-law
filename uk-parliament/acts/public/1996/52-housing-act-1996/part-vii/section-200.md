@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 200. Duties to applicant whose case is considered for referral or referred under section 198(1).[^c13154281][^c-3c7ea06a6b6b491fad21b85cfa98e346]
 

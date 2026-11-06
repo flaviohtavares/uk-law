@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-02-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 7 — The Scottish Higher Education Funding Council[^c-a466d79933fba07dbae330fed3282276]
 

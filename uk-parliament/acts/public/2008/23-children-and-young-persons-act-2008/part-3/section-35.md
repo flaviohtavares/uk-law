@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/23
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 35. Extension of period allowed for making regulations under section 45 or 46 of the Children Act 2004[^c-5a7484c510d22ab326f78441d05703e7][^c-56da2a3de51406e650ba502d4f8cdb99]
 

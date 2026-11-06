@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 11. Commission Implementing Decision (EU) 2015/1554[^c-1d3dc40b5bd65c9fefbd32228da7a4c2]
 

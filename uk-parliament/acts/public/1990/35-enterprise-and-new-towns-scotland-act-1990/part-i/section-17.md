@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2017-04-01.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 17. Encouragement of women, members of ethnic minorities and disabled persons to take up certain employment opportunities and training[^c-031cd3c832bd8f16ceb656717dafb766]
 

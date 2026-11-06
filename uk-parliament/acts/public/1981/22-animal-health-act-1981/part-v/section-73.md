@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 73. General offences.[^c-0bef24db6ad5e4184c71fb5afa9bc832][^c-e384933ed08918f6eae6f189eea826ba][^c-986bc63a168bb097a511f2bab83f3c68][^c-26711c389cabda0c590db45d39c82050][^c-a7ba0bfe5228e421f40e8219384e02cc][^c-7ad27c24a6eeaf2801b3222df1862d7c][^c-617a727c988141411ab12a4b7b2ddf0e][^c-805509409d96e95236e1935f7dec7558][^c-2a36affd9857445c468b13b492edd326][^c-8a83aeeb75bab8da3b63a0628ad242af][^c-15c30c0a8466e349c4003938e9024612][^c-60bf1435e6393997244c36a247a688b9][^c-4b53391f6f9bd2ace35008d5eeedc3be][^c-f19e2987560c6b2ebff1a4350500af98][^c-6269af98295d0924dd5299e361c6f154][^c-555a647114bfc37c79f3b561864c02dd][^c-3e1b39d5787a0b62ac7f57246aeedb34][^c-7c8b5481a12ce3ce8bc8806af8a46a61][^c-69caa553974d961f29c9c8a45182b649][^c-0d58b835e90b1d36fb3ebd7686eb1578][^c-2c4fa29745edd3fee4e30c801e1360b3]
 

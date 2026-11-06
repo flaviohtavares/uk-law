@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36D. Assignment of circuit judges to civil partnership proceedings[^c-62b0b052a8a9e91a5feb25596fca0fba]
 

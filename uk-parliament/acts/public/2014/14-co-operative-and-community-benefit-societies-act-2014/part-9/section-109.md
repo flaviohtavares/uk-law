@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2023-08-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 109. Amalgamation of societies[^c-16440486dd05311246dbd7a4b99c00b2]
 

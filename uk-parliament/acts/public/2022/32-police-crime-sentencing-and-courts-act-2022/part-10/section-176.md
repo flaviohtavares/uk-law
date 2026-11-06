@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 176. Sexual risk orders: power to impose positive requirements[^c-ec3f3ac8de59bad220e55cc0ca931613][^c-3ddc34fad55e1179b45ec02d146db666]
 

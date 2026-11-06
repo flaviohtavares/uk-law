@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (186).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 139E. Effect of alteration of rates of personal independence payment[^c-80255be7eaf184fdeb53f26a9375405b]
 

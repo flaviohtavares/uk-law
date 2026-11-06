@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4. Powers: general[^c-378683cea9889c53906c01865a106d06][^c-f8c84e0d6a0980f9316edc00b72d6ff8][^c-3377c4dd65310b649368641d7348374c]
 

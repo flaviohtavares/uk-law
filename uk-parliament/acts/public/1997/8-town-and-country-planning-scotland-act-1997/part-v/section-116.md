@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 116. Power of Secretary of State to acquire land affected by orders relating to new towns etc. where blight notice served.
 

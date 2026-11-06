@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (25).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 46ZA. Enforcement of household waste requirements: Scotland[^c-99d89304a753a6554e1acf180bf120b1]
 

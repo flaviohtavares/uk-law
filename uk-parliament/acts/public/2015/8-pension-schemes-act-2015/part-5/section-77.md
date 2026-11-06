@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 77. Payments into Remploy Limited Pension and Assurance Scheme[^c-6d675cf76272b0f7058566d7238d55f3]
 

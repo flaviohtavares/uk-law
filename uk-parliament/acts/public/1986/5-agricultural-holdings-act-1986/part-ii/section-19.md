@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19. Settlement of disputes as to distress.[^c-60c564937f8f7c458c8415db4c7f0dfa]
 

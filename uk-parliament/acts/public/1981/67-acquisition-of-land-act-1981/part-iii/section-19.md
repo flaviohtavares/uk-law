@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19. Commons, open spaces etc.[^c-e95e9173edf3be8cb2ac2492cc18cc41][^c-27c2afdbb55fbbb7ea8e9b9fe2879319][^c3314141]
 

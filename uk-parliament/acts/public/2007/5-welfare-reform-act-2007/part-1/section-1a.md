@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 1A. Duration of contributory (affected by repeal, see note) allowance[^c-0cc61594507bf74ca8c4da1af02f2b9b][^c-9fc9d4781c6010778972480c3c055205]
 

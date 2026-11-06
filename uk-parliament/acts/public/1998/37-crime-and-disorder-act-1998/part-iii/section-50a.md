@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-06-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 50A. Order of consideration for either-way offences[^c-6990dacca6729bed376d40d3170b8b07]
 

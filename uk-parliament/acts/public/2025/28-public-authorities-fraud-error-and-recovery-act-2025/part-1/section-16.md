@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 16. Recovery orders[^c-e638cadfdb68016c449ee3ade31bec6b][^c-9865da71d4e8408da37264d20aa050a6]
 

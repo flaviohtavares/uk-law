@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6. Powers for regeneration, development or effective use of land[^c-d4ebb26cb864a0e9865d064baebb64f0][^c-685e5eb24fe1ab95f2c39712a1b1e863][^c-d5d0d53d47bf8cbf0995fdb96e7e3ec0][^c-fa87cd6f30c7fd299863b693b0cc0929][^c-9fc578cb02ce8e8953e49668ef430848][^c-d7941f198a08a83a733f41c75f3303d0][^c-506525d9601bae695c3d7e908152dba2][^c-56f30b92434ddf6d820ab31baf1969fb][^c-361a89d9a9ffc202affaf2d9e6b26785][^c-358b4a6b94f18e8e38db836c51c14a89][^c-6a8339de29a5dac5657b7afb030213cf][^c-0b9a8d6c08e42cd7bc4257e57e58012f][^c-cb9161416000981239a68ee9659fcf90][^c-234fcb2ca9835463147e650dade14e18][^c-0cbeced7adce654635afae1760945515][^c-b473cad868dfc5e1b004231e22893571][^c-e55ddd8ecf4dffeeb593a2bf14f2c46a][^c-181668102cedf75599ace83d8c99c49c][^c-96396265e555cef2018631befff89943][^c-c4e8158af0841c8a243df83312f08196][^c-7b25a877cc3f317ab1768d77e5eaaf41][^c-4b7e64ac437c7d6ba3ab98113c4de111][^c-2a91ca5c7b3af245caf592d9d7b10948][^c-c148e841b26c0b07c499a37f706ba4c4][^c-4cd8df6ba5b158123fe5cef04077d7d0][^c-56f30b92434ddf6d820ab31baf1969fb][^c-361a89d9a9ffc202affaf2d9e6b26785][^c-6a8339de29a5dac5657b7afb030213cf][^c-cb9161416000981239a68ee9659fcf90]
 

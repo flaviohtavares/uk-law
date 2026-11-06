@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 54. Notice of future service charge demands[^c-39a8305fe41a969e49815fc4a1dd0539]
 

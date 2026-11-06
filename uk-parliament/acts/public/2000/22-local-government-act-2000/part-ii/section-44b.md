@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 44B. Election of leader: partial-council elections[^c-0748a72f4a0f7fb8cf4f8d0d325a954a][^c-010782dd9c92f0293c3c81e78f26244b]
 

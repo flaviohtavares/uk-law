@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 3. Preparing and issuing the victims’ code[^c-5dc7a57c05cce9cb10e5614e2606b14f]
 

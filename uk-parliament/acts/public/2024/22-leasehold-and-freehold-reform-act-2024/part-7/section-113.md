@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (110).** Text as at 2025-03-03. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 113. Regulation of remedies for arrears of rentcharges[^c-5328ca9d3d571d76bbcfa56b7d687d2f]
 

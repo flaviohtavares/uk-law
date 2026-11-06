@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-02-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 55. Amendment of section 7 of the Teaching Council (Scotland) Act 1965.[^c-cf44e833f900bbce0cb5925920f9d9b5]
 

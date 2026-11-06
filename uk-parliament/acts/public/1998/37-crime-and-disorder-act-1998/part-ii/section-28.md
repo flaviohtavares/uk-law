@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-06-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28. Meaning of “ racially or religiously aggravated”.[^c9523721][^c9523731][^c21260641][^c21392141][^c21398141][^c9523711]
 

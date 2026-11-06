@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 137. Inheritance (Provision for Family and Dependants) (Northern Ireland) Order 1979[^c-9b62c11036ffa2f936f3aed244bf3973]
 

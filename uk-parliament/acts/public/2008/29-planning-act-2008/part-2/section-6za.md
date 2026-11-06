@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 6ZA. Review: supplementary[^c-7d16af01b0d2de09a96f80415f3a660b]
 

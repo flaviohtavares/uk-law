@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (156).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 100ZA. Responsible person’s determination of means of voting[^c-9b45451656ee33c917aad030567253bd]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. Exercise of police powers by civilians[^c-b14943e31f5adf9ddcbf3d562d39e6f9][^c-137b15df5316acfbfe2eb3c2de7c8225]
 

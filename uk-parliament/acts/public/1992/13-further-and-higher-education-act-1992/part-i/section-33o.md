@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 33O. Dissolution of sixth form college corporations[^c-4b40374447c5ae00484de6e41d53f704]
 

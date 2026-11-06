@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 35. Duty to keep records relating to annual leave[^c-9fdaa477551180b73729485e0b01a127][^c-d21af88a4a826423310ccb99509eceaf]
 

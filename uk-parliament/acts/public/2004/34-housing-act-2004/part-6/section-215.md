@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (145).** Text as at 2026-06-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 215. Sanctions for non-compliance (affected by repeal, see note) Sanctions for non-compliance[^c2072448][^c-9ab360041a0c80f9211628941af90f82]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 160. Housing complaints made to a housing ombudsman[^c-52a408ac26937b29121301854f3713b0][^c-ab8ddfbf5c1879830331a7258aadfac7]
 

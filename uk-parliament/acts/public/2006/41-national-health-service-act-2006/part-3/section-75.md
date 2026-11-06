@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 75. Arrangements between NHS bodies and local authorities[^c-5960d9540de81817c24d3e38bcbd9534][^c-bf8370c87f641028ec1a1d7b8618564a]
 

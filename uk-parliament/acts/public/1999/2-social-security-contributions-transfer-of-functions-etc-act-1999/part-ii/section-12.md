@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-08.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 12. Exercise of right of appeal.[^c11210581]
 

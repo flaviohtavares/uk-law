@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-05-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 144. Power to establish single regulator of insolvency practitioners[^c-917da05a74927464177dcca054cf2053]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1597
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 2. Interpretation[^M_E_2386d97e-9489-472b-d87a-e2824ff4e84a]
 

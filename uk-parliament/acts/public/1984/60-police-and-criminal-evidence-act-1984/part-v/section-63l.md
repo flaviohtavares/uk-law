@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63L. Retention of section 63D material: persons given a penalty notice[^c-4ad70f544eaaa79425d7ea6371bec2b0][^c-1361d9ffdfb4d390d2d254201cc49d4a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (105).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 122. Duty of insolvency practitioner or official receiver to give information to scheme trustees.[^c-435ef315c5e0b87dadec0ce6e41ca2b0]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 5 — The Qualifications, Curriculum and Assessment Authority for Wales[^c-5c04351123083ac978069bd92d3e95b5]
 

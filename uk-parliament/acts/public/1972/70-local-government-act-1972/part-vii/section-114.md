@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 114. Security to be taken in relation to officers.[^c15107201][^c15107211][^c15107221][^c15107231][^c18858381][^c18891391][^c20521001][^c-8fafe89064f4c009f1abc0056e24a654][^c-118fc077afb2740e963c7fdda378c472][^c-568cc38541e16153fddd972a2c963ab6]
 

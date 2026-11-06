@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 123. Registrar to have same responsibilities as sheriff.[^c-b700ad1f1e467acd8b54452b41dd45ad]
 

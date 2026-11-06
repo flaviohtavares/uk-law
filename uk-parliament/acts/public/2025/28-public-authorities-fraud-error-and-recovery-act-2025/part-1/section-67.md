@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 67. Authorised officers[^c-305319683a1ce9de667d8ff8668f052b][^c-6422623c8e8c3e39e8969e9dc4cc5231]
 

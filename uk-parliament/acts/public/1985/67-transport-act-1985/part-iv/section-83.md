@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (54).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 83. Provisions supplementary to sections 81 and 82.[^c-27890099608df53aa49f7782fbd18013][^c-e51fdfaa01a65e0933d0cdb7bc3709de][^c-27890099608df53aa49f7782fbd18013]
 

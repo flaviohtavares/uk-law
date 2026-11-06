@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2001/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 130. Remands and committals to secure accommodation etc[^c-b9f87c821a41deccfedc8c7f8c5871a7]
 

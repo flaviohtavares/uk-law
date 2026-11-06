@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 183. Effect of execution or attachment (England and Wales).[^c20432301][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-b0998e9dd39755cb489d9b792540833b][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

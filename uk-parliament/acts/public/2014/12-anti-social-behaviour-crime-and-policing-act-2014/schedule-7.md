@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## SCHEDULE 7 — Schedule to be inserted as Schedule 4B to the Police Act 1996[^c-5574ef1826f3cee13f190fd6926d5843]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 30. The responsible pharmacist[^M_I_8d9b05a8-edc9-4eeb-81de-0d47fd084f07][^c-1249d3f7d28210735bb88aa70b7999cd]
 

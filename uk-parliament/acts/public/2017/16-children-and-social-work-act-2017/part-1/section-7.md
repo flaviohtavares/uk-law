@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7. Maintained schools: guidance for staff member for looked after pupils[^c-81b34a3e65e0b2677417407d96481a6c]
 

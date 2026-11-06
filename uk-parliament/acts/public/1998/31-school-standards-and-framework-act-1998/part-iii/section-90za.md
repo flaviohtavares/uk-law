@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 90ZA. Regulations by Welsh Ministers under sections 89 to 90[^c-414e1a7f8ee815f035d55e494f9e1549]
 

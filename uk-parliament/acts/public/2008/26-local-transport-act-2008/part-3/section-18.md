@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 18. Regulations about schemes which specify frequencies, timings or fares[^c-957f85778088d8f3193e94708790f1cc][^c-2d5c5993f423027fbdf48ec522d47e12]
 

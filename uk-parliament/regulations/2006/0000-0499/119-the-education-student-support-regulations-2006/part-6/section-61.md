@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 61. Quarters in respect of which the loan for living costs is payable[^c-cffd2a59a6d9484badaf029d5fc2160a]
 

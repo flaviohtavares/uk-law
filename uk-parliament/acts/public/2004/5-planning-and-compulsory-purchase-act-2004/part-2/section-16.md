@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 16. Minerals and waste development scheme (affected by repeal, see note)[^c-8c05cacf0e9b883779d0830a82f8c23a][^c-eae81633400bcb099ba3f4f0208a5d7c][^c-66b206efe3e504a200801217f5a84a3a][^c-66b206efe3e504a200801217f5a84a3a]
 

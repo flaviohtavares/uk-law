@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14. Discharge of functions: mayor and cabinet executive[^c1427814][^c1427815][^c-b3eca01c9efc18d4933c19d87c5a31ca][^c-1b3d7274a9e219936f20d9c7ddd60093][^c-8ec2b2099e1461a89b9dec5d3ed75fcc][^c-d877af4e080a6528c69f9f6a827881f8][^c-a952953e532f28ce7826a15901ba3b4a][^c-93357aa255f88e7edb01de68962967ca][^c-b3eca01c9efc18d4933c19d87c5a31ca][^c-bd12582b280edb3013810651fb3919ea][^c-e5bd8fb0e658fb81a6c7213a5e861520]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 104. Evidence of consent[^c-0dcf1e4e99f72480e6514fdd3064e1ed][^c-b05ec4ca44c4bad12b9347003e0dacf2]
 

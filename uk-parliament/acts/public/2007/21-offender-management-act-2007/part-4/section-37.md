@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. Financial provisions[^c-eb2d21a19460f64f9645d57a81c0fcd9]
 

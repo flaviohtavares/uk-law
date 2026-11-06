@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 134. Responsibility for setting licence conditions for fixed-term prisoners[^c-96f514a8e7b5fe799ca8a939d7237a20][^c-6420352c89b6116c24ccf0a59b6d18b3]
 

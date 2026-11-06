@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 51. Fees of superintendent registrars for attending marriages in approved premises[^c-eee443844fca27b096765aa8b9e8f415]
 

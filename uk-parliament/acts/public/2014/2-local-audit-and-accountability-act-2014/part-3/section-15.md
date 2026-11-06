@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (173).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Further provisions about liability limitation agreements[^c-63e84935df61e8d4230cebb9edaa9efe]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 40. Power to impose attendance centre requirement on fine defaulter[^c-1894a038aca5f68f32709e32ed9ac306]
 

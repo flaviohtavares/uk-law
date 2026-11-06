@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 129. Regulations as to pharmaceutical services[^c-d325f4972c3c1cacb2b3a5164c1163f7][^c-955b0c4bfe467f768a09b55f87a2acb1][^c-74708c8c1e3b504f7c01f5ed9a38f40a][^c-eb9f3e484ef140bd64a70fe931a2ed0d][^c-949c9b32a4851d065f406819bc392e62][^c-42376294dcbcb33e3812585913b006a0][^c-0c43518619353bb53c18651b0b4d2897][^c-4209d2ffe36994060febe96ad557653f]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 96ZA. Procedure for regulations under section 95ZA[^c-609b278fd9fac27dbe35f9667ae2fa1e][^M_C_19f7d93d-9ccc-4915-9aa4-0275eaddedbf]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 22. Directions to the appropriate agency to consider minimum acceptable flow.[^c-ec6f448e11e508d8a0f5032cf79ee25e]
 

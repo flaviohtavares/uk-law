@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 45A. Court orders for production of date of birth lists: Northern Ireland[^c-fb21ab6b63acd740828d3dd4326266af]
 

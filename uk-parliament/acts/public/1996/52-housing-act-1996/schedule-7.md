@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 7 (affected by repeal, see note) — Assured tenancies: schedule inserted after Schedule 2 to the Housing Act 1988 (affected by repeal, see note)[^c13158231][^c-aabe13b54877bbcdda92b8dcc0314830][^c-aabe13b54877bbcdda92b8dcc0314830]
 

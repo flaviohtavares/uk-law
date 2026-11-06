@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/23
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 34. Independent review of determinations relating to adoption[^c-461eb561468eb3ee20e8b51c0d5cc216]
 

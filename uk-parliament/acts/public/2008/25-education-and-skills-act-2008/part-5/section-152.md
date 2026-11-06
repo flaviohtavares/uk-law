@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 152. Sixth form admissions etc: appeals[^c-a383e19c1f57a1ce2aca350d31d57d2d][^c-9152be1cdf501be010de01c7ef226b71]
 

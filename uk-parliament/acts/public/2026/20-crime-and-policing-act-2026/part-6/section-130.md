@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 130. Stalking protection orders: Northern Ireland[^c-ca3e3b3484f016def80574f4fe6f8a64]
 

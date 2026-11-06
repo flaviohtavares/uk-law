@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2007-09-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 21. Miscellaneous amendments relating to statutory sick pay.[^c1002859]
 

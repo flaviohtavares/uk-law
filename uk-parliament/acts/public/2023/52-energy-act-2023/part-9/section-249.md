@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 249. Licensing of activities relating to load control[^c-98712f1583373709316b962b18e5e24e][^c-e2381593219e40160cbaf202715dee49]
 

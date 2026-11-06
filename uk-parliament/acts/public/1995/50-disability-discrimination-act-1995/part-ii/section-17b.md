@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-01-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 17B. Enforcement of sections 16B(1) and 16C[^c20742371][^c20837221]
 

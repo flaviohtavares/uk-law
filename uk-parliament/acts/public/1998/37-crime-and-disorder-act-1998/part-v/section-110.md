@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-06-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 110. Calculation of period of detention at customs office etc. where person previously detained.[^c-784715d80ca444bc8018ebdabfe8e23b]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 171. Provision of advice, analysis or information[^c-3422e19746f6971821eae985b2391fcf][^c-80797cea1a9a74b1430acf81893ffbd5]
 

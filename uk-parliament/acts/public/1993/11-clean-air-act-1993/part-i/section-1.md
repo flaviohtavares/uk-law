@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 1. Prohibition of dark smoke from chimneys.[^c10490211]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2015-04-13. See https://www.legislation.gov.uk/changes/affected/ukpga/1963/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 56. Prosecution of offences under Part I or Part II of principal Act.[^c-c000df41a7641519e3530020de959675]
 

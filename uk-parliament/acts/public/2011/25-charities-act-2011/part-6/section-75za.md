@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 75ZA. Power of the court and the Commission to make schemes[^c-0dc01b9891fb1bcb224636ce294a4b0f]
 

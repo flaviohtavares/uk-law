@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (139).** Text as at 2026-07-08. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 145A. Entitlement after death of child or qualifying young person[^c-70a66b248b49e3118abc41a4a6ac03f2][^c-795a096000a9c51878c4d6f58612be31]
 

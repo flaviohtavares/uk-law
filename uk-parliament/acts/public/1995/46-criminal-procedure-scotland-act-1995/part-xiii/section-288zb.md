@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 288ZB. References of compatibility issues to the High Court or Supreme Court[^M_C_c9d87c42-32f0-4492-f6b7-6914a4a7ce3f][^c-882aa22fdb7caae8e044f5c4c6bae05d]
 

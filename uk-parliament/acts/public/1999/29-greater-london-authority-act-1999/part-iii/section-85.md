@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-08-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 85. Calculation of component and consolidated council tax requirements.[^c12801271][^c12801281][^c-cd5698e23e0dd7b13b11ef5064ae6cf5][^c-0e0141932812dd700fe70e486e6084fa][^c-f5e183fbceefd6df933a5fe8f9a6404d][^c-aebc73fa9ead56ac2efa9cd836c84315][^c-2346ca10609892ab813c29a20e7a6e0b][^c-19d83caa9881ac880ad443c1ef21b3da][^c-dc27e81f1c38fee2f30b823756607e8f]
 

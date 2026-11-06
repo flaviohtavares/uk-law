@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 49. Abolition of Urban Regeneration Agency[^c-27987352df6f79143f996f12cd48f815][^c-7eb0aedf397c5e1f7f01e3e092e3a04c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (96).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 17ZD. Parent carers' needs assessments ...[^c-0144fbc125d226114837b822ce8a3519][^c-ed5c1b510722ce5a95d9f4ab516df5a4]
 

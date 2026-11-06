@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 9 — Use of land: power to override easements and other rights[^c-2359f2f1282f55cef625eb2a9c5caa72]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 124. Breach of obligation[^c-4fffa5d5f256914ee7b340f695fecfd5][^c-bdf9e746f31f499169bb65e3ead19ddf]
 

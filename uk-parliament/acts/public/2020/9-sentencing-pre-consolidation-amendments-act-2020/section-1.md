@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. Consolidation of sentencing legislation: amendment of law for old offences[^c24230941][^c-f6d882c76955fac510d537930e077de1]
 

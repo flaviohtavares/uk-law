@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1092
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 60. EU safeguard procedure[^c-fd647dd7dfd0f156238c07a8d5eeb0aa][^M_E_e14a2db1-9ea9-4a8d-c807-a4dfaa457463]
 

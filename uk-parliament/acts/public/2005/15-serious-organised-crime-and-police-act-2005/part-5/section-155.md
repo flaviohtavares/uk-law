@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 155. Payments by Secretary of State to local policing body in relation to the prevention, detection and enforcement of certain traffic offences[^c-ae5d212a49389a380f51c89cea8691cf][^c-a494c7cb3721dbba6b7202ee35bdb130]
 

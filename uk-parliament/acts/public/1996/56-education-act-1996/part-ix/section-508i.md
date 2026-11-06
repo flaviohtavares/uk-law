@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 508I. Complaints about transport arrangements etc for young adult for whom EHC plan is maintained: England[^c-5d50d94044696f4d87eddb6cfd876d19][^c-a741ad857aba5c11736daec3f2837135]
 

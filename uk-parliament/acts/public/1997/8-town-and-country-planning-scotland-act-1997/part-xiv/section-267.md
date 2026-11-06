@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 267. Appeals and applications under this Act: procedure etc.[^c950392][^c-40fe36d3dc6cb1e6b25d8502dee778d2]
 

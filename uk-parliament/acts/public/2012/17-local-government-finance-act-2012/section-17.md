@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2015-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 17. Power for HMRC to supply information for purposes of council tax
 

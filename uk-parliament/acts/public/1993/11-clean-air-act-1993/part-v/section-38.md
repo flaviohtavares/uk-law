@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 38. Regulations about local authority functions under sections 34, 35 and 36.
 

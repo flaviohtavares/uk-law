@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14Z22. Procedural requirements in connection with certain powers[^c-d504964dfc83cb183dafe3faf00dd2f6]
 

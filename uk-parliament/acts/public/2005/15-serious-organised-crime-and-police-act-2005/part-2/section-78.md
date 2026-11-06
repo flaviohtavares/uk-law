@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 78. Financial reporting orders: making in Northern Ireland[^c-c7a604d3b3903ec93869b7176812f205]
 

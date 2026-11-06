@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-03-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 98. Eligibility for special measures: age of child witnesses[^c-0c1172e0efacf63c319b7909561d8675]
 

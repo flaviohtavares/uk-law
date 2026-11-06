@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (205).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 155B. Funding of employers' statutory sick pay liabilities in relation to coronavirus[^M_F_ab6f706c-08cc-4207-ec9a-601dbb15d7dc]
 

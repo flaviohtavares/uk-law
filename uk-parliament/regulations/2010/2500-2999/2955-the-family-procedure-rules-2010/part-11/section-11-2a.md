@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2955
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 11.2A. Directions about service[^c-2ca2a6d4f09fc27e5b57ca1ff476542d]
 

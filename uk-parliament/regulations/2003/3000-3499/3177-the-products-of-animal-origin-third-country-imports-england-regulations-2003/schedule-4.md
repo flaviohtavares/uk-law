@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## SCHEDULE 4 — CALCULATION OF CHARGES FOR VETERINARY CHECKS[^c-a8299d6b303b77beb3bedea2bcceb2de]
 

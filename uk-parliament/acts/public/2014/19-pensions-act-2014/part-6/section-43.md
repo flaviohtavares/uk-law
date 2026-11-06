@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 43. Power to restrict charges or impose requirements in relation to schemes[^c-0633dd184fe8846c1de02aa2955675fc]
 

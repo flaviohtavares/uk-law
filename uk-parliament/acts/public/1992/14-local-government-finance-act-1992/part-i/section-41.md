@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 41. Issue of precepts by local precepting authorities.[^c12077081][^c12077091][^c12077101][^c12077111][^c-14805d4fc0a13d61dfd8fab9d712cfd7][^c-1fca347fb2e88a52f0b5147485a9ff23][^c-fb6728ba818363f3bc24a7cbcf5ef263][^c-cf9cac488b85e6eaabed10e51a9234d3][^c-9b43e64b94bc96b1fe3f527f780b4051][^c-e485191068eadbe2fa98b109eb7f8159][^c-3def20e45ddd17385fc7165724255671][^c-7e4f196ea14a0213428680e6b8c9600f]
 

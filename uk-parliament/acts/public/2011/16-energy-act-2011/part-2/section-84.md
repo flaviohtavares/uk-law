@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 84. Compulsory modification of upstream petroleum infrastructure[^c-06adba29f59d888848d18232c52bf5e1][^c-25ff6de53e10803f60f96deebfa3ffee]
 

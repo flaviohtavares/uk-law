@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 508A. Local authorities in England: duty to promote sustainable modes of travel etc[^c-6b73e7a2adfd935e520aad19dfebe511][^c-df82d42709314c7296748c08b3554faa]
 

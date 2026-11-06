@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 17. Access agreements: directions requiring facility owners to enter into contracts for the use of their railway facilities.[^c14099581]
 

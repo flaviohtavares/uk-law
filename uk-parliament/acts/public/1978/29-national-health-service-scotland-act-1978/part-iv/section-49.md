@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2026-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 49. Maximum prices of medical supplies may be controlled.[^c-7845a5167c849c107a6afa6faf005ec4]
 

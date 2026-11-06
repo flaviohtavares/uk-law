@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (32).** Text as at 2025-06-19. See https://www.legislation.gov.uk/changes/affected/eur/2013/1306
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Wales, Scotland, Northern Ireland; England (the versions of this text differ in extent).
 
 ## Article 2. Terms used in this Regulation[^M_E_vmctjtaq-c55m-xqfu-r0hp-6645de4d70788]
 

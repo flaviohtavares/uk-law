@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/29
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 194B. Payments in respect of pro bono representation: Supreme Court[^c-d5e5b3ecc1155f560e81178674912b7c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 122. Benefit and burden of obligation of landowner[^c-7700dd7972ce0ca4c7c884860272e4e9][^c-fddb8883c72099d6f0fb0dcc2eb5a0e0]
 

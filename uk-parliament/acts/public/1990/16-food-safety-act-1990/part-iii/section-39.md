@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 39. Appeals against improvement notices.[^c-1056ce6e7c3a62e1348a418d6eceadd9][^c-d41fe5eb5f1dfb7b3b787d282a9efe86][^c-79dc266a0b055a8a5ca3dce3411d85e6][^c-5fd7f0815fc60b56d8cd46bcbd04e9cb][^c-b9c6c39d773a987367be3d7f70c76db3][^c-c47128b10436a5bd37d7f5a30d9b4362][^c-9aa756540694c6d899348f9b03bbc223][^c-a2d2b0dca9f1de7aa0218b6caf55fcde][^c-398eb1139f64ed5d9758ff3a763b729a][^c-3c83fb0ccb85dd50a0cd8564d68a4b9f][^c-27b4ddd57038cc11a630149b2bcb4dc0][^c-a86a7b791aa15c0c24cfd9c5f600b9bb][^c-559d503d62b4ed8f907662f2ea782be7][^c-5fe2336d740e9c42da2c6d8eba25d4bf][^c-d613e3b54ce13c8458bd1f4b88596e7d][^c-b336c5c6f248f45c6b279fa2db13d5fb][^c-838cb0d01b67e7f01fded5a10e1fba57][^c-44a68577feb4374b1847eed7bcb0fa3a][^c-842b5bef518f77972845c76607329c0c][^M_C_d6ef6f68-ef19-4f3a-9e7d-278984751bf0][^c-7211395fb86ec51749d5c954ebbfa630][^c-6852b03e1e40e9369aad1f6a68d8e95c][^c-24414c12bc61af9d61ca4ea1842f2b8a][^c-dcc70ec4f7970a58ffde67edb47b52d6][^c-728a01c46fe6714029d853b128799cbc][^c-1b0f4c6cba040e88907f548b114a1d57][^c-69b5e706a6127e9cac7d10ecdba81e25][^c-e6f7578b2e4c6a3f2f247d4592c0b69e][^c-d52cd29b5916bb4a9b0cbd90252873e5][^c-23c8cbd70b39acbf37eccfca06b76480][^c-7cb6d8f1d1317dd51d999a31a5f428ff][^c-c1278380d60dd6dad30945b0a46c3731][^c-f3f12c9234344fcb17378482ff3aa8fe][^c-6071cd9b8514018c9b90254d6c8e2cec][^c-0060b081748f0e7041297425366fe51f][^c-1822a3d99d388b35a248465780341813][^c-f0b6fa3b411e9462a3254329346ed6bf][^c-b7885639fdd4156782d268fc712984a1]
 

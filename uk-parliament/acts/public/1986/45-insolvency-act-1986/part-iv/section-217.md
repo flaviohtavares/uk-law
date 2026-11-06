@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 217. Personal liability for debts, following contravention of s. 216.[^c20433691][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-402e24894e390dcff0a7f877b5250a3e][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

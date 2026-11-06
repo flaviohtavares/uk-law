@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 34. Amendment of the Making Available on the Market and Supervision of Transfers of Explosives Regulations (Northern Ireland) 2016[^c-f86fb4477c1d1567b016c2e3f5f26874]
 

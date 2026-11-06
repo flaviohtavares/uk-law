@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 332BA (affected by repeal, see note). Resolution of disputes (affected by repeal, see note) ...[^c-5bea103247869b921e6718f856e900ef][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-32cfaf8953297d5cde6a9b1f0253e715]
 

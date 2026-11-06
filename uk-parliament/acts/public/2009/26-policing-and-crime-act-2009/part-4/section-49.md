@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 49. Interpretation[^c-f3c32da04a448d90d2caa235cf7dc02e]
 

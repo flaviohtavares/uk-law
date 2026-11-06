@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 95. Electoral recommendations: general considerations[^c-ab0fc92f5fde6175549a7026ab0ab569][^c-ca451af8344fd8f11a998a503c3af9c6][^c-8b46cf90bfb9936dd4a95b635fa56838]
 

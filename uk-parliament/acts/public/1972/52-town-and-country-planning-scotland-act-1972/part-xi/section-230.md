@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 230. Special provisions as to display of advertisements on operational land.[^c14935251][^c14935261][^c14935241]
 

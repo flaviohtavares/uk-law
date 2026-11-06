@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 76B. Procedure for giving directions under sections 75 and 76A[^c-bb82d393f70dabe032c66aeac0609bc4]
 

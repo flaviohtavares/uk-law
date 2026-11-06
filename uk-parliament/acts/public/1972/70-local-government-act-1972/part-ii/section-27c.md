@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, W..
 
 ## 27C (Extent: W.). Power of community meeting to apply for an order dissolving its separate community council (Extent: W.)[^c-fb7c4ce8971764c9634bb717e9782919]
 

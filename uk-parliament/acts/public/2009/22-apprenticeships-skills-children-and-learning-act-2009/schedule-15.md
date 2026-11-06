@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## Schedule 15 — The School Support Staff Negotiating Body[^c-32c543e1c3b9aa83ec783b1c809c22d9]
 

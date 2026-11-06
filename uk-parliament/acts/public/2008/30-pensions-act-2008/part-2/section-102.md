@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 102. Consolidation of additional pension[^c-90b0cfa1951193eec10f041395f71c94]
 

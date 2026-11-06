@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 16. Work preparation requirement[^c-2f407ec17f0a8049bf9ea93f5621de91][^c-f0c316d9d1b0dfd0e226e5ef4e030922][^c-322eb897cc7db2ac410853c79b54f740][^c-aff36342530d26867e4e722834ec915a][^c-aa750a148810198a1daefa192810ed5c][^c-28d43baa9f05daba0c1fe78699f4d148][^c-c566749a5c9568d1ed4c4500b3b504fe][^c-ed4904f45aed0b66a55565add23ff541][^c-82a4efe07ceadaa82e5b87995fffad63][^c-475dee11d47f3dea623ec7a1d0a39d56][^c-f80d1aaf0e1bb7908f1dc23b5d7b1ec0][^c-1ce014022ba9fdda6a049aca01b5ed75][^c-8bb6f963631f975b135329011896f886][^c-156b8a174f6d2481546623529c3c1ede][^c-0001c24051a5dc8d8382c47ad02fcabf][^c-0c0b8ed1230531e2a03adf6c14167df5][^c-3921c4c69aa38f9fbc59bcb21fb817f1][^c-617b5571f7e6e058e385949711c769b6][^c-f0c316d9d1b0dfd0e226e5ef4e030922]
 

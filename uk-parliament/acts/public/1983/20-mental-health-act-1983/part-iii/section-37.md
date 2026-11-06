@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (398).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. Powers of courts to order hospital admission or guardianship.[^c18580711][^c-401746f945c6b6cfd701fbf76eb2d46e]
 

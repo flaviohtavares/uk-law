@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36A. Compensation funds[^c-48f8b52e2ceaa5c8cb1dc76aebec692a][^c-b55d6ee56ae1d06d6797b6d600302ebe][^c20565131][^c19660371]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/23
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 31. Supply of information concerning the death of children to Local Safeguarding Children Boards in England and Safeguarding Children Boards in Wales[^c-b8e52c01555b19377bfdc8f885d6cfc2][^c-480527a5410e15bef295eccb3ea7fa46]
 

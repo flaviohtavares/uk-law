@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (13).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/3
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 93. Maritime enforcement powers: offences[^c22719291][^c-6879fbbae28a674a5b5459e7483d007d]
 

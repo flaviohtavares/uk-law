@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2018-08-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/39
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 1 — Moratorium where directors propose voluntary arrangement
 

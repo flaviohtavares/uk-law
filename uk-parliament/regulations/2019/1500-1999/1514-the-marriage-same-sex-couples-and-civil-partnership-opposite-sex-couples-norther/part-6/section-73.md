@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 73. Pensions Act (Northern Ireland) 2015[^c-741c963390e409836422df7f1129da21]
 

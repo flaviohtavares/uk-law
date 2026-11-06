@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/anaw/2016/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 106. Duty to notify the registrar of changes to registration information[^c-c9320456aa155ec74664b958038a9c08]
 

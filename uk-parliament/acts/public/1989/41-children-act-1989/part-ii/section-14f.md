@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (96).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14F. Special guardianship support services[^c15160111][^c-1e7414efcd99e2a385f1648bf610e281]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 87. Tidying up etc provisions about accounts of certain NHS bodies[^c-858dd91edb770e089dbcd68984f2d758][^c-773b37ec4f2f13e8fc1db0c81288ea45]
 

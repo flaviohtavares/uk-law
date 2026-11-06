@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (154).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 65. Sex with an adult relative: consenting to penetration[^c20943281][^c-5a2faa868bd2d4ca3c62a55ec3bc3897]
 

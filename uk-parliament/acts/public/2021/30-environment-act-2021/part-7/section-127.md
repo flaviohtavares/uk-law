@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 127. Discharge of obligation of landowner by agreement[^c-d66c474c245af887e3ca29aa8fd3e349][^c-b7eb539cdf2c43ec4b069701f0143bbb]
 

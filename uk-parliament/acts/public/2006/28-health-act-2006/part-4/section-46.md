@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. Notice requiring production of documents[^c-bfa4e617dfe84876c0c4355808a16e33][^c-e0d771a0445702bcbef44776b8a039b6][^c-236bfc90b95c54c644a40fc3be035644]
 

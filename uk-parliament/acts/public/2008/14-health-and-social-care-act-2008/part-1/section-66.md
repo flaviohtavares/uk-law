@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 66. Interaction with other authorities[^c-b1ddf045f3d78a523d1e992b2cf0ca37][^c-bb75b78fa18678b82e1a25cc9daaa87e][^c-240acd11640b83ba13be3994d85acac2][^c-9871cd13b97b961bee5ae76d2c9c810e][^c-9871cd13b97b961bee5ae76d2c9c810e]
 

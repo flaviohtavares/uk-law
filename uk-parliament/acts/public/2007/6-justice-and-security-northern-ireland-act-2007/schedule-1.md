@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2023-06-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## SCHEDULE 1 — Trials on indictment without a jury: consequential amendments[^M_F_7c0a5de9-a044-4d1e-ba07-f07afe087c8d][^M_C_85ee96ac-0286-400f-dda3-d596230cbd14][^M_C_96b39e5c-5684-4745-af1d-f4254e3945ce][^M_C_810d381a-9a7b-4766-9e19-1bd256e24f71][^M_C_abfe5fd9-8d39-48fa-e319-52157c62553e][^M_C_a0f6b434-5b85-453f-bd8f-a341927e8d0f][^M_C_e22cb382-356c-458e-9b33-5d4e20cbd37f][^M_C_3dc22862-0fa3-4064-dbe3-ab73de5201b4][^c-e89def7625cdce9f0bcf13fa7bb55127]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 198. Conditions for notification of Director of Public Prosecutions of investigation report[^c-6471a2d63bd886291f9622c934402ee4][^c-b4c7eea25f3cc8c0d589ed05e935d0d8]
 

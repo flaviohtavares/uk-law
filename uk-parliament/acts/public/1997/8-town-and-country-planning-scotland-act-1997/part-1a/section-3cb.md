@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 3CB. Key agencies to co-operate[^c-49d3b9575d94c7202425c3684884eca9][^c-62500c5d6522b23f8c30631f53e6ac84]
 

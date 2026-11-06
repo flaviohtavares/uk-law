@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 80EA. Parental bereavement (affected by repeal, see note) Bereavement leave[^c-d6229adb87d5ab82e6a0827e471fdb56][^c-38e5c0f209aa9da32c75c9279d5aed82]
 

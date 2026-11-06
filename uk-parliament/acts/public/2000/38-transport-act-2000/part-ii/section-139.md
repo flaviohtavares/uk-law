@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 139. Information about bus services.[^c14881151][^c-e946bdc04e1fde610d2ce2c19dac12d3][^c-d236b2a239992040336cae0951f6908e][^c-c05adb8597f2acc398b3fefbd54794ff]
 

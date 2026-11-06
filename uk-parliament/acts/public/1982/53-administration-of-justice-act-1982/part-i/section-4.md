@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-07-11.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4. Exclusion of Law Reform (Miscellaneous Provisions) Act 1934.[^c2570651]
 

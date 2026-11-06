@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 42. Power to dismiss certain appeals following references by the CCRC: England and Wales[^c-47d356e44e5f5246a126b858a798c1a4]
 

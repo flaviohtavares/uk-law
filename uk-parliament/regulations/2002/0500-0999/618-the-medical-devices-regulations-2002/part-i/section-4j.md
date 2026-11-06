@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/618
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 4J. Revocation of [Commission Regulation (EU) No 207/2012](https://www.legislation.gov.uk/european/regulation/2012/0207) on 26th May 2025[^c-7a21756850e73f8dcd23b93a7752e9f4][^c-71c76f52f3cab801a75b265a945fa2e0]
 

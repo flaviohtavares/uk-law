@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 206. Community order: available requirements[^c-ead299038c9c48d3489367c99b838fe8][^c-10a1c6c2791a794bae437c1c2b2c3b3d][^c-03a999348fcd1945a1671feaf2443174][^c-6c8adae88d5c12365bf6cbbaa0dd1843]
 

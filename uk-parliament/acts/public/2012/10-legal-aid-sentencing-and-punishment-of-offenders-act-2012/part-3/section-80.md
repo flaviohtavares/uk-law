@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (57).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 80. Breach of detention and training order[^c-2d64496e4a120679899d978b7108592f]
 

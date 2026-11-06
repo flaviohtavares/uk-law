@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-17. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 53. Expansion of availability of live links in criminal proceedings[^M_F_6b646a73-b5d2-4dd4-c060-5e0612a3e68a]
 

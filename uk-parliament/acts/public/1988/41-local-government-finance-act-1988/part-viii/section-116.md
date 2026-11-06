@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (93).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/41
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 116. Information about consideration of reports etc.[^M_C_eb98e320-8ce0-4e46-bc71-563c602086c4][^c-2b957be4b388fd2210ddbc0fc97979b2][^c-610281a5a3a94de9e395476a9ff9ab23][^c-db67d567c3097cebe93ab8569480c476][^c-25ef4d7269e1f5a6fc5dc45c02b5ef80][^c-94e93cb0eecaada3c72598f44c91bb48][^c-bfa783e39d8d550000aa950df746827e][^c-25663c6a6f8d9f041e5eb079d571cff3][^c-1ec4bac8c8ed40b1961b53835e952cfa][^c-890e96709ec2001c10b2cdd7390286f1][^c-2e2eec7ca7390b30dabb4e79ad92b20f][^c-8e9b1c55e70430ce21fffcd754951299][^c-5a898502c82fb5e48b4d546ffad26250][^c-c0d449adfb0bc1710569009029da9f9a][^c-98281feb4bed38fafa2a71ba32e58918][^c-e351b40ec89d9971e053e70ab2942a24]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2013-01-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 36. Property subject to floating charge.[^c933486]
 

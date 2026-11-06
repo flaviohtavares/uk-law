@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 143. Employment Rights (Northern Ireland) Order 1996[^c-8ce2f287a0f56ac6bdbfb1dc7d0ce6f0]
 

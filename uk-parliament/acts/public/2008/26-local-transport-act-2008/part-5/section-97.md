@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 97. Change of name of ITA[^c-ae953848a92fd253f2a01f9d00addff7][^c-9b1433bf9302b95e372c3e818fa00903]
 

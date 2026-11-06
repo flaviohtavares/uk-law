@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 10. Directions relating to particular fires and emergencies[^c-b99a600fca13601dc327186bc23b025a][^c-daafcd90bb1a4e36a721a2d7a61b458b]
 

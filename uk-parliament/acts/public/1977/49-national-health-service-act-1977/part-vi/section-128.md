@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2013-05-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1977/49
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 128 (Extent: E+W) (affected by repeal, see note). Interpretation and construction.[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 

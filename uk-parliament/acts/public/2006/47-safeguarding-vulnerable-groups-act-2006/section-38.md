@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (46).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 38. Duty to provide information: offences[^c-bf487563c36a14c6d6f02d775def8423][^c-599e73567050070350fcabdff2872f9e][^c-0cbf3889169b6f8057f39643b4e514d0]
 

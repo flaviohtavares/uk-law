@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## SCHEDULE 7 — Youth default orders: modification of provisions applying to youth rehabilitation orders
 

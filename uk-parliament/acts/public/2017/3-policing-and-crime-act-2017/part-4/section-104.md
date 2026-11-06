@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (13).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/3
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 104. Maritime enforcement powers: other supplementary provision[^c22719431][^c-5f47eb7f983bce6db5d53c92c70e6c70]
 

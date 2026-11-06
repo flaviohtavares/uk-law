@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 233. Delivery of district heat networks within zones[^c-0f2c78bb7680caadb1fc42b5cf8bdb95]
 

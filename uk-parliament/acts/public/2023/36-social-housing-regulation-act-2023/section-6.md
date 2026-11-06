@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6. Meaning of “English body”[^c-87169b6fbfbf01ba4897eda872d7ad0d][^c-b6b2a27e216763ced3e6a8a266df15e4]
 

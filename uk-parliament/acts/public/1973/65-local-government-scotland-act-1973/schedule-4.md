@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2025-08-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/65
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 4 — Constitution and proceedings of Boundaries Scotland[^c-07f907578ef5dc59bac4a76056a5168b]
 

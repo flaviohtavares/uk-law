@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (62).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 74. Target investment limit for Government shareholding.[^c-3d5b80e6645d6c258ea8f4ee731897a8]
 

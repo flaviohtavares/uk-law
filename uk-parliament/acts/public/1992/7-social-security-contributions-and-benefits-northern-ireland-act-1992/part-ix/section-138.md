@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (205).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 138. “Child” and “qualifying young person”[^c-42907c8799c4dd3bc13a7bdbda9326d3][^c-5e2dab28ad2f8653df30231cbc2aa9ea][^c-1c7bf76a22c7f51b257d752f249d682d]
 

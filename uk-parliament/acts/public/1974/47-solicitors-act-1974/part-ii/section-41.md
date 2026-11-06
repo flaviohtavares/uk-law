@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 41. Employment by solicitor of person struck off or suspended.[^c20568341][^c13348841][^c13348852]
 

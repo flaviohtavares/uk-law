@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 99. Giving a diversionary caution[^c-58f3a27dfdd39c0b8334ac64e03d00d1]
 

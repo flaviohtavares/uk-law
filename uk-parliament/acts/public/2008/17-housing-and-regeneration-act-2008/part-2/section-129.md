@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 129. Companies or limited liability partnerships exempt from audit[^c-bc6941eb460feb191ec6b37086ba930e][^c-8cf0ab3e77e973ff976af64b5f2bd46b]
 

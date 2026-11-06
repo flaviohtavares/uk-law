@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 275. Power of local authority to execute certain work on behalf of owners or occupiers.[^c611723][^c611724][^c-ed15908ec9b855caba49aa9afe851cd9][^c-f8c3201a88ea8f1f037e1f9f086b2a2a][^c-edded7807686094b7a9410583c781337][^c611722]
 

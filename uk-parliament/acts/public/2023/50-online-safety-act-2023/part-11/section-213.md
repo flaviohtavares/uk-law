@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 213. Offence under the Obscene Publications Act 1959: OFCOM defence[^c-c05afb4b0001b60d935fc8a8329c2c06][^c-406ee75597dc8d5d7b58bd399e003c3d]
 

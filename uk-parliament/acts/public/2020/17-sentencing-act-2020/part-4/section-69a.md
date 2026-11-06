@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 69A. Offences where foreign power or designated body condition met[^c-51d1ac25731b713f0850d990243f5c0c][^c-353a0e14a7b13b5b6b2accb62291d851][^c-dc0efb56b990e6b34adc0c2b9162eecc]
 

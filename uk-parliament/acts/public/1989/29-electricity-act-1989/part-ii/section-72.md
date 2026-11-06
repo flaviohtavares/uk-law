@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (62).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 72. Government investment in securities of the companies.[^c-a4f46df58ba8d9af0381eee95c09c2ab]
 

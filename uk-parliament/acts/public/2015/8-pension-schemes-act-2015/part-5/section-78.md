@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 78. Pension scheme for fee-paid judges
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-11-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/28
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 20. Drought orders.[^c-70440c6ff1a7bbeacc94b8b4c52fe9ee]
 

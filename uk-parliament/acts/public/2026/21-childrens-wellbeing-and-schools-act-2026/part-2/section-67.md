@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 67. Establishment of pupil referral units[^c-aa8e1c8fedecdd724aedcb77f58d4517][^c-b9d6879a1e0ed74f51d498df40d83c34]
 

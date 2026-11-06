@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (31).** Text as at 2025-11-13. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 19CA. ... Revocation of exemptions under section 19C[^c-6e98436cdec5d279fbddd2ab18cd24ee][^c-3024f28cd75aae6789d1902582ce5d42]
 

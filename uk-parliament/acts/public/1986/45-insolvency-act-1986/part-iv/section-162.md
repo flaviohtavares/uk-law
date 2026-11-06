@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 162. Appeals from orders in Scotland.[^c15573141][^c20447231][^c-2284796a067cb8d7f88fe2d8e3f2af53][^c-2f589f8840bfbcba9b2ec4df80f25d76]
 

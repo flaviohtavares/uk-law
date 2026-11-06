@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 139. Virginity testing offences in England and Wales: penalties[^c-192a59b47e90c8c851563ee3702b8263][^c-19a9b4f1b1980f75daab00efbf5958d5]
 

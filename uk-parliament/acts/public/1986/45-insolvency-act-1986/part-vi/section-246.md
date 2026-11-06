@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 246. Unenforceability of liens on books, etc.[^c20434991][^c20435011][^c-8607ed48661f7d722aaaf6b22e3a2d7f][^c-1d9199e46be2c8255197ad01091459b9][^c-185d15d588545af27c2bfb08f0a13a68][^c-fc3c8921d74b1548990e0af439d75cfd][^c-788371096f8da5425d0cd572175725cd][^c-e47e1180b85a7a1fc536382338d58471][^c-788371096f8da5425d0cd572175725cd]
 

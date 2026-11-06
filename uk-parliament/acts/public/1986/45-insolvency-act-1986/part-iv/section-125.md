@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 125. Powers of court on hearing of petition.[^c15572661][^c-80940010afc294d4dec9716940e58b8d][^c-6218d61b16c18da2cd36f5e342b1b4b4]
 

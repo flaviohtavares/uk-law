@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-17. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 70. Postponement of local authority elections in Scotland for casual vacancies[^M_X_ed9b6d5b-5e32-4b1f-c7bc-9ca86b14dcc8]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 30. Free breakfast club provision in primary schools in England[^c-13b7b460eed23f953697e8b4020c963e][^c-15db3b03a4ffab260db5ee90a4cb49a4]
 

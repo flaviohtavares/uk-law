@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5/23-24/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland, Northern Ireland (the versions of this text differ in extent).
 
 ## 25. Restrictions on persons under eighteen going abroad for the purpose of performing for profit.[^c6082371][^c6082361]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 54. Penalty for failing to comply with requirements[^c-4a1b82e519cc6c7485f8d21cd110ec46][^c-a19ad7353e160bebddc1235d8af83e49]
 

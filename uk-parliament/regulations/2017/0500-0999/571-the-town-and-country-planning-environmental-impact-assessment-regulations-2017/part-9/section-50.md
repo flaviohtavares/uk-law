@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 50. Disapplication of regulations and modifications of provisions on application referred to or appealed to the Secretary of State without an environmental statement
 

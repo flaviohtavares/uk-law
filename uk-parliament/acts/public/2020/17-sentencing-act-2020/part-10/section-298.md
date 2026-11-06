@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 298. Provision of copies of order and related documents[^c-c1d37303a3fa27ee1dd2d5fad8269c2f][^c-4b902e615ad46b3b1176cebe94a297a8]
 

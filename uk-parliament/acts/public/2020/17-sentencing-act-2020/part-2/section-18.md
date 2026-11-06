@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 18. Committal for sentence on indication of guilty plea to offence triable either way: adult offenders[^c-dff3e836b16f4024f88eaca2cc8ec271]
 

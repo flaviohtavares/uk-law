@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 13. Survey of area[^c-fdad732a67e292ced51d55e722b6a0cc][^c-f726010f71c085606a8a0f7986e6edd7]
 

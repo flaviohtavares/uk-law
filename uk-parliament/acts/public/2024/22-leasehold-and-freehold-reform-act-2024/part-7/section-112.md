@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 112. Meaning of “estate rentcharge”[^c-82294a0bc0684a0e61fce7dba788e86d]
 

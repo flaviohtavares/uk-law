@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 127A. Dissolution of higher education corporations in England[^c-fe8d1383d2ade1f6abd231f2ee4e1d51]
 

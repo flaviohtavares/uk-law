@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 3. Maximum period for certain directions, notices and orders[^c-56c55ddfcadc41cdf5e60cd5cc9cc7e9]
 

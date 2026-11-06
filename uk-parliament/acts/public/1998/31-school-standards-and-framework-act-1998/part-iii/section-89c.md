@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 89C. Further provision about schemes adopted or made by virtue of section 89B[^c-abed6ed76b3e040e639d7482349514be][^c-5f50076044947873540efbf52a056d78][^c-d982c640ef3e4a6fb406b5213b8dd1eb]
 

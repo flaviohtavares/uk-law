@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 106. Validity of certain alterations to NI salary-related contracted-out pension schemes: subsisting schemes[^c-8d4034bfadf6389c705e014b8b0c07b0]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/618
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 47. General matters relating to approved bodies[^M_E_a7fdda3f-f559-456d-c7b2-3416e4dd7819][^c-6119e90875ebb78833821c5985caacf6]
 

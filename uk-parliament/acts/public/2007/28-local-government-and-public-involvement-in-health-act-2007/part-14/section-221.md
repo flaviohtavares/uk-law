@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 221. Health services and social services...[^c-708338d48620506dc35506fcbd6cb0d1][^c-37523a4a08cdbc999234790875e8c11a]
 

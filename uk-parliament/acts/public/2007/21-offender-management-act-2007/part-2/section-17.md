@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Power of detention in contracted out prisons and secure training centres[^c-4d15aab78ebe17e978c324cc603378d2]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 36. Migration to universal credit[^c-857a4dfb405b573c3a42c09922db6484][^c-c9aad465a1dd86317a5057b7476af43f]
 

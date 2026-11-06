@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 20. Record of anonymous elector’s documents and electoral identity documents[^c-3b8d165973a0c3604537222141313bcd]
 

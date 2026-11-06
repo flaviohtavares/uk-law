@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (29).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/33
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8A. Additional information if party not relevant national[^c-0560a34100030ae65a8dd48097c9c2fc]
 

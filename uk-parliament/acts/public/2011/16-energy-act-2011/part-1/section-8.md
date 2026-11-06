@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 8. Confirmation of plan[^c-f6fd7368484201d40567f8e67c9ebe7a][^c-0dcd077bdb83b3dc3798dcbc237fdb4c]
 

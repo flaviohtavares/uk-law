@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 102. General duty to conserve and enhance biodiversity[^c-acb07f2432fbf9dcadf2d6678b183d7a][^c-7f565cd845165e4d6d4717a6bddddf66]
 

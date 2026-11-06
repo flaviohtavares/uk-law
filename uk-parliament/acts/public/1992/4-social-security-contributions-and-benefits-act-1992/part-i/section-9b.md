@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (139).** Text as at 2026-07-08. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 9B. Zero-rate secondary Class 1 contributions for certain apprentices[^c-e4c28b015420733fc98ce2ace92ade63]
 

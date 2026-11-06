@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-04-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1975/71
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 9 — Amendments of Agricultural Wages Act 1948[^c-18ac6f1bc7f80c2314bce6217a51a99d]
 

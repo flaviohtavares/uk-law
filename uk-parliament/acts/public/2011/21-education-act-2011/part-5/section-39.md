@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2018-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 39. Discontinuance of federated school: governing body not to be dissolved[^c-5a630841c78a8c1c639cffc8da59c281]
 

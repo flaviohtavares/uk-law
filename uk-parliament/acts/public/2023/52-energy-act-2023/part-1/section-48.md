@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 48. Power to make further modifications of insolvency legislation[^c-cf98a7a8dc4c3082e2d24af419795c0b]
 

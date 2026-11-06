@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8. Central list administration[^c-f2b180fa61e4e32f29f470bf841bcf2b]
 

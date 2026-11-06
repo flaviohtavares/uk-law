@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 92. Compulsory acquisition hearings[^c-7eee3947d7311c74a8c1daf538372832]
 

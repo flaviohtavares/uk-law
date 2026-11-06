@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 150. Inshore fisheries and conservation authorities[^c-e1fc34a32fdd712eda2ee4f206f1e3ad]
 

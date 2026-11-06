@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 10. Statutory sick pay in Great Britain: removal of waiting period[^c-51ea481c530e45bc9ed2fe43b9bf7ec7][^c-c41f5ded90c90148188adea92a3dda3f]
 

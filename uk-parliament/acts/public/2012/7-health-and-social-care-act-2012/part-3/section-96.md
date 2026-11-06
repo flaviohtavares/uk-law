@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 96. Limits on NHS England’s functions to set or modify licence conditions[^c-807f1ede566b4c6c20265170885c0abb][^c2191302][^c-52583751e01a9f7103f77252d229167a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 138. Procedure etc relating to modifications under section 136[^c-d5b3d0785da14571d68571900ee2b821]
 

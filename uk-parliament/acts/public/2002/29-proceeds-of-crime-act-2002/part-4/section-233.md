@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 233. Proceedings[^c-d2bc6cf6d396e40156f8051a148b9e28][^c-e3634034bab4be7cd4cb838ceea63874][^c-e3634034bab4be7cd4cb838ceea63874]
 

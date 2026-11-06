@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 150. Expiry of Part 5[^c-26cdb808f590ed66f1cdfed1a14d5f53]
 

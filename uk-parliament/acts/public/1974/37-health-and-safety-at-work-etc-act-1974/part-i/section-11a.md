@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 11A. Powers of the Executive: buildings in England[^c-d16044fb78b5b2f0467317d6ec7d81f9]
 

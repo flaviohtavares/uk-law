@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 71. Shared ownership low cost rental[^c-244cfa6e36fad1434a99ac55ede831ad][^c-d9eb7209c5924335701b37b1747a2050]
 

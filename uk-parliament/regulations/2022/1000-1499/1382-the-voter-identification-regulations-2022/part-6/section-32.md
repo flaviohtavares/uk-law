@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 32. Inspection etc. of the completed ballot paper refusal list or signing sheet refusal list[^c-87afefa96413a27b95a220c35b795370]
 

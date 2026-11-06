@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. Issue by the Welsh certifying authority: supplementary[^c-3371f395d04dbb9f065e2e12c22c6255][^c-86e3546cc5697f54eb7036d249310bac]
 

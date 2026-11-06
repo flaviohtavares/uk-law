@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63. Trespass with intent to search for or to pursue hares with dogs etc[^c-ba97c46e5acd2006772440cc5e21067b][^c-ff4ac6fc437168207a08923e44e09754]
 

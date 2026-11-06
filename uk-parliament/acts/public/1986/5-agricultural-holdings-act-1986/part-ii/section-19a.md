@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19A. Disputes relating to requests for landlord's consent or variation of terms[^c-2af7852eb8c88169bdebfa1a9d7a73a8]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England.
 
 ## 2. Constitution of principal councils in England.[^c-157ac2f88588af18c07d59bc94f2ba7c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 174. Inadequacy of available amount: discharge of order[^c-e7d2ca0a10d5361a2415f5b143529acb][^c-e3634034bab4be7cd4cb838ceea63874][^c-e3634034bab4be7cd4cb838ceea63874]
 

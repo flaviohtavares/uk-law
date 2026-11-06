@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. Fixed penalties[^c-a40c9781d5b377c80e9ffb100bf80fa0][^c-8e35e07537af8eb3aa48485bc4e587b0][^c-3399d1bcdd94e6c399ee183d9102d21a]
 

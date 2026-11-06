@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 41. Exception of safety cartridges[^M_F_4fb3df99-4a94-4c66-8cb6-f53d0ca9794a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 236. Application of Act to Scotland: modifications[^c-f3ce7f6e8d264699c00c7231fa3f121e]
 

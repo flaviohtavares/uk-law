@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 76. Functions of Council: England and Wales[^c-04ce47f4d87c0613822b344b6a279974][^c-9e983a55a134787d4110f5af1a0b5cfc]
 

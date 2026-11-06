@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE — Modification of [Directive 2006/88/EC](https://www.legislation.gov.uk/european/directive/2006/0088)
 

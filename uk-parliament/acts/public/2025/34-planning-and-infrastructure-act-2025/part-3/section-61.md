@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 61. Environmental features, environmental impacts and conservation measures[^c-1ea485abf7865ff9a918db3179869220][^c-b60fdda6cfeab9fad745fc770e7aa89d]
 

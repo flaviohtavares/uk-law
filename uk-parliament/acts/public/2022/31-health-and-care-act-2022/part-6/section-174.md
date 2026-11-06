@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 174. Food information for consumers: power to amend retained EU law[^c-76e40a84247b68fa6975954e5b39b33d][^c-b07bd8d501568269ed0311e6f68fc2b5]
 

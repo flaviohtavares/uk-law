@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 83ZA. Transfer of sheriff court solemn proceedings within sheriffdom: power of sheriff principal[^c-fd793a5a6fb26c472b4911b3acdc6c24]
 

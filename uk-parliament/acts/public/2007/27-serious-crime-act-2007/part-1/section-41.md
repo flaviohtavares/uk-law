@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (182).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 41. Powers of law enforcement officers to retain documents[^c-21f734efa6f61d9267352f8a86007597]
 

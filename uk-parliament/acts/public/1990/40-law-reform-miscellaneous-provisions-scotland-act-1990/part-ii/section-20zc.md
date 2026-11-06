@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-03-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 20ZC. Unsatisfactory professional conduct: Council's powers to monitor compliance with direction under section 20ZB(4)[^c-51f884965e3c193b7525d7db94f45e5f]
 

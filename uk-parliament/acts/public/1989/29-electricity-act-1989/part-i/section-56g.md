@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (62).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 56G. Service by Authority of certain notices on Citizens Advice and Consumer Scotland.[^c4116081][^c-d9de6b50b4f2c332184dc45cd3c32125][^c-b826479db8b1d887d195ef6e6dc73a78]
 

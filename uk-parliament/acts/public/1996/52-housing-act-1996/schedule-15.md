@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 15 — Arrest for anti-social behaviour: powers of High Court and county court to remand[^c-f495c61e4b152fbd69fbb42e26e4631e]
 

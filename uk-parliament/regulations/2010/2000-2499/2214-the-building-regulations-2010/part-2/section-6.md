@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2214
 >
-> Extent: England, Wales.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 6. Requirements relating to material change of use[^M_E_4d88efd5-99c5-4f25-f326-15eab9b7085c]
 

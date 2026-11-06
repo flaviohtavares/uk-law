@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 52ZB. Advance payments: land subject to mortgage exceeding 90% threshold[^c-de5ac44a05564f8d88e18ece15aa5ec3]
 

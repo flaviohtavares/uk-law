@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 9 — Constitution of governing bodies[^c-a608a4ab7e93ce4819dc4fa00912676e]
 

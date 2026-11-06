@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1979/46
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 1C. Appeal against inclusion etc. in Schedule of monuments[^c-125b978df32bdbe635e885a469ec3265]
 

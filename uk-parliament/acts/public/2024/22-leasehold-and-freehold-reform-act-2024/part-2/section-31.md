@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31. Acquisition of intermediate interests in collective enfranchisement[^c-37b9c0731c3a29481c39d018dee08c6d]
 

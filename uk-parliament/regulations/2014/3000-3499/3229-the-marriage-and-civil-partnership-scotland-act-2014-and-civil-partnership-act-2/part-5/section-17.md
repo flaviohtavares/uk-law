@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 17. Countries or territories in which consular marriage between civil partners may take place[^c-10595791c01501970471e5e3b0fc6bbd]
 

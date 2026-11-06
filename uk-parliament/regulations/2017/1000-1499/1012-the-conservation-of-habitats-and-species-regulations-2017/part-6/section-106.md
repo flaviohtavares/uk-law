@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2017/1012
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 106. Assessment of implications for European sites and Ramsar sites: neighbourhood development plans[^c-ba1dd381a8a0a73be8af13a02a0e8b3c]
 

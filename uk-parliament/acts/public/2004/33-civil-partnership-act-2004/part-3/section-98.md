@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (29).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/33
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 98. Application of certain provisions to civil partnerships[^c-0fd36f1c0701f687c8b07ec963b448d0][^c20863221]
 

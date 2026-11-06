@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1597
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 16C. Monitoring[^c-50094503c5a43e14b6ab79fb69691255]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/33
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 63. Powers to remove persons attending or preparing for a rave.[^c19934411]
 

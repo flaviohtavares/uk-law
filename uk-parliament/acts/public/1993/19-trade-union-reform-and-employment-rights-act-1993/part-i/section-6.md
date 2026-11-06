@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2017-03-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 6. Confidentiality of trade union’s register of members’ names and addresses.[^c1092497]
 

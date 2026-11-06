@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 572. Service of notices and other documents.[^c-433f01cdbeb906211230026d6c2dab99][^c-d77f78150bdaa754e033073b4545cd2d]
 

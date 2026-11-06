@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-09-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 91. Extension of transmission licences offshore[^c-41ed777bdcba32a20915bf8114a920c2]
 

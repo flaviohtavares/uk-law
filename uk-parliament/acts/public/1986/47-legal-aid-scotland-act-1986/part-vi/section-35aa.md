@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (32).** Text as at 2024-04-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 35AA. Information about legal services[^c-297eec8b9f0ce44ec537b9b2b6605b31]
 

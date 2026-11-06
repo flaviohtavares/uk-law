@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 21. Duty to register civil partnerships changed into marriages[^c-b9b42e159da2d1a329b47a5cad5f66e1]
 

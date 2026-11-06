@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21. Report on certain safety-related matters[^c-c6998c123f8eb6beb15594ca52c07b56][^c-2b985683234347ac29adbd22b9bc97ac]
 

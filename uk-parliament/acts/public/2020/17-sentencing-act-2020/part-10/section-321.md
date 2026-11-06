@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 321. Life sentence: minimum term order or whole life order[^c-db528b7cbbcdb20b0e3f8b5da970bf24][^c-cef641cef87d8a92b9a17a7b10b6c7e0]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (105).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 38A (Extent: E+W). Regulations about relevant gender change cases (Extent: E+W)[^c-2b96d84f966bd2f82111c24ddd89f799][^c-422088e1fe0e4d32cad87d390c2f899d]
 

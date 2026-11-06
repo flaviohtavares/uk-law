@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 23. Power to enter and remain on premises[^c-93e9fc05c4f57de5160a50251803f4a2]
 

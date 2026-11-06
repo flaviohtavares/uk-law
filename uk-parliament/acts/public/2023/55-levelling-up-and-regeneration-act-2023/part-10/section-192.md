@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 192. High-street uses and premises[^c-60ca1fa9a3f939da92910cad745e73d1][^c-118e14edf920d1772d6d2c038e6f2e2f]
 

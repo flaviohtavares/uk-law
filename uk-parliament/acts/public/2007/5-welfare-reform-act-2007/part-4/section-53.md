@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 53. Mobility component of disability living allowance: persons under the age of 16[^c-a6d63a57b64e1e5731b7216f6a9ac481]
 

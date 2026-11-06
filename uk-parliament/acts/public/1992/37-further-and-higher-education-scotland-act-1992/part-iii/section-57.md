@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-02-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 57. Finance.[^c1309727]
 

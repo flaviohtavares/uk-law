@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 1 — Proceeds of Crime (Foreign Property and Foreign Orders): Scotland[^c-8b15b2612a7ac5b850b949e14203775b]
 

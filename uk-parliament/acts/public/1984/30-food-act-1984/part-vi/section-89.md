@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-18.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 89. Powers of entry of Ministers’ officers.[^M_F_a15ee5e2-4163-4b9c-92be-d86d8f173854]
 

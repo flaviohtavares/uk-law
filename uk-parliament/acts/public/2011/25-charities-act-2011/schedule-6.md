@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 6 — Appeals and applications to Tribunal[^c-44a0c4bc272b516ab5774491bb018313][^c-6995b6f8cae4f07d463c286a326b7aa9][^c-55a27192a0267bc0c6c020c5d29af48d][^c-ee004f7bef967014eca0db2acfc280db]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (31).** Text as at 2025-11-13. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 30H. Remedial action under a consumer redress order[^c-52cb632918380fa42187bb6b20881209]
 

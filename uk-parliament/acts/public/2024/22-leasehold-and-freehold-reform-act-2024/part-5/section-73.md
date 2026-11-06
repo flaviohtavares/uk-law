@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 73. Estate management charges: general limitations[^c-36763e8c74511c289fdb069f5d7991d5]
 

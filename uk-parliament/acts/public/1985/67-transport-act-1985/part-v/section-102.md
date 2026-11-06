@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (54).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 102. Application of Passenger Transport Executive’s financial plan to expenditure on travel concessions under schemes.[^c-eba55380aaf2978907d4dc59f5bdd55a]
 

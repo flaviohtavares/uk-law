@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 47. Transfer of EHC plans[^c-bd57d8a59eaec4371b466e675f77a82d][^c-78c72409f140db5e973e12e74037cc75]
 

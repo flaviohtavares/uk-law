@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 75G. Entitlement to shared parental leave: adoption[^c-1f2a41ac479b507572c36263ffbca1d5][^c-6ad8d8d6ad7848822bc6862533555df3][^c-973f7e1bbaab461f0fab0c774d99f62d][^c-f5326a98436c073f4f2dd56b980eecd7][^c16328681]
 

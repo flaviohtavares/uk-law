@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 25. Power to amend: permitted leases and definitions[^c-f851120a85ff08933b370e4d39da1bbd]
 

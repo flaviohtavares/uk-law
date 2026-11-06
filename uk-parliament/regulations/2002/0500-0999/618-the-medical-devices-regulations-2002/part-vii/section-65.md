@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/618
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 65 (Extent: E+W+S) (affected by repeal, see note). Centralised systems of records etc. (Extent: E+W+S) (affected by repeal, see note)[^c-0977a9d8e03eeedcb34d5d7d3bfc26c2][^c-0977a9d8e03eeedcb34d5d7d3bfc26c2]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2025-08-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/24
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 65. Equality Act 2010: third party harassment of employees[^c-4d8937e651c0eef76289a36032de967e]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-03-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 55. Bridleway rights over ways shown as bridleways : England.[^c-709a7821e776a03e49fc68d5dd07e638][^c-90ebcbc2206e3530bcb177674bc91211]
 

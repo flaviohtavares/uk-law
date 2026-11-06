@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 18D. Retention of samples etc. taken or provided in connection with certain fixed penalty offences[^c-b22a75b51c5ea4f77bde7520df089037]
 

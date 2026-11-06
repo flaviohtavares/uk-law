@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 59. Reviews and decisions[^c-839f163f880e2ee2c1abc76f169c9284][^c-cf6fdb0c06e9158ac3e6c885dac13d21]
 

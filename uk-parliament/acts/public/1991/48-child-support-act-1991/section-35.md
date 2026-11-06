@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (110).** Text as at 2022-03-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 35. Enforcement of liability orders by taking control of goods.[^c21359161][^c21359171][^c-c779506ccb6ccf15fb4e7f23593d74aa][^c-aa3ede7243da61ce72f728c0e35dcafe][^c-060397d4881d5f1b356b8b4296ef0c6a]
 

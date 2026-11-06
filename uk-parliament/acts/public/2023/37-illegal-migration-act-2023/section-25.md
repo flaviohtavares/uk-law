@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 25. Provisions relating to support: Northern Ireland[^c-3a3f2d941234a8140c264079796db392]
 

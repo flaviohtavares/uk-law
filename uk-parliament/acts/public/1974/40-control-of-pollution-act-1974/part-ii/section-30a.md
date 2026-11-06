@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 30A. Waters to which Part II applies.[^c2446471][^c-ce81eed4a45da442d4c2d33a4e3ef58f][^c18904321]
 

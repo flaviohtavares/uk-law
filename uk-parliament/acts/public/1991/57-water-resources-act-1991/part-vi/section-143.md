@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 143. Power of appropriate agency to levy navigation tolls.[^c18736381][^c-21423ce0d47eaa650fb851bfceea3f8e]
 

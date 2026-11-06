@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (46).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 42. Registers: duty to provide information on request[^c-7b60f88920c495fb2bd270c02b5a825e][^c-12f2901d89a6bf1a9021648b69c9be48]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 245A. Acquisition of land by Secretary of State , strategic highways company or Assembly for buildings etc. needed for traffic management purposes[^c18852201][^c-8f77d104bb8f47755880e50da3d805bc]
 

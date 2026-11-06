@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 78. Intentionally or recklessly causing public nuisance[^c-4b081b93bdd057b7aa390e09d4522a41][^c-993edfd5c36ba8b380c8c5995a7ab82d]
 

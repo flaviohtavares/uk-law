@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (453).** Text as at 2025-05-19. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 88. Jurisdiction of ... tribunals in relation to enfranchisement etc. of Crown land.[^c17025161][^c-5fb0316f16ed5352c5a4ffc88000a044]
 

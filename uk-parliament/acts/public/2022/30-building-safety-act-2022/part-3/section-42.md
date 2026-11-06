@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 42. Regulation of building control profession[^c-728ac3d08e78b0d2b8869b97559e787c][^c-6b0866c7fdc844f5965e634644b5a9cc][^c-964e31d74f70087c4e88306e136b26af][^c-287d07dd655df569c471a30c2eb89944][^c-6e8eda4b17c7f8796184d6f3b3e77ea0][^c-889d435708a97b02043ae51886910436][^c-99bce5feaab3a183e61cd4d39f0d29bb][^c-a9554b4a6d94c16a1f7bcc4b07410716][^c-fdbe8da7ecb5c3ab1dddb57c2d0c3197]
 

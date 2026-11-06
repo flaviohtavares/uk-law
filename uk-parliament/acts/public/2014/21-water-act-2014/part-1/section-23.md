@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 23. General duty as regards undue preference in the provision of services[^c-c525d9a8b336ff09872ad4812ff2416b][^c-ac5ac051920c3260c4dad7459b598edf][^c-a43334381cedd6ea28713935daceefdb]
 

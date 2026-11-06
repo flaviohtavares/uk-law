@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 107. Validity of certain alterations to NI salary-related contracted-out pension schemes: wound up schemes and other special cases[^c-84391e72ecc696ffe82f2e98cddf795c]
 

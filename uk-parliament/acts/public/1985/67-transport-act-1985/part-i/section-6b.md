@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (54).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6B. Applications for registration where quality contracts scheme in force[^c-28711a4097679fd646c35e578df27f95][^c-29c8323716e26d9d3fe79d912962da22][^c-496ef53021cbf599b428a1a73dfc7e98]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-03-27.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 74. Payments to be made by suppliers towards the total mutualisation sum
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 87B. Sanctions for failure to provide information[^c-249b885d8e7ed53715113eea2feb7525]
 

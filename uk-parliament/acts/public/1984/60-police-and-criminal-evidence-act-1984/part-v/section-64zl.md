@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## (not yet in force: 64ZL). (not yet in force: Retention with consent)[^c20929631]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 106. Prohibition of charges, etc., in maintained schools.[^c12672771][^c12672781]
 

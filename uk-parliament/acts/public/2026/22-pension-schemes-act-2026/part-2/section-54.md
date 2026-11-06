@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 54. Pension benefits strategy[^c-9dcf25a2671eea3536c79334a212e06f]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 35. Advice on good practice[^c-05ca49f35d3888c3cbe04150c4ffc38c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 54. Sale of aerosol paint to children[^c-341e4311ab681b0f5bd56df797dc9e7e]
 

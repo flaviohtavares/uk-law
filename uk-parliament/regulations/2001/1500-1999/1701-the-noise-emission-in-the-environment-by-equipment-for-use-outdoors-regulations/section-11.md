@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-13.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 11. CE marking and indication of the guaranteed sound power level[^M_E_07a50052-3873-433f-fb9e-340bee755c14]
 

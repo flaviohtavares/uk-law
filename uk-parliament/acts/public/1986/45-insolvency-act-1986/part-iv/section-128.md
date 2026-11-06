@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 128. Avoidance of attachments, etc.[^c15572771][^c15572781][^c20429411][^c-3c794a863337f548366bd28fd50d7ae4][^c-fe742f546faa282d50fcc1cca8477fe0]
 

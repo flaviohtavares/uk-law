@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. Number of hours of work required by unpaid work requirement[^c-7b74fd048bee8e275d0dde65e6edc2e3]
 

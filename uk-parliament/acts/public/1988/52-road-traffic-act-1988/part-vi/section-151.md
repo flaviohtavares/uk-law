@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (261).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 151. Duty of insurers ... to satisfy judgment against persons insured ... .[^c13992191][^c-c44563eda1d8a7553fbc855a35b10a88][^c-20dd8e74b887e4487c03be63183b1557]
 

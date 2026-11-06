@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 112. Appointment of staff.[^c15106621][^c15106631][^c15106641][^c15106651][^c18858241][^c-8fafe89064f4c009f1abc0056e24a654][^c-ed511f380762fe43ca2dce1d3f928628]
 

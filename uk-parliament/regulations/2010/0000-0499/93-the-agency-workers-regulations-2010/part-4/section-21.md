@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 21. Crown employment and service as a member of the armed forces[^c-6b8480334182cf0447f6d5b6777e4186]
 

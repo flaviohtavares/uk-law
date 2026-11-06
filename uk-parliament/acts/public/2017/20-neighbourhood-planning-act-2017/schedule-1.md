@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 1 — New Schedule A2 to the Planning and Compulsory Purchase Act 2004
 

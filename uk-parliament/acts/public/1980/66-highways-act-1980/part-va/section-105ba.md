@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 105BA. Co-ordination[^c-d1271d722e7de06e530c94cd095d1392][^c-de2dfd5ab3ce881b21d6c97b4c81189c][^c13422031]
 

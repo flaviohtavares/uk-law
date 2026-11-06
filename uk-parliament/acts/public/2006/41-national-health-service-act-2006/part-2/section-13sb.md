@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13SB. Minimising conflicts between regulatory and other functions[^c-4d095f19a35d341261dc63166c0ff860][^c-c17c605fbd7569f0644650e6ed66435c]
 

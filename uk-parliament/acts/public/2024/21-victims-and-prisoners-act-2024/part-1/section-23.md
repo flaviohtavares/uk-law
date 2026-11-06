@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-09-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 23. His Majesty’s Chief Inspector of Prisons[^c-1fa1b3fa48fd062d69dbc04e2d693f57]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland, NI.
 
 ## SCHEDULE 7A — Connection with relevant part of United Kingdom[^c-7765286dcb85cf565e60186f16fced67]
 

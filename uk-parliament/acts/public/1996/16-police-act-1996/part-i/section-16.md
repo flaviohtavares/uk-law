@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16. Appointment of chief executive.[^c-05102889f40db65ea23d83c09c04cdd6][^c-574f579f2769a22f2ed548bb2dbfb4fb]
 

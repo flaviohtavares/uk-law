@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4. Police authorities as best value authorities[^c-9dbf8beda302fded38141f38dbf8d47a]
 

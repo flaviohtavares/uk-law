@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 71. Protections for witnesses, and lifestyle offences[^c-8c0fb5dc038bd0580c477915659c95a6]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 43. Local authority directions: children over compulsory school age[^c-7c5669274d31f113ea4ad68485aad4e1][^c-539a148a152b679b0b2f5402f58a05e0]
 

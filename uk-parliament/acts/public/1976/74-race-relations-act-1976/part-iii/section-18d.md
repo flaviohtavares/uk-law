@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 18D. . . . Training and Development Agency for Schools.[^c12452781][^c18564621][^c18630001]
 

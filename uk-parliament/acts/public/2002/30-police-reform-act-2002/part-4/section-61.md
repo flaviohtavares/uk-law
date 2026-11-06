@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 61. Anti-social behaviour orders[^c-bc3e2eca641145998ebcf32d0bb4e056]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 207. Transactions in fraud of creditors.[^c15573921][^c20433351][^c-19d30bf7a50ebece70128491d6467e98][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-48ccab1bf97dcdfa8b98917738c2056b][^c-27c740bc34b14db40a2e339d730c551d][^c-03caff2bb12bf9923001b29c18763f48][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

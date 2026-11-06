@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 47. Exercise by Special Health Authority of functions under section 46(1)(b)[^c-fa28aab7188a3cd0f3dc29130e472390]
 

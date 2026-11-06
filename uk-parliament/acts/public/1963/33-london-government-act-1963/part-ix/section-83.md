@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2018-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 83. Other adaptations of enactments.[^c3276821]
 

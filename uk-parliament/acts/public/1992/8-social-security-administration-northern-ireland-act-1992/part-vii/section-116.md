@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (186).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 116. Supply of information held by tax authorities for fraud prevention and verification.[^c-820614e7c753f307a08ea66e83d17c36][^c14899731]
 

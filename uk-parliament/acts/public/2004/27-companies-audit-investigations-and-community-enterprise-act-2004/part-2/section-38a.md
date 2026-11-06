@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 38A. Becoming a community interest company: implementation of decision on eligibility[^c-c6ab93384f00623f92850b6ec9636bfb]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2025-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 92. Legal aid in respect of certain proceedings.[^c-97a018f7ad2e1008cc8bf8e1014bf0f9]
 

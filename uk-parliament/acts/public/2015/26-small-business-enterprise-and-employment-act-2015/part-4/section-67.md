@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-05-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 67. Information to Secretary of State[^c-9cb904797af2f08fa77fe87365808213]
 

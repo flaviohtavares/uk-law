@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (105).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 93. Scope of Chapter 1.[^c-1f19857441bb987e97e6abe0638ea432][^c-4a0640c1f1a03c2d2bb721932cbb1878][^c-348689f89d926fc88c8217ee0affbe14]
 

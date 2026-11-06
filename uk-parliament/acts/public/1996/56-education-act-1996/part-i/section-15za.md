@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15ZA. Duty in respect of education and training for persons over compulsory school age: England[^c-321609c71c2056712364b8b9adec1131][^c-6d687d334944d9870d7af4893652a1d7][^c-0af74b9d618a4388ce75262172aef576][^c-cc3a5d212f81688352a79082a704e354][^c-eb4f420ce5d661d30aa5840d44b82719][^c-7089635342f3923a1365f5801be98f6e][^c-9a0288d7c2891780bd7b681c703fae82][^c-eefdd283d98089a710f59fb62ea597eb][^c-b7e32dd65d261cf47597783e14ba19a7][^c-7be879f17e156c35408d7c3da5c0bfa3][^c-9eee72e1c1b3cb937e625d12bcb98a07][^c-12ea165615379dd96452e01bdfe278d7][^c-12ea165615379dd96452e01bdfe278d7]
 

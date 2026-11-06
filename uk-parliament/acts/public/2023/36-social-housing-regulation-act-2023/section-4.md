@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4. Power to charge fees[^c-da95d68394e75b974cbb384c7dbaebc2][^c-70304404d8dfcda1063efde7eae5bfbc]
 

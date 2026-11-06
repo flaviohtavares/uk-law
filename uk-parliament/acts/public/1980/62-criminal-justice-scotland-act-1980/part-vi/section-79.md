@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2013-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 79. Grants in respect of hostel accomodation for persons under supervision.[^c10849411]
 

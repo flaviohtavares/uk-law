@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 117. Admissibility of reports[^c-8f49b3a06b9d58b9fd0dc7047ce34331][^c-862c213b9613a110fb3f72e38309763a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 66. Refusal and obstruction.[^c-cf558440c589bf0fe88fe00d6f6481d5][^c-ca40e037604a599d888783df78f75568][^c-1a286d0bab72dc2f9df014517ef654e9][^c-eae6f217c953ace2fb6b32a00613634d][^c-5e8522b5dcdb38f3a37cd152ed1e5858][^c-fba942ff779788f2a77e939ded8f410d][^c-87efa23edf52c91c1dc1304c7fdc894f][^c-c8b8f4100ba8d2414bed36c4450290a5][^c-98adc5ac1b5ed595c592ce46e37c5b8b][^c-86eda731f25cbf82310f860568f71032][^c-0af581bab6fbbb49f476c17eab9d5789][^c-e0a855d601ab79d907dfe6cef566db3e][^c-a275eae9194b4a157e2d1ddda18d8200][^c-d4ad98186e67fc0cf5cca12fdc0542a3][^c-ee1e20ec1852105cce518a8a2f2c0cff][^c-8aa2666c02b5013b38a114568938d52b][^c-08dc12bf4cc056f79e2beeec0cd73815][^c-4cda8ddf373808065b241a391420dd7c][^c-f8409a518fa92230716ff9205c16a1d1][^c-11db6c3fe10bb7c2226f54d51577cac1][^c-ac3cebd1013f64ae2046a2b456d33d1c]
 

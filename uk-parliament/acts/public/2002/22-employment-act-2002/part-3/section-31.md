@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 31. Non-completion of statutory procedure: adjustment of awards[^c-5ff4ddc364f1d6a51773676e2ac684b4]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 127. Funding of the Ombudsman for the Board of the Pension Protection Fund[^c-2ad0e4d0b068cfe3faedfdc990261de6][^c-c587afb86a5b474641d81fb61eb4ea4d]
 

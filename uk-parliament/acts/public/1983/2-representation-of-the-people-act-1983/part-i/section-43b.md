@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (71).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 43B. Power of returning officers to postpone election for their area[^c-9de1ffc09711f52e20de875a46a966d2][^c14479931]
 

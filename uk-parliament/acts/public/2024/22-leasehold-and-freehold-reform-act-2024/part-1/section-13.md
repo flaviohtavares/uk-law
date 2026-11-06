@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Redress: right to acquire a freehold or superior leasehold estate[^c-0402d75908939ab054fd073eec9502df]
 

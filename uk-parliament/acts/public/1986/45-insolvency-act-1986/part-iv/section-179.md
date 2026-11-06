@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 179. Disclaimer of leaseholds.[^c20432061][^c20432081][^c-90e366704f6a6cc2d0fc67fbc665a25b][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-10bc8fcfacd71b65d0de30794fc02576][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

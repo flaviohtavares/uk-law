@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 194. Disregard of certain convictions or cautions[^c-c96ff05b712145a11bc69265628a5331][^c-bd06b986731e950d2d1d131909e67eca]
 

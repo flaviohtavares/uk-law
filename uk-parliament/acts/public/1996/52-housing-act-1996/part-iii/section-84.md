@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 84. Right to appoint surveyor to advise on matters relating to service charges.[^c-5610635b531131b25cbf2d301878e42c][^c-4f567c5eb9798b722f29f0d361f34ae6]
 

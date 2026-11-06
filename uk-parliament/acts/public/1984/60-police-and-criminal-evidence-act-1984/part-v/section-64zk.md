@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## (not yet in force: 64ZK). (not yet in force: Retention for purposes of national security)[^c20929631]
 

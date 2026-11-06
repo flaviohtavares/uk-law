@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2018-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 50. Financing of pupil referral units[^c-6d860812e1b6ef8977a86657de137d58]
 

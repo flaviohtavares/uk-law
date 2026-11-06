@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7. Approval of religious premises for formation of civil partnership[^c-11e5e0e63560433d8459353b02b9363f]
 

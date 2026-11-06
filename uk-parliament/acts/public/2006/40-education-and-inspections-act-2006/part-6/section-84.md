@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 84. Local authorities in England: duty to have regard to religion or belief in exercise of travel functions[^c-65d99f14207f27aa2591db7570a26e61][^c-233a7a579c898f6cd5c8b4a1c400474b][^c-81ffb0eb20e62c98df124b83aeaf3944]
 

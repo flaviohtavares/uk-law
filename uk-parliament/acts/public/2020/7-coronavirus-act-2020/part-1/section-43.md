@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-17. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 43. Statutory sick pay: power to disapply waiting period limitation: Northern Ireland[^c-aa5fd8d0b198248c7906308f1d456b0a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 100. Social Security (Work-focused Interviews for Partners) Regulations (Northern Ireland) 2003[^c-dc93ebbaa9eff3845315aacda9fedd20]
 

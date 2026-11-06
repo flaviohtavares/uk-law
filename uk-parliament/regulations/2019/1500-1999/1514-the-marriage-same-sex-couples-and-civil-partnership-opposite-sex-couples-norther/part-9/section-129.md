@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 129. Civil Evidence Act (Northern Ireland) 1971[^c-19d87a70cd7acc62206ff1c064d3b048]
 

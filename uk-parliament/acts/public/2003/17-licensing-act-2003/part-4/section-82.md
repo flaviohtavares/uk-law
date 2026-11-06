@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/17
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 82. Notification of change of name or alteration of rules of club
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-18.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 133. Application to Crown.[^M_F_2185308c-4f9f-4267-8ba7-83ad4ff79aef][^c1022529]
 

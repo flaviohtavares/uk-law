@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Rules about charges for connections etc[^c-92a749ee74efb7d1bdb0965fd721f450][^c-bdbdfaed534b11c205b676c076b45c70][^c-246da0a5bb2ac885ef6e345332bc4153][^c-48e795735db79edcbdc2458a132a5537]
 

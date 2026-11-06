@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 559. Power of local authorities to prohibit or restrict employment of children.[^c-41bb35249835affaa7a88110532d2187][^c-b84a619cc4bcef13486ca8c09d928d20][^c-5274f6863ebf583198c4af53943dbf61][^c-df82d42709314c7296748c08b3554faa]
 

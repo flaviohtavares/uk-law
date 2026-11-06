@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 76. Index of defined expressions[^c-fbc72afd73e4c21d4a2a734fe091bd74]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 423. Transactions defrauding creditors.[^c15584841][^c15584851][^c15584861][^c15584871][^c15584881][^c20441131][^c20441151][^c-5108149a9a12b3407defb8d1a24087f9]
 

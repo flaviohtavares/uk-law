@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 58. Notices and signs relating to SSSIs[^c-a4d9435a0e8668752a95b07f6a6b6742]
 

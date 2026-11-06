@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (54).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6F. Enhanced partnership schemes: appeals[^c-28711a4097679fd646c35e578df27f95][^c-29c8323716e26d9d3fe79d912962da22][^c-bd7f17e67c74c5352993bd3ce0a18d51][^c-28711a4097679fd646c35e578df27f95]
 

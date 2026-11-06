@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/53
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 108. Right to refer disputes to adjudication.[^c11254331][^c-f0c2ace8434f87d40e95d503da56a3b7][^c-2c254c14830d41ad0bda8a72f2702d64][^c-45944dbceb145f2711d2a27795d1f322][^c-f4cee4e301780f35a50c57cd69c604d5][^c-c8553de990c798908c764bf6c0b02d8a][^c-bb8bec049296ad06db4c97a00f8e93bf][^c-01743c9ae59fd2a964c330b9e45e3b89][^c-6f01e485288225b31c11196983e60f66]
 

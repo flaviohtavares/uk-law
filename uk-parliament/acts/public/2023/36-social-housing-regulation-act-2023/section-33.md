@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Extension of powers to charities who have not received public assistance[^c-9a5661a2fe2d8fe03c938ec49b4ae3ca][^c-2f38d2351f0f9d4ce0b0006fadbc85d9]
 

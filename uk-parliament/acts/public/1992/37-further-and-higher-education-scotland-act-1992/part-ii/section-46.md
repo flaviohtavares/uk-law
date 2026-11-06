@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-02-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 46. Establishment of new institutions by the Secretary of State.[^c1309713]
 

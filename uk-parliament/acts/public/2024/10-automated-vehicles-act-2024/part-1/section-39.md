@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 39. Duty with respect to incidents with potential regulatory consequences[^c-ef761f9a88adc283f09a2e28a6ca7b0a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2023-06-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## SCHEDULE 3 — Munitions and Transmitters: Search and Seizure
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (156).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 168B. Time off for union equality representatives[^c-3aefcd8c10ef8351203fcabeb2f7c623]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 132B. Exemption from s.132 for specific variations directed by Tribunal[^c-8eb822c357fe0b63b97e3db59be5f2a4][^c-c05adb8597f2acc398b3fefbd54794ff][^c-e5378d2fbb31e14fb02386c4e4405768]
 

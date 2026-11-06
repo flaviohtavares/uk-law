@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 57. Enforcement action in respect of apparatus that is not in conformity and which present a risk[^M_E_4dfde509-823f-48b6-bdc3-caf23b7b47f4]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 119A. Diversion of footpaths, bridleways and restricted byways crossing railways.[^c13423961][^c18589001][^c13423951][^M_F_3dfc068d-41ed-40a9-9cc0-b46ee0d635c5]
 

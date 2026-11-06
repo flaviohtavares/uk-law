@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Criminal Defence Service.[^c-2f41732bc1e6b77684868c7d05c1d17d]
 

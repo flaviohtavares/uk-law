@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (154).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 58A. Trafficking outside the UK for sexual exploitation[^M_F_201d8bde-a1ab-4cfb-9961-d769ec91b3be][^c-ecdb32256c48527b9df06b5b49f2d934]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2014-10-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/51
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 5 (affected by repeal, see note) — Application of Landlord and Tenant Act 1954 to Assured Tenancies (affected by repeal, see note)[^M_F_bacfc434-db4f-4773-a75d-e9064b91c06b][^M_F_bacfc434-db4f-4773-a75d-e9064b91c06b]
 

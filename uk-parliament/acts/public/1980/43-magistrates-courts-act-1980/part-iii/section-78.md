@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 78. Defect in distress warrant and irregularity in its execution.[^c18251731][^c18251741][^c19377502][^c19998161][^c20643771][^c-228b2598ac8385e4b59d6455c0dbe80e][^c-c78ff36b4237e57a30405f9a1f851748]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 96. President of ACPO[^c-d830c4753f4e866554b6670f4ac09b37]
 

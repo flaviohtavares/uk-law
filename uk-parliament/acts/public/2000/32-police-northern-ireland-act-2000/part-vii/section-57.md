@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2016-05-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 57. Annual and other reports by the Board.[^c1055565][^c1055566]
 

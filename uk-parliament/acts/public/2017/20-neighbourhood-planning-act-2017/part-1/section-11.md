@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 11. Format of local development schemes and documents[^c-8a7e6c1e11c16ca7197815bd2674956b]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 23. Payments on account in special circumstances.[^c-77fdb88ae8e9f276f0476bfaf71aaf04]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 125. Standard of proof in proceedings relating to registration of social care worker[^c-5c1aa31431ef761c0dfa7925bee41503]
 

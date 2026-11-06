@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 22 (Extent: S) (affected by repeal, see note). Service of documents.[^c1092756][^c-ecd71e0e5bf68b0a19e90be64058d563]
 

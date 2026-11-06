@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-09-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 177. Modifications of standard conditions for funding appeals and references[^c-7e13f0ee4dc2250ea2a613aa5c5ddeb7][^c-e3fbf9874d0e06ac672993772902d700]
 

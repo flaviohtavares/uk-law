@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 96. Child Support (Maintenance Calculations and Special Cases) Regulations (Northern Ireland) 2001[^c-abef92e00dd617fa1713734d2e6ee56f]
 

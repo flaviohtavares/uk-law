@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 201. Counter-notice[^c-cc1029b518ee4fc379cabb7eae587889][^c-f5bf3f4536150695341fe750c9c5dbc0]
 

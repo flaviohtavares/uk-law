@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 20. Funding[^c-fdffa2fa39d1091adbe636f811ff1602]
 

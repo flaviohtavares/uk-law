@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 12. Reduced rate elections: pension for women with no section 4 pension[^c-50ae573d6e0d2e00f991c969a813c76f]
 

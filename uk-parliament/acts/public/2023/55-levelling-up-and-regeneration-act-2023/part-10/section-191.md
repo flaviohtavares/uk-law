@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 191. Designated high streets and town centres[^c-92dd7537482ce5bd30e5ffae4b86f9c3][^c-472f239c013b6af467cf9101d05ec357]
 

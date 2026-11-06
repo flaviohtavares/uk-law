@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 26C. The National Crime Agency[^c-07e969fce1e50060b89065fc7edd533e]
 

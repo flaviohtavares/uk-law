@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13ZA. Application to practise as sole practitioner while practising certificate in force[^c-9348843821aef6f673c9476ee8b418e2][^c20507881][^c20410451]
 

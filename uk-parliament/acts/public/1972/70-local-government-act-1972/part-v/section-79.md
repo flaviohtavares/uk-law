@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 79. Qualifications for election and holding office as member of local authority.[^c15092541][^c15092551][^c-53e5125c94b9d2412d91de7a320d2534][^c-f2cb67322f07530203e2c6eb92d823bc][^M_E_1e1fc94c-04fb-4bd4-de1f-78b87da328ca]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2013-06-24.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 2 — Status conferred in Scotland by adoption[^c1078378]
 

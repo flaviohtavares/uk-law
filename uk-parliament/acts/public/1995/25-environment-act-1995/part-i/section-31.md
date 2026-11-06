@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 31. Guidance on SEPA's general purpose and on sustainable development and other aims and objectives.[^c-c8e9dd5a6551520b8c38ad516ba50ef6][^c-f92e333612db6675635b33b23f293f7e]
 

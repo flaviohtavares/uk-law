@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 29. Inspection relating to assimilated law[^c-c6952c93fe3357f18a8a3dc69e4816a3][^c-16af57f61fcf77a144e525552b28fced][^c-b462a5e39492df36406b93ed59c08933][^c-49ec3bbb236a6a6559d980fcad27fd34]
 

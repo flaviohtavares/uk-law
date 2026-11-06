@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 6 — Procedure on appeals under section 207A of the Water Industry Act 1991[^c-ab7d75914654b278f2923fcafd7d8726]
 

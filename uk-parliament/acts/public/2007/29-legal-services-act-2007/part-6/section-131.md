@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/29
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 131. Acts and omissions by employees etc[^c-16c5676b0717899a5e2428034b48337a]
 

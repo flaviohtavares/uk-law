@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 43. Other amendments of section 22 of Teaching and Higher Education Act 1998[^c-f9382255be96926cd4a75e2f63ca32cf]
 

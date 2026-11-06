@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 92. Power of Secretary of State to disregard convictions or cautions[^c-b1ac825a4f23498f61e3afdbd374d4d0][^c-2d85980240b7b1057b44495d3a59c2da][^c-10055670946d6469fa770d174d883ef6][^c-10055670946d6469fa770d174d883ef6]
 

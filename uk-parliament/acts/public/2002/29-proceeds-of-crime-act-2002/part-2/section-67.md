@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 67. Money[^c-11906b3289fb9b5000a0d9696a5beed4][^c-a3889e161e736d1b5e0be99edde6119b][^c-bc59da76f74a5e9debfbda22fd326c18][^c-a3889e161e736d1b5e0be99edde6119b][^c-bc59da76f74a5e9debfbda22fd326c18][^c-8c3198406b535a644e7fb7b91d321327]
 

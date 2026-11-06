@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2024-05-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 144. Property which is in possession of police by virtue of section 143.[^c-4ec46399ce847fd725c696f5244f822c]
 

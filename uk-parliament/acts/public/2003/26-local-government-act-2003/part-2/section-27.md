@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27. Budget calculations: report on inadequacy of controlled reserve[^c-b054c883884658f49cf99ffd84ad5db0][^c-27c7e412111206ced74a3b752faaef8a]
 

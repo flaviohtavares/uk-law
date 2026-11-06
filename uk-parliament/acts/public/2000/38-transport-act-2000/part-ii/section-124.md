@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 124. Quality contracts schemes.[^c14880951][^c-9ff77f02b9781c3acf00388c7f24af78][^c-c05adb8597f2acc398b3fefbd54794ff]
 

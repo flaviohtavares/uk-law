@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 16. Proceedings for possession: anti-social behaviour[^c-2e51e29cb89d4dbc1fb070a4eeb3c6a2][^c-eac551a0ca36389c3b8ce7a9a7400aed]
 

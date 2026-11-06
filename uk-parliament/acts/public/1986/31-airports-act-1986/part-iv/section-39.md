@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 39. Imposition of conditions by CAA.[^c-a836c105d67279cf22cc8595878ae2a3]
 

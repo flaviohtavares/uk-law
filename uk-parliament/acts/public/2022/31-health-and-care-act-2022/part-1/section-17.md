@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Secondments to NHS England[^c-39337ee9a3c79fc255d6cb0d52ee6d29][^c-6c4b371ad84b961122fa35a6dc73c55e]
 

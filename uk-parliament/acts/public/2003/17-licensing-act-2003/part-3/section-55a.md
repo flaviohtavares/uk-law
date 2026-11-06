@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/17
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 55A. Suspension of premises licence for failing to pay annual fee[^c-cbbb27a0f4a54deeea27d8e00f890a0a][^c-a061128399d1f5408c3023c119f20b22]
 

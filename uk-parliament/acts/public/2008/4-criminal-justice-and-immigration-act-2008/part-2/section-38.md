@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 38. Imposition of unpaid work requirement for breach of community order[^c-587fb9173dd2c341ae892a24a3c92eb9]
 

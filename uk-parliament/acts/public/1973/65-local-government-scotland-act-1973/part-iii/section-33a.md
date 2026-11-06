@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2025-08-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/65
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 33A. Declaration of acceptance of office of councillor.[^c9669131][^c9669141][^c9669121]
 

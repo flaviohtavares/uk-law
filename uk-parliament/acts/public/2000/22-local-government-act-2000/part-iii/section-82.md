@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 82. Code of conduct for local government employees.[^c1427979][^c-6bb7cb71ff34a9828e1ebcdbed818fdb][^c-8f33abf4380d779a4842bad9f7d9f5f8]
 

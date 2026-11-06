@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 22. Sunday opening of certain licensed premises in Scotland.[^c-6cdfafc7cf11c2f2c63598ab9fbb56d0]
 

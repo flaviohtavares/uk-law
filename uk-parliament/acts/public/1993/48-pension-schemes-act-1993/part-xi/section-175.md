@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (105).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 175. Levies towards certain expenditure[^c-36c0be76be1b6fd5cec0810cc40b7b90][^c-ecaa30d2277d9d13db990bd1cb883568][^c-ad55ddf62fb6878fbddf196a0412b43d][^c-3a2677c040eae6f0a17c477600792094][^c-2032044188c051ec3fcc05f4936ea2d5][^c-24bbeb499e552aeff81f58008cbda8a7]
 

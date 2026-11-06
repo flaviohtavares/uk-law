@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32. Functions and procedure of LSCBs in Wales[^c-95c00d4d9693eca4af2b6de768e5abcb]
 

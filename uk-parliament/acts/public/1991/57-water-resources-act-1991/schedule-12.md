@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 12 — NITRATE SENSITIVE AREA ORDERS[^c-f6383492330171aef0705542e8ff5eec]
 

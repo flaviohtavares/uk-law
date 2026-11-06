@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (54).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27B. Provisions supplementing section 27A[^M_F_28781d44-b02d-4b5f-ea4e-1e352f264b90]
 

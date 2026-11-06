@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 292. Power of Regulator to require ring-fencing of assets[^c-b04934cd888e7276c0a6939405dcd835]
 

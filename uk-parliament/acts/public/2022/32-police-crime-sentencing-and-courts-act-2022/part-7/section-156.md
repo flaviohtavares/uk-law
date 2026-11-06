@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 156. Assaults on those providing a public service etc[^c-031cceaf2ac6a89e818a7e7b7bfffd8f][^c-6e1bab5910f9c077c36c1cc6dae925e4]
 

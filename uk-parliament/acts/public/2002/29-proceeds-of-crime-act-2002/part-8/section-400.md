@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 400. Offences[^c-b9886bab92436661358997af49d97142][^c-b0c569ed7eceedfac83befcf785dc1ca][^c-2ee5092e43f384123f61a4008adba3a3][^c-da3c9995caf2e996e39c0b2942c654a7][^c-4ba83bf7432b58747b3a4259a642b8da]
 

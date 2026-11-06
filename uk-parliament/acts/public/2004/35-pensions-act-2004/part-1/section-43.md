@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 43. Financial support directions[^c-7be46ffb9a215a307d7ecb0096bd7eff][^c-efa22510869d944425cfc4026fc01d05][^c-f3421251b6ce21b8a2d670b0aee0e58c][^c-9f7a9f6fa2045ef18285aeeab0c98388][^c-20fba1c614d34067f8566a6de33290e2][^c-8850c1698646f1334a7c6398e345c106][^c-7be46ffb9a215a307d7ecb0096bd7eff]
 

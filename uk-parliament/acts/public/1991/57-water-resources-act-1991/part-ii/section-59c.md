@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 59C. Apportionment of licence to abstract[^c-cc3474d7ce11595c12228e0d436d9a8d][^c-0f4c17c9431d4be34ae11e4f1ecc6448]
 

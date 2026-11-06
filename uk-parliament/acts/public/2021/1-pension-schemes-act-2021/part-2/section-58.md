@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 58. Authorisation of collective money purchase schemes[^c24459371][^c-b273984a6a061c84c13baefd5f1ee360]
 

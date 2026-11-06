@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2023-08-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 88. Persons appointed under section 82 or 85: powers etc
 

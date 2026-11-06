@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 179. False communications offence[^c-c4627de808d14bd65f1755f66362b1a3][^c-08d3a753889dc280ea7a22bb0da88166]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 49. Applications for adoption[^c-43a8fec774fb56e8826f662f46c0da9b][^c-fdfa2b8f6e6419caad5ed83ea9b824c2]
 

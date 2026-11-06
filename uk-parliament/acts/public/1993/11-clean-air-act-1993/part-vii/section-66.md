@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 66. Transitory provisions relating to Alkali, &c. Works Regulation Act 1906.[^c10491791]
 

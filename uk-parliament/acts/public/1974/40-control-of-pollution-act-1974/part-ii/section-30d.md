@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 30D. General duties to achieve and maintain objectives etc.[^c18904341][^c-8fa1a2f5ec8cb34b0982c506ae70a91d]
 

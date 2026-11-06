@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 13. Compliance procedures for series production[^M_E_e9eecfab-d8ad-4581-97f7-0fae380bb6a6]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/23
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 2 — Transitory modifications of Schedule 2 to the 1989 Act[^c-7cbaf8de927d8e241fa08fe1c76b1a7d]
 

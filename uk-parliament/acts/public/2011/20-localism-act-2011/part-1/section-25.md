@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 25. Prior indications of view of a matter not to amount to predetermination etc[^c-dcb76ada103d5e3ffb64e8e00c960db5][^c-2ed3f15420d26ea192ee13ba43f596c8]
 

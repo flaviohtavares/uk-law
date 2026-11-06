@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## (not yet in force: 64ZB). (not yet in force: Destruction of data given voluntarily)[^c20929631]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 46. Approval of a programme[^c-5d8ee23895ec6ba54874ebe52b5fe2b2]
 

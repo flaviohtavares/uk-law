@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2013-01-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 9. Variation and recall of restraint orders.[^c933260]
 

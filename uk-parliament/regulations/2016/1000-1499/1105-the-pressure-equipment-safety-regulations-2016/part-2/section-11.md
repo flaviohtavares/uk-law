@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1105
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 11. Declaration of conformity and UK marking[^M_E_b2131620-686e-436e-f94a-7686cdb8500a][^c-32eb47f5bb0fd4f1d8a33ffd27eaf88a][^c-f6ad17f6638641dcc5e324da9ac65bd5]
 

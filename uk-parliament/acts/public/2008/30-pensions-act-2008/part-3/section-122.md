@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (79).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 122. Amendments of Schedule 7 to the Pensions Act 2004[^c21652611][^c-efc944d6a1dc062a7d3de14ebdef8693]
 

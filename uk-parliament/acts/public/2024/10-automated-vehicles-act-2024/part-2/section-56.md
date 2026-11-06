@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-05-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 56. Amendment of offence concerning fitting of unsuitable parts[^c-e2da20aa88904af11cd36eb774d14e02][^c-c705c30bec4b4a4f226e60e9ce295a00]
 

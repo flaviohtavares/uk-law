@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 108. Suspension during review of national policy statement[^c-c8a152679d301ce636b213fc46b446fe]
 

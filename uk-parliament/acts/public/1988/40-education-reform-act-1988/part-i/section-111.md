@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 111. Charges for board and lodging at boarding schools.[^c12673091][^c12673101][^c12673111]
 

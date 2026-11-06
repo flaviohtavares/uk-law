@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 95. Hearings: disruption ...[^c-d74164027e6e5e806517b49b3cd026cc][^c-d2a01d82cfcc281a915726f355a98f94]
 

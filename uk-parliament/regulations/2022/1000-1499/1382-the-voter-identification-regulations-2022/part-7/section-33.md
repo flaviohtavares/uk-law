@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 33. Application of rule 40B of the parliamentary election rules[^c-ebb5f82a9490d9975d419d185537aaba]
 

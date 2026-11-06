@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 155. Delegation of functions under Part 8: Scotland[^c-22660747d95f4a585d9d99bfebd452bb][^c-42a8bf6e23d7917adb85c3b072c29a84][^c-c10fde7dd31b91d998db2793c6c1273a]
 

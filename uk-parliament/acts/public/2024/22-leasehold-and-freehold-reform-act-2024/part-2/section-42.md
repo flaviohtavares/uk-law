@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 42. Amendment of Part 1 of the LRHUDA 1993[^c-caab742386c2cf36e6226154e653c31c]
 

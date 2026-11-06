@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2024-11-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 36. Exercise of functions by and on behalf of Service[^c-f96d3fcb4a48aa58e8fbbbbda60782e2][^c-0535911609b7543431e95d42f38ed050][^c-993223bf77b558fc832e7af78249f130]
 

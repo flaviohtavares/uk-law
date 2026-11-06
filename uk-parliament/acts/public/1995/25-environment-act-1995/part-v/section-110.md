@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 110. Offences.[^c-021e452698da35394099f8230ce9cd47][^c-f90363af7dba0590f8c8b88effc50e94][^c-06ae7a3a4017c3106e6f9975152defe6][^c-230e5f1db071c7254fe7a7a7c9fd81ae]
 

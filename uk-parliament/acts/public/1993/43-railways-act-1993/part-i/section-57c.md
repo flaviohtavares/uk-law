@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 57C. Procedural requirements for penalties.[^c14105351][^c18937291][^c-929dc95eac7afac443ea4e095b07fde3][^c-7213915dc14b3cd35dd93d2c67c80433]
 

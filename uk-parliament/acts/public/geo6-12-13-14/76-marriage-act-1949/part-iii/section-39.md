@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 39. Issue of certificates on board His Majesty’s ships.[^c-c898f7a5800b3f42e0c6454cec446a45]
 

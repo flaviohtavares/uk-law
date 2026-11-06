@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2017/737
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 44. Design and construction[^c-c022c53d8d05b160b6e39b26814055fe][^M_E_d0d83003-1828-4190-9a30-09e18f0951dc]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 218. Prosecution of delinquent officers and members of company.[^c20433711][^c-15f6196b0fc6c0d0a1faf10811e5e39b][^c-abe8c65be41bb47bf2fb970259ce5846][^c-54fe1ce0cfb8a2fe4b326c4dfa29d456][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-7778f0f94a12a984908cb3b62e79a89f][^c-8f05efe180975e881fcb09d5f65cf4d3][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

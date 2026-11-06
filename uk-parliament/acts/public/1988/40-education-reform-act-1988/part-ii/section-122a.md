@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 122A. Orders transferring further education corporations in Wales to higher education sector.[^c22561951][^c-9a57a7803082bcaf1a737b2459e0e120]
 

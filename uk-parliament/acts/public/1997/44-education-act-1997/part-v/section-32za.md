@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32ZA. Qualifications functions of Welsh Ministers: co-operation and joint working etc.[^c-8b1f1ba3fac04efdbdb334dcdbb003a7][^c-0681ac292f754c2f78eafca6d0a6ab77]
 

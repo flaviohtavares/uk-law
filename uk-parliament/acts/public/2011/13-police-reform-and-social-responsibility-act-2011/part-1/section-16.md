@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16. Appointment of persons not employed by elected local policing bodies[^c-b7dfe54139fec7c46f136e9baafe19e9][^c-cbbec49ee85d1fbe94575f83d9c701e3][^c-166a6d2f4e55ff961c63e9831adc3c97][^c-25c2c02a7ffe88198f9f8e6b1c059c52]
 

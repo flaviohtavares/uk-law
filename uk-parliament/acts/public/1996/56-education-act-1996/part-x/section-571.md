@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 571. Publication of guidance.[^c-06a96fa480f7937ece5c29f8bdd02a1c][^c-241debf27cead84545f953e415ccccfb][^c-332b328fe89b16cd8491769d363cbd6a]
 

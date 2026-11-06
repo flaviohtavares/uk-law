@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 59. Superannuation (Miscellaneous Provisions) Act (Northern Ireland) 1969[^c-953908576fed09a4401acd0d938eb736]
 

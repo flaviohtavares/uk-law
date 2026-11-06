@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. Exercise of public health functions of the Secretary of State[^c-869f06b715e16e4ac15925f4d9a9f6dc][^c-8a1ee199c7f6d8a617bf89ce38636aea]
 

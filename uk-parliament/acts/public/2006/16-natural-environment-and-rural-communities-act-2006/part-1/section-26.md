@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 26. Transfers on dissolution of English Nature and Countryside Agency[^c-0b8710ed76be110d500bd857e9944084]
 

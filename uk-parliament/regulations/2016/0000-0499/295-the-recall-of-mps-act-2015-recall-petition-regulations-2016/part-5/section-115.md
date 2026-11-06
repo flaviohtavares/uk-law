@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 115. Notification of a rejected postal petition document: England and Wales and Scotland[^c-01d2cbee755e719b43e81f16ba0fdea0][^c-70d073958d6ba40bff96ddd81f683edd]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 175. Fluoridation of water supplies[^c-9c0be75c7273a8ceeda65f8ee781e0f4][^c-912262be6d9ddd18784797204fdd1fd8]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (173).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Functions of auditor panel[^M_I_3c0452ae-ebef-4e33-f9dd-d8f6bf3d0489][^c-191de53f4c479a5bd39ac09cd76fb611]
 

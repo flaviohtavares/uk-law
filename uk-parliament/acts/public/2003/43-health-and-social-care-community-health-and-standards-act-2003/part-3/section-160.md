@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 160. Provision of information[^c552131][^c-b6a9cf8888591be9d36bdcaadff9292a][^c-8100c17754447b47e2a910d3159e542e]
 

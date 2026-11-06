@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 134. Production of licence[^c-b91b4450fb503a3b47fb51f92755c42a][^c-e66a7ca8de091910ab12a97f62c1fa22][^c-599a498baf2c682ee49fb36b806c9141][^c-b91b4450fb503a3b47fb51f92755c42a]
 

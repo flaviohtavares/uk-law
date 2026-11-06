@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/23
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 33. Research etc. into matters connected with certain statutory functions[^c-1b081bbea9ac4676f2afd59eadd9712a][^c-67e669a6bfce66c89b6de29f495b9feb]
 

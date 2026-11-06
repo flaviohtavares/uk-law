@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 56. Functions of authority responsible for maintaining the service.[^c7814421][^c7814432][^c20459761][^c-0fe72d9a6077d9cfd7b83aac041509d3]
 

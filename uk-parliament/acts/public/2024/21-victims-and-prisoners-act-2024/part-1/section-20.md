@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-09-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 20. Child victims of domestic abuse[^c-e9b65b70c1b96c799cdbd6dca252e982][^c-a407c147e6984f7d80046a88d78e0be6]
 

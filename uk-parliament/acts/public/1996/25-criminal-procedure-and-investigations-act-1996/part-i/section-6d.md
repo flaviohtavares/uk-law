@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## (not yet in force: 6D). (not yet in force: Notification of names of experts instructed by accused)[^c18987811][^c-8c1811d7ba0c092c4e68960ff664e626]
 

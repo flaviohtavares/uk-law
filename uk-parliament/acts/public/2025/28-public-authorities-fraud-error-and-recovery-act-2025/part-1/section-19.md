@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 19. Requirement for banks to provide information[^c-30a9613a436b087ed3f9808729f7d170][^c-de33b562d30ecb31b89a3ba429c6c09b]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 6. Meaning of careless driving: constables etc[^c-114833b07bb5e5ccf283bfd6406fa5c9][^c-c4999c9a6c4b7a792a3441c959db53c2]
 

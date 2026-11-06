@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 112. Enforcement of financial penalties: registration[^c-d1a7ae0836a06308510bc5ab953fdca4]
 

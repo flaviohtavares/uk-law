@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 20 — Closure orders: premises associated with persistent disorder or nuisance[^c-110fda8919217bc6974f58699e5cf108]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 1 — Specified overseas relationships: opposite-sex relationships[^c-83bbebaef0e0564e8a0ea48885d92f0a]
 

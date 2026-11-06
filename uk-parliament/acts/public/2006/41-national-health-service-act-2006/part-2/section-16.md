@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16. Section 92 arrangements and section 107 arrangements and LPS schemes[^c-5f613362ffac3b2c96c17ea8ed04ed4f]
 

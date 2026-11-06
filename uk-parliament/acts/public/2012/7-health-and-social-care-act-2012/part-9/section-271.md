@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 271. Arrangements with other bodies[^c-e7a5f52fe643593bccf639818e0d4fee]
 

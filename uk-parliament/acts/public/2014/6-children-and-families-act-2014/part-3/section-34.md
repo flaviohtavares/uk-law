@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 34. Children and young people with special educational needs but no EHC plan[^c-efdb1cc85a6f577b413cd7a201c5b7bd][^c-ab423266c7aa85381aa9194d3d4bf224]
 

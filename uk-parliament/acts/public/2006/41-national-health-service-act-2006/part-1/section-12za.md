@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12ZA. Commissioning arrangements by NHS England or integrated care boards[^c-bf018c084766bde94aea44212808d48d][^c-c26379f595629655ada8a57e0d3d2bfd][^c-2be61abdc542ef92c729fdc3c9ade442]
 

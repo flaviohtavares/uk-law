@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 91. Amendments[^c-8cb6e5992008a3b1d6b20ed3887408a0][^c-22cfc6b38a0395ba0120af502c3a7c03][^c-316b9dafc8e34e5a237a867d5434dcdc][^c-ae9e4ed08a64135a110064e418335314][^c-adaa6dd05211dae75ca699ade4ede9be]
 

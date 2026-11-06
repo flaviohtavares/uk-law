@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 364. Contents of annual return: general.[^c17405651][^c17405661][^c17405631][^c17405641]
 

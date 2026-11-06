@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2026-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 77. Default powers.[^c14169341][^c-20142ebf3a2c42780a6e47754cccc74c][^c-f59f7ba958a29d329e033908225c9419][^c-211df592e9bc8da52094e559b3fb543c][^c14169321][^c14169331]
 

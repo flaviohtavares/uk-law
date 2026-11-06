@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 167. Powers relating to retaining walls near streets.[^c13426881][^c19867651][^M_C_e6a1f780-954c-425e-a90e-1989eabfb1c3][^c-bf607057a60e7f3dd798904fb4ebbd29][^c-c09294105cda3e09c2f83d5f873e792f][^c-ed513c41b1e40d4808eade9a2ecb96e6][^c-cd1defc4766c51ecf731ad7518bc8681][^c-74a8fc43241d3ad8f3b322db9b850e5e]
 

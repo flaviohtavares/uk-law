@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2023-12-26. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo6/12-13-14/97
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## Schedule 1A — Coastal access reports[^c-6d9e41fd2936b4732b3141ae0f91f238]
 

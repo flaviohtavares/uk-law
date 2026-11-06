@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 78. Social Security (Graduated Retirement Benefit) (No. 2) Regulations (Northern Ireland) 1978[^c-a0c6e1d8a6431f44e787765cefd1f129]
 

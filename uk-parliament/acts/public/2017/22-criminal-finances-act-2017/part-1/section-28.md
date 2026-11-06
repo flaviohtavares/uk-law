@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 28. Seized money[^c-8ed50dbcfcec882160a592b176d6f9d0][^c22725311]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-01-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 38. Time limit for applying for judicial review
 

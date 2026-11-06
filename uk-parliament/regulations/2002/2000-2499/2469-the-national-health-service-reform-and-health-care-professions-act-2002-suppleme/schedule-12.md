@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (43).** Text as at 2002-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/2469
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 12
 

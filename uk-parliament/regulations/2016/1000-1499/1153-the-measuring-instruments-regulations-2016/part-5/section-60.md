@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1153
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 60. Changes to notifications[^M_E_9e9722d6-4b72-46e3-e03c-b58653b22ef4][^c-819bc0dbe42933501fb9b560b0fdcea2]
 

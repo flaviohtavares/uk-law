@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (398).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 85. Patients removed from Channel Islands or Isle of Man.
 

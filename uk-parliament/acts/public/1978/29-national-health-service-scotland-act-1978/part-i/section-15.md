@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2026-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 15. Supply of goods and services to local authorities, etc.[^c-56fd1afb970b46d50a7e49b6dd43950e][^c-046ff196cf20fcbfdda9dbc11f657411][^c-046ff196cf20fcbfdda9dbc11f657411]
 

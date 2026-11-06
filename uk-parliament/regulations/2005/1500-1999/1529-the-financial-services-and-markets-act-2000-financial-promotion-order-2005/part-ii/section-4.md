@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-15.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 4. Definition of controlled activities, controlled claims management activities and controlled investments[^c-f8866204f9d0c655c8b33ff8bb4ab1f8]
 

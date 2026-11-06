@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 15. Parental leave: removal of qualifying period of employment[^c-86759c2d9d0975b691274d5a2ae33b4d][^c-3350f55dd80940a30251a4135d45eb22][^c-9c0472a954051b6b34488894700ad222]
 

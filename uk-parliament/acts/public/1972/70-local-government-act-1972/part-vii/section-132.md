@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 132. Provision of offices, etc. by principal councils.[^c15108831][^c15108841][^c18858501][^c-a93457fd8dd7c93a6863d7a1316512e8]
 

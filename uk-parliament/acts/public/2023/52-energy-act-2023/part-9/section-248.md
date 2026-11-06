@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 248. Application of general duties to functions relating to load control[^c-98f1f71d7ee9b3695d13b3f4e6db358c][^c-985bac7bdcff7c5c38d7c313649ef960]
 

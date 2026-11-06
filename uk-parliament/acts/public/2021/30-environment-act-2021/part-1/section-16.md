@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16. Environmental monitoring[^c-bab2d5619a6297c73d4a26152f6f1069][^c-7c47c6b6e648d46b8907dffd3c7edcff]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 52. Subsidiaries of Passenger Transport Executives[^c-f779d877cb623d29e205febcdf6b0af3]
 

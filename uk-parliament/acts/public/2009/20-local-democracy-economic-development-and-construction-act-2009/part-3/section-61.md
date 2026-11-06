@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 61. Removal of functions relating to boundary and electoral change[^c-d391fcde0d83979f4e74432e083cdb03]
 

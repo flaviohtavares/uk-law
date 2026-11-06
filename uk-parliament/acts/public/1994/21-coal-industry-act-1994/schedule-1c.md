@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 1C — Supplemental provisions with respect to powers of entry: Scotland[^c-1569c0e35b5ba0be40a097c025789313]
 

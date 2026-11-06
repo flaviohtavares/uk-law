@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 71. Deputy superintendent registrars and registrars[^c-919290716d01732eecdb3a154bb8aeba]
 

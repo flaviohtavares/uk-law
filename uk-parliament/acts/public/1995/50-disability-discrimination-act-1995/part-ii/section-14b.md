@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-01-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 14B. Qualifications bodies: duty to make adjustments[^c22785371][^c20641871]
 

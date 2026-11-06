@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 145. Use of CLA receipts in an area to which section 144(1) duty does not relate[^c-b3688ae8d9ae0c5ac28387a64e8280b0]
 

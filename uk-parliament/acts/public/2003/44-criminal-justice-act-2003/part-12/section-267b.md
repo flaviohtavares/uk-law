@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 267B. Modification of Chapter 6 in certain transitional cases[^c-0e50e4f8eab02b516d397efbb969a937][^c-93aa2a64582981c3ded235628fa47298]
 

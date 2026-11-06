@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 4 — Modifications to Commission Delegated Regulation (EU) 2019/2017 (energy labelling of household dishwashers)
 

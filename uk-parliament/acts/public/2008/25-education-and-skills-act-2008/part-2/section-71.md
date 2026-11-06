@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 71. Provision of support on conditional basis: learning and support agreements[^c-311048944558689feee93eba2751e5d2][^c-8e77d9e0bc8eaadc89c840b20825447b][^c-e9b1c2bbbcb906787353f4be4a2bc06f][^c-2109ace0398555ba792a7d632188983f][^c-1d35b874ba1cb1756ec220e46bf60fb9]
 

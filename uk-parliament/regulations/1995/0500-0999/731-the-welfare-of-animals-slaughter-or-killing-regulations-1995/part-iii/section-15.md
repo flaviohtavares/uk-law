@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Wales; England; Scotland (the versions of this text differ in extent).
 
 ## 15. The killing of animals elsewhere than in a slaughterhouse or knacker’s yard (affected by repeal, see note)[^M_E_6xcw7127-exh9-3fmj-euo9-67c1e0c44f81a][^c-29e8ef3a5d57f823261f46df805d0311][^c-29e8ef3a5d57f823261f46df805d0311]
 

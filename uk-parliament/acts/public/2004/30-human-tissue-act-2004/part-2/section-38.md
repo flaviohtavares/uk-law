@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 38. Duties in relation to carrying out functions[^c-8eefb5ad26b03cb845147c76f7115ee7]
 

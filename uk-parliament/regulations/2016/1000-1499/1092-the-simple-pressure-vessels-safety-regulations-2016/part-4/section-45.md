@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1092
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 45. Approved bodies[^M_E_32cb650a-d1a3-48ba-e1e6-f250160acc9d][^c-bd4616107a483524ba7b3ed99bd47f64]
 

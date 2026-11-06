@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 105. Meaning of “the court”: jurisdiction of High Court and county court.
 

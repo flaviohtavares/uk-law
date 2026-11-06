@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 49. Non-domestic energy efficiency regulations[^c-3f8c409426af3afd8f40af0fc69934a4]
 

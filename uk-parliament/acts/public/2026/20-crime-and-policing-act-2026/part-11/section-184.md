@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 184. Assessment of misuse of controlled drugs[^c-ceca8286ab5c5065a52d1006b8a862e7]
 

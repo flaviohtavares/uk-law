@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 84. Removal of functions relating to competition etc[^c-42a9b2eda82a501cbbd07830c2017215][^c-0f44b3b262bbe0350e25168ca47bdeea]
 

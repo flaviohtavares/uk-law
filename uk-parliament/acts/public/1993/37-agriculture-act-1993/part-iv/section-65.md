@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 65. Short title, commencement and extent.
 

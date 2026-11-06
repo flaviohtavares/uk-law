@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 151. Minor and consequential amendments related to sections 136 to 150.[^c-86a8673bc29d375723e7be38ebb959bf][^c-5dd807daa129c1ff725dc4a18bc3a375][^c-99b472c01628d3d33388a9d176a09538][^c-6de92775261ee8fcd42cebffea327535][^c-d3520d7fadccfe21f6cf8e6b85a47b38]
 

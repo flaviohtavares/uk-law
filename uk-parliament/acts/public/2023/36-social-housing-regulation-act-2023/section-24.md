@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 24. Direction by Secretary of State[^c-02201a3fff1f1ba6ed485e63bbffca9d][^c-c71cb210d409b368057cd976ea02bb21]
 

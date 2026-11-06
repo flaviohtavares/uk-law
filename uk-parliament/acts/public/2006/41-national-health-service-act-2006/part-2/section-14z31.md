@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14Z31. People for whom integrated care board has responsibility[^c-1c14b41eea63136ad7dcb691cfba3d95][^c-71ad46b7180ca823f19ef9c29cdc1735]
 

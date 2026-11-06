@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 424. Those who may apply for an order under s. 423.[^c15584921][^c20441171][^c20441181][^c-8df4f1a31c28e5c554ec5ca35680efdc][^c-e22b10a933e1394610e14ba06caf0746]
 

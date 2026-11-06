@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 5. Authorisation requirements and conditions[^c-eddce8221d48994fde3445f9bf4aa113]
 

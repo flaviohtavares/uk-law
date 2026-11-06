@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2018-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 30. Local education authorities.[^c-9aee198e9a3a8779c9daf6ae3c911cdc]
 

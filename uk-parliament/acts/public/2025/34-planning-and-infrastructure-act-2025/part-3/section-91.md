@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 91. Annual reports[^c-dad118c62fe55f40b415245c6e0ed8ae][^c-e92846fcaf25a0fb712b9ea199d8aaa5]
 

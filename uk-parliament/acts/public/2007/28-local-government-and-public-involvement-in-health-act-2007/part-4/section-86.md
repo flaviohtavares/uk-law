@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 86. Reorganisation of community governance[^c-38fe983e4901991bf75af6309a2e6e02][^c-e4fd6b599a8db4fdbe4ff4947013c9aa][^c-1aacc6951ff3366fa250bdbb66cd2a04][^c-27023c92f75b073f1664575c369a7ed8][^c-3be3c58689db7c0a8d2585eb35d29e3a][^c-c61da132c5de3eab647ea026466b8e28][^c-702d864bd955266789260c31cee81a57][^c-10062d82109b81910235b0edff8e7431]
 

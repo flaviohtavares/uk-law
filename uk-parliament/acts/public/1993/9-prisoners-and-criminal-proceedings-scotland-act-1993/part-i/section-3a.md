@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (38).** Text as at 2026-08-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 3A. Re-release of prisoners serving serious terrorism sentences, sentences with a fixed licence period and extended sentences.[^c12923351][^c12923341][^c-a4a6c994ae3231bd36b0678b1c72e9ad][^c-5e88a046c7a82eaa7b0cde1f4db6a754]
 

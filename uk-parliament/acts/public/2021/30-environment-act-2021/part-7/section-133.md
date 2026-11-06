@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 133. Effect of acquisition or disposal of affected land by responsible body[^c-44de0c1ed6820a7943a114b502a6fc92][^c-6b9126799cc59eff6b5fff12fc92210c]
 

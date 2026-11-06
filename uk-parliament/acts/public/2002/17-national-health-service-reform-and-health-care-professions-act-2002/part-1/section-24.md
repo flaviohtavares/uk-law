@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2024-12-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 24. Health and well-being strategies in Wales[^c-4e85c443883c5031b0a5a7eeb42c7372]
 

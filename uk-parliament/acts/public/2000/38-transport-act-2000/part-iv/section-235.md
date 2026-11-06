@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 235. Publication of proposed closures at stations.[^c-335031a729ab682b6a88e6bdaae6be4e]
 

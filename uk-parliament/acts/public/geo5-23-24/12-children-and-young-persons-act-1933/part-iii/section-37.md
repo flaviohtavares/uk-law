@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5/23-24/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. Power to clear court while child or young person is giving evidence in certain cases.
 

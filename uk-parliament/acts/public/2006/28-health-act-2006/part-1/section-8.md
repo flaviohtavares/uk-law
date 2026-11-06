@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8. Offence of failing to prevent smoking in smoke-free place[^c16418411][^c-fc73ff7e563707607373ab49d1b9b569][^c-461b5def6b77c714acf912fa4946ee73]
 

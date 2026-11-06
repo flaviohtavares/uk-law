@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 73. Inland Waterways Advisory Council[^c-04ce47f4d87c0613822b344b6a279974][^c-6e944115f976b768b2ea5e5b9dd42433]
 

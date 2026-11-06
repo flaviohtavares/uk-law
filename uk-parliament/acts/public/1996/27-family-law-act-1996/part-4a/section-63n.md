@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63N. Power to extend jurisdiction to magistrates' courts[^c-38e983d627b4374a5debbf36ce0ef6f0]
 

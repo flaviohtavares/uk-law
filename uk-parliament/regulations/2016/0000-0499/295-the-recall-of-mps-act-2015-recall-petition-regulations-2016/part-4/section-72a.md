@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 72A. Verification of information provided in an application for absent signing[^c-ef45cd1e42d46816a759c17f3c2d618d]
 

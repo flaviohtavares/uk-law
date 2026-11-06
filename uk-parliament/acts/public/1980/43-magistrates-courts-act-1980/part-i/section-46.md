@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. Corporations.[^c20643911][^c-98bdbc347ccf412e0f64922117da0fa4][^c-c593c90c6ac42bc9045462145cddb976][^c-fe867572d2b5e17a85aa4d06df2479d6]
 

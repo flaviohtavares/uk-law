@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-01-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 24F. Let premises: victimisation of persons to whom premises are let[^c22791111][^c20492111]
 

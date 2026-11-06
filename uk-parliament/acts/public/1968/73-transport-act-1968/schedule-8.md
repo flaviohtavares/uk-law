@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 8 — New Bus Grants—Supplementary Provisions[^c-5d46efe42d6a048d902c7d27a6314304]
 

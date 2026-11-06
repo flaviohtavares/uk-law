@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 51. Abolition of Central Fire Brigades Advisory Council[^c-755a763ae6210f5326dab04ecff330ca][^c-fa3c0a872fe6cdf5692d3ceca6eb59bf]
 

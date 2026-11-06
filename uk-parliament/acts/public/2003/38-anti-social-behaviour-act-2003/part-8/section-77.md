@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 77. Action by relevant authority[^c-00a599f9e9708286352904adff3892e4][^c-155c668f45f6e2f1e4750219569e7143]
 

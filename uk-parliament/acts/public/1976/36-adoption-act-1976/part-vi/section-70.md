@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2009-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1976/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 70. Nationality.[^c-a3f9cb168e48d93bbac278acc884e790][^c-4487bdebfb20e55ebd413702ad462657]
 

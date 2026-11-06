@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 50. Road Transport (Working Time) Regulations 2005[^c-3f80e094262a0ce907902e9032b925cd]
 

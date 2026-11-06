@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 60B. Coasting schools[^c-96d61c4e3ce05798c71ba3d248418441][^c-435d1eb0870123b9aacfef7a97258f8d][^c-8d5237453ed92ecbac2c6524d2f3e471][^c-5d763e131f61ba27abc360faab1df150]
 

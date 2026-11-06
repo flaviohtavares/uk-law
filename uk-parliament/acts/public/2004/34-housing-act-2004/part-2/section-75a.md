@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (145).** Text as at 2026-06-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 75A (Extent: W). Other consequences of operating unlicensed HMOs: restriction on terminating tenancies (Wales) (Extent: W)[^c-142413ad9e3ac1e37ac4bb9f40643646]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 1A — Declaration of conformity[^c-fb601f0e86b914d54b0584f67fb0dc18]
 

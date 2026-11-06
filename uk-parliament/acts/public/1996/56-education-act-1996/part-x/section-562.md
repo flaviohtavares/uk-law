@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 562. Act not to apply to certain persons detained under order of a court.[^c-aa463299e8301744e8737c72ade79812][^c-8cecc033cb9489a9531c9e8a576b50f4][^c-1c043b51543133df67a6979d81edd9a1][^c-4a8c997ef08fb83b0041280272c0b7a0]
 

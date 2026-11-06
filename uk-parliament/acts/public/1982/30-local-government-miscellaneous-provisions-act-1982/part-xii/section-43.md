@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1982/30
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 43. Advances for acquisition of land, erection of buildings or carrying out of works.[^c2552901]
 

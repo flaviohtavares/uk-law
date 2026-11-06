@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (139).** Text as at 2026-07-08. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 84. Pension increase (husband).[^c-69046adc380848e87cfaecc78c3d1c7e][^c-2a5c717cf6e52dc09eaa32b1e78c70fb][^c-8da6eef750e42942ca3956a8f8bc686e]
 

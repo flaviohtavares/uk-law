@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 77. Money recoverable summarily.[^c-7b6a207dab5e700883c514d55f20c0ba][^c-4d7f9a98849eea7feea52ad63a8d21c4][^c-3ea489e9c5bb3c42631b489dbdd7041e][^c-11e985831310b12b7efbefba3e17a324][^c-c482d35a77a5bac703695073090bf0ed][^c-38a5fa7f1e75d07f48afa3b0cc60f0c7][^c-f69c1acca4dba1702342c53224e159fa][^c-b0dc85c03849c55366945a67ed7722b4][^c-f249a18b43f4abedbeb482bd6286ccc3][^c-187a2288ec828840310faa7540592a87][^c-814766eb1bfffb8a123643ce12df06db][^c-ab0195c6ae60b980f55471322e05999a][^c-61224471c9b37af5e62fbf30f4394f38][^c-14d4e156474e1f810a9109576e447189][^c-60c6a941f5a9efa8aef2532f9b5cf016][^c-4473444c22a8eb96059d79a34ab129a3][^c-8c3af9a75f6f76e4be8e0d0fe59ee6ef][^c-0be9cf671b1b79792e59571a71dc9294][^c-6375655e22ca1231f95d18ba62924109][^c-9135c7e22f47f7f02207a54112c0cd25][^c-f01d381659c4b908b5004821ae0bc132]
 

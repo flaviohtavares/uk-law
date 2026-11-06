@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-02-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 69. Reserve power to control fund-raising by charitable institutions[^c-6c82a8fa27b5b2aa32eff81edb8a4640]
 

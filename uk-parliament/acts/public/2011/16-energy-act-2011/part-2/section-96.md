@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 96. Application of certain provisions of the Energy Act 2004 in relation to esc administration orders[^c-78a8564dc89077a84e1ce3e3b0393440]
 

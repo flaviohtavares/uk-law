@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 258. Special provisions as to statutory undertakers who are. . . planning authorities.[^c14937431]
 

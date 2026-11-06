@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-01-05. See https://www.legislation.gov.uk/changes/affected/uksi/2017/1206
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 54. UK national accreditation body[^M_E_c6dea74f-225b-4193-9f45-803508202ab1][^c-d6e40bc42648058f214378e3512799f9]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-12-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/29
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 47. Pre-consolidation amendments[^c-863a9bb37f9fb9e40b6b780318327531]
 

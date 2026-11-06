@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 14. Accounts under section 10 and other local authority accounts.[^c-3cfd9743523dc84ef239ea5ba3c220f3]
 

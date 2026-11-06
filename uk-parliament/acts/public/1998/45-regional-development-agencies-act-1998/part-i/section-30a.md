@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2012-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 30A. Application of guidance, consent etc. provisions to the Mayor of London.[^c-f526324f3cb29bbad6855cf3a62d3d78]
 

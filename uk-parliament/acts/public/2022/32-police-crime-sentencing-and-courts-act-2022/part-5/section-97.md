@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 97. Power to issue fixed penalty notices on-the-spot in Scotland[^c-b1cfd05456b4d48c9104650afe54efe9][^c-f39bb26971a574d7dcd4428eef546b2c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1092
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 26. Retention by importer of technical documentation and ... declaration of conformity[^M_E_6ef6722c-3612-480b-e76c-24b647e27834][^c-e1e84cf28dbce53b6f53b04b95d5a022]
 

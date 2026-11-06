@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 42. Power to require name or working name to be changed[^c-54a7c94a07f6f2baf5037a10de5b222b]
 

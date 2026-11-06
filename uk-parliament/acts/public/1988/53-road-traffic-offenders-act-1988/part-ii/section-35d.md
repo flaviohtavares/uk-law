@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (91).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/53
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 35D. Effect of sentence of imprisonment in other cases: Scotland[^c-8ed035843e013123d9e233558ba847e5]
 

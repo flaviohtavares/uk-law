@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 509A. Local authorities in England: travel arrangements for children receiving early years education otherwise than at school.[^c15252531][^c-df82d42709314c7296748c08b3554faa][^c-e1471791ceefa25ff18c7a6c4b823674][^c-5631a45bd67c8f410cf8fe89a06c664f]
 

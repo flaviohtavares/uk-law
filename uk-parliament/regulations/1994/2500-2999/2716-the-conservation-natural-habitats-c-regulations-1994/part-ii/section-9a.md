@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-10.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 9A (Extent: E+W) (affected by repeal, see note). Special protection area: classification of sites (Extent: E+W) (affected by repeal, see note)[^c-a1891c7ba58299c8a113b7f158aade9f][^c-2dd38f22e3f0e7272da0337fa848725f][^c-2dd38f22e3f0e7272da0337fa848725f]
 

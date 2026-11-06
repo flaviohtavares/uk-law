@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 54. Orders under the 1973 Act or 1980 Act modifying or revoking conditions.[^c-a836c105d67279cf22cc8595878ae2a3]
 

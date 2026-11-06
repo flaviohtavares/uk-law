@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (25).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 78TB. Effect of removal of information from register[^c-7bda9940f0445daa758bbf15866c2363][^c13739731][^M_C_2e6146c3-7ea7-4464-f156-a39dc8120054]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 23. Code of practice: standards relating to consumer matters[^c-14ccdc5984c2484278cbbc4220d8ddd0][^c-19033bf40b689564192fb9d054d541b8]
 

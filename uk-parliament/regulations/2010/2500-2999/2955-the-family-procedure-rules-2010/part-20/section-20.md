@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2955
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 20.1. Scope of this Part[^c-8e3e17cd800fee288217e1f51a0abf28]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 26. Amendments of existing provisions[^c2116557][^c-5f4fd37a998b408afa1043593b10844f][^c-18812463c5b2d83d305e5346cc760f09][^c-3e4a9e44c3acda503ac90fa63c294d29][^c-9b28dab32faa5f169cbcbfbd03505472][^c-6bb7305a976e5ef1e4b7aba35385164c][^c-41bf9e0f0e887b6ea723a9c0bee41a89][^c-5202028099af370a67de5d14c7904353][^c-41bf9e0f0e887b6ea723a9c0bee41a89][^c-5202028099af370a67de5d14c7904353]
 

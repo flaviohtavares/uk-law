@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 266. Extended sentence of detention in a young offender institution for certain violent, sexual or terrorism offences[^c-c6686f74ff6948854e56e2de2400ce17]
 

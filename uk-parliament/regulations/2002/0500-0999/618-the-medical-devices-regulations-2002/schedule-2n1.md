@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/618
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 2 — Mutual Recognition Agreement countries[^M_E_6d7d3de1-20b4-462a-be64-2bf3f3d39f1b][^M_F_8ad37e1f-8be4-4807-a2ef-aed586f60136]
 

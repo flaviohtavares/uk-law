@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 143. Power to alter sums specified in certain provisions.[^c-19f31a7dee3573b2dadda8d2ef954c34][^c18261911]
 

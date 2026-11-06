@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Youth injunctions, housing injunctions and consequential amendments[^c-3460ca71986ceb52f5527c977e3870b8][^c-80c362ff203e1690f96a2a94b4e5d13b]
 

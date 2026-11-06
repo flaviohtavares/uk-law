@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 74. Regulations and approval of electronic forms etc.[^c6285981][^c-8244618305f0927596578f30e334ca10][^c6285971][^M_F_14c3dea1-51b1-45c8-e01c-30225a9c1cf3]
 

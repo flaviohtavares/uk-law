@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2025-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 19. Local authority plans for services for children.[^c-38af8a647fe56a757de530d775d7fa5b]
 

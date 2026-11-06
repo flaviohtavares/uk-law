@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-04-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/24
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 10. Unfair practices in relation to recognition ballots[^c-4e7be738547f797b485bd3c2a92c32fb]
 

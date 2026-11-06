@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-18.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 92. Offences triable either way.[^M_F_c944fe90-6daa-4401-b205-9b3617312224]
 

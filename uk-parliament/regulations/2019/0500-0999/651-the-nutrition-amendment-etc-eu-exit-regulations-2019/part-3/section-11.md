@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-08-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 11. Amendment of the Kava-kava in Food (England) Regulations 2002[^c-0283c0d7b4dd755d4250d1f132e070c8]
 

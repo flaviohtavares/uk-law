@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 162. Protests outside public office-holder’s home[^c-c2697bf4ef7ea9626b8febdefb3dc638][^c-e5bb2002c517232f2296768e9f33e80c]
 

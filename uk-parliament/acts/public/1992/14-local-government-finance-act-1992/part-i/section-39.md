@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 39. Precepting and precepted authorities.[^c12076951][^c-d90517246149da64fabb511dec0113fa][^c-f0b320cd782925eff458a347aa70a3e6][^c-bb7f6b996e608a693d568e2b4cc6cc54]
 

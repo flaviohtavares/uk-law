@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 60. Inspections[^c-f41c47667477a4eb0691eb87fe4c9f45][^c-5a2edb4ee3f92a312d761207cd4abbe9][^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81][^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81]
 

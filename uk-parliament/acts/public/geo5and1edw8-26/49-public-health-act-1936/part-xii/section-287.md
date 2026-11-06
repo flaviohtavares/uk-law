@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 287. Power to enter premises.[^c611768][^c-e1e53ed28e789d48da29c332e6fbbf92][^c-9d503d9be44e4e32cd01c17624e1be6c][^c-d76fd80c5f6ac65cd1175fad12f149c2][^c-0477a1cf8b6805fc7443b30624b8660e][^c611767]
 

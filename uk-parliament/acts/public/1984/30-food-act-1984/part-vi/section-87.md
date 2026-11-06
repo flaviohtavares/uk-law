@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-18.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 87. Power to enter premises.[^M_F_f490ed3f-57ef-4f69-db5e-cadea32a4edf]
 

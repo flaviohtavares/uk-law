@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2024-11-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 24. Removal of Attorney General[^c-0650339cbed445129df9f402f04f4f79]
 

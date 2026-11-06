@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 84. Notification of triggering events[^c24481091][^c-91f6d6afdb0faf40fb005cd4ed3e1f13]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 68. Presumed dedication of restricted byways and use by pedal cycles etc.[^c-28cf11353225fd70cc342e581987dac9][^c-8eda17419a791337b27f233ae59cfc0f]
 

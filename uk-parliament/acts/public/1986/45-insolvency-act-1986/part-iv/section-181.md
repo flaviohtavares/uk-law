@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 181. Powers of court (general).[^c20432191][^c20432211][^c-56b4351cea7209eb550ee8ceeeecf6e8][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-081332120f76f9634b6c5e38ca5800de][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 296. Arrangements between NHS England and Scottish Ministers etc.[^c-5331536c8571d452e8ca023024d5ded4][^c-227328eb0d2cc60fe478eb5ba24b8e27][^c-d5b8bde3da131cbaed7fc8d877a52649]
 

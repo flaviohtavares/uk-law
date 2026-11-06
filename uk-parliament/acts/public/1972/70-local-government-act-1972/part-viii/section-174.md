@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 174. Travelling allowance and subsistence allowance.[^c15113251][^c18646701][^c18646711][^c18646721][^c15113261][^c15113271][^c18865781][^c18865861][^c20521221]
 

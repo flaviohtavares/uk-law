@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19. Placing children with parental consent[^c-3e7d9686325570548d3b2059516af03c][^c-fa84e99387737ab3c7e964d0038d6b5d]
 

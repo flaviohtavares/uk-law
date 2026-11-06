@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (29).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/33
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 10 — FORBIDDEN DEGREES OF RELATIONSHIP: SCOTLAND[^c-2fc83451eefcd70518a4b4720ad5fc75]
 

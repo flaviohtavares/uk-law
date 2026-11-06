@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2025-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 75A. Requirement on Principal Reporter to consider application for parenting order[^c-64e14e548f19e13289ee0e3c9182af2f][^c20999511]
 

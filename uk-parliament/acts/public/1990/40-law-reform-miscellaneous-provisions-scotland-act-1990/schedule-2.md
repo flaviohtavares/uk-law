@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-03-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 2 (affected by repeal, see note) — Publication of applications made under section 25 (affected by repeal, see note)[^c-27c14eff59bf9badfbcf0b36ee7363a2][^c-27c14eff59bf9badfbcf0b36ee7363a2]
 

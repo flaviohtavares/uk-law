@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Free school meals etc: information sharing[^c-f7d157289f60323b54d6af76e740c856][^c-e2bb2b25ac2d3366d5e828a16e1e5125]
 

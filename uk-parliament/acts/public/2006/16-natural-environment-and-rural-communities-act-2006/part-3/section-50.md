@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 50. Sale etc. of invasive non-native species[^c-a24a541703a9d7d2725142c6073a0246]
 

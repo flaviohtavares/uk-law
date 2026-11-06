@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 128. Offence of trespassing on designated site[^c-adec8bf7855d1d0c688e9697e51d0755][^c-9811bf860e4de86aa2be0ec8aae90909]
 

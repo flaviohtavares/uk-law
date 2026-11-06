@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28. Transitional arrangements connected with establishing the Commission etc.[^c-f7387e202dbadf9ba06a7c70f712351d]
 

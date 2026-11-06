@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 212. Cases in which land is to be treated as not being operational land.[^c14933841][^c14933851][^c14933861][^c14933831]
 

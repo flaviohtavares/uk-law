@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 116. Isles of Scilly[^c-218f1cdb2f9b064f831cfb5f7bb815bc][^c-2eff4cbdd607e054037f6df1655ff357]
 

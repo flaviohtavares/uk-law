@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (93).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/41
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 5A — Central rating: chargeable amount[^c-3da45e55997ead6f34292c485cf7ae18][^c-1d5a3450bd5634c868b2868166bf97ce]
 

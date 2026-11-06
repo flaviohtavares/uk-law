@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 42. Biodiversity lists and action (Wales)[^c-397192392a05d06b6e241b28a737558f]
 

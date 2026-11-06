@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 229. The assessment of dangerousness[^c-8b4dfbdd788941f4a10baefa4e137e4c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 236. Procedure etc., for byelaws.[^c15125031][^c18646331][^c18646341][^c18867611][^c18895461][^c19656451][^c22561611][^c-0af25ace9d8041a62ff4062300de2bd9][^c-f6dcb37cea839681f0458be1344651f9][^c-1cd09a818168f235fec8d0376529c2de][^c-a2f17457f9813c0682d7334c1d8a5095][^c-347f8dd50f08c98d13b2d43f1a24d577][^c-af96cc81103988be1e7eaf871d0f8b61][^c-124962b75012e77c1578dd99bf0aae64][^c-a0c49a9f91ea743e3034126f5481a47a]
 

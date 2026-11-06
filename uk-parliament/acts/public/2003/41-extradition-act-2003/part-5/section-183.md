@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 183. Legal aid: Scotland[^c2087261]
 

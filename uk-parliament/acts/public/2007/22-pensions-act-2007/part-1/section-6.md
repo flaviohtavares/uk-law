@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2022-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 6. Preservation of link with prices in case of other benefits[^c1886249]
 

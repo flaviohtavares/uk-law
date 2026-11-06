@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 125A. Exercise of functions[^c-027312edf16b66b0cec6949238de7729][^c-677d6271d7a4cd330ed7341e8cebe301]
 

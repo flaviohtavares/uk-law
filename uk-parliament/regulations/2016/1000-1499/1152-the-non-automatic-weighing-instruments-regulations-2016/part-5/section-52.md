@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1152
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 52. Subsidiaries and contractors[^M_E_e6ec4f98-8aef-4b6d-cc45-1d5ae07bebe6][^c-6b0a91f0fbfd2f7a675ec012ad9a4534]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2013-06-24.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 61. Duty of local authority to assume parental rights and duties.[^c1078148]
 

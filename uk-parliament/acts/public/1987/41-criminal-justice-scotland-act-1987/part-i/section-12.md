@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2013-01-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 12. Interdict of person not subject to restraint order.
 

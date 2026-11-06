@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 390. Further provisions: confiscation, civil recovery , detained cash , detained property, frozen funds , money laundering and cryptoasset[^c-e8ad50576122d430958df7695e0ce440][^c-d7cdbbea7a74aab3db468699a65ba8bb][^c-4a3b03a4103251b8873116a0e638aecc][^c-9ad325dd4faec835af3c18563afcd8f2]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 84. Property: general provisions[^c-7ebdaa8aa9238ac894b16bec4994af65][^c-a3889e161e736d1b5e0be99edde6119b][^c-bc59da76f74a5e9debfbda22fd326c18][^c-a3889e161e736d1b5e0be99edde6119b][^c-bc59da76f74a5e9debfbda22fd326c18][^c-8b3589310fa0371c2adc8c407d26c7d3]
 

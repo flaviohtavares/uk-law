@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 245. Offender subject concurrently to detention and training order and other sentence of detention[^c-a146fcf49ce309af78a5666fc8a4200a][^c-eca003c404d364f044cc7865c44652a6]
 

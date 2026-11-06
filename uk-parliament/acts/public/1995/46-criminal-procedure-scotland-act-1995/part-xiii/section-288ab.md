@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 288AB. References of UNCRC compatibility issues to the High Court or Supreme Court[^c-aba0c6ea6a0567f2610e0e3d2803c273]
 

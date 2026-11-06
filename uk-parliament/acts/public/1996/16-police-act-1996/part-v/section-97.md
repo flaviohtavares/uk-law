@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 97. Police officers engaged on service outside their force.[^c-057c9365b0cbab039227467719f6068b][^c-3eceff933c4334445e77ef0e7c2993d2]
 

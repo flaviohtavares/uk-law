@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-12-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 77. Advisory service.[^c-4235b5ab1d16db433fd141ae9182f796][^c-5753a2c875c1e39c70b90e6b14a9abbe]
 

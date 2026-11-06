@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2017-04-01.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 26. Finances of Highlands and Islands Enterprise.
 

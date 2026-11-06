@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 43. Unlawful disclosure of certain information[^c-5111d29a205d3473ccff6d6324944b44]
 

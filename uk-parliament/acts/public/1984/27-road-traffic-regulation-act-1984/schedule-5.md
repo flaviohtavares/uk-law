@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/27
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 5 — Buildings in Relation to Which a Secretary of State is the Appropriate Authority for the Purposes of Section 74[^c13568181][^c13568191]
 

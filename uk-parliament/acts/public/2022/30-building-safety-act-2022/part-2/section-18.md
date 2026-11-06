@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 18. Revised strategic plans[^c-0685f0cc17be0fc0e1ee2875c4a6f179][^c-98819736f733c281dd19b66c3fa6c68d]
 

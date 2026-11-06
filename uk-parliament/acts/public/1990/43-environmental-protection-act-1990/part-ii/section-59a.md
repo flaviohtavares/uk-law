@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (25).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 59A. Directions in relation to exercise of powers under section 59 , 59ZA, 59ZB or 59ZC[^c18930611][^c-d3181ea919e9f9c515729837e43457f3]
 

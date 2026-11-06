@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 11A. Snares: training, identification numbers, tags etc.[^c-f3f30601d47ff521a4ba18491899debb]
 

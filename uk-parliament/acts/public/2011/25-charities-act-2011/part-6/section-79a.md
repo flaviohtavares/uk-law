@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 79A. Removal of disqualified trustee[^c-c7d882fda192932ef293f1601405d1f8]
 

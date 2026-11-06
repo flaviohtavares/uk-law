@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 56. Taxation of returning officer's account[^c-5282fec0d2e6f9ca7d34067a7ea57fd8][^c-1317ab83fd35247630aeb7e9c7f67ca4]
 

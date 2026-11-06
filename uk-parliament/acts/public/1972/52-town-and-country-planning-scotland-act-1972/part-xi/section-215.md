@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 215. Development requiring sanction of government department.[^c14934121][^c14934131][^c14934141][^c14934111]
 

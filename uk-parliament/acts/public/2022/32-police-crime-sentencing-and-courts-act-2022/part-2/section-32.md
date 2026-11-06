@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32. Guidance[^c-f6f5525880eb9abe4cd29c8d7234fc64][^c-8a6b8f5b852b95cef79ce1bf6514fb24]
 

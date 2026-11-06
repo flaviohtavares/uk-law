@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2007-08-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 42. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c1792147][^c1792136]
 

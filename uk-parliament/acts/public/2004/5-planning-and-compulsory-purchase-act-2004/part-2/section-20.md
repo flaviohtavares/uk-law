@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 20. Independent examination (affected by repeal, see note)[^c-161e515e33d1f0bdbf7bac765a8e7cd9][^c-7c077b187b4e9386a099524af1f25d62][^c-c303dc654464ddbd9d725f2d905f594c][^c-7683a3ece30ec07a2cedfcd596b5985e][^c-66b206efe3e504a200801217f5a84a3a][^c-7683a3ece30ec07a2cedfcd596b5985e][^c-66b206efe3e504a200801217f5a84a3a]
 

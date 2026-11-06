@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 35. Universal credit and working-age benefits[^c-5e7d6da6dcaf31c090e5181926c62163][^c-744817246565823dc5c08ae6b161c456][^c-f0c316d9d1b0dfd0e226e5ef4e030922][^c-f0c316d9d1b0dfd0e226e5ef4e030922]
 

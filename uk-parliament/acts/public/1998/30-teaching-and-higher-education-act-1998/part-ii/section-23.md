@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (29).** Text as at 2026-05-12. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland, Northern Ireland (the versions of this text differ in extent).
 
 ## 23. Transfer or delegation of functions relating to student support.[^M_E_cd686eaa-012d-4aa8-9143-f799667ee85f][^c-0b4392ee5610e790e52ed88eddddc69e]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-03-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 61. Rights of way improvement plans: supplemental.[^c1057062][^c-2f633e97a4ae89446bc4f1e247dc22bd]
 

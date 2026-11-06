@@ -13,6 +13,8 @@ summary: ''
 # The Conservation of Habitats and Species Regulations 2010, section 107B
 
 > This provision is no longer in force.
+>
+> Extent: England, Wales.
 
 ## 107B. Marine plan[^c-fd903ae7a6e0c6e869ce0b45a2cbf79e]
 

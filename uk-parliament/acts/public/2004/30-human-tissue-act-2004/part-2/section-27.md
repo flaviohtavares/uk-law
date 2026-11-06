@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 27. Provision with respect to consent[^c-0a3b7980c798a933cd59644b1c2411bf]
 

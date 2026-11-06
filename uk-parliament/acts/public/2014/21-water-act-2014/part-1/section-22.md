@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. Primary duty to secure resilience[^c2218953][^c-a78950c26bc8f72a03efc4bc1e5108cc]
 

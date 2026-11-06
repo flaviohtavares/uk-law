@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## Schedule 18 — Motor vehicle orders[^c-c29b7524bbb174333657f72d589f4a90]
 

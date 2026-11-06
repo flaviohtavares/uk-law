@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 57. Intervention in NHS trusts[^c-c55308f4b2d5d5d1fa4a6a2512256474][^c-fedef589b482c05b002a32cb72baa74c]
 

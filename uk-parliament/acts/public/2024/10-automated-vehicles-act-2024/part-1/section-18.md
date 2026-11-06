@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 18. Power to issue interview notice[^c-3d2b0452ed560b41eaa85f10f5a64f22]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-13.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 2. Interpretation[^M_E_57e64962-3652-47c4-eb18-823906f4364e]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 212. Summary remedy against delinquent directors, liquidators, etc.[^c15574001][^c20433551][^c-3e92ee1213d57dc81fe7a7761bc68345][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-ff9fa9d976df32e334c27ef6e3409e23][^c-27c740bc34b14db40a2e339d730c551d][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2214
 >
-> Extent: England, Wales.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 44A. Application of paragraph R1 of Schedule 1 to educational buildings, buildings of statutory undertakers and Crown buildings[^M_E_a3955300-c015-4612-e466-5e31a4b82d63][^c-87f45f7be8636e859de45b2554aed03b][^c-2766d8f94a11b1ba983254dda3add6df]
 

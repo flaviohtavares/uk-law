@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 121. Interpretation of Part[^c-a816c3aa01ba802b6f92e4fecd7c5a8f][^c-7fe936c82fcbcf4571bae968bb7ffefa][^c-56e09cb58c923518113bec8337937b5c][^c-f0e55ddb0025a4ddb2ef36ebe1cd6d06][^c-25ba4edc9cdd784c711035fbb5103f3d][^c-493eba714d10f0179df0230f5550e7ea][^c-a9a69d4ebc39b23022f13694429d7b43][^c-79e4b2bd56c97d5b988f5a0351f49fc7][^c-ea3e3308af8a64a22ddbe7cfc5201af2][^c-faae5d58f0813c62cffa747a7732fb2e][^c-3a9684e3f9d3903fa6ae4dc720b2e5ce][^c-6d6893504fb42b0e15516285884aca3c][^c-aaa4e8f3f5643bc02e30a022e909f66b][^c-c78311163fa2211043f558121310d612][^c-32b54b7d78b1b4d8fae502f8c5e39398][^c-fe63230beb92795386145457cc69f4f7][^c-5ccb04d163585f89162c2ade60d91f05]
 

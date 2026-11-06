@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33P. Application of local curriculum provisions to students who are registered pupils of special schools or who have learning difficulties (affected by repeal, see note) additional learning needs[^c-3cae6d29b9e7024a6dbde335ee1e6511][^c-597038f8214520945b08eb4a97a3ffc8]
 

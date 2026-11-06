@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 158. Transitional provisions and savings[^c-dcbd632738e212a228b8ba29278182af][^c-82bb12b6171c5d8ed156d481eb29b86c]
 

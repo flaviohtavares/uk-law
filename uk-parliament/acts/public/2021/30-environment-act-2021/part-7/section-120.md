@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 120. Local land charge[^c-d13ea298680a28b416831d3842804ea6][^c-a5a66644ac27f8fb768ed5992d083fd5]
 

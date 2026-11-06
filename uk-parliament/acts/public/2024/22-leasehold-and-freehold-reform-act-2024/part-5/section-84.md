@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 84. Duty of estate managers to publish administration charge schedules[^c-732f748e6f778fbdbcf0ecef54f11462]
 

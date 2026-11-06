@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 123. Disposal of land by principal councils.[^c15107941][^c15107951][^c15107961][^c15107971][^c18646301][^c18892031][^c19654791][^c-a36ea088b4d3782cb23c33b38bfa3518][^c-27ad0046f4ed8fdb0b9a8b54a0c07037][^c-314756c87c0b2fa759a3283dec983a95][^c-cda71d231c15ef847543d527f20a216f][^c-1ea4a788e0d6bdf57948bc6213fb21ef][^c-4b6ff0b3878b405f55f29e4b717dffdd][^c-c8f2b56c6cf9e7acf9ec7c8356c291f5][^c-61af34a8ed0ba72761dc732448ed2906]
 

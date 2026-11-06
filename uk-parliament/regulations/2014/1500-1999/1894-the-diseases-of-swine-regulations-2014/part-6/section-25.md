@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-29.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 25. Removal of protection and surveillance zones other than zones in England[^c-def54a58eb0088e0e6209a75e35537c5][^c-878fce9a0c3b9bf43ef30bce326df2ef]
 

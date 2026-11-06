@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 243. Breach of supervision requirement and further offences during order[^c-eaa236a7510470f0f5748137bc60fe54][^c-eca003c404d364f044cc7865c44652a6]
 

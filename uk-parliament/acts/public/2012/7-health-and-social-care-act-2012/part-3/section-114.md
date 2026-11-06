@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 114. Repeal of sections 112 and 113 (affected by repeal, see note)[^c-bf7b8d3f211b60696733571e61eaceab][^M_F_77143082-7a48-4a3d-a572-e95da5963239][^M_F_77143082-7a48-4a3d-a572-e95da5963239]
 

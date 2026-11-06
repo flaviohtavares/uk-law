@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 117. Generally accepted accounting practice: power to amend enactments[^c-86d7c6fe90c8c76cec754182eda21e67][^c-377d2526b3a8439152dab80780d07562]
 

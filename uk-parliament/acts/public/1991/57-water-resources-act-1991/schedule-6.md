@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 6 — Orders relating to abstraction of small quantities and compulsory registration of protected rights[^c-bb96764fdc5e2c2ba46f3223ae54c1b7]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1975/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 2. Alterations to valuation roll which is in force.[^c10753121][^c10753131][^c10753141][^c10753151]
 

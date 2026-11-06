@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 1. The Environment Agency.[^c-de013a65491ceaeab7cb7d923131252f]
 

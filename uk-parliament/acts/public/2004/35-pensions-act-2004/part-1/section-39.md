@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 39. The sum specified in a section 38 contribution notice[^c-e0ef3567462b42aded359f925af2e9a9][^c-7be46ffb9a215a307d7ecb0096bd7eff][^c-efa22510869d944425cfc4026fc01d05][^c-7be46ffb9a215a307d7ecb0096bd7eff]
 

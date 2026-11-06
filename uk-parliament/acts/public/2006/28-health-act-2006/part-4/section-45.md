@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 45. Meaning of “NHS body” etc.[^c-bfa4e617dfe84876c0c4355808a16e33][^c16419651][^c-d02ce56a0ff20a0f78280f52cd947c16][^c-4777522fe97eb5f676d9f081a255a640]
 

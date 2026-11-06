@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-11-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/28
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## SCHEDULE 9 — Compensation in respect of drought orders[^c-d8ee6b6d0c84512f9ea2d8deefbe7d2f]
 

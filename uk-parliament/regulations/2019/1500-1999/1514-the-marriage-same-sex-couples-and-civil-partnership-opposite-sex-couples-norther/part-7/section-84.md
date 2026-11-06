@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 84. Child Support (Collection and Enforcement) Regulations (Northern Ireland) 1992[^c-40c2a5097c167425c85eeef9709c742b]
 

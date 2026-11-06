@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 52ZD. Making a request for advance payment[^c-7dfe8510b3f9fbb8297aa0b172f9f5ca]
 

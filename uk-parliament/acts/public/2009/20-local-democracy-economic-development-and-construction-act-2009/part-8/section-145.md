@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 145. Suspension of performance for non-payment[^c-c2548fcefdcad57ac7eb677b910fd564][^c-8efb73087a2f5801a6af0713a77244bb][^c-d25b0c417995d11d73b0eb19e6754a3a]
 

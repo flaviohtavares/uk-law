@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 1 — The Institute for Apprenticeships and Technical Education
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 362DB. Extension of period pending determination of proceedings etc[^c-498fb8f4cc3b36a996cf0a18500beca8][^c-83407cfc195f6c04cfbd21adfe208270]
 

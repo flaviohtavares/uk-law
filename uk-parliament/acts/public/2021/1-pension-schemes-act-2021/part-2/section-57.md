@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 57. Amendment of definitions of “money purchase benefits” etc[^c24459361][^c-d8b7f5d298b336fbddf8b114591036ef]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/23
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 37. Duration of residence orders[^c-8d2136e5079a847514a56dcda42dcc4f][^c-6aef5f74dd9dac9b95e1e2b553e70f2f]
 

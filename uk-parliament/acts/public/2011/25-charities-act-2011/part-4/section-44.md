@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 44. Change of name not to affect existing rights and obligations etc.[^c-66c278b3e97e64c472f9de35d0bf0fe2]
 

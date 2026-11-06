@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2023-08-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 142. Northern Ireland societies to be treated as registered societies[^c-017bb2f3fe3093b5d3b86fc7e5ac36a7][^c-e520e3a47a184122fc5027cf9bc21d67]
 

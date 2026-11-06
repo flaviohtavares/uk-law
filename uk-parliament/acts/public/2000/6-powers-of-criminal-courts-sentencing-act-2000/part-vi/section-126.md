@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2024-05-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 126. Powers to order statement as to offender’s financial circumstances.[^c-e260c798094f93ffcc41463e9139c71e]
 

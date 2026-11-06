@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 35. LRA 1967: determining price payable for freehold or lease extension[^c-a9a2eb50d4bfed6b58942bba4ecb81c7]
 

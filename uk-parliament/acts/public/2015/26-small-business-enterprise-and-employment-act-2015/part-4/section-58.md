@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-05-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 58. Financial penalties[^c-aeb03d4469232f020c50cc035f71fe0f][^c-68f63df5ded0eb46d54ccc6386f7bedb]
 

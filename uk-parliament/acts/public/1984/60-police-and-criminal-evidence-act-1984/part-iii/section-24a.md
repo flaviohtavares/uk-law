@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 24A. Arrest without warrant: other persons[^c-2a6842cd1e775497de4e466088389a58][^c20900591][^c18979161][^c-fe45d539cb4f5e62122d7932e4b26c24][^c18951241]
 

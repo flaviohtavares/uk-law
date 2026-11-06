@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 60. Enforcement action in respect of formal non-compliance[^M_E_5f3cf61d-65a6-46e5-856e-2291e4e30d27]
 

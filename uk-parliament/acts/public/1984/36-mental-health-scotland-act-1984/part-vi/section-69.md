@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 69. Persons ordered to be kept in custody during Her Majesty’s pleasure.[^c-0a67c56d28da55a6f047fc2edb64008b][^c-b4fdc5382b61d8d3da6fd9ae7bebccdf]
 

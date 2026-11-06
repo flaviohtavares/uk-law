@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (105).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 37. Alteration of rules of contracted-out schemes.[^M_C_9ccbaa48-b003-44ec-df86-1bb4d39129ff][^c-99adde2f2e7af6156eb4e42656706894]
 

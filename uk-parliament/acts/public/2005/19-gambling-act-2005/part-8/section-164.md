@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 164. Grant of application[^c-01cfaf4840a5b9b7e833a1cc8403aff7][^c-b4d53836c67ab92708a7bff30d5c6049][^c-6e39c00518e172a6f11490c3961eabdb][^c-a202261db30bb4acf4a918a1a9a0790c]
 

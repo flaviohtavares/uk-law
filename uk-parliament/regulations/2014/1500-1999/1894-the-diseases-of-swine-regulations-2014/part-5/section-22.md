@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-29.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 22. Emergency vaccination of feral pigs (other than feral pigs in England) against classical swine fever[^c-42258ef468669d8e78b8fd08c269f1b9][^c-4c16b1070920de654478b79f4e647f0c]
 

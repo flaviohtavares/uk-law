@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 16. Amendment of the Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019[^c-36a2029b4e5e3d363cc7e69bbcf43009]
 

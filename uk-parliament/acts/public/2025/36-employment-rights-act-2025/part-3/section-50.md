@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 50. Duty of employers to keep records[^c-b565af44debc8766b007ff6e9ad9eef8][^c-e1e04f3c3d735f56b9e65245478b13da]
 

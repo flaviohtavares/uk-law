@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 113. Provision of false or misleading information to Regulator[^c-caa00ee5f0bb8e857e063cb76e68391f][^c-a17665bfc53581070e37c839484a7f65]
 

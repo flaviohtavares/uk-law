@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 86. New regulation 63A (additional requirements for applications for the appointment of a proxy on grounds relating to identification: England and Wales and Scotland)[^c-cfc98eb51215857af4782286e474b14b]
 

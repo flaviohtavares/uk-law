@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-06-28.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 37A. Fixed penalty notices for certain offences.[^c10050321][^c-26da7969131f7812d9d8ab2850867e54]
 

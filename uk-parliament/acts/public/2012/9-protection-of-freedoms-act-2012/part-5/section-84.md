@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 84. Criminal conviction certificates: conditional cautions[^M_C_49294e4b-e8b7-4a43-d7cf-fb66bb3b406e][^c-09ee549d5e9fd816385527d1ac580d1b][^c-9373624613d0893a3af0f6873d252800][^c-672dc154353d211f89bb4b5b7038f7a4]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 94. General duties when exercising functions relating to EDPs[^c-5c69b8f38418936bc099d9e9ccf73914][^c-44babbea2317afdd8d4df11144b441ff]
 

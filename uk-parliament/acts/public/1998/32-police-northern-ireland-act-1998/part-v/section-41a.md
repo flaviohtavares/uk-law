@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 41A. Powers of Secretary of State in relation to reports and other duties of inspectors of constabulary[^c-242cb9ee7d48d2331aed8b1c52be77df]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2023-05-03. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/72
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 76. Fees for performance of EU obligations.[^c-f204e5e28d27cf87ad89d3cb4c6724d6]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 99. Mandatory conditions of lottery operating licence[^c-e9ddc5659854c460d25a943b88eb8f75][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-77c4d7d8259a8c8d885a372c1ce7e4c8][^c-901a843886bbe827e9e9e710bdc46ccd][^c-e1f6e585bac667309e250f830e864ec8][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-e1f6e585bac667309e250f830e864ec8]
 

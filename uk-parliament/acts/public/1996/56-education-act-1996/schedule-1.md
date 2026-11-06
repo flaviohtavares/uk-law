@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 1 — Pupil referral units[^c-08ef66987640b39733d1d81cd1c9d049][^c-9e4ac043a8dce3f54a98ee79e02cda2e]
 

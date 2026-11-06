@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-03-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 47. Redesignation of roads used as public paths.[^c-e88475b1ce06ed196704b9adef01ed27][^c-32d63a8e510ed821b613ece6680cdf50]
 

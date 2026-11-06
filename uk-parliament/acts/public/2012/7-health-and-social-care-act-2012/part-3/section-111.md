@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 111. Imposition of licence conditions on (affected by repeal, see note) NHS (affected by repeal, see note) foundation trusts (affected by repeal, see note)[^c-11ccdd6a270892a17fad499f21107ba8][^M_F_b0310fea-a9db-4812-ba53-d8e67cf26efd][^M_F_b0310fea-a9db-4812-ba53-d8e67cf26efd][^M_F_b0310fea-a9db-4812-ba53-d8e67cf26efd][^M_F_b0310fea-a9db-4812-ba53-d8e67cf26efd]
 

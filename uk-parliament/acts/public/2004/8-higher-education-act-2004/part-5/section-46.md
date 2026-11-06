@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. Exclusion of visitor’s jurisdiction in relation to staff disputes[^c-1632665b496032b1d9ac46d4f86eb14e][^c-6a4dee0085f89611801149a03f9511f0]
 

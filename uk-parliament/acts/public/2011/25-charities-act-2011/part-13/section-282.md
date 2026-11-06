@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 282. Resolution to spend larger fund ...[^c-2c003de47dc4808f9164ced2af1af48b]
 

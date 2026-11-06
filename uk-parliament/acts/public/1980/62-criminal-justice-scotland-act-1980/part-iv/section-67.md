@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 67. Effect of compensation order on subsequent award of damages in civil proceedings.[^c10848991]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 69. Reports on exercise of functions[^c-6ac2239cb077fe711309b195e2ca8153][^c-043432ebbd91a6e46f06b73f46c3e772]
 

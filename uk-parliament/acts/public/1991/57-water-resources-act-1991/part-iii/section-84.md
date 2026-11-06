@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 84. General duties to achieve and maintain objectives etc.[^c18732401][^c-031ceb2b9666c4024175c6616087432e][^c-24d43c3f854c85fb317e22a2adaa6e74]
 

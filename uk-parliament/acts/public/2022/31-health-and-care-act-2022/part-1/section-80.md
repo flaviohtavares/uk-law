@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 80. Procurement and patient choice: consequential amendments etc[^c-7e403042ad67e6258bbd4c2493ede7d7][^c-8920fedbe3d3d5eca9e9c1a7ba718d11]
 

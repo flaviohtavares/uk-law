@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16. Consultation in relation to proposals under section 15[^c-074dee5952e4375ba6441d9ebddd5f5f][^c-2800dc56627d43968bbf637a79204e08]
 

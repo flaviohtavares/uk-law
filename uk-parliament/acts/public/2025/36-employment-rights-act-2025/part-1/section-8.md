@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 8. Exclusivity terms in zero hours arrangements[^c-515c55e2be846e20282641bae8ffbf79][^c-b8d7a05348b5562eb006aa449a749376]
 

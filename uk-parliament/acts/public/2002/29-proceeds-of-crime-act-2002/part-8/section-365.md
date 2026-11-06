@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 365. Requirements for making of customer information order[^c-56204b0b1582d33932e85c1f9e0c1f04][^c-fd806ade1520c9dc3d2bf3e1d8bb5edb]
 

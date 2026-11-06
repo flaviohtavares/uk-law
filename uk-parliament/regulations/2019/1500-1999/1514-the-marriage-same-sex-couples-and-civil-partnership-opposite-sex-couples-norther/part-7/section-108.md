@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 108. Housing Benefit regulations of 2006[^c-b6ad194e524e47509ead7967412c0778]
 

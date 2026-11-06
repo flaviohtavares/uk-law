@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 207. Operation of multi-purpose interconnectors: independence[^c-2b6d1c6399714dab97cdc69e872ed08f]
 

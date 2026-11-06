@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 32. Suspension of direct deduction orders[^c-3737134fe53faf9e16ab1f59cf7e0aba][^c-fe73f39ac1e0771c25309fada3f9c49e]
 

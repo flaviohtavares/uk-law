@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 82. Classification of quality of waters.[^c18732281][^c18732291][^c-6e143923b8ed1a8e12b1ff8085ecec3a][^c-749b7b639ed6a335c33f4548dd155509]
 

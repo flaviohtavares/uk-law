@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. Power to direct preparation of joint development plan documents[^c22730121][^c-03facca41e35acdd6f7aa0f124b89ece]
 

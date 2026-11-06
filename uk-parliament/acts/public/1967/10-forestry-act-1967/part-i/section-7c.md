@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1967/10
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 7C. Delegation of functions under section 7B: community bodies (affected by repeal, see note)[^M_F_19958652-57e8-4bc4-ed4b-225cd3e274e7][^M_F_19958652-57e8-4bc4-ed4b-225cd3e274e7]
 

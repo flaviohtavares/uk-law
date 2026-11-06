@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 18. Qualifications of head teachers.[^c-5b6c326b4ee493d0b07b551797c6f26d]
 

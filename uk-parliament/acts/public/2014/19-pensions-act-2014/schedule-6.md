@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 6 — Reduced rate elections: effect on rate of section 4 pension
 

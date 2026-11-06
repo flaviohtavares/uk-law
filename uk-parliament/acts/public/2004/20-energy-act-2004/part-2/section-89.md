@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-09-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 89. Activities offshore requiring 1989 Act licences[^c-6ead94cac560f6ef1ce28b15604c9eea][^c-44bade553986cc62f790c821d92f884e][^c-947cfd2febbb858ec7098d16027cf412]
 

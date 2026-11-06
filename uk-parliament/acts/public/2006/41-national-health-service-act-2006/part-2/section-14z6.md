@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14Z6. Power to make grants[^c-d504964dfc83cb183dafe3faf00dd2f6]
 

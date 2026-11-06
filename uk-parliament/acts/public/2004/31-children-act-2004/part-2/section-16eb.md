@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16EB. Multi-agency child protection teams: co-operation[^c-fae297a0988f7377b9ac3f374f2de8e6]
 

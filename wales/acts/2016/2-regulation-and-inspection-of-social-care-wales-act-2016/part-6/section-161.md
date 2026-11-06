@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/anaw/2016/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 161. Publication of fitness to practise decisions[^c-70cee797963d14a15bc64fcad842e13d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-08-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/14
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 79. Vehicles excluded from regulation as private hire vehicles.[^c2522691]
 

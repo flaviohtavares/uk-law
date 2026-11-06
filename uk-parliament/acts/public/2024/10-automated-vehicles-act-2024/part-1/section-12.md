@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 12. Power to establish operator licensing scheme[^c-230a790a0392b467c8b364897bf82572]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 288AA. Appeals to the Supreme Court: compatibility issues[^M_C_0c154ae6-3cb1-4e82-8dce-9f70ea015890][^M_C_7231867e-e984-43b0-e6f9-e2ec0f13ce6d][^M_C_d470d6a6-6c63-4889-c261-b9265f904038][^c-4993d3f4e77ee0daa7ba1ff9525f8581]
 

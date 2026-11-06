@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-05-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 88. Collection, sharing and protection of information[^c-f1b4bd26e63f79e9f005efe383f97d07][^c-f1fd6b2519d5deea9495e4499232d125][^c-cc1e8fee273f67302c2f6eeff8ef520a]
 

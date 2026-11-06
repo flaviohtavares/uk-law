@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2014-12-02.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36. Regional development agencies[^c-394dba1a054128496616c894b782049c]
 

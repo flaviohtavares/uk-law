@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 79. Communications likely to confuse as to autonomous capability[^c-72631dabcaaf75ac6822ed1028eb0330]
 

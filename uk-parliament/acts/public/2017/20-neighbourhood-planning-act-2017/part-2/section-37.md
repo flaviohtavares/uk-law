@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. Overriding easements: land held on behalf of GLA or TfL[^c-a88b6ba041c3f5f051e0690d9202a717]
 

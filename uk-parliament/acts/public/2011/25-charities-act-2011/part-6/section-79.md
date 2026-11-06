@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 79. Removal of trustee or officer etc for protective etc purposes[^c-6e1fb2a628dbcd29c3fe0eeb284b2ac0]
 

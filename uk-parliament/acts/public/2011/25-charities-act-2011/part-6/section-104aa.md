@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 104AA. Total return investment: social investments[^c-1d6b9130e22fe0c6c24244d0c18c29c5][^c-21b85094e8cb0e6e2a5c7c1314b7a90b]
 

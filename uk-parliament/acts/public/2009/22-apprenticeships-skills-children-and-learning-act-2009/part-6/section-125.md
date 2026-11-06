@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 125. Sixth form college sector[^c-786fc46728a003f0b237e8ecd86b055c][^c-72b5d2118dab9fa1161f4643ad6285cd]
 

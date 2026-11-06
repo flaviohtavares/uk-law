@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 40A. Power to give directions in relation to local policing body[^c-6b3b1efc9ed11254cfc5a893d173f018][^c-3baf1e34f7f8068277c813a088dc88d7][^c-ee0bc95de3f7673768a1fe348fb226e9]
 

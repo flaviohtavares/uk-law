@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 509. LEAs in Wales: provision of transport etc.[^M_F_c8fb8054-bc5e-49fd-8cbc-4755dcadd6c7][^c-6130cfe27f1b54465c02628e27c3d696]
 

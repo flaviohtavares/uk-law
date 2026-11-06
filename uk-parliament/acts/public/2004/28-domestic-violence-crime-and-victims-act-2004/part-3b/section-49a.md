@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (171).** Text as at 2026-09-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 49A. Duty to respond to Commissioner’s recommendations[^c-0e033070c2903779704d3a6eacef9a3d]
 

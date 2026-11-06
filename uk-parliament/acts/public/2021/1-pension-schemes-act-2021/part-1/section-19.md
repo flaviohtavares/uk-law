@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 19. Advice of scheme actuary[^c24458241][^c-d81c6232d4fd4a46157d05ff872ac91f]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 81. Higher Education Funding Council for England[^c-7bdfaf95b9971bb53d2602335e104d39]
 

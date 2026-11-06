@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/51
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 50. Functions of staff commission.[^c-3ce7614b95fb44d3ac7a402dbf39ad48][^c3163951]
 

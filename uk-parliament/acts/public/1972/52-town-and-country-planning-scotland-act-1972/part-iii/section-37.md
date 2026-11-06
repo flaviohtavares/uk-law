@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 37. Development by local authorities and statutory undertakers with sanction of government department.[^c14918331][^c14918341][^c14918321]
 

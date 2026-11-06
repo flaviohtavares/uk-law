@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Trust special administrators: Primary Care Trusts[^c-6b1adaf43d17cbc561875f70849f5207]
 

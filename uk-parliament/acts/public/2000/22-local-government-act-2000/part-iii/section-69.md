@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 69. Investigations by the Public Services Ombudsman for Wales.[^c-8f33abf4380d779a4842bad9f7d9f5f8][^c-768be7015eb6de3e67c9800aa4a91716]
 

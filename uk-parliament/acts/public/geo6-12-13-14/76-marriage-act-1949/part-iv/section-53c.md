@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 53C. Signing of a marriage schedule[^c-a0a3839544f867f39f0ec1041900d58a][^c-db5ca8d522361c2dd12489899f74c068]
 

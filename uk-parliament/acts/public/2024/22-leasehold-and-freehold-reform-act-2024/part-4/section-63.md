@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63. Right of tenants to claim litigation costs from landlords[^c-ce266de26974b6511e035fa1654c366d]
 

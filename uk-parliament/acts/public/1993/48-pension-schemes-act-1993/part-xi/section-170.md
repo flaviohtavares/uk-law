@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (105).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 170. Decisions and appeals[^c-36c0be76be1b6fd5cec0810cc40b7b90][^c-2a13fe1e86f1c54e39cf26527e11f8a3][^c-43e115609b5b37d6d96928cff81adf78][^c-dde952a26f77cb5cdffc33bd263a6867]
 

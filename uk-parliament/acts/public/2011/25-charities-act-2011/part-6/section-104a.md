@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 104A. Investment of endowment fund on total return basis[^c-21b85094e8cb0e6e2a5c7c1314b7a90b]
 

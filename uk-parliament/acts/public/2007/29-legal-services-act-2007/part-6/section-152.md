@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/29
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 152. Disclosure of restricted information[^c20583431][^c-02c538cbac72d27735d5fbd899aa6cd7]
 

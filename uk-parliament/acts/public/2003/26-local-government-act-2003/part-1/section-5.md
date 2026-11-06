@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5. Temporary borrowing[^c-48c0adac8085c709510f8509ce262649][^c-29f0ffdb208c59e721b760e1edb0dcd2]
 

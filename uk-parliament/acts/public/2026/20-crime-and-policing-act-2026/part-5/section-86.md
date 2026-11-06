@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 86. Section 85: meaning of “relevant local authority” and “relevant police force”[^c-19f9a253fff85cb6e35be2aab0c1d9af]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 124. Individual support orders[^c-1d99efcffc742998a2645d3d00bd079c][^c-a87dc670833b6b43c0f3a3e97a5f8fdf]
 

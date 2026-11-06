@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (205).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 10. Class 1A contributions ...[^c-2f32f3e38d4aa68f71fba63361711b22][^c-44f03daedfc9d7371cfb05e31fd7b1b0][^c16379981][^c-36d43b159d07d77e913495407f41c421]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 49D. Redundancy or dismissal during a protected period of pregnancy[^c-51d20901f6232839ffa0f1659fdc7061][^c-32a40709d75eb1d75a6d0b20a1b04f38]
 

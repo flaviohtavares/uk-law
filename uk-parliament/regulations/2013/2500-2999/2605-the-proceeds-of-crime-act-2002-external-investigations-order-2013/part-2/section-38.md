@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-04-26.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 38. Action on receipt of request in relation to an external investigation[^c-847e06d8aca4811d0d4a7eb9ad9fbe57]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/anaw/2016/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 49. Failure to provide information[^c-454c0019b7c653ea9fb784a519a07bb1]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 156. Removal of HMICA's duty to inspect performance of Assembly's functions relating to family proceedings[^c-4b0c1373ec3b0d9070f57bdffeb529aa]
 

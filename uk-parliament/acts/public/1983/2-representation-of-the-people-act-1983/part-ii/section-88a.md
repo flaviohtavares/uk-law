@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (71).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 88A. Scottish local government elections: Publication of time and place for inspection of returns and declarations[^c-ddcf22a291930939ee77a271049495c1][^c14479931]
 

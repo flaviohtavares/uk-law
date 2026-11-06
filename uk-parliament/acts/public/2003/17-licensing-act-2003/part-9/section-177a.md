@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/17
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 177A. Licence review for live and recorded music[^c-1216a29d1ab8c174e1b3ef23a6afd143][^c-3a8d63d8b785155e17bd4a59fe586a7c]
 

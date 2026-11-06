@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36. LRHUDA 1993: determining price payable for collective enfranchisement or new lease[^c-e408dcda6fcabe8a69658cee549b7174]
 

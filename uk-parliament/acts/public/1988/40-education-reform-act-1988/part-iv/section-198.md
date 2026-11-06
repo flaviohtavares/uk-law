@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 198. Transfers under Parts I and II.[^c12676471][^c12676481][^c12676491][^c-7dde1e1fb8b092f3d792734e46c719d6][^c-3e1444bf19c17e01b071ed37d8eff863][^c-64337f6f751c2189ad696b8208d46e0d][^c-614fe1c87edd90b985538b79ded317d4]
 

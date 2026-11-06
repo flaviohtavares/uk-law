@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/27
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 87. Exemption of fire brigade, ambulance and police vehicles from speed limits.[^c19176161][^c-874da101063fc7ab00284ba33ac5f0ac]
 

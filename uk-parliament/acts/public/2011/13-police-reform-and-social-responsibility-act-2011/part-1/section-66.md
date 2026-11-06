@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 66. Disqualification from election or holding office as police and crime commissioner: other grounds[^c-6f35f7cd04d2abba605f61113fcabe2d][^c-0dcf683e5f97f882b10d269fa48f2b67]
 

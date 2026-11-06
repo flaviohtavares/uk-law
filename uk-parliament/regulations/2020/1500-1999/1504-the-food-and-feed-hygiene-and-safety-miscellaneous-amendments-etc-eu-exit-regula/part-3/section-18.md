@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 18. Amendment of the Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019[^c-b47cd73778d9859d852f32bea4e9d57e]
 

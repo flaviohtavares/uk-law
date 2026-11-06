@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 149. Deemed licences under Part 2 of the Food and Environment Protection Act 1985[^c-8a79077be126d8b2498f4e3d455fbd69][^c-121b24f6a6dc24da9a52ffe434f3e5bb]
 

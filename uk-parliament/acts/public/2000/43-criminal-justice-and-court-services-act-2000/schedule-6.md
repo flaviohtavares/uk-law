@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 6 (affected by repeal, see note) — Trigger offences (affected by repeal, see note)[^c10580061][^c-19b89a27664c1134b448f171d87773e2][^c-19b89a27664c1134b448f171d87773e2]
 

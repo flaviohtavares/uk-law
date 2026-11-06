@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 126. Administration of Estates Act (Northern Ireland) 1955[^c-4a6ef029c42411bb0135ef063202d7d8]
 

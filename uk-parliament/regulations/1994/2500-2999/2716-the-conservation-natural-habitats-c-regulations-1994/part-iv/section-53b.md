@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-10.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 53B (Extent: E+W) (affected by repeal, see note). Marine licences: duty to review (Extent: E+W) (affected by repeal, see note)[^c-7ef3f88a380eda843864a2b6670de90d][^c-2dd38f22e3f0e7272da0337fa848725f][^c-2dd38f22e3f0e7272da0337fa848725f]
 

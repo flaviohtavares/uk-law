@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-29.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 6 — Employments Relevant to Section 13(2)[^c8667531]
 

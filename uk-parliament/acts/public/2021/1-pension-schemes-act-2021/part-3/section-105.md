@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 105. Determination of sum specified in a contribution notice[^c-612162ce0caf532eb6e297862095f431]
 

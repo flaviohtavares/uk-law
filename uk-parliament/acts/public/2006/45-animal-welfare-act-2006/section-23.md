@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 23. Entry and search under warrant in connection with offences[^c-92f8689cf48ddd254ee1b60c5bc97e7f][^c-fe820d7383903219c2cce2547f82361c][^c-327a724c9a54bd1a20c15415d33effb5][^c-5cf23abc659cfe9b9b7cb6da327fcd16][^c-e47a7653f4620ab4b8d7ed9425c5376f]
 

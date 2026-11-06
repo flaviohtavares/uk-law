@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2955
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9.46. Communication of information: Practice Direction 9B[^c-5f6b763dfe25bfabfc70349d8e870710]
 

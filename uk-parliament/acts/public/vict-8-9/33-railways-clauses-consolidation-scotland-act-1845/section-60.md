@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2017-12-28.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 60. Works to be erected for the accommodation of adjoining lands.[^c5589481][^c5589491][^c-3c932d5b954b37bf1267a8ff281d3a63]
 

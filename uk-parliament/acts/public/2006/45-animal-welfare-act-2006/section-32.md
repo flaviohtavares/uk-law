@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32. Imprisonment or fine[^c-bcdac5108df1c67088878bceed06977f][^c-6c567309b04fdb4fab7b0da28a939280]
 

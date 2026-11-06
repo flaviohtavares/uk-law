@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63C. Testing for presence of Class A (affected by repeal, see note) controlled drugs: supplementary.[^c11327491][^c-225fc01ccb67d361f6d17f34b94da173]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-02-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 50. Duty to give information to the Council.[^c-3cc772b96de2c750b321abda44da4515]
 

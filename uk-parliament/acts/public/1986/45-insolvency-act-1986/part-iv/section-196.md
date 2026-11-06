@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 196. Judicial notice of court documents.[^c15573811][^c20432971][^c-88ec9737354d334a75f4b3b3d532664c][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-09ec5c29902ff517f5111c814710e336][^c-a3d9c197c5fbe86836b88904523ca9c8][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

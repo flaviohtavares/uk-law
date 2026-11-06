@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/618
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 56C. Fees payable in connection with a consultation or further consultation on the safety, quality and usefulness of a medicinal substance incorporated in a device[^c-6ed226c39f2f919228f37e68a5edd672]
 

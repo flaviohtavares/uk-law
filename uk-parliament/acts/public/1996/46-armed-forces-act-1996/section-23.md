@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2014-03-10.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 23. Racial discrimination.[^c-e0de4b873cd4e3d58461345658be77d3][^c1127475]
 

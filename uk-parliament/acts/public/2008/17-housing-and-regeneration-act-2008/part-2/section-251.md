@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 251. Appointment of manager of private registered provider[^c-d5d60d0ff2569da499a0b081ac042a3d][^c-6a3ec3bbf18b90acea8212a0ddb7ed33]
 

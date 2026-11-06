@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-11-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 18. Rehabilitation periods: England and Wales[^c-f9d4e5743da4d561d3320cae4d19647f][^c-64ee47b97bb78c6917fe46fe96508699]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 214. Applications for planning permission by statutory undertakers.[^c14934041][^c14934051][^c14934061][^c14934071][^c14934081][^c14934031]
 

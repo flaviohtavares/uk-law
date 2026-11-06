@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 69. Transfer schemes between trusts[^c-db6eb584bc968f2ccbb5d9140af3adbe][^c-12bc9d1d9300eadb2b71aba09ddd0909]
 

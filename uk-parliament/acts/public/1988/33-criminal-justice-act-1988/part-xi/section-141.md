@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (43).** Text as at 2026-07-08. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/33
 >
-> Extent: England, Wales.
+> Extent: England, Wales; Northern Ireland; Scotland (the versions of this text differ in extent).
 
 ## 141. Offensive weapons.[^M_E_94442d10-4602-43b4-8f58-6469fb360dff]
 

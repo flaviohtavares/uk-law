@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2024-12-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 3. Directions: distribution of functions[^c-a4d8fd0216194e152be8ecd8e6061b2b]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14A. Confirmation by acquiring authority[^c-4fad216a292954f3e567c737f793c51c]
 

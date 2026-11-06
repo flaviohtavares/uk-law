@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-06-16. See https://www.legislation.gov.uk/changes/affected/eur/2013/1303
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Scotland, Northern Ireland; Wales (the versions of this text differ in extent).
 
 ## Article 1 (affected by repeal, see note). Subject-matter (affected by repeal, see note)[^M_E_54960364-d7e0-4c6d-dbe6-e661f39e584d][^c-b676935048cfd925335e1c66c82fd0d4][^c-b676935048cfd925335e1c66c82fd0d4]
 

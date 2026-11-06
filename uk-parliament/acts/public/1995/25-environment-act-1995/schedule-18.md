@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 18 — Supplemental provisions with respect to powers of entry[^c-426b695290ac0b96e668eb84895ae829][^c-0781e0b49703a811b87ebd00a8e15c93][^c-3142eba08b0b35616cc3dc27be8a61bc]
 

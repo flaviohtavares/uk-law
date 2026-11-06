@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (29).** Text as at 2026-05-12. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 37. Joint exercise of functions of funding councils in Scotland.[^c-106bf1887242f90650d622a71ec71a2c]
 

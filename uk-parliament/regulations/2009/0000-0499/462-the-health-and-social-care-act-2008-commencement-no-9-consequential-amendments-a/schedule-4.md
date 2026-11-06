@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 4 — Transitional provision in relation to functions under the 1983 Act
 

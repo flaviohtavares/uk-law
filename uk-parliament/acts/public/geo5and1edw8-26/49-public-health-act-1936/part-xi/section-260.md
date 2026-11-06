@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 260. Power of parish council, or local authority, to deal with ponds, ditches, &c.[^c-a831bd551ed68f1a7a7eaf88459c6c76][^c-d8e3b07e58c18d70ce76b9d4042c83db][^c-bf90135fe7d8828a67a6169e32d77929][^c611664]
 

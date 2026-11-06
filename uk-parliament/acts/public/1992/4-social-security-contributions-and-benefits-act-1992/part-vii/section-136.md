@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (139).** Text as at 2026-07-08. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 136. Income and capital. (affected by repeal, see note)[^c-d512b0988533f9e1d3adbd5c001edea2][^c-67b23406b28006f5c07c2e1260fcd11e][^c-67b23406b28006f5c07c2e1260fcd11e]
 

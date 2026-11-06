@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 64. Timing of decisions about authorisation[^c-16897a1c86d4d783f1b3bd5b01e2287a]
 

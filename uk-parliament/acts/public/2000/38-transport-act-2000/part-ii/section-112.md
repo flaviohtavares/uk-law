@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 112. Plans and strategies: supplementary.[^c14880791][^c-48922f5e08ab1d88e498c7b9b7466880][^c-2f37502a7b77afc92ab46047e781dbfa][^c-b069c4289f8b15ecb2b733627728edce][^c-f9a8685da116b8b1ca23180938af8fa4][^c-c05adb8597f2acc398b3fefbd54794ff][^c-4f00553ac73c18aa9914c53dc7536991][^c-0bc0873501ff951a62dcebbf35d0f3b0][^c-cd4ef9c00e26b4cb3b2e5822c389fab1][^c-622229e8cffe3b997450d535b289aa47][^c-63131c26ca98554bd7e4a82be39decdd][^c-38655cb458b97a6dd21ff07e03d03432][^c-4d6da790ee3fb92444037d40b72b3801][^c-ba53aa819dfa66b6ca6177e0cd938ee3]
 

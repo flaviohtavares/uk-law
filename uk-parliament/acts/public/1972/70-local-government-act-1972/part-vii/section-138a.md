@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 138A. Prayers and other observances[^c-5741dad2163a69692a9ea693d64a8d46][^c-07d79a14dc6c9677963162f224cf3e73]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 88. Crime and disorder strategies[^c-053cfe82f61adcac7875a15738a70d18][^c-d4bbb873cbe47217acbfaa52af239434]
 

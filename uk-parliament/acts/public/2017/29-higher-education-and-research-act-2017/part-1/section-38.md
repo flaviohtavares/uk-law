@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 38. Duty to monitor etc the provision of arrangements for student transfers[^c-5d10d3db25a23a0c64b1c39044d8f8b6]
 

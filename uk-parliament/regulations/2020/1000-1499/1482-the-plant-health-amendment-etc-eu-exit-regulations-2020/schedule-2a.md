@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-01-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 2A — Transitional provision: plants to which Article 72(1) does not apply[^c-56c831770fad387fa0f4bdb4a562b413]
 

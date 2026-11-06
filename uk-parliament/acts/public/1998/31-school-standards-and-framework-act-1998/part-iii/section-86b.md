@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 86B. Duty in relation to preferences expressed under section 86A: admission authorities of maintained schools[^c-d00f36a263d7071431c3a763158da06e]
 

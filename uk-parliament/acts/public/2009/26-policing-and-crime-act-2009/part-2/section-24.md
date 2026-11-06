@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 24. Foreign travel orders: duration[^c-f67ee9c3004afb3d5dd360d9b9616d56]
 

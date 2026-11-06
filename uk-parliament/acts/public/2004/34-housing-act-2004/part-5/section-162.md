@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 162. Suspension of duties under sections 155 to 159[^c-c5a387f094be3db3ab8006c673ef8e8c]
 

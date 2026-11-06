@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 2 — Grounds for Consent to Operation of Notices to Quit a Tenancy Where Section 25(3) Applies[^c-271a5a849d1d992c48c7b04de2c9ed46]
 

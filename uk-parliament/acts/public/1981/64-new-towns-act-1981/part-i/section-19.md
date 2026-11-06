@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (37).** Text as at 2026-06-17. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/64
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19. Power to override easements and other rights.[^c-a4f21a69e816dd829078363bb1798914]
 

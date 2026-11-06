@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 44. Application of certain provisions of the Energy Act 2004[^c-c6b69b9a0f6325c078258788f3c5c8fa]
 

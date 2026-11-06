@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5. Status of registered charity (other than small charity) to appear on official publications etc.[^c-c19229d866e13afe36d39b34d22ef788]
 

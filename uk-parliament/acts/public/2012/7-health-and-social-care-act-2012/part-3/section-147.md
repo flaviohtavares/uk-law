@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 147. Secretary of State's duty as respects variation in provision of health services[^c-7f24b5b37aea82e2f2b87d50c1d8bd40][^c-9747cf6081017c0072cbd426a9d7e2b8]
 

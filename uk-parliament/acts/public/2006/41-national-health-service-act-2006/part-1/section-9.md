@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. NHS contracts[^c-0877ac94e4e82de4e86126f282b28ca3][^c-0bfc1b8904d3117e28300b70f13f2e7b][^c-9f209db5b5fe20b590f6f207a6d624e1]
 

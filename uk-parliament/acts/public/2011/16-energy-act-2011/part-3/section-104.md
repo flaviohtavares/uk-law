@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 104. Offshore transmission and distribution of electricity: extension of time for licence modifications and property scheme applications[^c21152991]
 

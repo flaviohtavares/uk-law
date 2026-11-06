@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/65
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 99. Directions to dispose of land– supplementary.[^c-07f97a1df6f3e920b27db2df73989569][^c-c8e5f18cca20cc19e2c561b71f500ab3][^c-0ac631841fd025927c3654ce8c219401]
 

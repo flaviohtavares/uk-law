@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 44. Civil proceedings[^c-03e974ef97d6feb7db369239db5746ed]
 

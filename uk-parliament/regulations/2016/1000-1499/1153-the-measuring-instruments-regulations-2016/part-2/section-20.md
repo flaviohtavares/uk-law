@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1153
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 20. Importers' duty to ensure that regulated measuring instruments are accompanied by relevant documentation[^M_E_a29102f3-9309-4649-8fe9-1836b97d5efa]
 

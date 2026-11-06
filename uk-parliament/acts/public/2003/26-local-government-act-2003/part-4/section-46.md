@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. Liability for BID levy[^c-3b9ff411b66a18d48a524dd629afb5ea][^c-59f43d7c56c11c19450149e551435a38][^c-3e2b937793637045d4b193e54290d011]
 

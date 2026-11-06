@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63S. Destruction of impressions of footwear[^c-b891c15687202dccb8fdce2458c73acf][^c-d021315a42735f497b8992bb1632715f]
 

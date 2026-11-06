@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 174. Orders and regulations (general provisions).[^c-9a68028d64124eca50f3b2e3686a1cf5][^c-3bae15a8206b65cfea4291385f48b5d9][^c-40b01b3d79b8688c93521957ffd70a41]
 

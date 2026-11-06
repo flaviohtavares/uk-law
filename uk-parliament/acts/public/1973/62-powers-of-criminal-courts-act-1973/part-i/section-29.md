@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland, Northern Ireland.
 
 ## 29. Supplementary provisions as to persistent offenders.[^c11217561][^c11217541]
 

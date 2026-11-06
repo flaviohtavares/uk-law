@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-09-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 38. Appointment of more than one advocate in respect of same major incident[^c-dcd2f8dbc76359c51b0abf2de24d91fb][^c-dcba9b18fbef2a87599014c549051d9c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 90. Appointment of substitute manager[^c-38c9ee79c1934f43b5aaddebe2cf56e3]
 

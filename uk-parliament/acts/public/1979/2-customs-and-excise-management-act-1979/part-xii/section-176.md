@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1979/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 176. Game licences. S.R. & O. 1908/844.[^c-663981638de2462cc40543c5f4a07852]
 

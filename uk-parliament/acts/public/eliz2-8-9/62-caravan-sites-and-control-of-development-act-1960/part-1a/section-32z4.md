@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/8-9/62
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 32Z4. Expenses of local authority in relation to Part 1A licences[^c-0b5794acbbb559ab9b113ed4f5658ee6]
 

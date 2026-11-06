@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 160. Interest on late payment of benefit.[^c-ce3443e5c75f313b37a7ae507150b0c4][^c-5af8d132109aa231498ab89e5633e92c]
 

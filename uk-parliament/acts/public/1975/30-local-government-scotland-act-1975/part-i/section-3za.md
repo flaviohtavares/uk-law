@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1975/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 3ZA. Proposal to alter entry in valuation roll[^c-93871727e77ad12c93639102184fb26d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 120. Regulations under Part 6[^c-cf6f7df4efdc2fb11702c159ea70b83a]
 

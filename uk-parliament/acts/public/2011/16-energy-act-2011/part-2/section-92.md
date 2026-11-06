@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 92. Acquisition of rights to use gas processing facilities for downstream purposes[^c-cca5f10ed1b22460a64b0a742e883187]
 

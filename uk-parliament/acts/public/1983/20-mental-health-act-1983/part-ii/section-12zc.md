@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (398).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12ZC. Provision of information for the purposes of section 12ZA or 12ZB[^c-ba658417a8e967c221d4390b3723967f]
 

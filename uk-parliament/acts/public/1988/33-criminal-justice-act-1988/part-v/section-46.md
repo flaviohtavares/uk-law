@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (43).** Text as at 2026-07-08. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/33
 >
-> Extent: England, Wales.
+> Extent: England, Wales, Scotland.
 
 ## 46. Maximum term of imprisonment on summary conviction under Prevention of Crime Act 1953 and maximum fine under Restriction of Offensive Weapons Act 1959.
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (57).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 119. Removal of prisoners from the United Kingdom
 

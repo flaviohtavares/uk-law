@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 97. Access to premises[^c-7f870b746704dc870fe3cf1babe60190][^c-339c6c9fc2412e52c6e43ef77178ce7a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 145A. England: mandatory concessions for journeys not beginning on the London bus network[^c-7305102b2da17deb9398164d02c7949c][^c-c05adb8597f2acc398b3fefbd54794ff][^c-1ef9626fb1ab8013de9a98c95a9337d6]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 253. Transfer of land by private registered provider[^c-40f352c237c59aaf98bde84ddd482836][^c-c4108d866918dbdf62ba6a99cf23e888]
 

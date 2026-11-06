@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 3. Revocation, savings and transitional provisions[^c-cffd2a59a6d9484badaf029d5fc2160a]
 

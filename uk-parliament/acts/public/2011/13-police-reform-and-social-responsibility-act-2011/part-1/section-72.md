@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 72. Amendment of police areas: term of office of commissioner[^c-4af9ee42b7d01161899633fe6d306b26][^c-549b8ed23f32aed0da470fe6c1cf71de]
 

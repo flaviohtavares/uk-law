@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 288. General authorisation to accept contributions from European employers[^c-b04934cd888e7276c0a6939405dcd835]
 

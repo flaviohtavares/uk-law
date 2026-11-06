@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 100D. Inspection and publication (Extent: W) of background papers.[^c-14949f45621ecfe19d46343a0728deff][^c15100251][^c15100261][^c15100271][^c20528621][^c15100241][^c15100081][^c-919f6fc96dcb2d96e0534790b9008159]
 

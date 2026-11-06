@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 183. Meaning of “code manager” and “code manager licence”[^c-f09d153708334930fccf128925036c4f][^c-330878f032b46b549f1eded6cf054074]
 

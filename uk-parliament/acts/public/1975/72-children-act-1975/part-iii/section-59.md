@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2013-06-24.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 59. General duty of local authority in care cases.[^c1078144][^c1078145]
 

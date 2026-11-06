@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 71. Liability to be determined on a daily basis.[^c12079861]
 

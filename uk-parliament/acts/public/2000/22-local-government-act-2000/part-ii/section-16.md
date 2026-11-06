@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16. Discharge of functions: mayor and council manager executive.[^c1427819][^c1427820][^c-8ec2b2099e1461a89b9dec5d3ed75fcc]
 

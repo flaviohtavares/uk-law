@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/uksi/2001/544
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 4A — MEANING OF “BORROWER” IN RELATION TO GREEN DEAL CREDIT AGREEMENTS[^c-4270f8409950ac26229b94a8f3a175a4]
 

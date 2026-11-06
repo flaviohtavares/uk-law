@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (156).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 103. Complaint to Certification Officer as regards passing of resolution.[^c-94c242e6a2e6acc848257a3ee4f81750][^c-d284fdb4b76be70d6c2b605f3b1cbf6d]
 

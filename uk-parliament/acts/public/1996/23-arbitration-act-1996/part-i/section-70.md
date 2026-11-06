@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 70. Challenge or appeal: supplementary provisions.[^c833524][^c2085246][^c2085676][^c2085778][^c-61d97476671c4f3889a2ba5919157f6c]
 

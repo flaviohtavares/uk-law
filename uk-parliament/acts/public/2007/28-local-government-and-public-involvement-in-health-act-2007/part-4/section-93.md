@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 93. Duties when undertaking a review[^c-c010fb01a7cf2fded21b6fc76f54349c][^c-c48d81be561482464c248c2ffd08d703][^c-b7c5d0a3320af66a34f5bce95c3d8b88]
 

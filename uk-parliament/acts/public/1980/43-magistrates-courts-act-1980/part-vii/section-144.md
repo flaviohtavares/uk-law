@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 144. ... Rules of procedure.[^c18262491][^c18262501][^c18262511][^c18262521][^c18262531][^c18262541][^c18262551][^c18262561][^c18262481][^c-54435a8a297b4c881c3dfff68221707d]
 

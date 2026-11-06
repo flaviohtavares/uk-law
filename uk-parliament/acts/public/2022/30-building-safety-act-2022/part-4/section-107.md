@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 107. Enforcement of decisions of the First-tier and Upper Tribunal[^c-a682a007cfae574ff666791f28f3f856][^c-44536081853848e1d2e98afc64310a11]
 

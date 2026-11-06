@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 66. Enforcement of the award.[^c833519][^c2085242][^c2085654][^c2085772][^c2086234][^c-d9369343e6abb395f96f7c7c47926fcd]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 67C. Sections 67ZA to 67B: appeals[^c-863437a6e81c15f43c60f6f742506bc4][^c-fd7326bffb42107c055b5800488d38c4]
 

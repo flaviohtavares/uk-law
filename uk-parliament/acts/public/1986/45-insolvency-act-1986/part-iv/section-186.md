@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 186. Rescission of contracts by the court.[^c15573691][^c15573701][^c20432441][^c-0285b2bd165d57dcf00806e38e03534f][^c-abcc6d663824d2f2fe834172590d9d22][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-281face317decc6eef6a0512134b0a6a][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

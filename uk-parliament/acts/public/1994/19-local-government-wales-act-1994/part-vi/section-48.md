@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 48. Groups of communities.[^c-b0b4cb42838c983d262b1a0ba480c529]
 

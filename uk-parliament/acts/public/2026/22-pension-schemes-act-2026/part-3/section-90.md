@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 90. Regulator’s direction-making powers during period of concern[^c-6e3247bc4ac809311d5a2b6d3638fb9f]
 

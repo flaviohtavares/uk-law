@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 140. Enforcement of Community Infrastructure Levy[^c-d193286c16282e46923ae0812db29c8e][^c-6f373da7c673c6e24f6fed183f7e4bad]
 

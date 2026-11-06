@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 114. Commonholds[^c-6042c292cce3f55e435ba488fa8ced2d][^c-2ee70a3e60ce59ae9e58435a0b48a797]
 

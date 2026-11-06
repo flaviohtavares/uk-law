@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2026-06-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28ZA. Public protection decisions[^c-74cb83f854e42cc4d909d0f56faa68ac][^c-4ceccef13942536f40ead704406a1a58]
 

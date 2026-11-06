@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 30. Bereavement support payment[^c-3cb0a8ffa03e3616ea1f93c4bdbf0cbf][^c-43e900e31608673cbf60c9adb38749c4][^c-d15a94bfc2d2e158246b12e1058da388]
 

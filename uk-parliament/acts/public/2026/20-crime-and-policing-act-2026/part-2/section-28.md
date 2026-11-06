@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28. Possession of weapon with intent to use unlawful violence etc[^c-32b8b2c0a0eda0f7b614ab60226f7415]
 

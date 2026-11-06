@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21B. Duty of authority or executive to respond to overview and scrutiny committee[^c-048b7de4ebca5d37c089f60386976a8f][^c-490af2bf83fbedd39765f5c738f7992e]
 

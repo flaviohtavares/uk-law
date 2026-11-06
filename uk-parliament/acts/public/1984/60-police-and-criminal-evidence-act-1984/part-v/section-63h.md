@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63H. Retention of section 63D material: persons arrested for or charged with a minor offence[^c-6e929a7571ce9ca6337f6fcb9066b3b2][^c-c4f5150ccbd4c6b4fcbb7d1140fab946]
 

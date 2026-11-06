@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14. Renewing plans: interim targets[^c-94e59ef6ae8cdec2cd124c1a7d409f40][^c-4e14113619a729ef05932350af34c898]
 

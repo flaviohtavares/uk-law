@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 39. Transfer schemes under section 38: taxation[^c-c65e044a7fa1acd3594b6ad8b599c39b][^c-d48e3d027eff1ba2f4276a5e9f0828ce]
 

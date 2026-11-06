@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 26. Liability of nominated individual[^c-9ade07c7d25b462e0707f6ce1d5c8b6e]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2026-10-23. See https://www.legislation.gov.uk/changes/affected/ukpga/Vict/10-11/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 94. All things required to be done by two justices in England and Ireland may, in certain cases, be done by one, and in Scotland by the sheriff, &c.[^c559643]
 

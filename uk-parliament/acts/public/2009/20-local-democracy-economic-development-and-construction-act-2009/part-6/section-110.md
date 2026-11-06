@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 110. Requirements in connection with establishment of combined authority[^c-2c8a39ea31daeea6c842b4e3666d4914][^c-c5469e707dc10ffda0954798ec209678]
 

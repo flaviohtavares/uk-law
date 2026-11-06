@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (13).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 86. Appeals to Court of Appeal.[^c-8b17e7348fb9e76153d75a525d3a4405][^c-c3be4a70ec34544488cb28b199c6b108]
 

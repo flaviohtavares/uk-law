@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 31. Property coming into the possession of the police.[^c-87d3d1851d0164feae9bb504a0559690][^c-42a483704b5c1f479995c09d7478745f][^c-4d6a70895d3cde394f23676a88bdf3b7]
 

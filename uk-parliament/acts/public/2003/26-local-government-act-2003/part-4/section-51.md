@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 51. Power of veto[^c-50c15147f1852c789bd4fca66e51ab83][^c-4b5cbc3f4f4afa4c24cc2c3503310e29]
 

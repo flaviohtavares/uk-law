@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. Making, supplying or obtaining articles for use in computer misuse offences[^c-4080adecd8015b8efc5f167cce630b88][^c-3c69a0c231c6108251886f5b88f51589]
 

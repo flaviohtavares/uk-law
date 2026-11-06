@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (54).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 76. Audit of accounts of public transport companies.[^c-27890099608df53aa49f7782fbd18013][^c-2900f3636721a83870c26a26d667bb60][^c-27890099608df53aa49f7782fbd18013]
 

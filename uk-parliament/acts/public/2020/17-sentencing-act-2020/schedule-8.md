@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## SCHEDULE 8 — Transfer of youth rehabilitation orders to Northern Ireland[^c-a3a5c326fec56f5a97bde1c3a0b69e87]
 

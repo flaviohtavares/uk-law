@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 138A. Enhanced partnership plans and schemes[^c-d236b2a239992040336cae0951f6908e][^c-c05adb8597f2acc398b3fefbd54794ff][^c-652ea49e5927586cb07bdb4300947115]
 

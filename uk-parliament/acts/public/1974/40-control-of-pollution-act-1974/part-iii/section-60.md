@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 60. Control of noise on construction sites.[^c2455021][^c2455061][^c2455071][^c2455081][^c-805fa02e9afeef051be98405a984111d][^c-4b3b3ebc33c24d9f3d439f5486bb2a99][^c-7a03555502afa3512bba578abe9f432e][^M_C_6a8b7676-a812-4dd2-c5a8-f3462ddfeff3][^c-1c9a2db7345cc63bb7bd598216b99857][^c-a599cf7683158bfe34961dfb7795a32a][^c-7330072f0ce14b471d7c71aeeb0ad512]
 

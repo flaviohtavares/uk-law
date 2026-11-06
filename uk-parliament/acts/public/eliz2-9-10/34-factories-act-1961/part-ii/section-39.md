@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2016-07-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 39. Precautions as respects water-sealed gasholders.[^c-20c8ec397b37bddbd2f844dd568a15ac]
 

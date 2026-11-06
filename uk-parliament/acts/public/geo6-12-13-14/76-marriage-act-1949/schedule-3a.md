@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 3A — Modifications if proposed marriage referred under section 28H[^c-f2d06e0950bf5aee31a53afa9048786a]
 

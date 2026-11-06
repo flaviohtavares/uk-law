@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 118. Rate Relief Regulations (Northern Ireland) 2017[^c-2e116e1699382f370051601f66fb8f2f]
 

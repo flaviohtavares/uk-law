@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2214
 >
-> Extent: England, Wales.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 16. Notices in relation to building work[^M_E_af441aae-fb70-4370-fd27-67a738aa05af][^c-b184241bfb690ac0bcc37b6450a88dc5]
 

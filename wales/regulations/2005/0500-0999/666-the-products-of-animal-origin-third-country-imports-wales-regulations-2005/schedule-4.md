@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales.
+> Extent: Wales.
 
 ## SCHEDULE 4 — Provisions Where Due Diligence Defence is Available[^c-c240ba14bf86a9b44dc808df38321d93]
 

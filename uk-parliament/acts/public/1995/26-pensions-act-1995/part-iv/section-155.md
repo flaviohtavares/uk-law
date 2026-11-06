@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 155. Breach of regulations under the Pension Schemes Act 1993.[^c-18ebe4f64ed7f7e50dcdc0b2d2b144ba][^c-507935a486298a63813b57ef5220b16a][^c-82cd0d1d49419f9acb9912864e324b62]
 

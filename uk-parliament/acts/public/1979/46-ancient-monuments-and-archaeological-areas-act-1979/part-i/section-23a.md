@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1979/46
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 23A. Local inquiries[^c-92d6a12b0c10cfebf22c178369b3d1ee]
 

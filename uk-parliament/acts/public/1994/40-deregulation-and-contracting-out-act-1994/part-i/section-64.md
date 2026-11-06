@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 64. Repeal of section 27 of the 1981 Act.[^c-fed51f32922aac606eb4cb379e6a7904]
 

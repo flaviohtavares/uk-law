@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Functions of the Panel[^c-9c507429cbd9b330dcc0094a323abae2][^c-7c2674f68c38fb7aa6c1ba7df9a2af1d]
 

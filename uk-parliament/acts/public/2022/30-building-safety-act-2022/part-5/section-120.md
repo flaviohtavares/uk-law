@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 120. Meaning of “relevant defect” and “relevant steps”[^c-312ef8b347238b724930255e3cce4347][^c-4222852eb5ae53e436ddf7a76d6604dd]
 

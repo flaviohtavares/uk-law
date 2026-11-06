@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 7. Presumption of conformity[^M_E_39c515ce-1bf6-4101-8e78-fe53aa6fa79b]
 

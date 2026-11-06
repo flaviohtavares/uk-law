@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2014-04-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 12. Interpretation[^c-df7c72463ede15877981469890406ac8][^c-0e176dc4375e7e109bccd619244a1aed]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/anaw/2016/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 50. Offences related to inspections and investigations[^c-5538053f502cb2a559874e1339e940af][^c-76d24dabeb51eee2e73bb7cc071f6ac8]
 

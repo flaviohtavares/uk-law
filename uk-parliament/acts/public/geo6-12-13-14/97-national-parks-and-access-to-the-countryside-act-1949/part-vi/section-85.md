@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2023-12-26. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo6/12-13-14/97
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 85. General duty of Natural England and the Natural Resources Body for Wales to advise on questions relating to natural beauty.[^c-532af87181b7eb6af9e697487998721a][^c-6f5f693bba7117259c898ec90e6831d0]
 

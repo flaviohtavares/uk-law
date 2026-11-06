@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 70. local authorities: supplementary powers[^c-cc8ab37fc4908f769f5cbccfed89b8c2][^c-5d2ca0f2dc38f5a0cd1a91f1111b1287][^c-ed1a0956b91d488387e2f03d0973e676][^c-5ba49064a3b2d1702726e009db60daf1][^c-2bd5223411172ccbf01f82634dc42c60][^c-93b12afc0ec05fb020cc3fbc787bbb7e][^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]
 

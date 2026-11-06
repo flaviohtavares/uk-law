@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Definition of “personally connected”[^M_I_82f63fde-5f35-4ae3-efd9-906f1fdd96c4][^c-22fc840d9c737583a07d3a2bf55cd384]
 

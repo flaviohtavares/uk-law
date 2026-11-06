@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2016-07-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 56. Application of Part II to Scotland.[^c-93eea554230fdcdcbc9ae7854e47fc47]
 

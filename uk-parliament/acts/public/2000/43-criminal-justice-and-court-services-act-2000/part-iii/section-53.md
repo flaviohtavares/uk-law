@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 53. Breach of community orders: warning and punishment.[^c-289b70e20d8277a8448f312fb0a7f410]
 

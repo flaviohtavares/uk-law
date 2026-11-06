@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 2B — Persons whose arrangements are subject to review by the Commissioner under section 73.[^c12428731][^c-525a933248fb5fbdf9f2510e27a4f306][^c12428721]
 

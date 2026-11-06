@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2025-11-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/23
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## SCHEDULE 8 — Repeals and revocations
 

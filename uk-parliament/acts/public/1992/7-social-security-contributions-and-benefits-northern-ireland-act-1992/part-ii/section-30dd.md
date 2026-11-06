@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (205).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 30DD. Incapacity benefit: reduction for pension payments and PPF periodic payments.[^c16384061][^c-7e3974c0e699c75da35cdb48366ec7f0]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 25. Effect of code under s. 21 or 21A and guidance under s. 23[^c-2c791c3b5c31544f0b4e3fa5a5973290][^c-6781eff8cd539373083ddfadfd746256][^c-8768e24e2d51c652eaae3adb5ccb76e6]
 

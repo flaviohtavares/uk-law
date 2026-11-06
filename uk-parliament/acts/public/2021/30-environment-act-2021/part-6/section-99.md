@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 99. Biodiversity gain in nationally significant infrastructure projects[^c-627205d45f7414b9cd111f7ff507df56][^c-fc7c124e3d285d74024781bdda1dcd4c]
 

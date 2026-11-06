@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6. Relevant training or education[^c-42fcb4740e64437617ab54b7f2c9e7af][^c-b3583109d3cecfc841d501275986a6b0]
 

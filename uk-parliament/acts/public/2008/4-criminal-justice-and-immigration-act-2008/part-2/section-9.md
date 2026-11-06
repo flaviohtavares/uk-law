@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. Purposes etc. of sentencing: offenders under 18[^c-7f31f6e5c769698674e22ff115fa97f8]
 

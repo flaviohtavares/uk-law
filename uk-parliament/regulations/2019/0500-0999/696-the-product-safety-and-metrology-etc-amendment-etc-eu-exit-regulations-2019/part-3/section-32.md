@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 32. Amendment of the Radio Equipment Regulations 2017 and related amendments[^c-ff36acd85c72942be4f1262dbfaa3e15]
 

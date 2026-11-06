@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (29).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/33
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12A. Referral of proposed civil partnership to Secretary of State[^c-cf7a10c346853c4612a9f207be36b527][^c-30a255610c30acfe21be426b35ad7e74]
 

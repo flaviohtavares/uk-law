@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 97AC. Rights of entry in relation to listed buildings: supplementary provisions.[^c14925121]
 

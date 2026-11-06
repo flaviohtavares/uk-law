@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Northern Ireland.
 
 ## 81. Regulations[^c-2ca4fea1ace5b137326723bae39f8adb]
 

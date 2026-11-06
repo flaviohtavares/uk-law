@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. Reviews and performance assessments : registered service providers[^c-6ea060ac484422ed520d2573c57716b9][^c-4692028d0a0e8882c2fb31df2fd3dd07]
 

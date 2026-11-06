@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 2 — Emergency arrangements concerning medical practitioners: Wales[^c-a455db82021717004d8912355480b8a0]
 

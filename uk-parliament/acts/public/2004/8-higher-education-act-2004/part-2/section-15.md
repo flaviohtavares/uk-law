@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Duties of qualifying institutions[^c-54dc36ba6750529f2317979af7df8964][^c-109e7448311bb6442ca655554bad0f07]
 

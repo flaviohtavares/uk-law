@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 21. Duties of registration officer and staff in relation to the record[^c-bfd29eadc0e52aa2eabfbf9611820e4e]
 

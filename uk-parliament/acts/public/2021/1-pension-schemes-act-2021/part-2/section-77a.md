@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 77A. Unconnected multiple employer schemes: annual accounts[^c-93c0f06a0336c5bb4c67af7e9f4c89b6]
 

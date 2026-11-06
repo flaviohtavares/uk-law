@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2017/1012
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 25. Sites of special scientific interest which become European sites or Ramsar sites: duty to review[^c-81a54c4b394c365ad1ced526f9f48a0b]
 

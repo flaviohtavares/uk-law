@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 38. Transfer of family proceedings from High Court ....[^c4595231][^c4595241][^c4595251][^c4595261][^c-e972bee4f85c0787f24682dab6b4158f]
 

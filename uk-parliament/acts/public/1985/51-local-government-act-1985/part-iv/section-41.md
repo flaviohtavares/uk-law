@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/51
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 41. Questions on discharge of functions.[^c3163681][^c3163691]
 

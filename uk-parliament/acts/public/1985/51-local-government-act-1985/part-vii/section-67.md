@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/51
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 67. Winding up of residuary bodies.[^c3164581][^c3164591]
 

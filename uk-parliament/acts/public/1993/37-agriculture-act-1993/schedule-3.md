@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 3 — Qualifying transfer scheme[^c-7f2d7ba7ca2b26f0ef24776648905123]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 80. Parents and young people lacking capacity[^c-27352350ce71a2e634409a4353f08372][^c-e0db85a43fc645a472d79b82d38d4149]
 

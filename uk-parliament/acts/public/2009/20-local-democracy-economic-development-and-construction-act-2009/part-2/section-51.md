@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 51. Power of Auditor General for Wales to require information[^c-cfe0a7604da5badac16548f57d8213d1]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 150. Certificate of lawfulness of existing use or development.[^c950163]
 

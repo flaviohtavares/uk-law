@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2021-02-28. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 33A. Agreements as to compensation for improvements[^c-e8fa0933e69de5a0a2318f5a658c4b1e]
 

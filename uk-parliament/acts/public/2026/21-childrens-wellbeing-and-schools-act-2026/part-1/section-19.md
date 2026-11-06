@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19. Procedure for imposing monetary penalties[^c-2bf94073dcacfe0c694d103f33f4b511][^c-7402e1a3ce5a1e8ab6a2a9a5a57ab176]
 

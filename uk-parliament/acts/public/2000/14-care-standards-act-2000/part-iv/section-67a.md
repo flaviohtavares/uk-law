@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 67A. Exercise by Special Health Authority of functions under s. 67(4)(a)[^c21154671]
 

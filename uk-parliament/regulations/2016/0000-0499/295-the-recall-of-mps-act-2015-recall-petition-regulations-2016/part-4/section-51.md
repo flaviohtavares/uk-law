@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 51. Absent signing at any petition for a definite or an indefinite period: England and Wales and Scotland[^c-9512eb5d5ab6e5877d6707a9692b5775]
 

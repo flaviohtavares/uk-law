@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 44. Categories for purposes of section 42(1)(d)[^c-eb26e78eadddf225b001d5ec4a147d41][^c-d15bfda4049339dc5b205fd86bd475e9]
 

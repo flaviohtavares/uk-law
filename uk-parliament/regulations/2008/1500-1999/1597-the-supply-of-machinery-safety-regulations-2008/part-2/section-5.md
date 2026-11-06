@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1597
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 5. Disapplication where more specific ... safety rules apply[^M_E_6401bf93-d3e3-4102-a933-6bf034880832][^c-34e09cd3e2fa9ad561ed3bf2d8988939]
 

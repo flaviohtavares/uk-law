@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2024-11-28. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 37. Amendment of law relating to termination of pregnancy.[^c271684]
 

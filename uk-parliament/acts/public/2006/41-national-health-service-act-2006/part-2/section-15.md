@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Strategic Health Authorities' directions[^c-5f613362ffac3b2c96c17ea8ed04ed4f]
 

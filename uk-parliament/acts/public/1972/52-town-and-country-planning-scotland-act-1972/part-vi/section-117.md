@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 117. Power to override servitudes and other rights.[^c14926461][^c14926471][^c14926481][^c14926451]
 

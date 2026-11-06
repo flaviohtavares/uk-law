@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2015-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8. Provision of information about non-domestic rates
 

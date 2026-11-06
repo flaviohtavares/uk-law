@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (37).** Text as at 2026-06-17. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/64
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36. Functions of Welsh Ministers[^c-db84ee9e6470085c8f6d84f1ac3e8492]
 

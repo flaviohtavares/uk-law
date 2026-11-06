@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2009-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1976/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 47. Miscellaneous enactments.[^c-666cf8d946697de9ff27d95d07351d9e][^c-1ff0b20c9e4b32226d0de818f5c19ff1]
 

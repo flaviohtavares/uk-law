@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Amendment of definition relating to civil partnership to include overseas relationships[^c-242bfc1e2c39ac2b01f7563f8ca018b7]
 

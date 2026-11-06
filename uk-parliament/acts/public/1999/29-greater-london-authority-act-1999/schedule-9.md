@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 9 — Amendments to Local Government Finance Act 1992[^c-ff3ff78b418234dd6b9b0dcf13da6a9a]
 

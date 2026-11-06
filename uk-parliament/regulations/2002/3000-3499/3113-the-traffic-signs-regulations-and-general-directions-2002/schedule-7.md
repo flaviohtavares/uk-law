@@ -106,7 +106,7 @@ summary: ''
 
 [image: see source](https://www.legislation.gov.uk/uksi/2002/3113/images/uksi_20023113_en_epp_243.gif)
 
-2511.1[^c-38c28e2c543d2188a0b57e9a363024c0] *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
+2511.1[^c-38c28e2c543d2188a0b57e9a363024c0]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2002/3113/images/uksi_20023113_en_epp_244.gif)
 

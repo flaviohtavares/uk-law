@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1982/30
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 16. Provisions supplementary to ss. 14 and 15.[^c2548901]
 

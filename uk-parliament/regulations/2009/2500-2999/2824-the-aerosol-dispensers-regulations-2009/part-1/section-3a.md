@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 3A. Power to amend Schedule 1A[^c-68749ffea2958aa40f98cee08d121f45]
 

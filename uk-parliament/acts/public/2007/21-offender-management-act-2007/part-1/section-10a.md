@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10A. Duty to consult on unpaid work requirements[^c-b4b90a49c441de76e8d126ff16aeb03d]
 

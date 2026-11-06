@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 230. Historic environment records[^c-6cbb20c6ea363b822bfd6b4681b14d41]
 

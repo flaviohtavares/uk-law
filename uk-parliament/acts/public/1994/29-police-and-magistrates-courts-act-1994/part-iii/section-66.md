@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2008-07-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 66. Regulations for administration, etc. of Royal Ulster Constabulary.
 

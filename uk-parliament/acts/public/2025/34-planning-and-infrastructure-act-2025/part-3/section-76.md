@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 76. Appeals[^c-43a173a882b6ba95d2f1b430318e7879][^c-36f3d553eac8b727dea4feee5240d1e8]
 

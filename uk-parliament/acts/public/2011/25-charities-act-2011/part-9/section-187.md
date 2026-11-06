@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 187. Meaning of “benefit”, “remuneration”...etc.[^c-39364070621d5794439bf35a37a91620]
 

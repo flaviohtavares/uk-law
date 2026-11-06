@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 134. Consequential amendments relating to Part 4[^c-8298f16b6e6f5b42765cbdc2a06f109c][^c-3b3aa5df9bfaf7cade8f07b8aa760712]
 

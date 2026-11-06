@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 20. Offences of non-compliance[^c-f6c6f5a7ca02067ae44649f259349a91]
 

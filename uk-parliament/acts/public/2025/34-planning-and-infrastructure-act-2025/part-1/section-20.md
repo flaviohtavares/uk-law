@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 20. Variation of consents etc[^c-5abb6bae5cf3e4d16731e6881672d877][^c-86c62682de356eb5b4e9b00bf82a85e7]
 

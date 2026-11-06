@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## Schedule 3 — Claimants dependent on drugs etc.[^c-01ddb840345d8877bcdda84f0e148862]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2012-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 26A. Power to promote or oppose Bills in Parliament.[^c-3caff3ecef3023b9bc2745a5cd854a3c]
 

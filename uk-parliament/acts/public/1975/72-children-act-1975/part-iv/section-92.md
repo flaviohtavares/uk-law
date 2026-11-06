@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2013-06-24.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 92. Registration of births of abandoned children.[^c1078206]
 

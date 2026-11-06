@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 91. Meaning of “associate” for the purposes of section 82[^c-0a140e635ab11b7892ac4fb3555a9f82][^c-dca47ffd6e587003f00b21adb35d5923]
 

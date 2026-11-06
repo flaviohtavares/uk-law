@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/asp/2008/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 65. Provision of advice etc. to the Scottish Ministers[^c-a74f67d81f5b4e291b88b3670b782109]
 

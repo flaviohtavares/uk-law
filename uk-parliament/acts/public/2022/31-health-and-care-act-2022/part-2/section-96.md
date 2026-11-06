@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 96. Sharing anonymous health and social care information[^c-ae0bbc594b88732bff19e04341eea956]
 

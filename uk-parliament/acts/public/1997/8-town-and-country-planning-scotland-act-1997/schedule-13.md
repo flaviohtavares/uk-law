@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## SCHEDULE 13 — Regulations as to compensation in respect of orders relating to mineral working[^c-0401029da8e68e80570e7f7caace7c20]
 

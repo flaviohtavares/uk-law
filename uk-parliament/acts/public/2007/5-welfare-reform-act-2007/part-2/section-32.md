@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 32. Housing benefit and council tax benefit for persons taking up employment[^c-32257c7d80bb075e6e0354da98eb3845][^c-fe476166d6237afcd99fd10fc954968f][^c-f3bea21ff05489d31fd0ba93fb0bee97]
 

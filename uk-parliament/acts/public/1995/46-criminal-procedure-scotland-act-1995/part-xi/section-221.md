@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 221. Fines: recovery by civil diligence.[^c14472751][^M_C_b403f633-0da2-460c-f9b7-0c4c9f20f287][^c19834011][^c-8ca654db09bbd394fb1c32aad8d26276][^c-96847fd717b3b9410fb9aec76974ffd4]
 

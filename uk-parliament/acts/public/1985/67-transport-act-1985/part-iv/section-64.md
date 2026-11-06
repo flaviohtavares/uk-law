@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (54).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 64. Consultation and publicity with respect to policies as to services.[^c10879811][^c-e24777479e2fc05c510f3e1d5c0e4491][^c-27890099608df53aa49f7782fbd18013][^c-b2e6a4fe54c55e8e84f3ef5e57545402][^c-27890099608df53aa49f7782fbd18013]
 

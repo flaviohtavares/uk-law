@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 133. Power to authorise the Agency to issue levies.[^c-aa9d2d04dff27d4e58b00ee73bff72bc][^c18735741]
 

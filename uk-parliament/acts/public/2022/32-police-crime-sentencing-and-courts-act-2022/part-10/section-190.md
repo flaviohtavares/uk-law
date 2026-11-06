@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 190. Football banning orders: relevant offences[^c-49a5edeb936808f2af703bb6aabff18b][^c-9dac099a754e6e8aeab116ecf91c3dd4]
 

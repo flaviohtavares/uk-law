@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/39
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## SCHEDULE 5 — Collection of fines AND OTHER SUMS IMPOSED ON CONVICTION[^c19117341][^c19118901][^c20625421][^c20625441][^c19120531]
 

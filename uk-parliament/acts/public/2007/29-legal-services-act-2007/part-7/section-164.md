@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/29
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 164. Power to establish voluntary scheme for resolving complaints[^c-d9370d2de46c8558f2d102fb447e2ab2]
 

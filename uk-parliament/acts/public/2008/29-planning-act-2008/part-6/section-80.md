@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 80. Ceasing to be the single appointed person[^c-62f441ba305713d0fb65e0fd31cbd2cc][^c-fe7e25229890e6fba2c2f1e00eacdd80]
 

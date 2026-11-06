@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-03-27.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 75. Circumstances in which payments towards the total mutualisation sum are to be re-calculated
 

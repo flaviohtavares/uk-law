@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2013-01-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 46A. Extension of certain offences to Crown servants and exemptions for regulators etc.[^c933541]
 

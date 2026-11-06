@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-01-19. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/1
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 253. Registration of charges: Scotland[^c-c9ca97c16b40bfdecb2986180af37c94]
 

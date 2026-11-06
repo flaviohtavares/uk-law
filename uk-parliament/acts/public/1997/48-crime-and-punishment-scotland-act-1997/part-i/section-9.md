@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2022-05-17. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 9. Power to specify hospital unit.[^c-df557bf6c3a6403a0b94d5c2ab55e5e0]
 

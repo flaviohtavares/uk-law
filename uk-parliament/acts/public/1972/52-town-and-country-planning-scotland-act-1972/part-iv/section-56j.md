@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 56J. Power to revoke or modify hazardous substance consent.[^c14921261][^c14921251]
 

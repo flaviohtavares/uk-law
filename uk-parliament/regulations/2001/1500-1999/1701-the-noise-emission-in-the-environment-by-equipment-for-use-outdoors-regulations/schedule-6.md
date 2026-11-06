@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-13.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 6 — (ANNEX III to the Directive)[^M_E_17750f15-629c-4036-bf49-db5c5a3413ac]
 

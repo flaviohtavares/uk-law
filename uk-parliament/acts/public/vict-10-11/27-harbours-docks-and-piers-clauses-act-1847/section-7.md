@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2026-10-23. See https://www.legislation.gov.uk/changes/affected/ukpga/Vict/10-11/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland; Scotland (the versions of this text differ in extent).
 
 ## 7. Errors and omissions in plans, &c. may be corrected by justices, &c. who shall certify the same.[^c559403]
 

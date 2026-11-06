@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 145. New build home warranties: financial penalties[^c-232b3c4fe5c2074de08f25115c8064a8][^c-863309bd9a8a69c8a66843a59d3c04b6]
 

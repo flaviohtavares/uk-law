@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/43
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 46A. Change to private residential tenancy by agreement[^c-3244bb9cb0f109ad15064dd13cf98b65]
 

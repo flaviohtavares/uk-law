@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 52. Application of Part I of the Local Government Act 1988 during transitional period.[^c-f8a2e686e0b25e41e0614ae0e836bfae]
 

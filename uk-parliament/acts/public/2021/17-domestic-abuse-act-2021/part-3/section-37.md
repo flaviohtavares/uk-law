@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. Further provision about electronic monitoring requirements[^c-20bc94a6fcc024f6e7272d8ba69facd3][^c-7cda856efef6009d77c31d22fff5840c][^c-8feed11068ecb882d48d4637532eea57][^c-315f698fec717e0c096d8c5a20cbf5ed]
 

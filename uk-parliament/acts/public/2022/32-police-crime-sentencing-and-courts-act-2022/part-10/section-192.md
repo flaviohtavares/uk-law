@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 192. Football banning orders: requirement to make order on conviction etc[^c-a62ad62fa489455a56baee0d6242185e][^c-1c4c363f3cb2806b8eb88ae77d975268]
 

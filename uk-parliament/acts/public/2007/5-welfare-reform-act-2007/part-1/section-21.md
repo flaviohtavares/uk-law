@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 21. Deemed entitlement for other purposes[^c-90766c402a6081979ede5595c7793152][^c-a930b4f5a9da12f15855a11f7d9602d0][^c-a930b4f5a9da12f15855a11f7d9602d0]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 114. Her Majesty's Inspectors of Education, Children's Services and Skills[^c-2ace4c0219d20c5fee46a245c63faa0e][^c17507791]
 

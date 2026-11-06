@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 13. Meaning of civil partnership[^c-aed3c8909b3f2aee74306337aae7fe4a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 154. Payment of NHS charges[^c-3d1f60a2e38eb5de8fb36d656c547fa4][^c-bddf1ce7d067ee5d385484f2ab51f878]
 

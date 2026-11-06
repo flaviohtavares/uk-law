@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2016-07-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 184. Construction of references in other enactments to factories and workshops, etc. and exclusion of certain provisions of Public Health (London) Act 1936.
 

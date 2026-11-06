@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 113A. Restructuring of sixth-form education[^c-d7f20b3a82cbddaf19d5da8e9f5500bf]
 

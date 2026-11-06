@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2011/1881
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 2A. Transitional provision in relation to EU Exit[^c-0676bfac35534fe837182b73b9c99d19]
 

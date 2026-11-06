@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (54).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 6. Registration of local services.[^c10877311][^c10877331][^c10877321][^c19459571][^c19459691][^c19469811][^c-389d1ec1afbd0a813fdeb194ccc15eed][^c-0553e5ecb6710803e86374026a5f4a70][^c-28711a4097679fd646c35e578df27f95][^c-d97571f2eeed30c9fa4f1b48edf2da5e]
 

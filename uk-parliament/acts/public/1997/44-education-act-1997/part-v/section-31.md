@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31. Other functions of the Authority.[^c-4c73ff37db1f9af29ea901c5a125b4e1]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Power of magistrates’ court to remit case to another magistrates’ court for sentence.[^c-02e73e801a309a8d2aa00dde763a180e]
 

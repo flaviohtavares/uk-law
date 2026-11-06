@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 58. Restraint orders[^c-e2a13a2c1b6b97f13c95abd7f78fe787][^c-a3889e161e736d1b5e0be99edde6119b][^c-bc59da76f74a5e9debfbda22fd326c18][^c-a3889e161e736d1b5e0be99edde6119b][^c-bc59da76f74a5e9debfbda22fd326c18]
 

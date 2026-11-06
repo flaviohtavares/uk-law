@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 159. Positive action: recruitment and promotion[^c21162591][^c-a5ed692b2e03ad585f473338b352f70c][^c-fbec5a4aa64b91d87735a5d0236be87d]
 

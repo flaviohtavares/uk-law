@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 40. Power to issue codes of practice.[^c10204961][^c10204971][^c-1c6169b67c7b7d48d1ce0538f3f8e025][^c-cfdb04dbc07a6933165afbda74ff606d][^c-a9b866d3416324eb16065c57379f00bb]
 

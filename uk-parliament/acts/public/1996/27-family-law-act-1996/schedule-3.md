@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 3 — Stay of proceedings[^c-a9dec2ace9e806a69f47008bfbd4667b]
 

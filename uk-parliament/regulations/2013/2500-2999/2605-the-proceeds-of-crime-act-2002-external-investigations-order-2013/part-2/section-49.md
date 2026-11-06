@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-04-26.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 49. Further provisions: general[^c-20ca5f3e4a7040d0b7ae9ddbb020919e]
 

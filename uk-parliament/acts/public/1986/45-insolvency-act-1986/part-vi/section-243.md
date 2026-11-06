@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 243. Unfair preferences (Scotland).[^c15576001][^c15576011][^c15576021][^c20434781][^c20434801][^c-080af0bb851c65d0a612da6b0348419f][^c-cd5afc03924bfcb7a61211f740b33fd3][^c-788371096f8da5425d0cd572175725cd][^c-52a34836c1c703debd8c32c70b8b4178][^c-788371096f8da5425d0cd572175725cd]
 

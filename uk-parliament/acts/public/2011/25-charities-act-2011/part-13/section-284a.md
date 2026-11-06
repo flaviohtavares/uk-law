@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 284A. Power to borrow from permanent endowment: general[^c-9eb9be259e9953b2b724d25fca1cee2a]
 

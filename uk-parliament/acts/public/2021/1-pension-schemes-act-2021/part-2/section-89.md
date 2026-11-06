@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 89. Continuity option 3: conversion to closed scheme[^c24481141][^c-69529db0a2725c114db173bc1353d78a]
 

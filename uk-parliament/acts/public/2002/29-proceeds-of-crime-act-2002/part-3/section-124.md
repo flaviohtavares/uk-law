@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 124. Arrestment of property affected by order[^c-11c8867940164f3aac15ced0039f2ffd][^c-bf1422bf2e602f499b6e4a1b87fb0e4c][^c-53df666702317775cbc230d88b09b527][^c-d59f6c2a9c42161ca1815c0c61d9e1f6][^c-bf1422bf2e602f499b6e4a1b87fb0e4c][^c-d59f6c2a9c42161ca1815c0c61d9e1f6]
 

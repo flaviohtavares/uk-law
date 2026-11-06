@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2024-05-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1968/73
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 117. Duty ... as respects bridges carrying highways.[^c15332041][^c15332051][^c15332061][^c15332071][^c15332081][^c15332091][^c-7c111eb3f2e076506b30a123743c1474][^c-ca338843879e60dd57e1a5b64ad5d8f1][^c-72530f88347db8ba29d740b08f9430e5][^c-16e71fa8a5fa088f99e46e5edbca0a6f][^c-2a3b073eb10067ca529a772b479ee1af][^c-dcf76ef168e993053305570762a1b4e7][^c-e50d9bd430c674266d8659da4bd82d42][^c-dfe6ad8ad27a40e32726885db4ce2306][^c-183ed89c33db752ba272a6aed439a2e5][^c-5a7dfd70351dfbfdbdd8cfe3b84e8ab9][^c-019277ef3acb1e8e423611108a8fc1de][^c15332031]
 

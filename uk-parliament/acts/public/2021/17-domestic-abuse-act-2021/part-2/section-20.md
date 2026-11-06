@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 20. Duty to report on domestic abuse services in England[^c-c224dcc92d3ab8220133b686f58b468f]
 

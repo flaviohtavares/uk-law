@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 135. Appointment and powers of provisional liquidator.[^c15572881][^c-11790740d08f615c8004d1e9f9faedec][^M_C_8a62c1e6-d56f-4dca-c6e1-4091d53f0a1e][^M_C_5e4e0f6e-22d8-4635-c876-ca241d9c384e][^c-731fbabef2948341295c058d750ae0c9][^c-5ed24ba9fe795edfb1a99e72a515ed7c]
 

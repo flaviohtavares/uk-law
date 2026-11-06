@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/8-9/62
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 32Y. Power to appoint interim manager[^c-1a1bd2423d110cbbd69f2267d9e8d2ac]
 

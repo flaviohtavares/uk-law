@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2018-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. The qualifications standards objective[^c-bb2dd77af349cf5a1e3827f4c31a54da]
 

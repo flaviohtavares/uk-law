@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 9A. Commencement of operation of an unconnected multiple employer scheme[^c-b3b3efb2de608d10967abe27529c7bad]
 

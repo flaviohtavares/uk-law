@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2017/737
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 71. Enforcement action in respect of formal non-compliance[^M_E_s2szo775-r8x5-vnt1-rcu3-65ba2ff826b23][^c-42e6f70880c4dbb465b5a67c0f2d5f07]
 

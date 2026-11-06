@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 36. Extension of regulation of employment businesses[^c-55e7319f559634ad9cf9efb923f5511b][^c-5c2fe30ec84cc8cbdf60a7b6a52772f3]
 

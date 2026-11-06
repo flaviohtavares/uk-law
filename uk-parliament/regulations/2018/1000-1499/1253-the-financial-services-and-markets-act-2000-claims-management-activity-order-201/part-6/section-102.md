@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 102. Damages-Based Agreements Regulations 2013[^c-bafef334a8348927e9306c39da386ef9][^c-f3e1468b3ea1bcfefb0cdd836e7ace19]
 

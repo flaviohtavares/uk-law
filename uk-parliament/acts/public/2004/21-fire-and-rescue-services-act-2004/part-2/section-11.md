@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 11. Power to respond to other eventualities[^c-90ac98a95e441cb73af74056bc44723d][^c-d8eac4ce91a997d76674d97d49850fce]
 

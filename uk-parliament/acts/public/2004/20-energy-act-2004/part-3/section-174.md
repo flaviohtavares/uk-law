@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-09-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 174. Procedure on appeals[^c-a2dc522ddedd0b47f9c6d7b98d9ca6e1][^c-e3fbf9874d0e06ac672993772902d700]
 

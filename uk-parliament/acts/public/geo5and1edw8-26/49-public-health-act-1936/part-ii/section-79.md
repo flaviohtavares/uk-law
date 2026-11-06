@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 79. \[Power to require removal of noxious matter by occupier of premises in urban district.[^c-305f389a2f6a38878e74b184cf391969][^c-c7ef330912e4c76f8e1cd5f859cdf1aa][^c-ec4d0036aafe7c4596ccce2ce6ac59ed][^c611486][^c611487]
 

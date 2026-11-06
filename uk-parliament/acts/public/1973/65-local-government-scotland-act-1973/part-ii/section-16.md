@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2025-08-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/65
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 16. Wards and councillors: substantive changes in electoral arrangements[^c9668431][^c-41745bdbd640231c3795cf8056cf556b]
 

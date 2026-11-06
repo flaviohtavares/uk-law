@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 78. Offences committed by bodies corporate[^c-ee9bd3379812c7220e1b6453b21a6790][^c-87c1b521cc20624575820f213d1a5adb]
 

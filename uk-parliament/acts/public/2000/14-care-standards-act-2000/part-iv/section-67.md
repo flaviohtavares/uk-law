@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 67. Functions of the Secretary of State.[^c12426781][^c-f0ad3e766bdd8964a4fa184320d46bb2]
 

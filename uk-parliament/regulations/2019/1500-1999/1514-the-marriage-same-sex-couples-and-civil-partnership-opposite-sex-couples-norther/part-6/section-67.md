@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 67. Social Security Administration (Northern Ireland) Act 1992[^c-d7edb0eff89e1ff3388966a7032c5ae3]
 

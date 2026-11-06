@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 79. Agreement between designated bodies[^c-e1d8c9d3294bcac6b9d4d00b9d8bfb87]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (110).** Text as at 2022-03-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 40B. Disqualification from driving: further provision.[^c-c779506ccb6ccf15fb4e7f23593d74aa][^c-68a18969a3b678c92d1411a1399e8423][^c-b16590882010847ab9dc2de7d4fffe5a][^c-d57b31328b392f5060b65f354303357f]
 

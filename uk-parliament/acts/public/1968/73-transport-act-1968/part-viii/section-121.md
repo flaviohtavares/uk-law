@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2024-05-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1968/73
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 121. Application of foregoing sections to other undertakers.[^c-46b4cd39b8658a2d72c8b4709d98d675][^c-1f1a0c8155be7bd76ae65a2c69e0616d][^c15333241]
 

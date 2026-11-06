@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32. Integrated care system: further amendments[^c-98a03deb96fc59bfdd007536825baa12][^c-ea9391bca88a2979e17f297b1dd10bcc]
 

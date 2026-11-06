@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (145).** Text as at 2026-06-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Wales.
 
 ## 98. Other consequences of operating unlicensed houses: restriction on terminating tenancies (affected by repeal, see note) (England) (affected by repeal, see note)[^c2051419][^c-4063d6038ae56a9f4ba9237a25fcaca0][^c-4063d6038ae56a9f4ba9237a25fcaca0][^c-5d1e9d2ca2bc734a2986f1aeb3cca137][^c-4063d6038ae56a9f4ba9237a25fcaca0]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 3. Environmental targets: species abundance[^c-bc294f50ec1a8f46487fab1f9e6c1733][^c-1461a1ff3fb9bf35d0c1653cef7eedcf]
 

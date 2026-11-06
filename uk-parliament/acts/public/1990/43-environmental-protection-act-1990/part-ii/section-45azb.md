@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (25).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 45AZB. England: separate collection of industrial or commercial waste[^c-ab02504b7ec858c3d32e2069696dd4d5][^c-65e096c33fb125569d9a349764033f3f][^c-ced4cac4bbbfe51e18de48b7cf58746f]
 

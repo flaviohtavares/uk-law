@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 70. Record of exercise of functions[^c-0c5c790a204f5ee88c430e4f4ce1282a][^c-a78127ca960ac5689a8e42fcd64027aa]
 

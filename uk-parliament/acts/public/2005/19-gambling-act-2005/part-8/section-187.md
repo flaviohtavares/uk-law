@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 187. Application to vary licence[^c-e14deb56d70e70b52c84cca82f9fc1af][^c-1b3fe8611b8ec3d7a4d4d90e9336ccbb]
 

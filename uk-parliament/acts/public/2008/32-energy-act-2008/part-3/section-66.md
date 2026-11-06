@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 66. Disposal of hazardous material[^c-4ea564fa65a5a8f03029e25edd4803ca]
 

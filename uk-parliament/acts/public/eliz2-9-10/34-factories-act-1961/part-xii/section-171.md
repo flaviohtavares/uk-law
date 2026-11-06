@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2016-07-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 171. Application of the Arbitration (Scotland) Act 2010 or (Extent: S) the Arbitration Act 1996.[^c14254461][^M_F_1be30dd5-e601-49df-daac-f4c5ef956e38]
 

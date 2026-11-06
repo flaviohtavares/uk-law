@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 224. Heat networks: enforcement in Scotland[^c-ab13ca64dd3813d867e48d41c2c33b9b]
 

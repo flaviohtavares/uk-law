@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 6. Amendment of the Consumer Protection Act 1987[^c-04a76689234bda2013ae0f1179d29c4c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8. Duties to collaborate and plan to prevent and reduce serious violence[^c-75d6e273a367093d70f0567be8c266c4][^c-95ea32b06e827c49fc37ad7d418ec7a2]
 

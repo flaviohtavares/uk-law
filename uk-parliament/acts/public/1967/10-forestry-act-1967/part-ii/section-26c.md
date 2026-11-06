@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1967/10
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 26C. Further provision about appeals brought under sections 26A and 26B[^c-81da9313d1d888aebab7820dd26e51c2]
 

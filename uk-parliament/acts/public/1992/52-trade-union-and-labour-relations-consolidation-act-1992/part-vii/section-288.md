@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (156).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 288. Restriction on contracting out.[^c-dc2fe7f371c873664d92008c2e7da1f8]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 41. Independent special schools and special post-16 institutions: approval[^c-275da1ebfc78f6ffd7a801139c125d31][^c-a551487db05acabbda3dc420f9c655a7]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (27).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/34
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 2A. Power to amend implied terms[^c-52b128dd19d1f5c6dc49bb5ab9df032b]
 

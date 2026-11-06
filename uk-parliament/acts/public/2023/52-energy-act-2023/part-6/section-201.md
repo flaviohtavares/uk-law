@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 201. Minor and consequential amendments[^c-6f3d074a5a137b7f9efb03efdcc3eb02][^c-da587ba7d9c670241cc91ba74def831a]
 

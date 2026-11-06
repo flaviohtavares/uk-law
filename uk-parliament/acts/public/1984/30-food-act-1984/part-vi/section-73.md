@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-18.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 73. Meaning of “authorised officer”.[^M_F_a26daad5-44d0-4b95-99f0-30244a6664aa]
 

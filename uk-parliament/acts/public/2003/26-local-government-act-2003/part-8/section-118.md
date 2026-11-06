@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 118. Appropriate sum under section 137(4) of the Local Government Act 1972[^c-04ec14ed5a193392f165ddaa7dca444d][^c-a8fbf325201696c472988a84d0ba5974]
 

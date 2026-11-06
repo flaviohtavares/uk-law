@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 91A. Grant of smart meter communication licences[^c-32dbce6b1239a828f41b8468692938df]
 

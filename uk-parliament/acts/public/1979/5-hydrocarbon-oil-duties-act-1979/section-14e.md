@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2024-02-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1979/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 14E. Rebated heavy oil and bioblend: private pleasure craft[^M_E_f6641c44-7d99-426e-b14f-ab3ec5ce559f][^M_C_f0b7a083-1699-46b5-d290-e91454a4a055][^c-9e4c7a0b2a64c433044f2b7817f9559a]
 

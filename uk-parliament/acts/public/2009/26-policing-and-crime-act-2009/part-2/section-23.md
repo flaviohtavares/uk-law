@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 23. Foreign travel orders: grounds[^c-94d587114e1d4a43f21fa4b740b7a75d]
 

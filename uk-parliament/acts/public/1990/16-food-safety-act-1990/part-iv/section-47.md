@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 47. Remuneration of tribunal chairmen.[^c-49bf7baac7c71177e221e7634ff01eb5][^c-4ee4d4209744bb7dd9df8469c3a603da]
 

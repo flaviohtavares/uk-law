@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 83. Provision by local authorities of information for Secretary of State.[^c2458851][^c2458861]
 

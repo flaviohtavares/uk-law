@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 49. Persons detained in youth accommodation: application of provisions[^c-1b85e6867594a7bf7c01e93cb59435c2][^c-43706cb19132b5f06cfd28981a07f0c3]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (46).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## SCHEDULE 1 (affected by repeal, see note) — Independent Safeguarding Authority (affected by repeal, see note)[^c-eb5f8c2cad58435eebb980735a623e57][^c-0b567df0dd8b4b3fe57727c0617eadfb][^c-eb5f8c2cad58435eebb980735a623e57]
 

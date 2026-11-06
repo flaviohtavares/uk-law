@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7. Invitation for proposals for establishment of new schools[^c-e945aa28bdb0135a4aa782d9f1849f30][^c-a3863ce929312e0aae8523fb7e75ee71][^c-ef471642da4e6e475dc4f9420b53a860]
 

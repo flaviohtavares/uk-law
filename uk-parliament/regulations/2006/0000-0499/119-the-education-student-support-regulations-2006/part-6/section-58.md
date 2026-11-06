@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 58. Type 1 and type 2 teacher training students[^c-cffd2a59a6d9484badaf029d5fc2160a]
 

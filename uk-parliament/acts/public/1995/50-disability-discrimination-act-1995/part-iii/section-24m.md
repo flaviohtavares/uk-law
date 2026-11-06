@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-01-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 24M. Premises provisions do not apply where other provisions operate[^c22791341][^c20492261]
 

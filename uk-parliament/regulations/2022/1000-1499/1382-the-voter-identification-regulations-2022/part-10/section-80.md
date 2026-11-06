@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 80. Amendment of regulation 33 (daily verification and storage)[^c-0c4875662898961469154cc338b36c8e]
 

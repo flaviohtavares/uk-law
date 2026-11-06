@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (398).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 123. Transfers to and from special hospitals.[^c-f06b1e20a83f88c78b8857fd8803ee75]
 

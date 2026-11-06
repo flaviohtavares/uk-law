@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2024-11-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 67. Flying of flags at court-houses[^c-0d52fb1ca2c419d534273b84237e7b44]
 

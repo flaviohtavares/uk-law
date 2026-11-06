@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 11. Welfare of the child: parental involvement[^c-51514e48d9f06884f427a4efc92d6be3][^c-70002cb2aab35bc3372ba1fc202607bb]
 

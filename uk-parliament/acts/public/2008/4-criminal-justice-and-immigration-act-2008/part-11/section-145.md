@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 145. Amendments to armed forces legislation[^c-4146fd11edb49c5a51c0cd6e3ffbe6e8][^c-5d497c0c98287970ea78e9d38b468a98]
 

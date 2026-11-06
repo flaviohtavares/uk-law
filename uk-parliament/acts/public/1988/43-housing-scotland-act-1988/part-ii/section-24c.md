@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/43
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 24C. First-tier Tribunal’s power to set rent subject to permitted rate[^M_F_4b64ffa5-4699-4609-db19-835390dd1c60]
 

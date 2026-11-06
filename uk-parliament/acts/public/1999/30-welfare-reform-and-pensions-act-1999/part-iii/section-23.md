@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 23. Supply of pension information in connection with divorce etc.[^c1314245][^c-e118bad8b3a96d138d6d60a9582bebd9]
 

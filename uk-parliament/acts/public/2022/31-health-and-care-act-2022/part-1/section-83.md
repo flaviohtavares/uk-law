@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 83. Mergers of providers: removal of CMA powers[^c-e41dc6bdf8af72816844490e1d8fd219][^c-b5ae2dde9921d8340a6d7f8d2dbf25f7]
 

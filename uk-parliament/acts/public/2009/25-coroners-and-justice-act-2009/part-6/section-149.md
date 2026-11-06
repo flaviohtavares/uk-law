@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 149. Community Legal Service: pilot schemes[^c-2db64951870759aadeb2125837426eff]
 

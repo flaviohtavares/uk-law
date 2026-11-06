@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (54).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 63. Functions of local councils with respect to passenger transport in areas other than integrated transport areas and passenger transport areas.[^c19461971][^c10879451][^c-238cc303816178e94d7c7ed8e386e8f3][^c-27890099608df53aa49f7782fbd18013][^c-b2e6a4fe54c55e8e84f3ef5e57545402][^c-f7cb7401375d046bfb1cdac230c12766][^c-5c3cbe83df77be65ee04723b5498c8a6][^c-c6edd90035e0cfb0818fb14b04b95e9e][^c-27890099608df53aa49f7782fbd18013][^c-cfffa1ad9ebf163897c0f2ef54d2ef41]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-12-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/29
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 2. “Risk”[^c-309a6991cfa98be5ddab21aa2f5b5e59][^c-06e4c882815e7ce97f91631bb6d47703][^c-522e21a73ecae077384a6171cd0ebc90]
 

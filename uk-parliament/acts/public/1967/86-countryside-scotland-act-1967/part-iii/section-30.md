@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2019-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1967/86
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 30. Creation of public paths by agreement.[^c-19f750f0ddb6dccef606360c54a0ac8b]
 

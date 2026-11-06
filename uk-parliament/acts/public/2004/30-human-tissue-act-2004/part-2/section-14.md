@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 14. Remit[^c-fa7bf8f8e6b94db458fd0a42143e704f]
 

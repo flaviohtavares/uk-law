@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 222. Notifying HCA etc[^c-f38383a201e35b1010a9922465392457][^c-b3e46886ad0905a5fa74638e7f72132d]
 

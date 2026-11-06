@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-01-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 7C. Advocates: discrimination and harassment[^c20668761]
 

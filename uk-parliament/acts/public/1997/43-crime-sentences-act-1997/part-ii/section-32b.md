@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2026-06-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32B. Re-entry into United Kingdom of offender removed from prison[^c-57ec11412a6cf5de79ce1756544890c4]
 

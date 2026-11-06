@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 148. Fees for services provided for energy resilience purposes[^c-a3c9b1f4488ce177aba9e0d24d7bbe34]
 

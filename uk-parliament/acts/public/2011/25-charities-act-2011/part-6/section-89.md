@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 89. Publicity for orders relating to trustees or other individuals[^c-eeb395eb12bf002fc5b74e41861f5e49]
 

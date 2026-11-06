@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 43A. Railway safety levy[^c-0fe72d9a6077d9cfd7b83aac041509d3][^c18921731][^c20460741][^c20459621][^c18585281]
 

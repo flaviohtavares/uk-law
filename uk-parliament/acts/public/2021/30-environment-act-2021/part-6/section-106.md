@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 106. Content of local nature recovery strategies[^c-9b9e4af0c80b0661c19991a1dbe4409b][^c-3ad45e12b149c5601e396dbddd2646c1]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 19C. Exceptions or further exceptions from section 19B for judicial and legislative acts etc.[^c12454681]
 

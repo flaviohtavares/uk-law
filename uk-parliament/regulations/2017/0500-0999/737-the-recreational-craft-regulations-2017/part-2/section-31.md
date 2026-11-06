@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2017/737
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 31. Duty to take action in respect of watercraft placed on the market which is considered not to be in conformity[^c-747d83a53f0c172c47ed7a6a7dfbe983][^M_E_1cefc848-04bf-4093-d902-32cbeea7f8da]
 

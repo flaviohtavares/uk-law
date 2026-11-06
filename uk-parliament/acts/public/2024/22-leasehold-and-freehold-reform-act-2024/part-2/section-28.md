@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28. Removal of restrictions on repeated enfranchisement and extension claims[^c-0f8419272956f29fb03173312054bd19]
 

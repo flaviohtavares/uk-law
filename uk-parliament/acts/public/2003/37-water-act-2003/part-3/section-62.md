@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2022-01-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 62. Water resources management plans[^c-f2572354f22ba5111a94a3b5a1a5a6c2][^c-6f9054e6bf767f1ed0ebfa25bd6df505][^c-1927540dfb4acaa982669007997bc8d6][^c-464785ad1c674ca3a54d4937d4e79694]
 

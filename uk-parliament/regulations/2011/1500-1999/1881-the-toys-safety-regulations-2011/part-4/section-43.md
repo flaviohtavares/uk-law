@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2011/1881
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 43. Performance of Type examinations[^M_E_aea8d559-9c60-415f-b18b-b31d1148f80f][^c-5019dfc15eb9c89d30178e9354f84ab5]
 

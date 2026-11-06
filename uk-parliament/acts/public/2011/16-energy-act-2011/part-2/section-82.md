@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 82. Acquisition of rights to use upstream petroleum infrastructure[^c-4eb7433da207439008a43d1a128043b0][^c-e25467f9f1e60484588d95be34c20b1c]
 

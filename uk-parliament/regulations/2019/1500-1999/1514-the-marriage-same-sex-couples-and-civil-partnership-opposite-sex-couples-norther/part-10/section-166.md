@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 166. Assembly Members (Independent Financial Review and Standards) Act (Northern Ireland) 2011[^c-6afe6162d733f8b9e225846dd3fc0b0a]
 

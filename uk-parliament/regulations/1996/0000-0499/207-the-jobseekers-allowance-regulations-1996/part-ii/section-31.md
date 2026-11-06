@@ -13,6 +13,8 @@ summary: ''
 # The Jobseeker’s Allowance Regulations 1996, section 31
 
 > Text as at 2026-04-06.
+>
+> Extent: England, Wales, Scotland.
 
 ## 31. Contents of Jobseeker’s Agreement
 

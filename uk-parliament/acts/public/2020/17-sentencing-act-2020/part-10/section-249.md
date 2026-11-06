@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 249. Sentence of detention under section 250: availability[^c-bedfc6da0134a29ae285d7f953d2dc34][^c-5ea577179a41689bc10143a3dc691a1c]
 

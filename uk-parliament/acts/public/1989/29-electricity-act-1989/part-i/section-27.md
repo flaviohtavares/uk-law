@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (62).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 27. Validity and effect of orders.[^c-e1bce7f0e8d798e8ae3816cb161b62bb][^c-540afd65dd3edb45e923d55035bb73cc][^c-9a72de45f432c034cb1c767380f08562][^c-31495bd4070a0cbdaa07485ef1b81c6f]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 376. Evidence overseas[^c-0a0eadc9ac0ba477f23b504c3c5e5341][^c-97cc567c1fe5b813c226e0966f74b70d]
 

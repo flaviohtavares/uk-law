@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-11-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/28
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## SCHEDULE 6 — Provisions as to applications for, variation, revocation and transfer of licences under Part II[^c-21a7a1961d197ae1a65e1bf3c256f64d]
 

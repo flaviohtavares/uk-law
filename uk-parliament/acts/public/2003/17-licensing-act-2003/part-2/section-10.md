@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/17
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Sub-delegation of functions by licensing committee etc.[^c20992751][^c20993691][^c-4fac201db0143540d6299237a2923d12]
 

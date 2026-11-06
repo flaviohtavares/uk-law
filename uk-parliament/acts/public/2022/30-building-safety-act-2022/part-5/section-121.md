@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 121. Associated persons[^c-a9a4022b770e50e5ec45b955cc68f917][^M_C_8924f3b6-172e-48b4-ccd7-0244deb74eb5]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2021-07-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16. Designation of alcohol disorder zones[^c-2abb5bdef03372c9a3b0490b817837b4][^c-987c0407caae165331d2a0517fb3b994]
 

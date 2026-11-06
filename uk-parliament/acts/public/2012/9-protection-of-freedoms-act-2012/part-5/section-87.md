@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 87. Formation and constitution of DBS[^M_C_39f802de-b288-483b-961e-de5b83b224de][^c-0b1d8e3e18daeae7f9e4dccc16b0b4ab][^c-de7eec67c2cfa50a56c4db52f69197cc]
 

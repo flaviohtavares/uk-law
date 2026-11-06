@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 6. Amendment of the Investigatory Powers Act 2016[^c-b64fbe91173064ba5a199528b37e5ae9][^c-a079d789774534d6f4b26fef9578a72c]
 

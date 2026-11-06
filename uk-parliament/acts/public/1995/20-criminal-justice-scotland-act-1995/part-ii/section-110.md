@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 1997-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 110. Sequestration etc. of person holding realisable or forfeitable property.[^c1524010]
 

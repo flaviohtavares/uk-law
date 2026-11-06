@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Power to repeal section 4[^c-aa51f5269b4bca4a01502b597c4103ae][^c-31d9f273340b025a7714de65a4998cea][^c-40aa0a903e5d76a45e76202adb7c6270]
 

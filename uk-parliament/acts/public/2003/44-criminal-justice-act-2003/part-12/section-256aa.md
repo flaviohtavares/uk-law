@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 256AA. Supervision after end of sentence of prisoners serving less than 2 years[^c-8f15de60a778c12df927f097e84b5355][^c-9c31f233c791ff866b09ac9cf31ff91f]
 

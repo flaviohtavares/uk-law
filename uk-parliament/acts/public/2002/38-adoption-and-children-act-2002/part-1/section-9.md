@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. General power to regulate adoption etc. agencies[^c-1b44b0f7943621a8b2dc968aa2d984f1][^c-d4cb34889b222699722196aa9fd611ea]
 

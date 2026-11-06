@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-03-04.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 37. Cooperation between regulatory bodies[^c-627de566c1b72bb2188a90b115dc9851]
 

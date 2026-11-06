@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 257. Consideration of debtor's proposal by creditors[^c15576561][^c15576571][^c-b1ebdf812d9eb578af8d4a2a4ce19013]
 

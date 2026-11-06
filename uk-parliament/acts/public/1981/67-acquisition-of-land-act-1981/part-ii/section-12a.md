@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12A. Final day for making objections[^c-096f8b3b4963fb2bc16ad42ccb11f26d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 168. Regulation of health care and associated professions[^c-990b7c27b22a671e6f08eee162dfe6cb][^c-6773c4c0d9282019bde754c72799a171]
 

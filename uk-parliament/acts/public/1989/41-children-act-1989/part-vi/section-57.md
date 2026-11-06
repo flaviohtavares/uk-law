@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (96).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 57. Closure by local authority of controlled or assisted community home.[^c15166271]
 

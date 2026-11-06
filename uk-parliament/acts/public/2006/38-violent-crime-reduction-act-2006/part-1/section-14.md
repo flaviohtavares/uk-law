@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2021-07-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14. Interpretation of Chapter 1[^c-a2486e9ce1de0e676bcae2a074792166][^c-66601ffe791790822798aed612c67fa4][^c-b0ef95727b40653743c12568ef1d2061][^c-b2d1d0a13e10889df36eb0fcdd8dd514]
 

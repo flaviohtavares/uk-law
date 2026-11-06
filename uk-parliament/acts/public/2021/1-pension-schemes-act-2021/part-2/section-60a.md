@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 60A. Failure of unconnected multiple employer schemes to commence operation[^c-28b6c896de87f833466844ded3494551]
 

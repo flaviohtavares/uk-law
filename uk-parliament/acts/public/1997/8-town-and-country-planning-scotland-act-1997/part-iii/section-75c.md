@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 75C. Planning obligations: continuing liability of former owner etc.[^c-114074d905ef50aaabe4913fb9374176][^c-722cd2d08ef363f4e3b306d8ec45fe10][^c-b9fa23b987c74005fa9764e9f8ae9a4a]
 

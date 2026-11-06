@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 92. Interpretation of sections 80 to 91 etc.[^c-8da05c3c20f79fb0ead341048044cdb3]
 

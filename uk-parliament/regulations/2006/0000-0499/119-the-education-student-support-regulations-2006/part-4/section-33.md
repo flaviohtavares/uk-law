@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Bursary year, ordinary duration, preliminary course, qualifying year of study and standard academic year[^c-cffd2a59a6d9484badaf029d5fc2160a]
 

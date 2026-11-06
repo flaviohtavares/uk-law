@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 77. Occupation: registration requirement[^c-20d980140e61626fda6fc45828f41066][^c-1b1a7ef2cd82a9364ac38b793cf75462]
 

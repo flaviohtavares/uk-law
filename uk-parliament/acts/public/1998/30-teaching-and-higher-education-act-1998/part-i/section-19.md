@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (29).** Text as at 2026-05-12. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19. Requirement to serve induction period.[^c-b8ea649311e065ceb9bc7120372248aa]
 

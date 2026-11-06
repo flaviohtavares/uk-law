@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (173).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19. Codes of audit practice and guidance[^c-c59b4b6957fae66a8228b49fbed2ae73][^c-fd8563b3a731bfb8085a7df52cf88106][^c-13dd95f5ce18ac1a29a858788ac04761]
 

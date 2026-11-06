@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 16. Provision in relation to the proceeds of crime as respects Scotland[^c-7973195aa53db5437f77bcf0457944ee]
 

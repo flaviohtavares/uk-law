@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 351. Variation , renewal or discharge of sexual harm prevention order by court in Northern Ireland[^c-fab940b33a4f8014b68d6c69ac5e07f3][^c-af8ea3d83fc3afcbd9575977472fb5e8]
 

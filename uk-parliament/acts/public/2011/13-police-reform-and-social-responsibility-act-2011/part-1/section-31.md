@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31. Conduct[^c-c4b69b7657593271f526e48478678e23][^c-4b6a032fcff53a4423f4614e843da34b][^c-df436a67286eb7a451ae4ca006de11bc]
 

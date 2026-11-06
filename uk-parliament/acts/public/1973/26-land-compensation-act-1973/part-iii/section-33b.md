@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33B. Occupier’s loss payment: agricultural land[^c-0384da3f8085864c02695b027d164d44]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 1. The Infrastructure Planning Commission[^c-b15ea632e408700b41011d8206720aa7]
 

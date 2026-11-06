@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2021-07-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27. Directions to individuals who represent a risk of disorder[^c-e11de2718067c4059e0cf22c26e45285][^c-f59e3390ae63ba750266f12dddef6a92]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland.
 
 ## 34B. Further use of the UK marking[^c-b2fc3d860d323480c7fd40c7fdb70a00]
 

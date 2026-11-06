@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 32. Powers under section 30: supplemental[^c-34602cb574ff4a834015aab7ed76477e]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (37).** Text as at 2026-06-17. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/64
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 59. Other borrowing powers of development corporations ....[^c-1b87033fbf974b255fd927681aab9dc6][^c-b5eb89a91f8f28ae4dd7f9eaa49705f6]
 

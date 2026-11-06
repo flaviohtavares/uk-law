@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 47. Service of documents.[^c-8e520fdb2838150050dc54afe658a417]
 

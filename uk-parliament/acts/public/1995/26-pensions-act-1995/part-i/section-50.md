@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 50. Requirement for dispute resolution arrangements[^M_C_a6960c76-9fc8-40a2-91d3-ac82d1f77e4c][^M_C_31a041ed-e97f-400c-aa45-f57ebb8b6f67][^c-1678681f49718aad2bee2942368c0137]
 

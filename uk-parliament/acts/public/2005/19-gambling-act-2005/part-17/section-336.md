@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 336. Power of Gambling Commission to void bet[^c-40038654d42b99b9b1a9ca4fba055e2e][^c-2ef50544269cb1766b7b626e34f696d8]
 

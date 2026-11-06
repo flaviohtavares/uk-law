@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 1 — Children’s Panels[^c-4d3ec290d0f2a0aba914dca73fdfb8d3]
 

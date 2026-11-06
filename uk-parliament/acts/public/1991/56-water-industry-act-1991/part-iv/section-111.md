@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 111. Restrictions on use of public sewers.[^c13219611][^c-7d52e1cac9184ef2e2f7e374d670ef98][^c-3afca36206b41b1508c98a2b9a8e5e25]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 41. Arrangements with respect to business improvement districts[^c-b19233e8acf2de19493b50ebd7066c43][^c-9cda8dbba449776afac896ce94d65391][^c-11b6cbcd620d790f55166dbc69e415ab]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 40. Restriction on export of horses.[^c-22893f74ef936b48202c6f36b3fb7b46]
 

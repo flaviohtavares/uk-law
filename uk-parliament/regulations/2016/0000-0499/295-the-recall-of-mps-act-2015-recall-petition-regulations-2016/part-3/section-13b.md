@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 13B. Supply of date of birth lists to police forces and restrictions on use[^c-9fd4ae04e50a57e48e2a32ca8f7469d9]
 

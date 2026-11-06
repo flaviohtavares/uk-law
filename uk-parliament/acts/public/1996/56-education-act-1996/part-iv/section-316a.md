@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 316A. Education otherwise than in mainstream schools (affected by repeal, see note)[^c15246611][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-c6bce8363a273a6c90e0a466c0377fd3][^c-a26091f02a6f098b8797ebca0f491930][^c-44c659fdf3ae27bfa95ab072d6157d41]
 

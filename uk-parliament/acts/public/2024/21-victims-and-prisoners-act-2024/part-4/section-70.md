@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 70. Section 3 of the Human Rights Act 1998: fixed-term prisoners[^c-713c6ac9b72b5012314e016ad2a19c5c]
 

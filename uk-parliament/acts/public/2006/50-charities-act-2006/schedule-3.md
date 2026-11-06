@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-02-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 3 — The Charity Tribunal[^c-bb00ab0a6730fddb3eeca12df3624911]
 

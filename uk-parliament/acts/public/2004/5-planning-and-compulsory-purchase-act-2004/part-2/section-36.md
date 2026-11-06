@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 36. Regulations (affected by repeal, see note) and standards (affected by repeal, see note)[^c-bde52b63d5397f71cfc505cad18c30c7][^c-f10658cdfa54c6b4e439a8e1dd57742f][^c-66b206efe3e504a200801217f5a84a3a][^c-66b206efe3e504a200801217f5a84a3a][^c-b09e1c4951261befc8aceb61ca3114c5][^c-66b206efe3e504a200801217f5a84a3a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 21. Harassment by third parties[^c-f6b4e74c53043b3dd96bd2c4e96ea5c0][^c-71669d3724e61a96b3d58af377fe48f3]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 24ZH. Power of Certification Officer to require production of documents etc[^c-a299d3cfcfb3b363df58268cdfc36553]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19. Representation, advice and monitoring[^c-9d3ecc9523cacaafb2ebb6555303d3eb][^c-557a2dffd56070dc7847f172d7493f26]
 

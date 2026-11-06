@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 1. Secretary of State’s duty as to health service.[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32C. Surrender of recognition[^c-8b1f1ba3fac04efdbdb334dcdbb003a7][^c-4557f09a3d0246e2f33104fa32b9d63a]
 

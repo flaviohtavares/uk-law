@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-10-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 68. Custody of lost property on London Board’s transport system.[^c16888901]
 

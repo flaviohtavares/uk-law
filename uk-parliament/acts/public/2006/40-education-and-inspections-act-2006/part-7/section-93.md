@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 93. Power of members of staff to use force[^c-6eb622ee46c483eaeff3110e3442ac17][^c-05c7893119571de6ad8a9ba9fea76097]
 

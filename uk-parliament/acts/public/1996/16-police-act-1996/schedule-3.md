@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 3 — Police authorities: selection of independent members[^c-6fbf928809f16f2617eade97bee52dfe]
 

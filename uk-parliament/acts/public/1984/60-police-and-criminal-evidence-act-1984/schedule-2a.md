@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 2A — Fingerprinting , samples and photographs: power to require attendance at police station[^c-a55ccb60bee01bd1db57610c035ae6de][^c-013216065fbc79e8c79b0d3399927f0b]
 

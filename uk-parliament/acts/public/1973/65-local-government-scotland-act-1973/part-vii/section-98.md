@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2025-08-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/65
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 98. Expenses and accounts of Commission.[^c9676591][^c-8d9d8ed73a454973c3145f4094b55f8e]
 

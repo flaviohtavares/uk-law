@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-18.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 90. Movement of imported food.[^M_F_0eddc2aa-040d-43b4-9e4d-c75794c7aa42]
 

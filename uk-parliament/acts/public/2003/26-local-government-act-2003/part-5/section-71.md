@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 71. Adjustments for hardship relief[^c-28b2c1cb75c17dce63878bf4180b0b9c][^c-53f0afdb199dcc90bd117281ca550b83]
 

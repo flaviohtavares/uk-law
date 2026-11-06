@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36. Further provision about requirements that may be imposed by orders[^c-1705e9ff0696c88b4d46111cee78dd1e][^c-836b49e86f63b9e6b41f7a6f86341029][^c-8a7d71490391c6cd0fa74fbd72201d7b][^c-b5a5ff5e52c4bf316489d3bf45610de8]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (192).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 116ZA. Local authority powers to prosecute housing benefit and council tax benefit fraud[^c-73acaaf1082cefce599f21b31501c2f1]
 

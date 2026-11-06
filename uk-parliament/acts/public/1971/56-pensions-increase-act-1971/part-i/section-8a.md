@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-29.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 8A. Section 8(2): references to “service”[^c-73de86d81408c417e19eec3b91234575]
 

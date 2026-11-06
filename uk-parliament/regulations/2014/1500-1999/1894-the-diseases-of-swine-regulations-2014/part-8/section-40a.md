@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-29.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 40A. Disapplication of measures in England to those executing these Regulations[^c-54eb4f643f3a3c388a9ea4b7cc5876ea]
 

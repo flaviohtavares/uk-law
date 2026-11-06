@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 70. Superintendent registrars and registrars[^c-bcf369ac79f2a0eb25aa885be8e06125]
 

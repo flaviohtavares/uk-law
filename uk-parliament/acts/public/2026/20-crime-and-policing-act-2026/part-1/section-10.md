@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 10. Fly-tipping: penalty points on driving record[^c-4c4862df434005be55c402b87a7e4f16]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (96).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 17ZA. Young carers' needs assessments ...[^c-fe3054c1f690a71d82cbb478d58fc76e][^c-32bb84dd661bda9f54bdf13556c1b77e]
 

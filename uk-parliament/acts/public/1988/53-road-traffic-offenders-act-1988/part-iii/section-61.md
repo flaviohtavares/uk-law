@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (91).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/53
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 61. Fixed penalty notice mistakenly given to licence holder: exclusion of fixed penalty procedures.[^c-d539df3b1de11a5ecc1da07058f1c5cf][^c-933bf96f137432831d5a33e69a4ebf35]
 

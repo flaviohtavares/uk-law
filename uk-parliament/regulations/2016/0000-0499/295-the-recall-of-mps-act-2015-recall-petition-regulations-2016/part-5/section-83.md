@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 83. Form of postal petition statement: England and Wales and Scotland[^c-b41c2e43f82f1140ba21c9b848d3933b]
 

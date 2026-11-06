@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19. Local authority scrutiny of crime and disorder matters[^c-ea3ad7b0e83331812bcd5dd943623017][^c-19379bcb6ca05ec8a33a10e6a5afb9d4]
 

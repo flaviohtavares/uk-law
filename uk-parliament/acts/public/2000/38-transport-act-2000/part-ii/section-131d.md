@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 131D. Continuation of schemes for areas in Wales: procedure[^c-c05adb8597f2acc398b3fefbd54794ff][^c-9f173a08a64b76e783b2f04b9e90c722]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 54. Studies as to economy, efficiency etc.[^c-e9e3ba1fb2ce508ee12ceb021b7ce536][^c-f5a197aeb3b1f528357ca7117a7c7fa0][^c-f6c06f2e4b73af6f455e4c646f0ccbd5][^c-f6c06f2e4b73af6f455e4c646f0ccbd5]
 

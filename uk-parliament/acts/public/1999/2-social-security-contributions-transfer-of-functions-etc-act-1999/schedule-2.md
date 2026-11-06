@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-08.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 2 — Transfer of functions under subordinate legislation[^c11212081]
 

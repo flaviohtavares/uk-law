@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. Highways and traffic functions: regulations conferring power to give directions[^c-627c9da9aca501c7e5ec09ee8c5ed4aa][^c-4dd3e27c2931345f926d20be7d390b05]
 

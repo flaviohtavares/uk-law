@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 29. Register of interests[^c-cb3166471d8b89fc8f8c9f6c9915e04a][^c-34bf2638a33593b77efb02dc410c33e2][^c-be628288dac5cb92dbc808904a277d45]
 

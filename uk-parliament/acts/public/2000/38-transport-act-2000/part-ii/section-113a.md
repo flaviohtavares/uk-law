@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 113A. Modification of provisions about plans and strategies: Wales[^c-c05adb8597f2acc398b3fefbd54794ff][^c-3ddf59b5bd8c0495a125f69167cb9122][^c-63131c26ca98554bd7e4a82be39decdd][^c-38655cb458b97a6dd21ff07e03d03432][^c-4d6da790ee3fb92444037d40b72b3801][^c-ba53aa819dfa66b6ca6177e0cd938ee3]
 

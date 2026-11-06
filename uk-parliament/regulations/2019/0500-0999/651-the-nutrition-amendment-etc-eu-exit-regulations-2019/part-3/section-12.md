@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-08-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Amendment of the Food Supplements (England) Regulations 2003[^c-cde240641b932323ae84f2728b371b63]
 

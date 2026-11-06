@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 2 — Proposals for establishment or discontinuance of schools in England[^c-7f6ed121e5b58aca5ef52c0332adab4b][^c-295a8d9f6e266dffebb1288af04a2749][^c-b3f56f4525c33b8ef5ff724e172b2e80]
 

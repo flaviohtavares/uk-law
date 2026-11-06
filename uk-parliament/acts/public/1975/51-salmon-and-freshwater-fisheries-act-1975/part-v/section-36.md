@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-06-28.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 36. Provisions supplementary to sections 31 to 35.[^c10050301]
 

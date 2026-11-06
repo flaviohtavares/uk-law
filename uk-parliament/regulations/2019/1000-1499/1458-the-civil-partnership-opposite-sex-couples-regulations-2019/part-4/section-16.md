@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 16. Parental status of civil partners in cases of assisted reproduction[^c-1c4eebbcfa096e98638dc30d04406769]
 

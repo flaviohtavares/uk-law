@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2014-04-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 13. Consequential amendments[^c-0041b611a0ea5277d16978aec0a87480]
 

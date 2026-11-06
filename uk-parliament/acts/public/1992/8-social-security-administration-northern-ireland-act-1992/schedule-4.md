@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (186).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## SCHEDULE 4 — PERSONS EMPLOYED IN SOCIAL SECURITY ADMINISTRATION OR ADJUDICATION[^c14911161][^c-787c330b058360b73ee53c15d61db39f][^c-e8b9509145931cd5125a1035301fa8fd]
 

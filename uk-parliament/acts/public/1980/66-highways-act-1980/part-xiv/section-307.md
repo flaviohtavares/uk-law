@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 307. Disputes as to compensation which are to be determined by Upper Tribunal and related provisions.[^c18546331][^c-771af7c9603bcea0c74d11c1f9fa1a38][^c-688877a2ff87fc7efb8488c12e06e1e3][^c-d9a83bc8aa2c82ae0f7de991ffec1986][^c-4152364a220e911eae7bfefb6ca9f674][^c-8f40b3c8bd795b92338b73b0d69fbfa1][^c-6ddbf5bb35b57b80174015a99b0acbee][^c-cd034dcc61c425ac3939494435ddff96][^c-0060e0364b892b1ea758fff88c4c1912][^c-6ec1a88c6dec44efe27c5d5c2142f788][^c-1c98eb92dabb4c19e0b4fb8365293927][^c-01d9b0712e17e61cb137b8967845dde4][^c20488081]
 

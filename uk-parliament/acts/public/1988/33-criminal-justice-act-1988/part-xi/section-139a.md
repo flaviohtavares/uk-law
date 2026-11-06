@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (43).** Text as at 2026-07-08. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/33
 >
-> Extent: England, Wales.
+> Extent: England, Wales; Northern Ireland (the versions of this text differ in extent).
 
 ## 139A. Offence of having article with blade or point (or offensive weapon) on education premises.[^c20404481][^c-6f601ab0d6f9a18c81d2bb5bbd62c3a5][^c12795511][^c-0240288dda7c2448396249baeaa15629]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/29
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 146. Reporting failures to co-operate with an investigation to approved regulators[^c-4a71c48a06a8bf8f17d8ea830e9f5b5b]
 

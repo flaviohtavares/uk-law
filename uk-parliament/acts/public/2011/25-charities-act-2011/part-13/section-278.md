@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 278. S.275 resolution not to take effect or to take effect at a later date[^c-ed8b32464fe9310a30865bcb8ab0b7a1]
 

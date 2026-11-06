@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 136. Duty of responsible bodies to make annual return[^c-3dbe65a95d78e0b98076182849bd0a27][^c-ae1c8d0875ecdddbbec3afcbf39f69c5]
 

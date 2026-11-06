@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1979/46
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 26. Power of entry on land believed to contain an ancient monument.[^M_E_5d795349-3808-4de3-e5e1-ce6a749cf06b][^c250974][^c-d271d11427573a4b8c2801a9c97b1c63][^c-fc753355d3aab712815e8a23b42184c5][^c-f8c0898a67d2d757c7044475c1316aba]
 

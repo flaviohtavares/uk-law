@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 2. Closure order[^c-39dcad6266fc3cd3869a64219c50dcc5]
 

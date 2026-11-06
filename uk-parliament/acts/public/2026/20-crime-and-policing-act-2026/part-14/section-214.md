@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 214. Power to give directions to critical police undertakings[^c-18b30399bf18e02b5c87c9c63529fef5][^c-a9e75ef59c50de7f0db8e313054de78a]
 

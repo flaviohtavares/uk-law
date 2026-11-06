@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. Youth rehabilitation orders[^c-44f5a5e389ee28d0f60c267d9b10a58f]
 

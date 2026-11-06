@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Expenditure of NHS bodies[^c-59d942dcf8003b5551494b5b262fa75b]
 

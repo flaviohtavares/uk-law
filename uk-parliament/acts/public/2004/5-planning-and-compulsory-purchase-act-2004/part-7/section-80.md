@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 80. Special provision relating to national security[^c-5a5e0998504b2c99e4849f77eb02cba7][^c-7f2e7fcca50f0785d0df30ac082cecc9]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 17 — Exempt information relating to health services[^c-5b8a36469ef90115155b9290ab1fe2b9][^c-f8f5d371c064be68b1f5690e65db08ef]
 

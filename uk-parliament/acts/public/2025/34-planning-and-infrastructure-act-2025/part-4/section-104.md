@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 104. Exercise of transport functions and transfer schemes[^c-33881632bf34c432e8b5b351e246218b][^c-2473be82264d9f82532b1a455ba3f56c]
 

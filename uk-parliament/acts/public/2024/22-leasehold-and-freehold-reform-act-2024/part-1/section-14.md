@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14. Redress: application of the right to acquire[^c-e280a03dc4a528f8fef6d34d55b16d65]
 

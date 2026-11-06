@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 47ZDA. Applicable bail period: further extension of limit in standard cases[^c-4856523cf16254f9501bafd1a3ee1f63][^c-ec0018a506f9dcc41bb2b0680d97b6e2]
 

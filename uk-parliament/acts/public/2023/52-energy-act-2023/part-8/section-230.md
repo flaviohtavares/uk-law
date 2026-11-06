@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 230. Zoning methodology[^c-c86c99d60bab6fc24a6e373098b2eb2c]
 

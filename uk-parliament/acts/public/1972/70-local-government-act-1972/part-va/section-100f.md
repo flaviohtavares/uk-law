@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 100F. Additional rights of access to documents for members of principal councils.[^c19748571][^c15100341][^c15100331][^c15100081]
 

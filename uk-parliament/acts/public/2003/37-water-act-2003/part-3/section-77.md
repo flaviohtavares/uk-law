@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2022-01-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 77. Flood plans: large raised reservoirs[^c-7098a8973a75eeaf505f8e94e60c8a2a][^c-0288520ed0d9894955fceb404a6ae288]
 

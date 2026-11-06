@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 68. Proposals for establishment of federated school in Wales[^c-9c4cc1ec28c5bb08a5334304f40bfa52][^c19261921]
 

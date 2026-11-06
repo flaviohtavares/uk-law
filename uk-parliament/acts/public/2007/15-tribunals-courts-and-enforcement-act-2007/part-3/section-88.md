@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (31).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 88. Abolition of Crown preference[^c-6da009afe8a14fcc76c12fd7efa46f4b]
 

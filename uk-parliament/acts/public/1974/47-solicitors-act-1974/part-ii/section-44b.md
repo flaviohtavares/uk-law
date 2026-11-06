@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 44B. Provision of information and documents by solicitors etc[^c20568991][^c13349742][^c19662731][^c-d631ba8e6a8cacf0e699f906a99caaf9][^c19662661][^c13349721]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/50
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 58. Application of Housing Acts to certain transactions.[^c12869581]
 

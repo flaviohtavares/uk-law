@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. Repeal of provisions about petitions to local authorities[^c-15063f4ea42414ac6cbc9df85ae31229][^c-cac66c15a412089ad697588b48c063ff]
 

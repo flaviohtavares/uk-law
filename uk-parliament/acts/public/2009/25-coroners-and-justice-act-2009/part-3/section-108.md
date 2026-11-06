@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-03-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 108. Searches of persons answering to live link bail[^c-368dee1e40b69d9812ac1bec0508543c][^c-a04da4a46042aa9353da7bfe982416c4][^c-8e050ea7e12aed3fa3fc2bf91f82e099]
 

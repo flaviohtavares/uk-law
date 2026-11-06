@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 92. Exclusion of Part I in relation to small claims arbitration in the county court.
 

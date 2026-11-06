@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 65. Restrictions on use of statements[^c-18314014a47782e93728a6250283bc5d][^c-260f03b7c4296412e155d3c6fcd711f8][^c-a8faaf61725f45aa0284914e8dc2ea99]
 

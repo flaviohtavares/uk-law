@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/618
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 4K. Revocation of [Regulation (EU) No 722/2012](https://www.legislation.gov.uk/european/regulation/2012/0722) on 26th May 2025[^c-b931ca3748a30d5620ef4fe7bbe63b88][^c-71c76f52f3cab801a75b265a945fa2e0]
 

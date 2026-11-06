@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (403).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 119A. Enforcement of sections 118 and 119: imposition of penalties[^c-1f433d6dc0ae0e72ab382bd762499499]
 

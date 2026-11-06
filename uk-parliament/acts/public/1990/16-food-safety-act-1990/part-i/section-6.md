@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 6. Enforcement of Act.[^c10203011][^c-0f7f7f4f75a66bea4f1f11af3d9c94f4][^c-bb16e610b0c4917dede5a82b171c4b94]
 

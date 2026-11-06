@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 106. Right of appeal.[^c14470171][^c16055251][^c-c885f9a516f764f20c98b3dfb024cb2c][^c-98bf0a85d845907c24c8be88493aef84][^c-49bda2ba35bd1a07538f45ba16aa0af0]
 

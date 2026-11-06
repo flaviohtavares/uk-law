@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 94. Withdrawal of authorisation[^c-ce9b1aad7c6b8d8f23d0293baa538b9f]
 

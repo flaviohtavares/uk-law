@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2017-12-28.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 16. Works to be executed. Inclined planes, &c.Alteration of course of rivers, &cDrains, &c.Warehouses, &c.Alterations and repairs. General power. Proviso as to damages.[^c5588841][^c-2752a815e4983970208bbe918486ae47]
 

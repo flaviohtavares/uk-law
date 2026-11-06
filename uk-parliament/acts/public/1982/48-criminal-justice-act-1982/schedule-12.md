@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 12 — Community Service Orders—England and Wales[^c-e02310fce12d3acda0bfcf6f4578a3e2]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 53. Commencement of BID arrangements[^c-f70fdebbff3a5f0d76583010ac9cfd69][^c-87b3700fc04f9bfe465910e91e6343da][^c-1ee881b1eea6ea957ef4baf14d9bcc93]
 

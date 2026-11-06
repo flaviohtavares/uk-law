@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 44. Amendments to Bail Act 1976[^c-9a00058f9ab9d70c9afa089760c59e5c][^c-d66cfb3e84d353b4d98bd375b85cc6ee]
 

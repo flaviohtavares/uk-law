@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 257. Conditions for pension protection[^c-8b47767ea34835841278ac333de9d706][^c-9d6532bc52668a99934660cfcf2151a5][^c-37b00f998aed38022d9b4ff1fb276827][^c-f5b7fad9764c6ddb48e5a56f69ea19ad][^c-cbde8720eff353e69ffeead00ce525fa][^c-29929520645690ebed9f64f2e197d80e][^c-89c3dc888b92e598697acadfb60f2733]
 

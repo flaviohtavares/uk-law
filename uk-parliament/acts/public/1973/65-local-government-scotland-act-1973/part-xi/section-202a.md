@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2025-08-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/65
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 202A. Review of byelaws.[^c9684041][^c9684021][^c9684011][^c9684031]
 

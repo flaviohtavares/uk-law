@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. De-registration[^c-db7038bf94317bf4ef30850941dab040][^c-5da4976ff5632102d311a014ad5022bc]
 

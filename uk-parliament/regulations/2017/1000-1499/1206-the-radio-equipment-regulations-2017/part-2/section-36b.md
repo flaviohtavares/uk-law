@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-01-05. See https://www.legislation.gov.uk/changes/affected/uksi/2017/1206
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 36B. Further use of UK marking[^c-9a7539b96f6a5a4e4c21e864284f4a4e][^c-d022aec62f8b0788fa968bb9be739e38]
 

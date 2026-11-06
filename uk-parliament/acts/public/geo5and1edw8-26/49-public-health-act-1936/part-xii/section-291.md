@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 291. Certain expenses recoverable from owners to be a charge on the premises: power to order payment by instalments.[^c611793][^c611794][^c-9336eee4991ef09720d99dc9c322e381][^c-a8838f34054f3e3f7112af3f16a3af7b][^c-fe6c7dd8324d0ca1b12f0eb634c46ebf][^c-f384353a453a00a3694580a587d2dd57][^c-abab2e8f3cc575e3a6976a80a500c3a9][^c611792]
 

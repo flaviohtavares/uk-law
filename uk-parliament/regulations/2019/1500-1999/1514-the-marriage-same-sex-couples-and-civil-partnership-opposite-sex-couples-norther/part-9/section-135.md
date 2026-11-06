@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 135. Rates (Northern Ireland) Order 1977[^c-36d1cf102b5f5f46158a9334e0af5b11]
 

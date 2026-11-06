@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1597
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 30. Transitional provisions in relation to EU Exit[^c-c4d3f4362de4574cea69f7f9d5ea149a]
 

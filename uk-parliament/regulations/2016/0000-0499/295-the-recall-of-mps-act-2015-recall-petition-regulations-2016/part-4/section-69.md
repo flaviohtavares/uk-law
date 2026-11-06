@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 69. Additional requirements: applications for an emergency proxy signature in respect of a particular petition on grounds relating to occupation, service or employment: England and Wales and Scotland[^c-f5c6b168981b365e088628481687e310][^c-d9220ae5ec2f769810b3cd49c216fb04]
 

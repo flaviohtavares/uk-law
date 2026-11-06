@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-10.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 37E. False statements made for obtaining a licence under regulation 37D (affected by repeal, see note)[^c-2dd38f22e3f0e7272da0337fa848725f][^c-2dd38f22e3f0e7272da0337fa848725f]
 

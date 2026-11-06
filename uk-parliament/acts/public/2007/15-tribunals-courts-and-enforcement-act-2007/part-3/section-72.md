@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (31).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 72. Commercial rent arrears recovery (CRAR)[^c-63857673ef96e95c13e03dd9c5e7c257]
 

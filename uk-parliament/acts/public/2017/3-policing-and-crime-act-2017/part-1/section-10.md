@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (13).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/3
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Transfer of property, rights and liabilities to the London Fire Commissioner[^c22718401][^c-a8c2325eed0cf9ef8534e9c70f42099e]
 

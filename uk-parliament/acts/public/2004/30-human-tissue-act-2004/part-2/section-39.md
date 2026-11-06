@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 39. Criminal justice purposes[^c-4a8038df9bc7d9b43324064572013614][^c-9d4cb634da40ec8a5022b787040be558][^c-cc4ad4151f444410f49be2af272f01dc][^c-bac11599433e4311b5b131bfb05cb98c][^c-7ebdbf0b08fc2a7d17e570562723de27][^c-32f6ab6aa1c8da65aae6630484b42812]
 

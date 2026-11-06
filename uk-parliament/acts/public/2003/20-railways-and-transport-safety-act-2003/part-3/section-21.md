@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 21. Chief Constable[^c-e9ab6c875bfec0b93b2c91117d588bf0]
 

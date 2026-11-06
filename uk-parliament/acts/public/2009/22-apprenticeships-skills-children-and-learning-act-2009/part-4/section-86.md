@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 86. Education and training for persons aged 19 or over and others subject to adult detention[^c-b476b7d57e2d1380757ebd17e9daf16a][^c-8d75de6ce615bbb7396ec5165e81e6de][^c-240021fffb10cbd0e53b03a4e5aaafdc][^c-2b869a91d6ddf91889952804559ecdec][^c-be1b3284d5eaa4e15571f4f8ceb5e2ff][^c-d2487d82591812c48ed1e74dc1a99a6b][^c-17000ad4f389365bd5ca9c95c0d53532][^c-04457ab89b8df5cfad571ce7e12a3989][^c-e8c7918568e00910be5f0997c7b024f5][^c-6289539b9c8011045fea975ad4d4dda2][^c-a792720f9a326e1ca0439f36dea1aadc][^c-22629b8826e5f07d34471fddd5be1e20][^c-b3e5fe8cd5525a4417df9c4a2c0b8636][^c-713beb8a4fe8d2000fea6bf297f76383][^c-2cab852849984f0b794759c204b8a6fd][^c-b98d24ac4f4e656f03f9b2699297308e][^c-caeba315edac65e2000955bc82b3e3d1][^c-48ce4bce9df50d927297faac8e432a70][^c-0f8febda0f467b0640c333921ab6c6d4][^c-0ca2a911895af6163820c8cf7292db6e][^c-8dbe541f62e2f10c155c74dc54201134][^c-f7f696969ffcd8d55e3c140a66043f09][^c-d3dffeee874378ed9749fa2f22a4448e][^c-01a6772a4fe8a1e44800a3ffa2959b24][^c-14b771dda601413388244cd5b6aa2de3][^c-ddf0cbbee751e835b2f08f5005a26f36][^c-11e8b9379063c53a8a885fc1f0351538][^M_C_71a18bb8-d155-4319-a144-7357733dde12][^M_C_f4f893ca-4ff8-4117-e9fd-3ecb2327db7c][^M_C_26277e1a-d18f-434e-d7a0-1a0766e081b5]
 

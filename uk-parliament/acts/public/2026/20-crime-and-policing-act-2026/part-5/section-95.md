@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 95. Powers to amend this Chapter, and consequential amendments[^c-c84e971453f40254a86badfddd0e0336]
 

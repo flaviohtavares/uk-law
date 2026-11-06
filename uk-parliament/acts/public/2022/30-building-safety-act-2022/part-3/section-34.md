@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 34. Dutyholders and general duties[^c-0754ed4760281dd5d18045d2c4ca4352][^c-f893b15c547bcc7e1e892ceee7a72883][^c-9471b9f39bf945292096d3909491d1d8]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2018-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 53. Academy arrangements: post-16 education and alternative provision[^c-a17e47b0aa04a97a263713b2006ccedb][^c-706185eb436156bbc1c5334d3bbc2549]
 

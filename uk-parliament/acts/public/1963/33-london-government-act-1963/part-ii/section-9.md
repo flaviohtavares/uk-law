@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2018-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. General duty of Greater London Council with respect to road traffic and abolition of London Traffic Area and Traffic Advisory Committee.
 

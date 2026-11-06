@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-06-28.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 3. Nets.[^c-b36abbc9bd32418ef9fff5c680b964a6][^c10048441]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2014-04-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 8. Exclusive licence[^c-8ac1e6a3cdacc95a72160567362dc989][^c-7caef4ddf93625e9268711b7a230c230]
 

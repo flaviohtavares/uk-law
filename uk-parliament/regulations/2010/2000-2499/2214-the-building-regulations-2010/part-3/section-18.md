@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2214
 >
-> Extent: England, Wales.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 18. Unauthorised building work[^M_E_3413207a-9e54-4372-aa8e-44c7c88adf84][^c-b528a923f1b69eeea01097214430a0b1]
 

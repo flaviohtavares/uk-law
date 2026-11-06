@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 71. Assistance by offender: immunity from prosecution[^c-365c41a218a176938b08b65dad03ef03][^c-9ce233e2f33ea8e070d341228c463d6c]
 

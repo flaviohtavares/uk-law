@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 60. Declaration of vacancy in certain cases[^c-83ffe06bd9ae73fb03153d641734489b][^c-1317ab83fd35247630aeb7e9c7f67ca4]
 

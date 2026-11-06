@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 44. Enforcement powers in connection with pesticides[^c-2a9e02ca5133fe6967cff549504d50eb]
 

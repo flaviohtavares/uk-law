@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Minor and consequential amendments[^c-3d233625c22d66fac8c03b5f9b9f6af3]
 

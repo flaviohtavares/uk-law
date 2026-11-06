@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2014-10-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/51
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## Schedule 7 — Amendment of Schedule 15 to 1977 Act[^c1152125]
 

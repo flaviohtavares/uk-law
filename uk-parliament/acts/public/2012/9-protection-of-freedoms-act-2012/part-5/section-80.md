@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 80. Minimum age for applicants for certificates or to be registered[^M_C_3a935771-850f-406d-d964-5bfb2220e10b][^c-eea648d5c955a08c929d6d39b185fa6a][^c-6e996a4eb75e8c61f231f5cda1f422e5][^c-94c5125333131e2e06f1a59bd4d30cb8]
 

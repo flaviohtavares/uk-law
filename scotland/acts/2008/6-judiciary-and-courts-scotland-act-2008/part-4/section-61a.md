@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/asp/2008/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 61A. Administrative support for the Scottish Tribunals and their members etc.[^c-1f0f8783e10d064ce2512b61b935abb7][^c-7d1733ff5a09ed3fde7af8b403962c87]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 14 — Compensation where Permission for Additional Development Granted after Acquisition[^c-4d085ab19cb4da813af4de9e816ffde4]
 

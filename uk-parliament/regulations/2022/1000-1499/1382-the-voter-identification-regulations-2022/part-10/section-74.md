@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 74. New regulation 20A (provision of private area for production of proof of identity: England and Wales and Scotland)[^c-3aa41bcd72077af82fe147ed95a0bc84]
 

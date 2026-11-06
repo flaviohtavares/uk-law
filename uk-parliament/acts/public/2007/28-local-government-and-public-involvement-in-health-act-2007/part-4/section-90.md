@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 90. Council retained: consequential recommendations[^c-80e322cabcc6c7bbc9e140d11bf8de31][^c-f26c84ef56a726773d7947615e8d8388][^c-ca88ca7462705988f849fd84145fc8ea]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (31).** Text as at 2025-11-13. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 34A. Power to require information etc for the purpose of monitoring[^c-c1dff7cb93a2aae5d449b8dd4cf342bc]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE A1 — NHS England[^c-1258c2215c3a1be18afa642f0fc23cfa][^c-c26379f595629655ada8a57e0d3d2bfd]
 

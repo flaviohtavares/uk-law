@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-03-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Occupiers’ liability.[^c-1e9caa89c3b2cc99800628d4deebe047][^c-1f6f49c436a7b2fc2a754362bfe48c38]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-04-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/24
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 29. Inducements relating to union membership or activities[^c-a1c1753956ae15d0ae445ca7b13de4d8]
 

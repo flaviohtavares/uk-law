@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 8. RSS: examination in public[^c-95661c1f1df93953c323cfc6a88b9475][^c-1ee1c9dae47590a20edb507f12aca977][^c-75ce378f2f26ad7c4914d72636c8812f]
 

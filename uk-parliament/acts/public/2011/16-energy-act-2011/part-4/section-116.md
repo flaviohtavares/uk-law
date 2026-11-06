@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 116. Additional powers of the Coal Authority: Scotland[^c-f90ed91c95f848c96696738b3e7eb760]
 

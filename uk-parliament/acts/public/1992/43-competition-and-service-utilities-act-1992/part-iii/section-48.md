@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2010-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 48. Compliance orders against public gas suppliers.[^c859828]
 

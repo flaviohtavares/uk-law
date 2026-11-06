@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 57. Offences by bodies corporate[^c-36adc2a00c679bd67d40630f659db488][^c-6b3b7cd2a7402b971a9326cfe22a8069]
 

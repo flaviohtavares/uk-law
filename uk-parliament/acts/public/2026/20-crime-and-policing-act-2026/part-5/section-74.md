@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 74. Child sexual abuse image-generators: Scotland[^c-14155ae44dd68b6d55260a9e8ceb76cf]
 

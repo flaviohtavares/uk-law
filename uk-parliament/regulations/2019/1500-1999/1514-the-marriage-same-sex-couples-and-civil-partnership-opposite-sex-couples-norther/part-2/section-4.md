@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 4. Form of appropriate declaration at solemnisation of a marriage[^c-5be09574e207027acdaf8b3966838894]
 

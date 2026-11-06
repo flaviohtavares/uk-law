@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8. Duty of providers to publish information[^c2006731][^c-45d59671ee91ede172e2b836f81c7e44]
 

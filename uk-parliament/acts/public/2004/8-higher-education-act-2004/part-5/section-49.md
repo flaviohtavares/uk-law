@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 49. Consequential amendments[^c561954][^c-c72b128b76726da6ebd7b641e134634c][^c-f460505d22eeff9e82c602c2b0b86fbe][^c-ec3f7e0a29bdc5afceea91c1c469d38f][^c-d057a77c9e7525a16c7acd671799586d][^c-38b09a0b88d310f5c4fbba83321f0432]
 

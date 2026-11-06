@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## Schedule 4 — Establishment of new schools: amendments to [Schedule 2](https://www.legislation.gov.uk/ukpga/2006/40/schedule/2) to the [Education and Inspections Act 2006](https://www.legislation.gov.uk/ukpga/2006/40/contents)
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 37. Conformity with other standards and requirements[^M_E_a034b7b0-08b9-4a01-bbc7-cdcdd189cd0a]
 

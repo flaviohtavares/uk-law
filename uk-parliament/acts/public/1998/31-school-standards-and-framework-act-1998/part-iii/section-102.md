@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 102. Permitted selection in maintained schools in England: aptitude for particular subjects.[^c14010101][^c14010111][^c-8d2489b3710d8eb226618233eaab9eb4][^c-f43a35fba96b6d214781877f69a6dfed][^c-266e3131dc124e635d96a3fba568fc27]
 

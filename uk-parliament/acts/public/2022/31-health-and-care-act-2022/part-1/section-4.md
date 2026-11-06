@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4. NHS England mandate: general[^c-f11b0816ff5a265bfba78cce067ac8d4][^c-da1f7919dcf70e9690ed44ba65adef94]
 

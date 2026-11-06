@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 144. Offence of virginity testing: Northern Ireland[^c-098128ca071d45f5af4ea5b732ced8a4][^c-7871b31223209f025f7d5eb720ec2c2a]
 

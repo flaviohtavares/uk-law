@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 19. Calculating a week's pay[^c-79801ac0b9b8b1caffec0a618ff5be95][^c-5dbde440a05d6abc19bc0153e3ac26d2]
 

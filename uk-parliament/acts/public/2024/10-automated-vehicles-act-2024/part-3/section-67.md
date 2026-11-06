@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 67. Application to police officers[^c-ae49c0ddfc82df10b2a35f9bff817c06]
 

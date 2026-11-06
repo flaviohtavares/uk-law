@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 6A. Law applicable to arbitration agreement[^c-3418cfb7f933abb54f45df51e2c80a66]
 

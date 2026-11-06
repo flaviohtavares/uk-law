@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (62).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 6A. Procedure for licence applications.[^c-f1f1762d158da5cd3b6d905476c1ac35][^c-84b0eacd85cf82c8c00f581b062aa92c][^c-dce879c4901fa2374971d6a019d86b63][^c-eb08d92c56e8d611a5157d0f0e43036e][^c-e4cb6142484a21031d44fc4dccab3d56][^c4110621]
 

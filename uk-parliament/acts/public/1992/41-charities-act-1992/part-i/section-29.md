@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 29. Divestment of charity property held by official custodian for charities.[^c-68d0b2d8dc2e8aed043db1d3ee2b8464]
 

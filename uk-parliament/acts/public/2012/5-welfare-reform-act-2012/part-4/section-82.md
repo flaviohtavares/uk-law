@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 82. Terminal illness[^c-07397090cbc2ad21849795cdaf393333][^c-e0e238d4eb2edd2adbd254f7f5a3e294]
 

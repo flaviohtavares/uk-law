@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 114. Power of Secretary of State to delegate his functions of determining, or to refer matters involved in, appeals.[^c-2d1a40eaa83392c224dab369163e963e][^c-fcd77649dd94666c93f84a8c2145b23a]
 

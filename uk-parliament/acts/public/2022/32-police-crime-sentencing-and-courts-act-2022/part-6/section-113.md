@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 113. Enforcement of financial penalties: court proceedings[^c-63e6cd00ae21ec22e116f15160926803]
 

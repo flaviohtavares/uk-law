@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1976/63
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Amendments, repeals and transitional provisions.
 

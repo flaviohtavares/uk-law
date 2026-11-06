@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 123. Exceptions to prohibition on disclosure[^c-b6e9cba8f62a30599777fc14edc0e19f][^c-93c5e688a8ec50cdf640402238a59fff]
 

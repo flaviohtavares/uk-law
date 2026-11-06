@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 54. Determinations of the Housing Corporation requiring approval.[^c-be3ce5f7f26e7fea7c72fa4c55723a50][^c-329f5595670cdbfad20ff340aaf4936d][^c-748b51094b3aa3f1abe274ac2ae0e4eb]
 

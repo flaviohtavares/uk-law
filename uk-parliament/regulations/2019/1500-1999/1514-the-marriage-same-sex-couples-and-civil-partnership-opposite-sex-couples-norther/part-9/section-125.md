@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 125. Age of Marriage Act (Northern Ireland) 1951[^c-54db7ad09ec5c4791b6157bfdefacd79]
 

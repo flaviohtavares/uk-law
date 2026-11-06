@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (31).** Text as at 2025-11-13. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 4B. Exceptions from sections 4AA to 4A.[^c-b620eb9e74bcdad3b5c953f1bde99c72][^c-4a6e952586d7437aaca690dc49be32e4][^c-84e54d68a71b76510a37b71e69d5fcdb][^c-6ebb8c9295c56c7be7cc10a83b42caa0][^c-481f82c856635979b0e47931db21bd33][^c-d3fbe7dcc040046eb4b8a28644b9bd30][^c-484431bdccfd2ef757d6d9698ffc524c][^c-783dd8bdf883811ec59804fb3b12195e][^c-8c0b08ba5d8d27267080205bba3a11f1][^c-931f49c0589a25fc8a9adeb0c90f621b][^c-d52702c6e02da98f947a979ce3c7b020][^c-24524325a5bdaac2ce4da07dcbe3e3c2][^c-91ea1212ccfd171cdb696fe7b542a9b3][^c14411801]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2017/1012
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: E.W..
 
 ## SCHEDULE 4A — Prohibited Methods of Capturing or Killing Wild Animals[^c-b7b6611e4bd95e4c618ecd9fe5563e07]
 

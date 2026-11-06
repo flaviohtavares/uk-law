@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. Education, health and care plans[^c-de111425d61e4fa6491f66eedb7c1033][^c-5929dbf7e8d80b668ce392b52f4e8934]
 

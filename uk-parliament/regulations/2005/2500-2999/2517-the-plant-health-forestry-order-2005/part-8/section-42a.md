@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Scotland.
 
 ## 42A. Power to share information for the purposes of the Order[^c-cfb06f351548afe0444ac1aa97e92b41]
 

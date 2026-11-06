@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14. Insolvency of registered providers[^c-112330dee28b0ad322ebe91b88ffe30c][^c-ec1e29799e7a1c0140f8a4c89385f1e5]
 

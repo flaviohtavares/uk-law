@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 136. Offence where enforcement notice not complied with.[^c950147][^c-525ea2a5bf0d39daff4aa1bbfa7caff8][^c-8e7e18b5e278ab7b336997f174c8b31d]
 

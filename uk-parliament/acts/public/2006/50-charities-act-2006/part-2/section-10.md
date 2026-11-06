@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-02-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Interim changes in threshold for registration of small charities[^c-397d1f4eae246ec71785ae18cdf39c47]
 

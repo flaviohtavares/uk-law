@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 109. Guidance for enforcement authorities and scheme administrators[^c-3d55d4272e68c6a5cb4fad96448ecba6]
 

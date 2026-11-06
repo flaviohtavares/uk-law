@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 56. Mediation: supplementary[^c-6f81453d4fb915780237e0f1f6d2c1d4][^c-4171f8e4a97ef39412b0b8abe1c09db6]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 62. Prohibition of unauthorised superfund activity[^c-7307f5d42a5dc4659a2b6437fe38be2a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-06-28.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 24. Consignment of salmon and trout.[^c-d05bd748ea3d4e4d070105b94d956169]
 

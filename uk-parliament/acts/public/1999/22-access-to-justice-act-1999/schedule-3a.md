@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## Schedule 3A — Motor vehicle orders[^c-6a9c00321505013a3e7fde8e1786a67d]
 

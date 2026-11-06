@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 69. Transitional provision[^c-b7428343e70e379c55133bc1fe3c1f33][^c-7448493064a66e93c50ba3e8c5d1dfc2]
 

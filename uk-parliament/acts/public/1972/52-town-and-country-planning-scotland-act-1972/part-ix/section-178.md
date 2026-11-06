@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 178. Purchase notice in respect of order requiring discontinuance of use or alteration or removal of buildings or works.
 

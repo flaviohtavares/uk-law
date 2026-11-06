@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1982/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 8 — Courts-Martial etc.[^c-8b1fdce2cd9e1196aed6c69fe2c05ac2]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 25. Appointment and powers of independent trustees: further provisions.[^c-aac76d3f52e460e767dd794adf834e5d][^c-ec328b9b2cef8ffd50f4894859f00f36][^c-28201cfda64f571d40c2a374f599ffd7]
 

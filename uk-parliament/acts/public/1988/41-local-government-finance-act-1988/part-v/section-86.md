@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (93).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/41
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 86. Effect of report’s approval.[^c-b01c2167cc5b029135a486b2667f3ad5]
 

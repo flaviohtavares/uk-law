@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 41A. Charges in respect of the EU greenhouse gas emissions trading scheme[^c-231d0c0416ccd93fbbc79b8e86da7ee7][^c-d16530e6dfe93acb845cee6588cb2478][^c-f89872fed6284103696e5e8ab34f91a2]
 

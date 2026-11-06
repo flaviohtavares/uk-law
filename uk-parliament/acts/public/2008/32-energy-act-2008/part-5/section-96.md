@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 96. Section 95: consequential amendments[^c-4793fff808a216746fbc74bb35fc0538]
 

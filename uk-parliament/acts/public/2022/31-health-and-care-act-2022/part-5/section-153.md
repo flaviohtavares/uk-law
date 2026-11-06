@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 153. Offence of offering to carry out hymenoplasty: Scotland[^c-fc2188fe7e7afd284107ca017a36d6d4][^c-918a05ed47d54c3e772d85130d41cd87]
 

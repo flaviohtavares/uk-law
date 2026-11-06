@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 68. Additional requirements for applications for a proxy signature in respect of a particular petition: England and Wales and Scotland[^c-9bff180b121d4256142bcb6894f2da77]
 

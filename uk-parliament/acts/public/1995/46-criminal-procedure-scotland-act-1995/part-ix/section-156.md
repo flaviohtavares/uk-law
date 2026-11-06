@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 156. Apprehension of witness.[^c18936331][^c-1c98c0e65eeda985de2e3bb819ec5731][^c-98ee7fce1185e74c34ff70e9ad72b476][^c19812811]
 

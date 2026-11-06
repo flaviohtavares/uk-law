@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 50. Power to change or clarify existing traffic legislation[^c-2e973c11322371be6d1a6bc1847a526c]
 

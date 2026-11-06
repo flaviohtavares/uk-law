@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 280C. Power to amend Royal charter[^c-e2145f8f55028513eba2e25e7db915cb]
 

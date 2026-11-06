@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 31. Supplementary and consequential amendments[^c-94a76ab224e18100a25b42685d0b6274][^c-6bfd3031be4555a78e7d7cf03eefb5de][^c-d5d54dd0693690e70948f5570c341aa0][^c-25b475f34990cffcf730db07d5be5794][^c-6617d7eec507f441cc9969e860d01491][^c-129dd6d71f2a05f2081d56c78f9909ff][^c-c8108fb13457000f3178a2af71c3e94b][^c-da79694bc27db25caea9e3b78c89dac7][^c-1466830ad66ddca98cd58baf32b4288a][^c-f0c316d9d1b0dfd0e226e5ef4e030922][^c-0803b9e0eeede52d5ffe0b5fc9a09eff][^c-5b4e40081a953ea93159d6371a7e04be][^c-220e2d631b459746beb341dc99ba734b][^c-f0c316d9d1b0dfd0e226e5ef4e030922]
 

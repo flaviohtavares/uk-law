@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 88. Capping of costs[^c-11ef0aff4754f7af1f6299ea34ca91a7][^c-1829072a5333078f77c3518648c685e7]
 

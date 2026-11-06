@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 224. Employments with no normal working hours.[^c16336891][^c20064271][^c20082171][^c20112401][^c-b416ce6cbc824820e498962ec4ee5047]
 

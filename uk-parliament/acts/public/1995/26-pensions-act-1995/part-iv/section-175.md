@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 175. Parliamentary control of orders and regulations.[^c-0dcf50ddc3f8576a1505cbcc38dc0a0f][^c-1271b72ce534b8ff5c2f9e5de8f828db]
 

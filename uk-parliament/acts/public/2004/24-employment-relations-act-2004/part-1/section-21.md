@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-04-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/24
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 21. Information required by ACAS for ballots and ascertaining union membership[^c-b23a5648f0b94306759bbb428569d1af]
 

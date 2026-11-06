@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (261).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 189. Certain vehicles not to be treated as motor vehicles.[^c20361121][^c-5ae3247b99e9050292d72a786fbd52e5][^c-af0c706d66c70d99420f281009a44de9]
 

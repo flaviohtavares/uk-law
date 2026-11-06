@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 161. Representations[^c-928e2e813f4656d133ba7e6658aed5e3][^c-d2b48780bbeee72ecf872416d3967400][^c-fb6075b3453979184310f54971b652f2][^c-fadaff3268d4cdddf0be1615594be38b]
 

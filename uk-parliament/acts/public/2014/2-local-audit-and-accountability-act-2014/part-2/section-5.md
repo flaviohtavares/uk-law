@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (173).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5. Modification of Act in relation to category 2 authorities[^c-bf5c1f4555a831c58a6f261636c473ff][^c-bf8eef4c956e215969b67250c41ce6dc][^c-7464582e4da6a2f7457c63def6295440]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 47. Review into NHS supply chains[^c-1d150d7efcfeb107b9469a6b3325ee1e][^c-30e4fe6be6555a920feb39ba3f46917e]
 

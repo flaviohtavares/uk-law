@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 8. Tribunals for considering removal[^c-d7530df35c0def699df400bfc5b1133d]
 

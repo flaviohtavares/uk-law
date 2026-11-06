@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16. Execution of warrants.[^c11314771][^c11314781][^c16913921][^c16913942][^c18905571][^c20453111][^c20899021][^c-318a5585236041efdaf6dbbabf385cdb][^c-b37832584c2380b62561753ed03d15e3][^c-8e8c3e1091efdc380a88a3750320ff6b][^M_C_df40ecf1-bf20-4a35-e9b1-13eba658cbf3][^c-9fbf65647d08a70f43301135967f3595][^c-b9f9b8eb5a00870ce1fdf4443ad8fe88][^c-80e67aa1849eaa585126cf62a3e8fe00][^c-61793800d259f8f390dfcafd8f199e2e][^c-b6b4d32a52a7f1227efdb90bd3b5f640][^c-4feed743531b011dca0cc7620d6817c5][^c-62bfb3e4f5691acc2779b224d909e907][^c-5bf6ee61b7304b82e1c74143807a6f74][^c-f28e51e12812eca470b17135658119cb]
 

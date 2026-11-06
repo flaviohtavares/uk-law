@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2025-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 9. Safeguarding of child’s property.
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-04-28.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 3 — Interpretation of legislation
 

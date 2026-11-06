@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/65
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 98. Disposal of land at direction of Secretary of State.[^c-2218d0387c70255438790ee6ead03382][^c-96ee7456ca17ee78e97fff6e5a49d1df]
 

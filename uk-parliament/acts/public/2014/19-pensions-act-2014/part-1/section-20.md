@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 20. Overseas residents[^M_I_905a71a8-89c8-4d8d-ab3f-5f8cb14a95b4][^c-cd2eb269657c012ea3117557add14bee]
 

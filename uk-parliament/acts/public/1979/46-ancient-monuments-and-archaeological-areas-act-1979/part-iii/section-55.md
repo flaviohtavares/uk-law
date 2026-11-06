@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1979/46
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 55. Proceedings for questioning validity of certain orders, etc.[^M_E_802e44ec-84c1-4db2-aea9-2d6560854682]
 

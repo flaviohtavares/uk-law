@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 245. Status of certain districts, parishes and communities.[^c-bed46f2eb454b2b0ec4afe9ccee3484e][^c-f2724096a962351d0c880faa2161f13a][^c-e23c4b5613717d0c66d9909ee201d028][^c-3d09b3cdd1967548be7fe48fa511b284][^c-afd0f4999fe133a942ad690edc8313a4][^c-661a0ceae500275902ace711f5b2249d][^c-655a2549b6671246adec3d56741eb347][^c-ceba1941fd77be1520f5cd27c22c6cb3][^c-286fe15004c5e770698e48ddfb189286]
 

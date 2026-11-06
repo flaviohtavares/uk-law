@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 16. Height of other chimneys.[^c-7616b45a71d0a032ba82ecad3004dc41][^c-e2af93f51212abeb6a0c2eb6fb0fe67b][^c-10b319113742f9f1efbcb8c9c5bd22a8]
 

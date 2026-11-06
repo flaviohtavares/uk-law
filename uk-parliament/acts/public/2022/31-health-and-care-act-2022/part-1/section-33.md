@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Abolition of Monitor and transfer of functions to NHS England[^c-ffece9192b12f2838a020bb2b2192b94][^c-19d391b94c93e84a479c0f45fdc870fe]
 

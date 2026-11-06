@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-18.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 69A. Information.[^c1022464][^c-a44cd85a6c75c4b125ff43737b31f9f8][^c1022463]
 

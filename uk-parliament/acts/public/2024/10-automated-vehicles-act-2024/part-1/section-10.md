@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 10. Register of authorisations[^c-b584c1f5d4bbd0d35bebc2fefd9bb1a2]
 

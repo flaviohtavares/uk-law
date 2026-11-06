@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 163. Regulation of local authority functions relating to adult social care[^c-ecde363ee37713b9f46e3ff9fa76473e][^c-f3f09f833dcfff0098cea0c4694e0a54]
 

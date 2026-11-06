@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 55. Functions of, and responsibility for maintaining, employment medical advisory service.[^c7814351][^c7814362][^c20459751][^c-0fe72d9a6077d9cfd7b83aac041509d3]
 

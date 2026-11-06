@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Establishment of Patients’ Forums[^c-b3b8fba11d190cc9bca15788ce1990e1]
 

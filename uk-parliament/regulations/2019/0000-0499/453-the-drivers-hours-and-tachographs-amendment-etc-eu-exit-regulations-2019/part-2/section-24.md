@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 24. Motor Vehicles (Tests) Regulations 1981[^c-50e35317508f10bbcc54693f42b10168]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 23. Local loans made by the Treasury[^M_C_f9f7041a-760b-4dfb-b746-e04ccf09abe8][^c13148351][^c-ded40613c70e3961cf863e9e4470ff4c]
 

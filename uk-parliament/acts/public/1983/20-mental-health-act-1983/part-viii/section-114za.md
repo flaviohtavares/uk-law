@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (398).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 114ZA. Approval of courses: England[^c-d98fd628a1f939a714d99f02c232a215][^c-42be3c86765c0f52602865e0e4eb1039]
 

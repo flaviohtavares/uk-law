@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 24. Entry for purposes of arrest[^c-e2795c1854400d21534e60d21b4d22af][^c-b01b3fbfd359a0bf55d56474a5e89de6]
 

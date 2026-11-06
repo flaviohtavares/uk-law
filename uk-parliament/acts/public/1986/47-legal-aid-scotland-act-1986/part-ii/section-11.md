@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (32).** Text as at 2024-04-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 11. Clients' contributions: general[^c17072381][^c17071861][^c-3967d99d4fc058357870a427d5f7c97e]
 

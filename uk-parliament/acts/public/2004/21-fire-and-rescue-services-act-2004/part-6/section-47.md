@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 47. Notices: general[^c-cfb908e0f1d88d1e0acbcd2cd94a3ea4][^c-586fae6f0691670cf6884a07e4fb4325]
 

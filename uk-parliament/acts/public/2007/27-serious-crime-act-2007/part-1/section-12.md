@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (182).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 12. Restrictions for legal professional privilege[^c-1e20e9fddf6a3cf2db5e9994d4cec144]
 

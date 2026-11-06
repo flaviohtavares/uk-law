@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-06-16. See https://www.legislation.gov.uk/changes/affected/eur/2013/1303
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Scotland, Northern Ireland; Wales (the versions of this text differ in extent).
 
 ## Article 61. Operations generating net revenue after completion[^M_E_a05fce28-41c0-42e9-9c77-539f73f45c42]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Reviewing and revising plans: other requirements[^c-8747a57788736157cc1c8c3aaacb2607][^c-2b5cc523850bec2f18e5b62a6c518828]
 

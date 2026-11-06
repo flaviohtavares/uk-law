@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 49. User-in-charge otherwise liable as driver[^c-3e370d443c7eccd050c59a9ff75cd2b4]
 

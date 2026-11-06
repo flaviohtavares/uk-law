@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (93).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/41
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 113. Qualifications of responsible officer.[^c-c0c25d6b2d8295e9cd8c17e5bb22ecba][^c-b28e8cd6f3eabf638836ec2b79d94fb2][^c-56382471e725e2dd31202653f7e4cd06][^c-2687f01bc0f4237d0db8c953e4030819][^c-6c82d5129c632492a9b5c1794a212e0f][^c-626a9416ed9575b3a048f7e164ab4df8][^c-ab94e5f8096e8aac64bcaeb33adf3cd5]
 

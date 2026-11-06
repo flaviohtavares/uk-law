@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-12-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7. Delegation of functions[^c22510471][^c-1e750cb298198ef910e8dee1ad49a8cf]
 

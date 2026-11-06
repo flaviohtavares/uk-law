@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 229. Photographic copies of documents.[^c15121671][^c15121681][^c18866921][^c-9d90cc99a3b0f57d40d7f12dde67444f][^c-925be5426bebaad7c6d9363bb8b25110][^c-d0f9fddd27a0ac59f52d26ce34ac6572]
 

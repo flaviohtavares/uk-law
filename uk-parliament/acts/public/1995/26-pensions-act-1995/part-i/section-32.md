@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 32. Decisions by majority.[^c-727270f2e79e07950c2f45544578d4b7][^c-7530ee458698a8a63f9785442e8b3ffa][^c-cdf9edc072362c5f1411bd8b730d20b3]
 

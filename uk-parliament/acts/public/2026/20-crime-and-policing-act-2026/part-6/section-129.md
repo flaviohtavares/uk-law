@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 129. Stalking protection orders on conviction[^c-32620304aa3ef2a471a3ad1b28a410a4]
 

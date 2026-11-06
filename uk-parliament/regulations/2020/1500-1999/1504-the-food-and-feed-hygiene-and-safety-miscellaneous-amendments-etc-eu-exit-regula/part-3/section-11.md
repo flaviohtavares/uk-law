@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 11. Amendment of the General Food Hygiene (Amendment) (EU Exit) Regulations 2019[^c-e1e28da82dcbcd6a223a5014ccde155f]
 

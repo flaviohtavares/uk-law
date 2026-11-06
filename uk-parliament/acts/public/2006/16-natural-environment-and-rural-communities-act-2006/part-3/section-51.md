@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 51. Codes of practice in connection with invasive non-native species[^c-3e4d1dd88382be2fab888db2e06ff41b]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-08.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 9. Regulations with respect to decisions.[^c11210421]
 

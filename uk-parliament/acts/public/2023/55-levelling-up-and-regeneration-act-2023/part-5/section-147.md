@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 147. Power to provide for authorities making joint local plans[^c-3cfa258dbc018a73c9662be9bc99bc25]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/29
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 14 — Licensing authority's powers of intervention[^c-287fa3db90cc39ef9a2271d940d01cc2][^c-2efa5924b93f25b253621dfa92ac2a6d][^c-e86cf56d333b89820d2dab5bd4697501][^c-559070fc0379af0e8a2b07e90ec9627d]
 

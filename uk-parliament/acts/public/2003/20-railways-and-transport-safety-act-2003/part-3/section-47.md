@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 47. Code of practice: Authority[^c-07ccd6c035830a62d6c8388bccb1ea8c]
 

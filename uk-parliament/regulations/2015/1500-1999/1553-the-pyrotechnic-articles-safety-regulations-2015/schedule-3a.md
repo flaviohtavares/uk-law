@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 3A — Declaration of Conformity (Annex III to the Directive)[^c-22a999b9f863a1d287e2d47624e47949]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2014-12-02.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 31B. Cases not involving criminal proceedings: articles other than vehicles[^c-fa10754d32a56ee1712d60b46488b7a8]
 

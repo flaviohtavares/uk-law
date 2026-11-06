@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 79. Judicial pensions: pension sharing on divorce etc
 

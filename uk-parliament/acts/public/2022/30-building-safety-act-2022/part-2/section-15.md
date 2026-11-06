@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Provision of assistance etc: supplementary[^c-82208dc3bf2cdd9ddb7a97be15429be1][^c-bd3b062c90b1186e78f0cb42b40e6d34]
 

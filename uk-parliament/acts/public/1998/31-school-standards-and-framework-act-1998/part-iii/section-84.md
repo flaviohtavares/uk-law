@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England.
 
 ## 84. Code for school admissions.[^c14009681][^c-92e902e91f963d16e04ea9a2d4e21c15][^c-a80026c3c20d6458293008f71b50d920][^c-3baa4a1b8d64b116664f4145221a14fc]
 

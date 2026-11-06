@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 203. Exchange of information with respect to pollution incidents etc.[^c18740761][^c-cbc1e4c30f2ed60c375234bcd3a88cb8][^c-097056b5d40e8ee3d9bc78ae4feac216]
 

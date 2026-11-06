@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (192).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 117A. Issues arising in proceedings: contributions, etc[^c-10a1225b02188bd163fb1769d0b86047][^c24147021]
 

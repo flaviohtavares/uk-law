@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 88. Schedules of payments to money purchase schemes: supplementary.[^c-34c149c2d3df5e0c9b748d0878dd8194][^c-c90b46cd9979dc2d715e0a57c6d101a6][^c-638e572d2e06ab9a89124d757d260aa0]
 

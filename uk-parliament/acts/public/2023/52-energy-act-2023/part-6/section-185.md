@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 185. Licence under Gas Act 1986 for performance of code management function[^c-a91a9b86e968bb96b3c00e492a1634e4][^c-1fc2213f5e66bb41bc2e06ccec66fccf]
 

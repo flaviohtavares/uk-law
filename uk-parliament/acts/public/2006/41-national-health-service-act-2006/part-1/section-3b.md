@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 3B. Secretary of State's power to require NHS England to commission services[^c-a81ca6af10223afd44fb5563a698cad8][^c-394758fcdb20029fa8c43e8b8fb6c796]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 492. Recoupment: adjustment between local authorities.[^c-4974bd5d186eab98d77766d17d2e9bc4][^c-91ca6f73c87a5c809747b178de1a54a5][^c-df82d42709314c7296748c08b3554faa]
 

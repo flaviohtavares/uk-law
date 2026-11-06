@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 16. Requirements which must be satisfied before an importer places electrical equipment on the market[^M_E_d0e828e3-4e6c-4b75-cee0-e6808a189c2d]
 

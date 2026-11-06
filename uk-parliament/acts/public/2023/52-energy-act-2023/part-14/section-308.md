@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 308. Provision of assistance to other forces[^c-7798990257d2f058a1ac2a10131dd812]
 

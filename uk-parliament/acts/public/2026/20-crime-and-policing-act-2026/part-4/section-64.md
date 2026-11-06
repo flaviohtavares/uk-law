@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland, Northern Ireland.
 
 ## 64. Child criminal exploitation prevention orders: Scotland and Northern Ireland[^c-86f16a8c364192826453fd8f83a38693]
 

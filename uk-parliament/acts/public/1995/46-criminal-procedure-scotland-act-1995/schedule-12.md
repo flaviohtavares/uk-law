@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 12 — GROUNDS FOR REFUSAL TO ENFORCE FINANCIAL PENALTIES[^c-de0483265e857510f4c34d7dfa24fe37]
 

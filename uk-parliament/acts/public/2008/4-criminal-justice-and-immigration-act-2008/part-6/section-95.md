@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 95. Powers to arrest and detain persons believed to fall within section 4A(3) of Repatriation of Prisoners Act 1984[^c-52ad8f26ba1486c77ad630efccd72b25]
 

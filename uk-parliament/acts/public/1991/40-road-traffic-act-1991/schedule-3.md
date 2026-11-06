@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2024-11-28. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 3 (Extent: E+W) (affected by repeal, see note) — Permitted and special parking areas outside London (Extent: E+W) (affected by repeal, see note)[^c10862171][^c10862161][^c18772921][^c-10517f2d97250dbf741693659ee68fbf][^c-fdfb5771b0b868d76646dc2c33ad8d2d][^c-e603c885ea95477d6a146d818b21280f][^c-61fed2a7d429e17e443c551790a8e57e][^c-61fed2a7d429e17e443c551790a8e57e]
 

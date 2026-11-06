@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2018-01-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 26. Transfer of staff employed in Skills Training Agency.[^c-ef47f8d3db78da5b6e4b147e0379576c]
 

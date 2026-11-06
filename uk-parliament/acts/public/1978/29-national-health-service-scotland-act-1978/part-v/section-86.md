@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2026-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 86. Accounts of Health Boards and the Agency.[^c14171381][^c20971401][^c-55c19e648b68c3574a1c847def86182e][^c14171361][^c14171371]
 

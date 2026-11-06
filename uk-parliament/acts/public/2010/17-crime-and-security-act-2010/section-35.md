@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2022-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 35. Review on respondent to injunction becoming 18[^c-77dee257af5a02e5cc1a90f7e9989bad]
 

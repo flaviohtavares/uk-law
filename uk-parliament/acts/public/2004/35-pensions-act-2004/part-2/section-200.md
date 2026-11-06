@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 200. Disclosure for facilitating exercise of functions by other supervisory authorities[^c-cd5eb38e09416d6c280928ac578dce50][^c-a7ed8489e179b987a8f0f27af89fb104][^c-8ae4f61b00045ebee33fee3b22100c82][^c-9f7630100fb0bee3a3dbda1545f54369][^c-d0eb076448f3062a434041907f2f617e][^c-a7ed8489e179b987a8f0f27af89fb104][^c-8ae4f61b00045ebee33fee3b22100c82][^c-9f7630100fb0bee3a3dbda1545f54369]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 113. Validity of strategies, plans and documents[^c-fd325abedc95ce746b606cabfb42ecb1][^c-0b8949d5c0532599b052d1ad02da1290][^c-11a6031726f5596fc023f9d993585bad][^c-e777cff1b21b6e4b08a893b3b8508d2e][^c-3fe789994d2353408fd7a82c1c43728f]
 

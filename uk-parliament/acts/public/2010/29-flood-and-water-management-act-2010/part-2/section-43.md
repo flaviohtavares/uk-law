@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-12-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/29
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 43. Drainage: concessionary charges for community groups[^c-03067de0e549502e55197931474ec7a8]
 

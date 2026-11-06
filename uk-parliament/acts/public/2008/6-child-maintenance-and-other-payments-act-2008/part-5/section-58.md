@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2023-09-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 58. Repeals[^c2175992][^c-0c18a9a70285208522165f49d733ea60][^c-e7592467cf7f02261900e1a4106085bf]
 

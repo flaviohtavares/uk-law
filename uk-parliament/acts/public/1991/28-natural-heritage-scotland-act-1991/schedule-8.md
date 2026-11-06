@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-11-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/28
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## SCHEDULE 8 — Procedure for making drought orders[^c-bfad46b0e4fd383d0e738dff1d016224]
 

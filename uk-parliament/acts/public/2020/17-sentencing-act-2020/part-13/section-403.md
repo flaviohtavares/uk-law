@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 403. References to “local authority”[^c-9c5857e76d0e8711752b78a8dc13816a][^c-6c9b2b994a6e476d83d39da024ba169b]
 

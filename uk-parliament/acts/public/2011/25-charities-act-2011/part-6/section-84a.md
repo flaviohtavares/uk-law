@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 84A. Power to direct specified action not to be taken[^c-91f29a48479780a4982deacb9637e78b]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 258. Approval of debtor's proposal[^c15576611][^c18976261][^c-989d1faf0d4d57afbc595ff50c017269][^c-eddb8934adc35b6a279c6f4634e52a25]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2011/1881
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 18. Toys to bear UK marking[^M_E_8d1c4a6f-2d50-4b13-a6a6-3d71cde5ecbd][^c-7c79d53c7bcaf1ffa4260451893b69b8]
 

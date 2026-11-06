@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 115. Sexual activity with a corpse[^c-1f636d7aa49eabd8e61af52e52c3788c][^c-81cebbe75ea07938b34c3d22f875d3c3]
 

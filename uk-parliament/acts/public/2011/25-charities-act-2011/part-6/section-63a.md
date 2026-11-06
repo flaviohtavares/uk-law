@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63A. Failure of specific charitable purposes: application cy-près[^c-e4e739a084fcce7377420120fc061392]
 

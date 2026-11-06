@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63T. Use of retained material[^c-cb19414157bba559fa9aaa8e0992f719][^c-c8d220868e8922a2b2ab180ce7d1a91a]
 

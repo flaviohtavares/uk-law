@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 28. Form, manner and content of applications for registration in the Register of Pharmacy Technicians or retention in that register[^c-44845bc8703bf4e52045263f17d0cd1c]
 

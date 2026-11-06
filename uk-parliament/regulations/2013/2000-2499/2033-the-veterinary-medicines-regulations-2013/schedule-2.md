@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-05-17.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## SCHEDULE 2 — The manufacture of veterinary medicinal products
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1093
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 18. Retention of technical documentation and ... declaration of conformity[^M_E_8cdce2a5-ddf3-4603-9e12-a74b02d79491][^c-0c1d5398437b77491622d5e2072fe025]
 

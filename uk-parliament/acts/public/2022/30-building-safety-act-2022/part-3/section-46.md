@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. Higher-risk building work: registered building control approvers[^c-050c4d84959300910cfe7f620b8e8ce6][^c-5f2be384d3863a96eea25080aa56ade3][^c-f325eebc82d34bb0d9ee73edf02c5860][^c-bb4fab8f49fc6ebdd45312f08b5b769d][^c-877f38e29e78cebf5d68e7e32401e5ed]
 

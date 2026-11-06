@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2023-12-26. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo6/12-13-14/97
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 72. Claims for compensation and interest.[^c-cc87d5d61317c4bb6e5a2444af13a0ab]
 

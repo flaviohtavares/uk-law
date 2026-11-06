@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 150. Motor Vehicles (International Circulation) Order (Northern Ireland) 1990[^c-f311942c94b04292a407ec95e8f863b0]
 

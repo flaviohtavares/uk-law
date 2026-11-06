@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-03-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1982/45
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 33E. Metal dealer to keep records for each place of business[^c-08f4e6451612aa5f05f581c5317b3e43]
 

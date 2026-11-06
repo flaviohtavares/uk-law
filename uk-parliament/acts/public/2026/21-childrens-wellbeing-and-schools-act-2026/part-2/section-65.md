@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 65. Amendments to invitation process for establishment of new schools[^c-c4d010f646a6e4575b2cba75c8941b2a][^c-df023c677196373b21fa15d0f1124dca]
 

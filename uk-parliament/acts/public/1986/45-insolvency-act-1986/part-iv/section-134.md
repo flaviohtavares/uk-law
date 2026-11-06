@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 134. Enforcement of s. 133.[^c15572871][^c-7a4d24576ebd8308b9867f56664f822b][^c-5ed24ba9fe795edfb1a99e72a515ed7c]
 

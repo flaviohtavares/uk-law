@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 133. Obligations of confidence etc[^c-34ef393319be6bf8bb468a8b30ab006b][^c-b46a0bbc23799b12952013e05bd90939]
 

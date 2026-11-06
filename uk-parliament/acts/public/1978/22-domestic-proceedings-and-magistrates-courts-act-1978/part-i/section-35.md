@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2014-04-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 35. Orders for repayment in certain cases of sums paid after cessation of order by reason of remarriage or formation of civil partnership .[^c-68fb12b026e093e3eddeb6651be4f72c]
 

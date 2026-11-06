@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 227ZK. Documentary evidence in proceedings for breach of restricted movement requirement[^c-49cd36f160482e25c357d301525bbc4f][^c20919581]
 

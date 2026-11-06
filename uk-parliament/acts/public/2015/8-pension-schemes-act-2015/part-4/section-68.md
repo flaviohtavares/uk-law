@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 68. Restriction on transfers out of unfunded public service defined benefits schemes: Great Britain[^c2249159]
 

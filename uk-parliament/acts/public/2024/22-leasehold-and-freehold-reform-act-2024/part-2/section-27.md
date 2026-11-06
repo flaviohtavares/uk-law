@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (110).** Text as at 2025-03-03. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27. Removal of qualifying period before enfranchisement and extension claims[^c-c5603ef5464071e26489e63c0f70abaf][^c-df284602300a17da5053047528607726]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 24. Duty to arrange a review[^c-bca7b0fa0528a8690c2aefdf993e3c03][^c-2a03855175fe1809027fe3c372f2a21e]
 

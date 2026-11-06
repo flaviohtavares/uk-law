@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 310. Pre-merger vesting declarations[^c-00f4ab84906de3ec5290490583a7c1d6]
 

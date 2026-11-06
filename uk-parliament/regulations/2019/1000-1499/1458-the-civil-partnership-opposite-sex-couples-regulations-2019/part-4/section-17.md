@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Registration of birth of children of civil partners[^c-ac4eb806e9ccb564f43ea8311f0870ac]
 

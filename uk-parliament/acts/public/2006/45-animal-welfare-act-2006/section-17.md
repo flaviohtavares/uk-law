@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Revocation of codes of practice[^c-939501040f54955014e55eaa08a72adb][^c-693c9de18b353f5b7b567117070fbf2b]
 

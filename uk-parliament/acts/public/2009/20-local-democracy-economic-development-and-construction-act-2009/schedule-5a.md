@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 5A — COMBINED AUTHORITIES: OVERVIEW AND SCRUTINY COMMITTEES AND AUDIT COMMITTEES[^c-32e430c1d73491762033890b7fea3cf4][^c-7328a8cc822e04d0c9ba76eef1586e92]
 

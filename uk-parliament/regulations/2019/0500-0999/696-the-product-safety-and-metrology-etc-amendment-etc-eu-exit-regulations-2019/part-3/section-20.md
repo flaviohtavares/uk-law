@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 20. Amendment of the Weights and Measures (Revocations) Regulations 2015[^c-272d4f759aef69438f1341b9580e1383]
 

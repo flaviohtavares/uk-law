@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 89A. Effect of planning permission, etc., on enforcement or breach of condition notice.[^c14924131][^c14924121]
 

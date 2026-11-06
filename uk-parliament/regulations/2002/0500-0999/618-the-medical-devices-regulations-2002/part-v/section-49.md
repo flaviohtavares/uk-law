@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/618
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 49. Fees charged by approved bodies and conformity assessment bodies[^M_E_614125e5-f46b-4024-fb1d-1bdea1ac7f54][^c-8ed7dc1fbed36bb66754703dd697c857]
 

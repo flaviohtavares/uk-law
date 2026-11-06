@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 59. Revocation of authorisation: procedure[^c-684ad0c109eaacaf549f57d3a1602bf1]
 

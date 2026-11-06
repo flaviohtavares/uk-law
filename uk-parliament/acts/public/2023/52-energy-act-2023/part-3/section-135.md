@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 135. Applications for grant etc of gas transporter licence[^c-c67a61bedf7456baddd2d6221dba04e8]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1105
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 27. Duty to take action in respect of pressure equipment or assemblies placed on the market considered not to be in conformity[^M_E_7cf9b2fb-e0f2-4fdf-978a-e31fbb6bf0b0]
 

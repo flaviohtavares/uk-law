@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 1 — Local development orders: procedure[^c-d730a5926ec14169b5c3e777e2f242eb][^c-b592e6e3fab40ba15e5c5c43a2fd1949][^c-32c5ace5491099d1fcc98ef4b799f89c]
 

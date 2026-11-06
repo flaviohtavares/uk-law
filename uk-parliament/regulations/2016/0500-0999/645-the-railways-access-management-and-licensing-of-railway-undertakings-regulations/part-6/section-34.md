@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-03-04.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 34. Monitoring the rail services markets
 

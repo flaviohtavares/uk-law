@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 156. Non-metropolitan transport grants.[^c-c3d753bfacb4fd61660d0007a7a523ca][^c-afa4d55676cdde2fa792f5bd827fd9fe][^c-ba53aa819dfa66b6ca6177e0cd938ee3]
 

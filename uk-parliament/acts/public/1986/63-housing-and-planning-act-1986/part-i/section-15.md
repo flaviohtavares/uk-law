@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2013-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/63
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Grants for improvement or repair of common parts.[^c11871911]
 

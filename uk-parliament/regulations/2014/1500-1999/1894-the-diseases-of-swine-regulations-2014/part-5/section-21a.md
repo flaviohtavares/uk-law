@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-29.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 21A. Removal of feral pig control zones in England[^c-9ca006619d9e504bf79333386a5d837d]
 

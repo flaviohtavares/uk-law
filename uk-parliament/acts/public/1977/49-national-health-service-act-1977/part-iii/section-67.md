@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2013-05-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1977/49
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 67—71. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c13807071]
 

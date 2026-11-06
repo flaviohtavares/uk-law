@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 110. Employment and Support Allowance Regulations (Northern Ireland) 2008[^c-e4699cdf3fd3eb2dd41cb5dbaa647875]
 

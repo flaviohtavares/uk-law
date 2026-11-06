@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Search warrants—safeguards.[^c11314701][^c16913731][^c16914002][^c18907551][^c18907571][^c-be87ea742109f856716f77ca6b48c68a][^c-68bd1be69caa5ff4b780d6a5124b78fb][^M_C_7760a355-2fac-4772-d82d-624b1ffeb8da][^c-3dcd8723fe4ea2e65cda5b1ed39af271][^c-4143cde6e8f3649ca86bc866d16098b8][^c-710f6eaf27f8ab48effa379576146514][^c-12dd8d6224bf6fa8251eecfd78df7335][^c-b6b4d32a52a7f1227efdb90bd3b5f640][^c-57e129cf21a5878448c90aa2a1e5cda9][^c-9328c909989f584557788b2ca971c6be][^c-5a131147436b4c399871da73c9768ecc][^c-527ebdc9270a1679dcdf91e0079edfbf]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 24. False or withheld information relevant to vehicle safety[^c-387562988f0e6dad10a2a914aab8dbc2]
 

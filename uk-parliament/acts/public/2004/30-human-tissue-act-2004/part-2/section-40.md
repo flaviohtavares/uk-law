@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 40. Religious relics[^c-dbec0e9455ea08d8b5cfbd6fd0d77a58][^c-5f7b5b765cc69a42cb7bbdc4c44cf562][^c-b3475919f1f4701d6c797c0041adc429][^c-88b35b1e24b6e17e2ea3ad96b594b840]
 

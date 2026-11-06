@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 226. Right to compensation in respect of certain decisions and orders.[^c14935001][^c14935011][^c14935021][^c14935031][^c14934991]
 

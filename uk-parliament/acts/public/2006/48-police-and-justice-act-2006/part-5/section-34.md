@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 34. Sentences of imprisonment for bail offences[^c-3d137177488361277ea0893dfb1057e5]
 

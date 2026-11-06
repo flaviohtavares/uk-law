@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 34. Lease extensions under the LRA 1967 on payment of premium at peppercorn rent[^c-709d52168539cba4914a8f65c32d98d0]
 

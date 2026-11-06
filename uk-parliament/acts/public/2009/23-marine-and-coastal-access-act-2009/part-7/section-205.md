@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 205. Increase in penalties for certain offences relating to fisheries for shellfish[^c-d0e7fe8833e2e24bd6669b5b7c7649a7][^c-9f4662372686877827e9fef3ca97e401]
 

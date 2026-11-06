@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 167. Provision of social care services: financial assistance[^c-46215ee986a6a2a37aef94137a471c3a][^c-46a55297601e7b403af629af48ff9ca3]
 

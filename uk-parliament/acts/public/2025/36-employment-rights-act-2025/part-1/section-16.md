@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 16. Paternity leave: removal of qualifying period of employment[^c-e8e4e88966a6bc077a5932d5880276ef][^c-329d800d171b300b5d9fe03a3c724b06][^c-5b0fabb3d1aa7db9818098f7dae0c0f6][^c-74a8711a1806cb27fa7ae726f3c5fc93]
 

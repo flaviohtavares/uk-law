@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-03-27.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 28. ROCs to be issued by the Authority in respect of a generating station's RO eligible renewable output
 

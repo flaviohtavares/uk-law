@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 91. Production of licence to the court[^c-3e74e4cb60bc6aff5770fdce62a81c74][^c-a8b9d1c40efb5b5958b0345108ad9678]
 

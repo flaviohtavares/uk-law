@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 89. Social Security (Computation of Earnings) Regulations (Northern Ireland) 1996[^c-300be439cd04af465b64fe699a45081f]
 

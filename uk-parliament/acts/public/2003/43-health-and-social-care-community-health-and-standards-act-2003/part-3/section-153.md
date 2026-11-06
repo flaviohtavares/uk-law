@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 153. Information contained in certificates[^c552127][^c-0e149a3959ab3fd04401de82573b533f][^c-654940da95a4a07c7137e073f962fca9]
 

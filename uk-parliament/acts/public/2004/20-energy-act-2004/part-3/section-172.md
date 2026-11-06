@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-09-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 172. Annual report on security of energy supplies[^c-ef4f965607c318aa077e81e6da923e7e][^c-80ac0680b77fc8a46e05630cb044cd80][^c-e3fbf9874d0e06ac672993772902d700]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 154. Offence of aiding or abetting etc a person to carry out hymenoplasty: Scotland[^c-d36c611ab2104645f854d971918ab34c][^c-15f627b577e0a170c45fc1c38c6c9add]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Students becoming eligible in the course of an academic year[^c-cffd2a59a6d9484badaf029d5fc2160a]
 

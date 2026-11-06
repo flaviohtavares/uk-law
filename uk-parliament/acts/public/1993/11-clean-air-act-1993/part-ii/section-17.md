@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 17. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c10490321]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 75B. Additional adoption leave[^c-6a39798887edd1157552a3dd33f832b6][^c-dbf4c75455751d2eaced897a7a21a798][^c16407471][^c16328681]
 

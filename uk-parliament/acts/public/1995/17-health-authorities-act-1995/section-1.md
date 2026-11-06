@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2013-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c8306551]
 

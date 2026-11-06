@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28. Inspection of farm premises[^c-9e4a870e102f671a5c9c814b0d419210][^c-9de59d3a9d9adc751280ca074fd7a71c]
 

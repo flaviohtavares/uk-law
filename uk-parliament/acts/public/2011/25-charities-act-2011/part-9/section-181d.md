@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 181D. Disqualification orders: variation and revocation[^c-a9947b1d637c24a3ecb82a83ba702716]
 

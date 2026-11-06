@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/69
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 7 — Protection of Certain Mammals (Extent: S) (affected by repeal, see note) Amendment of Acts In Relation To Night Shooting of Hares and Rabbits (Extent: S)[^c-facecdd1c99bfae73e318cabc797128c]
 

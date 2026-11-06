@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 1996-09-24.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 21[^c8802501][^c8802501]
 

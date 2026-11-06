@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 42. County court proceedings in principal registry of Family Division.[^c-4a80748d10b0237c15e563e08a005c58]
 

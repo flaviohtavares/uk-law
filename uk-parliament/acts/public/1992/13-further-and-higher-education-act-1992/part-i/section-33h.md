@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 33H. Duty in relation to promotion of well-being of local area[^c-0b50d998aefb275c470af20f53f7a748][^c-1dc714bc06c48a6f744ef1dcb4317329]
 

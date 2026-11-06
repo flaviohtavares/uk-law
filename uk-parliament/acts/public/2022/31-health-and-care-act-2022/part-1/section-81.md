@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 81. Eradicating slavery and human trafficking in supply chains[^c-b7447d817491ea373c2c96468cb06e12][^c-600b2a8c281dc0071cb8245e2160fd52]
 

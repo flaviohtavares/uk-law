@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 25. Restrictions on impounding.[^c-b1c5813e707964bfed29b7c55a3bf63c][^c-40267432ded02dcc168b8b033cabcc66][^c-a7ff060c5dda008e01a8174d4c7de907][^c-caf33c50c09029a51c0176df4a30c745][^c-da667f667ccee59ab7416071ebb37a06][^c-4ff11bd289593b7e24a43757602c2a89]
 

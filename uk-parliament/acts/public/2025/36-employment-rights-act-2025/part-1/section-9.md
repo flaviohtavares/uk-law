@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 9. Right to request flexible working[^c-db45cc997bc9cb7deaf90c92c5303f4d][^c-caaa1a79fba554cf941c974e40eeff5b]
 

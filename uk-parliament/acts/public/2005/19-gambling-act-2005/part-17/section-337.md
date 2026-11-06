@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 337. Section 336: supplementary[^c-355e1d9a5c9872833ea8bd9f62c216d0][^c-2ef50544269cb1766b7b626e34f696d8]
 

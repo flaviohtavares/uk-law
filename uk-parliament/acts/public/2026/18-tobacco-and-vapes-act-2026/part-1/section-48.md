@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 48. Power to extend Part 1 to other products[^c-758f5ad068d1aaef05f57f9554ea0044][^c-225fefcf14da53416188dbc95a7183db]
 

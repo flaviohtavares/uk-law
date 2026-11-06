@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2012-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8. Regional consultation.[^c-bcb6d03c84a7f7add4cc76ad936a4e05]
 

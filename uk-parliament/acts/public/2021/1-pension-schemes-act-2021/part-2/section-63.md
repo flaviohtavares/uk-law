@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 63. Scheme design requirement[^c24459421][^c-8c695e523804fc6c8a1a04c8a19bc00b]
 

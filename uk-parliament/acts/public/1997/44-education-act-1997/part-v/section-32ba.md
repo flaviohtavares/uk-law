@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32BA. Costs recovery[^c-8b1f1ba3fac04efdbdb334dcdbb003a7][^c-c930802f1461420a9bea0167b2b78a51]
 

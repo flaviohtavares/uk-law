@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 35. Divorce, annulment and judicial separation[^c-2c69e39d84955a01a84bf0c380f5b769]
 

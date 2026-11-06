@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## .... Relaxation of prohibition on provisions protecting directors etc. from liability[^c-51e738214f80b29a4cfb065862c4dea8][^c-f1057ad60d9fff4a0e2cae6c62051514][^c-51e738214f80b29a4cfb065862c4dea8]
 

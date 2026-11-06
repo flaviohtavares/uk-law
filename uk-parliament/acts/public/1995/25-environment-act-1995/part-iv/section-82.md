@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 82. Local authority reviews.[^c-965bcff415ab2bd15eed692c6cbc2353][^c-ec4937d34e7332b32f526669e8135546]
 

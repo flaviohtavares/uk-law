@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1092
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 6. Declaration of conformity, UK marking and inscriptions for category A vessels[^M_E_741d5e32-6e08-42ad-ba88-85f9caa64a3d][^c-72aa3bc739755a1b689a4cd0f27b81f9][^c-642c0a1841e2b27d4bbaea69ed9d7283]
 

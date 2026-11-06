@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## (not yet in force: 49A). (not yet in force: Use of records of goods vehicle examinations,) (not yet in force: etc.)[^c19272101]
 

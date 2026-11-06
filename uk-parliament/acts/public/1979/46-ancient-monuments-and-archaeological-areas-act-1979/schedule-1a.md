@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1979/46
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## SCHEDULE 1A — DETERMINATION OF CERTAIN APPEALS BY PERSON APPOINTED BY THE SCOTTISH MINISTERS[^c-229f0f60e0dfe8b4e06205268515127c]
 

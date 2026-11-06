@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 121. Acquisition of land compulsorily by principal councils.[^c15107681][^c15107691][^c15107701][^c18892021][^c-beece0ab7ef1b24c1621feed87974177][^c-7e83d6b379cb519b885b0b214265e09f][^c-314756c87c0b2fa759a3283dec983a95][^c-4b496e5469639e375bb925ac399810e9][^c-4b6ff0b3878b405f55f29e4b717dffdd][^c-ae338feb044dbafd930dca47518530ba][^c-0249f7fad4b01877faf1e9cb70ebc335]
 

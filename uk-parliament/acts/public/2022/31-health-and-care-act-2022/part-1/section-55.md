@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 55. Directions to NHS trusts[^c-6050b32490a522fd6d0a7d8bb441a7fd][^c-2ca7c93757da5e78ab8aca9158152742]
 

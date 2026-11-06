@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2955
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7.22. Applications under section 10(2) of 1973 Act or section 48(2) of 2004 Act[^c-ded58967ac7753f9db74f558aedf6c5f]
 

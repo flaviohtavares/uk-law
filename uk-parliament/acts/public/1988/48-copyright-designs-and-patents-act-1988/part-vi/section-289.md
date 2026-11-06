@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 289. Transfer of proceedings between High Court and patents county court.[^c-c611986c97025b41c12fa939e7063816]
 

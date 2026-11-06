@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 75. Planning obligations[^c-d7ff564a6152deacc38b0b18f9f8b647][^c-b9fa23b987c74005fa9764e9f8ae9a4a]
 

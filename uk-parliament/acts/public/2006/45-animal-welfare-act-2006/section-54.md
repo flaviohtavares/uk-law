@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 54. Power to stop and detain vehicles[^c-6ae8fc0dbb4fc22b96e3fdded58950ee][^c-df4d9fd21958d92ddfb70aa7e85c53b5]
 

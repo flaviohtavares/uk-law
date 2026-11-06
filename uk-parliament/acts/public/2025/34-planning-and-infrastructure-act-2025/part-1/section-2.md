@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. National policy statements: parliamentary requirements[^c-27c507b432a5037dfdddae7506d8d99f][^c-95a6937da75ae5035ce0a54edc4003e4]
 

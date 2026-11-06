@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2022-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 30. Further provision about remand[^M_I_accc33bd-a093-4232-f729-eb142c7f6691][^M_I_bc6d582a-a1d7-40f3-f147-ee9e97ade4f2][^c-95bc46b4238cddd172ddfe2a0ce1b3af][^c-15eab99c1726f5b0e34e73663f912b65]
 

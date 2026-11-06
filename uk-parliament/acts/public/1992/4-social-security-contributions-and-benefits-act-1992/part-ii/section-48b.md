@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (139).** Text as at 2026-07-08. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 48B. Category B retirement pension for widows and widowers.[^c-c23868f64e3aa9c69a18946ba89a6377][^c-2a1b0c398935befdf84f3b864b5bcb61]
 

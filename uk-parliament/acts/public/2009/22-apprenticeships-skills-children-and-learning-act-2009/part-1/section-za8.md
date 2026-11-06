@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## ZA8. General provision about directions under Chapters ZA1 and A1[^c-15f8a42394fa83d002894302163bc230]
 

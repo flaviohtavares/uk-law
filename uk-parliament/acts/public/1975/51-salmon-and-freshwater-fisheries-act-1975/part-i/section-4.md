@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-06-28.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 4. Poisonous matter and polluting effluent.[^c10048481][^c-4fd8ad7405efe9ec81d98d0bdac4b8d0][^c-b3961807ca25f0b02c2a5de3f4e96214][^c10048471]
 

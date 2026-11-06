@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 94. Removal of requirement to deliver up licence where conditional offer[^c-02fb15d1be001fe2848985cc9bc9de69][^c-ecbea7e73646dc49418636e0204d5b71]
 

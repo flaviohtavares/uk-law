@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 165. Duty to have regard to strategy and policy statement[^c-cd74659333ba8de3cb2ec6b1fae1bd23][^c-231e8af4b89c40eb3fe9f3d1d89b03d9]
 

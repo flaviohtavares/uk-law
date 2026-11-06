@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 11 — Patient choice: undertakings by integrated care boards[^c-51324efbd99ffa2be5c6e07bc927a3e0][^c-d212171baa434c086508095c9384eb8f]
 

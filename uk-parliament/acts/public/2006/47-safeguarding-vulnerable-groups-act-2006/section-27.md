@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27. Prohibition of requirement to produce certain records[^c-c5af8e8a382a2755536347d8e47d84c9]
 

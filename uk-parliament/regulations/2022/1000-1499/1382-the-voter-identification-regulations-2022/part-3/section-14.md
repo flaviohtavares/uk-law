@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 14. Processing of information provided in connection with an identity document application[^c-b8dded78af36d3bb4ba578745b45db92][^c-de100cd8bfc90ba5a9962b1deee2dd81][^c-de100cd8bfc90ba5a9962b1deee2dd81]
 

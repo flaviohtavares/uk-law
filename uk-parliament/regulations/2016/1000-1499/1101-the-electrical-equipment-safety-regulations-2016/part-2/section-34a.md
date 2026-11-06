@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 34A. Obligations which are met by complying with obligations in the Directive[^c-b7dd1d6f6077d62fcc57f4f780f97e75]
 

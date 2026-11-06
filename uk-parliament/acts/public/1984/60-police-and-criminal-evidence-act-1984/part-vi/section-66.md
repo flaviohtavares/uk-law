@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 66. Codes of practice.[^c-313591a4663540bb755002e75867f87c][^c-3028d0e1a1a70b9bf44758faf8dfa29e][^c-4ea2cae439085769d21bd0db33325d74]
 

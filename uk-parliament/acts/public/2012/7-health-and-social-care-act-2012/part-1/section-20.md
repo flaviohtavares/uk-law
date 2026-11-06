@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 20. Regulations as to the exercise of functions by the Board or clinical commissioning groups[^c-02af40dba0c1c12eaa8a38b7fa5575fe][^c2191276]
 

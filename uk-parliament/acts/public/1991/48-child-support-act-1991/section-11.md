@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (110).** Text as at 2022-03-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 11. Maintenance calculations.[^c-4422d57ecddc96ef183268c1da0b0c10][^c-be46e41fee22ef5f2233cc635df79114]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 48. Birds released into the wild as part of re-population programme[^c-0c43d8510794d4eaa641ce37d80fb985]
 

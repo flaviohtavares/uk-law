@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 42. Imprisonment or detention for public protection: termination of licences[^c-316a08ae8ad27d346b4b2d6a2bef89e1][^c-ab5b36692a1ee951ca7dceae2c0030f0]
 

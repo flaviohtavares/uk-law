@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 99. Police reform: minor and consequential amendments[^c-117082fe22be4956d7f0779b44278e41][^c-a466c2dbf229dfc062692592c6517906]
 

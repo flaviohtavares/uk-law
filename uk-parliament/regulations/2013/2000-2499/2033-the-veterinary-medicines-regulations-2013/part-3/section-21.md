@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-05-17.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 21. Records by a holder of a manufacturing authorisation[^M_E_0be44e3a-5467-4a6b-eff7-5d3b971a9faf]
 

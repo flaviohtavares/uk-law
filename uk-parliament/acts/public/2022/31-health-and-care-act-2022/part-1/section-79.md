@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 79. Procurement regulations[^c-ef76a8c512f482475c44e879a1c4b244][^c-5c10e0bc665c1a5eeb4f448609995ed3]
 

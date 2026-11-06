@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 292. Appointment of trustees: general provision[^M_C_4e306b18-ddff-4fc9-e1a1-b4e076fc1c11][^c15578491][^c15578501][^c-4603c216c7cd8e95c4adb9852993f287]
 

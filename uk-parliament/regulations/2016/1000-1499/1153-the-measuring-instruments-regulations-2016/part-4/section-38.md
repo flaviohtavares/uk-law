@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1153
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 38. Presumptions of conformity of regulated measuring instruments[^M_E_f6d7096b-272b-47e2-e5bf-c173dc7f5fa4][^c-2a85131108e0ea5af1ba8b32ac5db27a]
 

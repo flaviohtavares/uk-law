@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 38. Local loans[^c522448][^c-b7802a1979ebf8210852b8a8b244841d][^c-371f3d524ba1c93785c3a964a1024dc5]
 

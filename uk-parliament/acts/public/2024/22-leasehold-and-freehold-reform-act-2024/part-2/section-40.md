@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 40. Replacement of sections 20 and 21 of the LRA 1967[^c-3d93874b16f9b0fa7b4a3335b577edbe]
 

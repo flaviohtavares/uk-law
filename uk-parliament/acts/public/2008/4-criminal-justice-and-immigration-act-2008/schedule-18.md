@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## SCHEDULE 18 — Penalties suitable for enforcement in England and Wales or Northern Ireland[^c-d2db070b5b3f88da20840dff60d3883c]
 

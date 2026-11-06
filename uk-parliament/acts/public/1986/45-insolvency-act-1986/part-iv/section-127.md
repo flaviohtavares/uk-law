@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 127. Avoidance of property dispositions, etc.[^c15572721][^c15572731][^c15572741][^c20465241][^c-b975b0f6ea87afb9d862c22094bd2dbc][^c-fe742f546faa282d50fcc1cca8477fe0]
 

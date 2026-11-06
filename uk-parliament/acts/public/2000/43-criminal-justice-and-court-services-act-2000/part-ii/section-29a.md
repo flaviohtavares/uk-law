@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 29A. Disqualification at discretion of court: adults and juveniles[^c-9b7ac4623c433aeeb48167d3cfbafb8c]
 

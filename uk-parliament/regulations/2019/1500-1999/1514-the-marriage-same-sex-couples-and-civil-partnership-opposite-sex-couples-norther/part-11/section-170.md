@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 170. Overseas relationship dissolved etc before 13th January 2020: treatment as civil partnership[^c-6d709e5c2dd82638b06f7ec60994ec05]
 

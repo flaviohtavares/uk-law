@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 80. Co-operation with the CMA[^c-69f328dd75950f6c41a82b2b94b20270][^c-f7bdc82a856065628f2f5c97540a1f5d]
 

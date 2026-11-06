@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2021-07-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Procedure for designation of zones[^c-2abb5bdef03372c9a3b0490b817837b4][^c-eda09e173ad3a26abc825df574ff3823]
 

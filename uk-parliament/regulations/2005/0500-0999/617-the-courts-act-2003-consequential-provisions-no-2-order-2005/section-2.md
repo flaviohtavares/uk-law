@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2015-03-06.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## 2. Consequential provisions[^c-05ec1ffa58fe583d536c4cee28545af4][^c-aaeb01050333ba322dd649856b6470c8][^c-78a770dc2e1ca540d79816f8eb895b6e][^c-83196c83feb39c0abb9e45243b0110a3]
 

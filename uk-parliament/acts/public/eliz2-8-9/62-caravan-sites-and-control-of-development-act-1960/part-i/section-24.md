@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/8-9/62
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 24. Power of local authorities to provide sites for caravans.[^c6635231][^c6635241][^c-be569b4d78819d84630c7b757860c1b1][^c-ae488aa71aa9bab474c712d572295d16][^c6635221]
 

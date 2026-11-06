@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 106. Confirming receipt of postal signing statements: England and Wales and Scotland[^c-d9e6da08bfb33a069cc5f677a644405e]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2025-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/53
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14. Alterations to lists: matters not to be taken into account in valuation[^c-a9e36512a9bcfbd91545eedd7c2acb30]
 

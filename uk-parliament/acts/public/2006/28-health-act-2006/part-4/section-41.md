@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 41. Local Optical Committees[^c-64d9519ed561b75d2c88c94344fb8006][^c-dcd443eb8160f4cfe3cb30846299da9b]
 

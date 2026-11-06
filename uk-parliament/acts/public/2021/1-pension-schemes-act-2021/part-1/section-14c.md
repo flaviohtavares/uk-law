@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 14C. Unconnected multiple employer schemes: scheme proprietor requirements[^c-d278fac873d3bf7f2731a9a1a97b09a5]
 

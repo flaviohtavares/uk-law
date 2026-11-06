@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 43. Minor and consequential amendments[^c-94c17acc3817318849f7d5f65230281c][^c-f982e7903ba1bcb9abed7207adb5e1a0][^c-f1aa9db8547ce61515eb8a9ccab4a427]
 

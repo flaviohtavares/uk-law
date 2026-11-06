@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## Schedule 3 — The Young People's Learning Agency for England[^c-cafa472897a044a214d2d8008e590c56]
 

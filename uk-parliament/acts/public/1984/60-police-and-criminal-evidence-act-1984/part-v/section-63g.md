@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63G. Retention of section 63D material by virtue of section 63F(5): consent of Commissioner[^c-7bdfe5cb61f5ae49080ab440ce4b98bc][^c-79a4270398d6aec30343ee2fb7c91cff]
 

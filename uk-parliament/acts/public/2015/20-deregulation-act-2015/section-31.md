@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 31. Tenancy deposits: non-compliance with requirements (affected by repeal, see note)[^c-84d53b6a712250e3287519c9bd537edf][^c-84d53b6a712250e3287519c9bd537edf]
 

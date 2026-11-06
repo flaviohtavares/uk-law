@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 48. Imposition of relevant restrictions[^c-9c68ae34266aaaea761173ee46d75fc3]
 

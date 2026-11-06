@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1975/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 3. Provisions supplementary to sections 1 and 2.[^c10754571][^c10754581][^c10754561]
 

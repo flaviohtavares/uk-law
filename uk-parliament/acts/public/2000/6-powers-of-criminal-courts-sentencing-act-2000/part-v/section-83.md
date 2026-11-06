@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2024-05-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 83. Restriction on imposing custodial sentences on persons not legally represented.[^c-a17c5bb163c1759e000f88636e13be76]
 

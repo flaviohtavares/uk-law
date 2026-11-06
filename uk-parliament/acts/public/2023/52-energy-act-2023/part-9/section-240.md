@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 240. Prohibitions and requirements: supplemental[^c-14faa9331a78a2f8085de7dec4cc94e8][^c-bf7d78ac601ecd0506a6b538f72d9341]
 

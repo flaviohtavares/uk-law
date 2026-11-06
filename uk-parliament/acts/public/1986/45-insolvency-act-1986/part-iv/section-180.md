@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 180. Land subject to rentcharge.[^c20432131][^c20432151][^c-59923de76231fabbf89208f177b7e227][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-3bd499ae81820c21cb9454afa956558d][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

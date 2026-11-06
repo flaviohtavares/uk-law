@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 12. Amendment of the REACH Enforcement Regulations 2008[^c-dcd6508d431c1aa19ce93d7216a0b1d8][^c-ddebefee3df956c5a3b14036e06abe00]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/618
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 50. Products incorrectly marked with an approved body or conformity assessment body number[^M_E_c5d084ed-cf2d-44e2-90e4-5ffbdcfd432a][^c-d3c26b8c7d699ee72008e4ab40df6e60]
 

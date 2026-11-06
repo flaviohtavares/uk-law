@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 190. Strategic direction statement[^c-f693b57b7fced5800026968ea1785e6c][^c-6a8cb4e8892649b60b05b981d53db6ce]
 

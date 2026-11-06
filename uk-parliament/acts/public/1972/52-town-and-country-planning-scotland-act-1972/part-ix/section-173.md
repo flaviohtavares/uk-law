@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 173. Power to refuse to confirm purchase notice where land has restricted use by virtue of previous planning permission.[^c14929231]
 

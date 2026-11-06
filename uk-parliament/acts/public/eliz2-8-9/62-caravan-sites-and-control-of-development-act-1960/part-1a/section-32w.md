@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/8-9/62
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 32W. Local authority power to carry out steps in an improvement notice[^c-5d252332d2bd9795baa55dc5fb3928d4]
 

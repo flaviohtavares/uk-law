@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2025-06-25. See https://www.legislation.gov.uk/changes/affected/asp/2006/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 41E. Reports on investigations[^c-f9f6e2dbac5c48b8031bf72eacac3e7d]
 

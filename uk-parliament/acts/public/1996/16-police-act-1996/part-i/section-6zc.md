@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 6ZC. Reports by the Common Council[^c-ca0d51e13a1bb9376adb7f60d41a22d4][^c-781a0815183ce4063162b672856e2610]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 244A. Release on licence of prisoners serving sentence under section 278 of the Sentencing Code etc[^c-d9664381025e1f7cfd87d966ee4b6910][^c-ad9c2bc53516bdc69645a8f71e932e46][^c-155c0f69a8116c840c0366b45e57112f][^c-1685a02ce653a5293667f4152e268d38][^c-2c2a6c3a65d97a4e6674ff21608cfd10]
 

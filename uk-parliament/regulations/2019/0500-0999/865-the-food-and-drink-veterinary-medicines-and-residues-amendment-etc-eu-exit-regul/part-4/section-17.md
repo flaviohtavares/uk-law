@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 17. The Veterinary Medicines Regulations 2013[^c-41bfb2a642ee35bd15a64ae1e963b752]
 

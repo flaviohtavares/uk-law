@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/53
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 110B. Payment notices: payee's notice in default of payer's notice[^c-899a6462055dc8d3e08885bec4b8663d][^c-27cfbad8be3eef0931747447e4151b93]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1597
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 11. Annex IV machinery manufactured fully in accordance with designated standards and fully covered by such standards[^M_E_861e9d15-babc-43a9-8ed4-15580ff74601][^M_F_7a5fe72d-a87d-4c17-e57c-2d192200c3ab]
 

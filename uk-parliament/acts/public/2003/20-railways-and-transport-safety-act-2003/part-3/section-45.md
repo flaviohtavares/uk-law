@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 45. Regulation of procedure and practice[^c-cecce826b4780f30b8e70099708e09d4]
 

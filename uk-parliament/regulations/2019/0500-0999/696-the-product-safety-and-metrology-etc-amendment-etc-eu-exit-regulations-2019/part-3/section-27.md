@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 27. Amendment of the Pressure Equipment (Safety) Regulations 2016[^c-6cfa2b6d52136a7df7bcd9bfccdeb74e]
 

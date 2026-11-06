@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 22. Power of the Secretary of State to make implementing measures[^c-936ae8eda00877277291a5e54cac6d07]
 

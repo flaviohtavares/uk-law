@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 242. Sanctions, offences and recovery of costs[^c-ab64251e99ccf2836ac6fa1a342407a8][^c-0a038975ca5ef8c72e73ea050f834509]
 

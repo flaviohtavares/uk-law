@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2017-04-01.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 9. Powers of entry.[^c1031056]
 

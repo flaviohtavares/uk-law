@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 35. Special items for purposes of section 34.[^c12076581][^c12076591][^c-1304ad51e0298e9c29d2496b54843766]
 

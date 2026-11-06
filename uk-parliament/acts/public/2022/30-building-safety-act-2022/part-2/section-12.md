@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Committees: power to amend or repeal[^c-33ef0509c6975d429e3045e4dca78452][^c-9534d797a6454d68f391b8f2631cec05]
 

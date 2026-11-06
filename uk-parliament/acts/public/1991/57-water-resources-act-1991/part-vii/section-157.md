@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 157. Restriction on disposals of compulsorily acquired land.[^c-871a369e226519aaa4e17ed6506fba94][^c-686f00f80dd99b25bad270a59146eeb6][^c-068932a21c9080cb4c3c08893077a1f2][^c-fb8f7add2e9f7c65fd15459f2a30e274]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. Guidance on fly-tipping enforcement in England[^c-300a7018411a86abb63ee7d7a52237c0]
 

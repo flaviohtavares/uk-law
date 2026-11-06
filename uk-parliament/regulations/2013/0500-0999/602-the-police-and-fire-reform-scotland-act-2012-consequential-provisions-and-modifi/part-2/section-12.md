@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2024-05-01. See https://www.legislation.gov.uk/changes/affected/uksi/2013/602
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 12. Independent custody visiting[^c-ce9f1fd1c44c4a2679af3072966c465f]
 

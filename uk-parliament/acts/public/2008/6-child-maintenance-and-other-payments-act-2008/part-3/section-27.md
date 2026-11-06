@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2023-09-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 27. Disqualification for holding or obtaining travel authorisation[^c-fc9d63e4897f6595273e8f9fa018b6dc][^c-31e9b7da379b5d235afd5a5f188ca0c1]
 

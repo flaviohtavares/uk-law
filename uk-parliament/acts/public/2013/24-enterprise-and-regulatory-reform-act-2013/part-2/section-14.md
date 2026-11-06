@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2025-08-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/24
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 14. Confidentiality of negotiations before termination of employment[^c-1152a730325abfd77eb5aa60ef7cbfc4]
 

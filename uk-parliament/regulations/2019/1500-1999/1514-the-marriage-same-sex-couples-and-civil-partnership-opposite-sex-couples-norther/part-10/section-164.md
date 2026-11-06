@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 164. Regional Business Services Organisation (Membership and Procedure) Regulations (Northern Ireland) 2009[^c-7f4cd09b28f1caf6cd7579b80c77e044]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 41. Registers.[^c18904341][^c-336f48416270a1af22469588c75f204b]
 

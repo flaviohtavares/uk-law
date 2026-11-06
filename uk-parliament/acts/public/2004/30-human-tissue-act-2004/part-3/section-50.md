@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 50. Prosecutions[^c-d7224e318d34f8018600ad35b91be0ec][^c-c4e00084e845374a4cf0006828b7f9b6][^c-743eb31f986111c87f24b44cee466e3d][^c-0c4a8d96c3f4db729ba6f7b460f17579]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2023-12-26. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo6/12-13-14/97
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 13. Improvement of waterways for purposes of open-air recreation.[^M_C_43cad16b-83b1-427d-fdee-c9dbfecbd9b8]
 

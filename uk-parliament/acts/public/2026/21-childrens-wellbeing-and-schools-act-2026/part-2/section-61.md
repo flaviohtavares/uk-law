@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 61. Co-operation between schools and local authorities[^c-caf5d43cb78f2e5b7da6eb4bcabcc339]
 

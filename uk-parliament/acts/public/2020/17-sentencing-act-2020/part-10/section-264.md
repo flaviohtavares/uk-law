@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 264. Suspended sentence order for offender under 21: availability[^c-bc8012754d12209bd4d713223404385f][^c-7dfccea315cd0e1b503b945466817e95][^c-db299a1a13261803e9e961bb5faa787b]
 

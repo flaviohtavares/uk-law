@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/27
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## 3A. Exercise of designated regulatory functions etc[^c-3a3bde362e4a517aea4732e8e6a54f6f][^c-040c7c9b80823e443c8ef5bc4ab2233c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 50. Power of Local Government Boundary Commission to make incidental etc provision[^c-7a6716ce81ea323d6610d082b59220ad][^c-a04c3152a254cc849d37cafecdb71397]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27. Exceptions and further provision about consent and notification[^c-712580d18ecacbd5b13580cbed873d68][^c-2ab8a19bcb532332bb885e05ba278caa]
 

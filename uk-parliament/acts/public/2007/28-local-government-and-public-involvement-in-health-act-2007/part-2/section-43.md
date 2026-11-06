@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 43. Local Government Boundary Commission to consider whether electoral review is necessary[^c-e95583470145a2ab1efb9c92938ad554][^c-f6ca0ccf98f2ecd622ec0eede3255565]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2026-01-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1971/77
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 28A. Arrest without warrant.[^c18681271][^c-5a988c4ca2a9354185024e11cc2a88df][^c9590721][^c-d66e253535507db4fe9d2195c8a81d09][^c18682261]
 

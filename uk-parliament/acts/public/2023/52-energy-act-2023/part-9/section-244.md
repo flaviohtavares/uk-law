@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 244. Regulations: procedure and supplemental[^c-d562b6d0dda4274858e0b633f34179c3][^c-fdf72fb177b6d6fb0e3671691299435b]
 

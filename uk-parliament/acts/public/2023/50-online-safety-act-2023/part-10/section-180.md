@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 180. Exemptions from offence under section 179[^c-cf27b9fd9cd3bd4ce6bd0606c42a876a][^c-cdd3cd545743292a32add8bf99e1fdd5]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 163A. Restructuring of registered societies: registration of successor bodies[^M_C_21276f88-85f2-4256-c94d-b90cc0705757][^c-9fceaa4f3534b1e9e0940c789acf3875]
 

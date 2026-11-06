@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 16. Treatment after exposure to infection.[^c10345211][^c-5daf4d689e5b277a87510555d92f7a67][^c-f278294c882e17d22086cf33901aded8][^c-8e5fb36344300c84200aa99144ae2f8a][^c-f3788496dfe9ce30c915da9e6d504b60]
 

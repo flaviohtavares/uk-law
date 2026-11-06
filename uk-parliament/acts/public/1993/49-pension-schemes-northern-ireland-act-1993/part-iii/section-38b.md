@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (70).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/49
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 38B. Determination and alteration of rates of contributions, and rebates, applicable under section 38A.[^c-5f56af08ded5f8a2f5e3ac7c0fc95023]
 

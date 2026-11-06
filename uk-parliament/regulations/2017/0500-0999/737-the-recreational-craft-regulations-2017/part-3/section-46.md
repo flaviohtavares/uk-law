@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2017/737
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 46. Noise emissions: recreational craft[^c-ca458c984016b6526f075edfbe3896ce][^M_E_bb185177-e021-49c5-b2a1-6fc2379827ac]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (71).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46A (Extent: W). Further provision as to local election voting in Wales (Extent: W)[^c-36ba0cc4dda67e34325430e51010b9fa][^c14479931]
 

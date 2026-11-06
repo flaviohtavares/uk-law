@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 24. General functions of the Society in respect of pharmacy technicians’ and prospective pharmacy technicians’ education, training and the acquisition of experience[^c-44845bc8703bf4e52045263f17d0cd1c]
 

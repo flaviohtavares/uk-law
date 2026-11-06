@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 267A. Application of Chapter 6 to pre-4 April 2005 cases[^c-3c57c2c7140b24f751e2ea79b57bbdf6][^c-afbd7eb5ad23987c66adcc9992eafe55]
 

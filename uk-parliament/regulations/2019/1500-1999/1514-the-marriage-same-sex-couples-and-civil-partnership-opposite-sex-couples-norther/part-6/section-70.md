@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 70. Social Security (Northern Ireland) Order 1998[^c-32d7602edd90b317603b4482794e5464]
 

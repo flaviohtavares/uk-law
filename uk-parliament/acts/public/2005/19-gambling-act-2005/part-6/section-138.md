@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 138. Conviction[^c-e91c1df59838d56f62855913ba23aff4][^c-b91b4450fb503a3b47fb51f92755c42a][^c-d30e6153792745f08a3ed82119938612][^c-b91b4450fb503a3b47fb51f92755c42a]
 

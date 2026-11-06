@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 255B. Automatic release : relevant young offenders[^c-1f245ec9ec10746a986d2fd3dbf3ffc7][^c-ad9c2bc53516bdc69645a8f71e932e46][^c-155c0f69a8116c840c0366b45e57112f][^c-5b748e93a862f26e0f8cfc22d8f55d85]
 

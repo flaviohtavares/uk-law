@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Legitimacy of children of civil partners[^c-d0b95467c990cd4bcc1b26a6fd647fa5]
 

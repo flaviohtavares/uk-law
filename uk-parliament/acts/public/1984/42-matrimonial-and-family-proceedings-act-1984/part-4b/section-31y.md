@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31Y. Guidance for legal representatives appointed under section 31W(6)[^c-dee58ceba3289d5b49035bca98a2b2ba]
 

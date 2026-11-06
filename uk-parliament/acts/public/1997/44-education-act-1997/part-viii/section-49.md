@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 49. Power to make regulations: teachers not under contract of employment and persons having access to those under 19.[^c-bb10fa2a3efb45b6d3a1b4441f4ca499]
 

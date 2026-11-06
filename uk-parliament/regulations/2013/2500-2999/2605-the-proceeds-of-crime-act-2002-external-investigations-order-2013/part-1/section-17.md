@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-04-26.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 17. Requirements for making of disclosure order[^c-855be7e89effa5c731f43a99ab2d2a20]
 

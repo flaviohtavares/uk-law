@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 167A. Regulations as to compensation in respect of orders relating to mineral working.[^c14928551][^c14928571][^c14928551]
 

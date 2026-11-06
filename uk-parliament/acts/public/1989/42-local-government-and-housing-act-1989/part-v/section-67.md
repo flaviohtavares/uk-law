@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (36).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/42
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 67. Application of, and orders under, Part V.[^c-40dffe2d3c5e187b51ed3c5dffead435][^c15273411][^c-8262a6cac5da2f781e87ea12142f4792]
 

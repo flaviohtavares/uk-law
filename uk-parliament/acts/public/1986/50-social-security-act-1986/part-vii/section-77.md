@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2010-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/50
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 77. Refreshments for school pupils.[^c3751501][^c3751511]
 

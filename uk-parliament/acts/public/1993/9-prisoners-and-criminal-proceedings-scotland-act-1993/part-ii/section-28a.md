@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 28A. Prints, samples etc. in criminal investigations: supplementary provisions.[^c12928581]
 

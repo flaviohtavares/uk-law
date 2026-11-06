@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 73. Purchase of tobacco on behalf of others[^c-68b1ca7844f3fa221d00c1e42c0ec6a9]
 

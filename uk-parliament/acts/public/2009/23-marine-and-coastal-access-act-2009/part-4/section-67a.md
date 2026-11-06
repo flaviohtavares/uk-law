@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 67A. Advice and other assistance from the Welsh Ministers[^c-0ecd90a5e8b9e06d6792af6a18887a1f][^c-e241fbef02a7a474fe663f951bb6dc5f][^c-b8edb0507b833f17adc39da03d3f6379]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2014-12-02.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 35. Section 34: supplemental[^c1534203]
 

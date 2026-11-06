@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2024-05-01. See https://www.legislation.gov.uk/changes/affected/uksi/2013/602
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 9. Causing disaffection[^c-868f0f52754d3e40b7d27563a7bc6c72]
 

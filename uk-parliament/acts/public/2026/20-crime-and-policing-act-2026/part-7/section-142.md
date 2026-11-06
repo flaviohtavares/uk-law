@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 142. Domestic abuse protection orders[^c-fcb032d0a407c8107752428ac5568559]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 36. Time limits in relation to section 21 notices and proceedings (affected by repeal, see note)[^c-09693ead7848c19f967d8997d6fc9e5a][^c-ba443a201038ad76c217678840dc9840][^c-ba443a201038ad76c217678840dc9840]
 

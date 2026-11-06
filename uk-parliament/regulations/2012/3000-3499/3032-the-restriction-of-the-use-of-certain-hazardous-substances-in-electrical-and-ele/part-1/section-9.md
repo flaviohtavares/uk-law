@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 9. Presumption of conformity for EEE[^M_E_29a11f9e-b6ad-4f39-a2d6-0d00eb9688d9]
 

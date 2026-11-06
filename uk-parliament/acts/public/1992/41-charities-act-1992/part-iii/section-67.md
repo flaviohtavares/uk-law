@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 67. Applications for permits to conduct public charitable collections.[^c-f2fa8b6dd2649d6aaee917f0eee5adfa]
 

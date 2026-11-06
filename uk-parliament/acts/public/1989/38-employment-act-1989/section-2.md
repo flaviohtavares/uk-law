@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2018-01-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 2. Power of Secretary of State to repeal statutory provisions requiring discrimination as respects employment or training.[^c-7be528fdb39ae51e678f410530daa377]
 

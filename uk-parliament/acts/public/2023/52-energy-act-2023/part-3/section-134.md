@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 134. Grant, extension or restriction of gas transporter licence by Secretary of State[^c-3feaebad583cf55955afe15def1455a0]
 

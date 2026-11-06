@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 44. Orders made on conviction for reimbursement of expenses[^c-c8d531ad335c2dc1e6c8db04389b0164][^c-b18d3805a1df2aa761474b13d8242b5f]
 

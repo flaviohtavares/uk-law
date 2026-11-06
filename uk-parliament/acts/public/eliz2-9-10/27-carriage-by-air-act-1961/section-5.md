@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2020-12-31. See https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/9-10/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland; Scotland (the versions of this text differ in extent).
 
 ## 5. Time for bringing proceedings.[^c12406981][^c-abf7e08d5ba0366ba3ec36e3477e7f6e][^c-d5c8b51ee990114a3fa956ee5766ba54][^c12406971]
 

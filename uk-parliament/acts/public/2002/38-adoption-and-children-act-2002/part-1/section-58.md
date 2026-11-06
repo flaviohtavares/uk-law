@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 58. Disclosure of other information[^c-3e3b39ed68ec68634c2ff931ff07528a][^c-1f8143fde4baca80087f94acd35e16d7]
 

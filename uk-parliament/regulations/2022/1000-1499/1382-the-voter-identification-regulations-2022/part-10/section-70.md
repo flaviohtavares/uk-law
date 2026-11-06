@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 70. Amendment of regulation 3 (interpretation)[^c-fd6f2c35d053b5903dc55c35d68144cb]
 

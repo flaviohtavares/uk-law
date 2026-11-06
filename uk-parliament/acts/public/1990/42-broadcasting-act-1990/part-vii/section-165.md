@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 165. Inclusion in programme services in Northern Ireland of material likely to stir up hatred etc.
 

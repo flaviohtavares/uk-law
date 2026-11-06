@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 75. Consequential revocations, savings and amendments[^M_E_b93349a9-8cb5-4957-cfaf-e325a7944b57]
 

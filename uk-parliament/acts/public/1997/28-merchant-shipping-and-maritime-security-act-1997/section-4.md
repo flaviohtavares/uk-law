@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2015-03-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 4. Powers of fire authorities.[^M_F_83f6ace8-1b9f-4731-a9b7-1ba5cc9313ac]
 

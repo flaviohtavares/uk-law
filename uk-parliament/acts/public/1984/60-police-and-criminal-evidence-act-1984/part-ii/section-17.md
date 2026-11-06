@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Entry for purpose of arrest etc.[^c16916551][^c-31078bf28355778d75e79071855fe878][^c-1b07f24f6a957fa01bec6490cca4d7c3][^c-af81d8f0e3cb1d4fe8a8fbbdafc144e9]
 

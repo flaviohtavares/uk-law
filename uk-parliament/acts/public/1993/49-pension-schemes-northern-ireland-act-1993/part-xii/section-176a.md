@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (70).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/49
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 176A. Interpretation of references to money purchase contracted-out schemes or appropriate schemes after abolition date[^c-2598a0160d8d5c80b6cbce16ffe63e7c]
 

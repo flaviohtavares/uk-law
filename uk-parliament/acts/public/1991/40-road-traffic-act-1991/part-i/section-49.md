@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2024-11-28. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 49. Omission of enactments not brought into force.[^c-b01b5834cabe1495f8e9879d45f01cf1]
 

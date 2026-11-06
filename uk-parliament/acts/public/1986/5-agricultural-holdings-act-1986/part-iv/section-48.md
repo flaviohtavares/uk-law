@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 48. Arbitration or third party determination on terms of new tenancy.[^c-b7e8300cdcc09e3855579414bcdbf243]
 

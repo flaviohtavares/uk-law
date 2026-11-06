@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 32. Triggering event periods[^c24459091][^c-faa7552dc2a2ffe71dbad3659dd95841]
 

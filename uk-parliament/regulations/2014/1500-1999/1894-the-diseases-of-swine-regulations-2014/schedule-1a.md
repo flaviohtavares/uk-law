@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-29.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## Schedule 1A — Restriction of movement of pig products from premises that are later designated as infected premises under regulation 10A[^c-346a45588e2235315a6d8f98cebe7893]
 

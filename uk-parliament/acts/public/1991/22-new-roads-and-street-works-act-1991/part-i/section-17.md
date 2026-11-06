@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (403).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Restriction of access to toll roads.[^c-629e0440d5b1332233fead68f481de40]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Duty to collaborate in exercise of victim support functions[^c-d070e58ee79f3727464ec5790cd5a5a9]
 

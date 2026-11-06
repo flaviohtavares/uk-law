@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2024-11-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 9G. References by the Lord Chancellor[^c-fc2d6cb4149353adf06420fdb53ad188]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16. Payments in respect of quality[^c-7c0cf6ec40c1fbad9d2d7d978e4644ae][^c-76cc23953da932cd8f3f2def56a33b63]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (173).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. Requirement to have auditor panel[^c-57dbd25f67fde6c82af6a397ddce2175][^c-54257f3c88ad892b4bf995b58a5e7413]
 

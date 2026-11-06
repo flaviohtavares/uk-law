@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 197. Accelerated investigation procedure in respect of criminal conduct[^c-66f1a01ce373d68d163895d008fc2554][^c-0abba4c904807e2655f372edd5e3284e]
 

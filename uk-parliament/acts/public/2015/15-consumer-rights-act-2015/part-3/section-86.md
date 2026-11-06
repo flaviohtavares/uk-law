@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 86. Letting agency work and property management work[^c-18aecc02fadccc6c440070192ea1b2a8][^c-a561dc92d136f55c7b5923030392041a]
 

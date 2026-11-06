@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 83. Designation of air quality management areas.[^c-5c80079a40e14f18bde5c2d8e01c95bf][^c-702807d837e33817be90c3d57be7890e]
 

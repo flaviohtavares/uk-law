@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5. Applications for development consent: removal of certain pre-application requirements[^c-57485c220caf30d37a04c515f167d452][^c-2013ba415e0cbb2fb3de1b685ef44f2e]
 

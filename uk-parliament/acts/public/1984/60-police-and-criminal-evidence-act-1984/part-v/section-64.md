@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 64. Destruction of fingerprints and samples.[^c-c5c57fb5b1e7b9c6e5cca801e5f440ff][^c11328461][^c11328471][^c19560171]
 

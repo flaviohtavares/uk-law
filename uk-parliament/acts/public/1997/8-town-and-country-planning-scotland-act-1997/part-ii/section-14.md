@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 14. Publication of and publicity for strategic development plan[^c-c72cca038f96a310e653f2f03a98f5d8]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 216. Compensation[^c-04cfbb0ef6b45ff2e1ca430de3732f50][^c-e9c5c0db386db5401298c314e865324c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 165. Rejection of application[^c-6ea99758c6737079c6890aee3fa6a4fd][^c-74033bde1bf0506fff83059dd03f4096][^c-4f3165959e739c91837542fcec6e89c8][^c-b7f22b930ed4c2a13cc94d5e24124aa8]
 

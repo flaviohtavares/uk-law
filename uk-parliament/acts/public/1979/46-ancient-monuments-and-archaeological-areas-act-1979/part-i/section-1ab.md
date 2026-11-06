@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1979/46
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 1AB. Interim protection pending decisions on certain amendments relating to the Schedule[^c-41386694842e777b2e5a51fdd728ce8f]
 

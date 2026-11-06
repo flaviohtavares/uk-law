@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/27
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## 69. Help for disadvantaged groups of electricity customers.[^c-ff6a7068eedb427a469811963189baec]
 

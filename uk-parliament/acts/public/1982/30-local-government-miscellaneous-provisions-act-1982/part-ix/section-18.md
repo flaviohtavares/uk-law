@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1982/30
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 18, 19. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-0511699d50a32fddf9a767231f9a9b2e][^c2548961]
 

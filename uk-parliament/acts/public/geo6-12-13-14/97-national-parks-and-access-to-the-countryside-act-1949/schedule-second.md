@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2023-12-26. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo6/12-13-14/97
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SECOND SCHEDULE — General Restrictions to be observed by Persons having access to Open Country or Waterways by virtue of Part V of Act
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (62).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 8 — Consents of the Secretary of State and the Scottish Ministers under Sections 36 and 37[^c4121631][^c-a4ad109dcaa6d989c1105b6747358baa][^c-49d952f664a3e546d7cf22b0c31a68db][^c-8c239c442e0865d8918a5b079f1c8f11][^c-c879a8cf2d35283d5e148b1afcf417d4]
 

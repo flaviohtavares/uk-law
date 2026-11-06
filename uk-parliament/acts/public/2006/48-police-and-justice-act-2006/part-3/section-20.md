@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 20. Guidance and regulations regarding crime and disorder matters[^c-3af71b3f48766e1817d65f6d6a611137][^c-82e7bb675f16607371550948000e77cd]
 

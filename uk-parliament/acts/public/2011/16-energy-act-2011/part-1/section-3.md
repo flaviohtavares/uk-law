@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 3. Framework regulations[^c-139b4b5f824bbb11fa3f837e2cf0f7ae]
 

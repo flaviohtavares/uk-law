@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 44. Issue of warrant of arrest[^c-6ff5b2867522c5a1e70f8bf6daf2bc7f]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 71. Disclosure of information etc: interaction with external constraints[^c-93beeea2d6d066fe25a5be89dc5b7c0f][^c-0969bdc53043b52d9cca7fbf8fcda8d0]
 

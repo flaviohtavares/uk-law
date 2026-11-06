@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-04-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/24
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 37. Role of companion at disciplinary or grievance hearing[^c-57d4aa2882e1f4b3786ad8977f01e817]
 

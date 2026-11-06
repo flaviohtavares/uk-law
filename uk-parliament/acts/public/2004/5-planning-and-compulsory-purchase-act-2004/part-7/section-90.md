@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 90. Crown application of Scottish planning Acts[^c-89af07ed857a5119b9f591c9e192582a]
 

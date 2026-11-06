@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 29. Caveat against issue of marriage schedule.[^c-5d65b8b7f6a33b14ea28e81545de27a1][^c-c898f7a5800b3f42e0c6454cec446a45][^c6281521][^c-d323a677a79239569abc6e4263e94935]
 

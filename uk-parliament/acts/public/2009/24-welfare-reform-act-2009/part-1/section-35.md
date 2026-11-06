@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (25).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/24
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 35. Persons under pensionable age to take part in work-focused interviews etc.[^c-72ae36ce0245e8b459454c18e5049a2a][^c-83d2d45c8ca6ebfc0ce0085347e02d43]
 

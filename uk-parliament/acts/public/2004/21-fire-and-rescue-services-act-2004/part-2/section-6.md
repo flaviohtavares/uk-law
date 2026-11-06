@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 6. Fire safety[^c-638ec2e3285d51b882074dfababcfb0c][^c-2a7f16d62704c0c48d75282a7a7d0665]
 

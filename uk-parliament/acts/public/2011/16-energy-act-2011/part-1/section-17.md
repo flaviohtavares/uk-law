@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 17. Power to modify energy licences in connection with green deal payments[^c-58b487a4762246a9936f16b1264476da]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 181A. Information for bus passengers[^c-07cb8509ed11b24250d3969d6d12e23e]
 

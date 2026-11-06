@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 35. Contents of injunctions[^c-69bf8fccd96ac6f79063c04cb4f5a1d8]
 

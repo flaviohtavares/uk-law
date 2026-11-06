@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 497. General default powers.[^c15251711][^c15251721][^c15251731][^c15251741][^c-28394aa4eef60f8a04cbc425cf3142a5][^c-56f00ec6623f3f267774f7282c90b477][^c-d31bdfb672af482624d0be001950017b][^c-96a797994d73caa3f1bfeb5b959f8f6b][^c-52a6b5be6e448cd972492d3ed8fcf514][^c-1fff8dbb84e591e1c6183c6475fbb04b][^c-6a83c93a031045ea8e0ec3fb2bf1a68e][^c-105dfb4efe27805ab924c020df88f432][^c-d25ef5460b7967f1379d1a195029df47][^c-82a348dc118451fcd9da0287330a6e7d][^c-11f35104a277e7af2aff46a6f97d94ee][^c-3a637ebd7932342930fa083a3ca92c85][^c-0b224bb6388a0742f771facda70ea7db][^c-1bc6bc8d92a0ae33d13ed783014e3e6f][^c-68225d2e60f4b29f6b15defd063bc06a][^c-c05a8f3632b7702dd82ba2e3e10c5d0b][^c-5861bc7b44c7077564c5fcfa931328f4][^c-82a348dc118451fcd9da0287330a6e7d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (31).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 76. Rent[^c-eac9585a6e716378979a52e936e351e8]
 

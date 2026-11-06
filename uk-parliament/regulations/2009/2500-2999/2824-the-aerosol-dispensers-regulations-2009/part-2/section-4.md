@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 4. Prohibition of sale or supply of unmarked relevant aerosol dispensers[^M_E_982cf6c3-0463-4b1a-e16b-a94871c9c9c4][^c-7aa313dfcc7b18bb4b96fca03b90dd6f]
 

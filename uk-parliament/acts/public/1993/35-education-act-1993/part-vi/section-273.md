@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 273. Power to make and deal with proposals in the case of schools eligible for grant-maintained status.[^c1400564]
 

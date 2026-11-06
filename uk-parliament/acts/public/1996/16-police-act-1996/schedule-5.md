@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 5 — The Police Complaints Authority[^c-c8f7ff418e6934ec4c9d286c5953834e]
 

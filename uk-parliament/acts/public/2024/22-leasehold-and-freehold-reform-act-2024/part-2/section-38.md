@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 38. Costs of enfranchisement and extension under the LRA 1967[^c-467a49b6fa1be9de55e442c1f1cf3b23]
 

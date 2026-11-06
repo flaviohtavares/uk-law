@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 1. Imprisonment for life on further conviction for certain offences.[^c-3b003e7838409f7ed3f0c401e02dc09a]
 

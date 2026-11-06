@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 223. Criminal lifestyle[^c-b90e7fdf8040efee84fd683d6e275dc8][^c-e3634034bab4be7cd4cb838ceea63874][^c-e3634034bab4be7cd4cb838ceea63874]
 

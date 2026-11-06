@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 132. Body ceasing to be a responsible body[^c-26cbca13abb5a6902ca0052acb67f979][^c-4da9d83c46b66f2124930a04d9d070e5]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 88. Publicity relating to schemes[^c-8f0272f36b2aae2514fa8c917949be3b][^c-8733088bb4a7fd6a4fee3faa90772571]
 

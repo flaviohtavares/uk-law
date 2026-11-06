@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 39. Reports on fisheries.[^c8102871]
 

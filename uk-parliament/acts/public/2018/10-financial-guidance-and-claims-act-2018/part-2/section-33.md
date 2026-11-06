@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 33. Legal services regulators' rules: charges for claims management services[^c-318de9e376b9382eb81d0ea77c3ce1d3]
 

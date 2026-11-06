@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-02-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/9
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 34. Arrangements under Employment and Training Act 1973.
 

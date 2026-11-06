@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (57).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. Recovery of insurance premiums by way of costs[^c22555481][^c-2617cd4a0679aacd5c35095a821a4f8f]
 

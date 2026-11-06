@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (20).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 508. Guidance for regulatory and prosecuting authorities: England, Wales and Northern Ireland[^c20617941][^c-22e8df7d6c049c512f7312efc09e240b][^c19906541]
 

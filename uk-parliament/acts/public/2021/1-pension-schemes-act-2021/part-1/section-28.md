@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 28. Duty to notify the Pensions Regulator of significant events[^c24459051][^c-0e7647f0fca5e410eea755d8cab4fbb5]
 

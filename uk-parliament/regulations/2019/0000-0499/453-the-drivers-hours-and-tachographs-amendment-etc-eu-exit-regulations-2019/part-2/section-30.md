@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 30. Road Safety (Financial Penalty Deposit) (Appropriate Amount) Order 2009[^c-25c73f9cd9d6a942ba5cde8568990cf3]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 34. Marriages normally to be solemnized in registration district in which one party resides.[^c6282071][^c-c898f7a5800b3f42e0c6454cec446a45]
 

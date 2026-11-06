@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5B. Offences relating to information[^c-42208f28176e6efc39a7c70e754aa4d9][^c-1c9073dc7fffef29345a68238274c654]
 

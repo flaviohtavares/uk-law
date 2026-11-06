@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-09-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 173. Appeals to the CMA[^c-38b0c5d3f428d10795e7d272db7d8b8b][^c-e3fbf9874d0e06ac672993772902d700][^c-b7d35e6e5946b8d30cf0582d9f8cc774]
 

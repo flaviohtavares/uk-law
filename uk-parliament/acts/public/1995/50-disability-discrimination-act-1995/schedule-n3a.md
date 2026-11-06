@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-01-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 3A — VALIDITY OF CONTRACTS, COLLECTIVE AGREEMENTS AND RULES OF UNDERTAKINGS[^c20475821]
 

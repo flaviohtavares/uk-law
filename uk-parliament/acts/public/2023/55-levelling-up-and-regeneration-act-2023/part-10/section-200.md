@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 200. Restriction on works while final notice in force[^c-388a06e7977bb7250ae1f124e0bf216b][^c-b3b9c921ab457ad3e29325a0c91b9f2e]
 

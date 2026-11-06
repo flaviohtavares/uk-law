@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2024-05-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 140. Enforcement of ... recognizances forfeited by Crown Court.[^c-84af9cb0bb02b66f4f5e3734cb200600]
 

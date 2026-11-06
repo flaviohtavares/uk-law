@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 126. Vehicles used without operator's licence: power to return detained vehicles[^c2199638][^c-f23452244a9e8c512d2b48eb6c7ffe44]
 

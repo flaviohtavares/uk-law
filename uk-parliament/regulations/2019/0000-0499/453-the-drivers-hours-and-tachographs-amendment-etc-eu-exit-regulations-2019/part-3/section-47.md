@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 47. Road Traffic (Foreign Vehicles) Act 1972[^c-9f950ad5faf79c5d85a276a0df29a341]
 

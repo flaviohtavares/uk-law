@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 175. Sexual harm prevention orders: power to impose positive requirements[^c-2e33a5bec92d6c5778207cd5e0fb420f][^c-e60651fff7361d9b6cb89e664cdcbbf0]
 

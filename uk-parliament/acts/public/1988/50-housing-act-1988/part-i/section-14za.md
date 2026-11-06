@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/50
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 14ZA. Effect of determination: rent payable[^c-e97aa2ea48368dc9f3c8ec26e6a57fa2]
 

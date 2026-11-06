@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 26. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c10032991]
 

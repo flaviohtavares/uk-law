@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 123. Registration of rights[^c-bfc6272cc1b7dc54d008da1f263e1244]
 

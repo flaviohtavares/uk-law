@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2021-07-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 51. Corresponding provision for Northern Ireland[^c-e7280aedba9557ded514299d5d8b0fa0][^c-3807405b0fd63406655aaafee01b4d2f][^c-dec186562444ab4b000c29ec3bf4f167][^c-eb4fa880f778f401b9a7e3e99584c879][^c-10c2cc4f5fc8e864745a5d3c68310af0][^c-306046f79cb6e4adf565f0f0502a26d0]
 

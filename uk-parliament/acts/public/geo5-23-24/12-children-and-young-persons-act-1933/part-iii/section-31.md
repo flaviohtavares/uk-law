@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5/23-24/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31. Separation of children and young persons from adults in police stations, courts, &c.[^c-5b8a1c4bbd2d5b96d4e5339f6bb13ced]
 

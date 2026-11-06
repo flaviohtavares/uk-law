@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 44. Power to make provision about elections.[^c1427897][^c-c407599e55e4c9264714d5d484ebb0b4][^c-516aebed5122006d01a074b1c29bdf93]
 

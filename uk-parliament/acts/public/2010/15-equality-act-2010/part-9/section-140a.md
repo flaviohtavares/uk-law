@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 140A. Extension of time limits because of mediation in certain cross-border disputes[^c-ef5d4245b8d46f5c05fbd2c443515c61]
 

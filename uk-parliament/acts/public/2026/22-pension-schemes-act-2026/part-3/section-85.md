@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 85. Provision of information by responsible body to trustees[^c-dfabb07573ff555cdfc14332d3b8ca1b]
 

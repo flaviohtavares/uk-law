@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 4. Strategic development planning authorities[^c-c72cca038f96a310e653f2f03a98f5d8]
 

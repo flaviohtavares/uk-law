@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 171. Applications by British Transport Police and Ministry of Defence Police[^c-be9dfc1b0033314a320034de39407507][^c-9c766bc9a2e6cefb595e6b313106ab8a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 27C. Display of notice while development is carried out[^c-2810ea29c1601cbdfb74a62ef6fa7c5d][^c-90ba054c2b090d0db841c0713740467b]
 

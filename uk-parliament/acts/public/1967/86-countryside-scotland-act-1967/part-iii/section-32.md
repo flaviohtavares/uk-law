@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2019-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1967/86
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 32. Exercise of powers under ss. 30 and 31.[^c-d11da4db6e03d88de91848bb62a99a05]
 

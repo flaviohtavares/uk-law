@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 39. General restriction on selection by ability[^c-0279368d0c96a642b53b5f25c757eff2][^c-4518da2cbf7942b31924c9cc76675a5a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 36A. Applications: types of abstraction licence[^c-b0bd3fb1c901509416a958651e967724][^c-ee43ed3694c0e3945485577ed5e0850d]
 

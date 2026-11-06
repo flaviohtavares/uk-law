@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 106. Standing orders.[^c19911851][^c19911831][^c15105941][^c15105951][^c18889981][^c20520961][^c20528641][^c-2fd7306b2baedbeb0c01b1214adcc5bf][^c-4a954e6abb73c2fc0030490aceec4318][^c-b0a0bfaffcd54ef6eb6524028a163d46][^c-93cf8419b7ad3267f5aebd26e9f8ddb6][^c-0cb6c4ebe8f09356f59b67b1ff8dcd4a][^c-cd04618408353e3fc2c52b3272702f70][^c-7007d6f164434ea0c5812cbe90ed4413][^c-ad5ab3aadb311cd7f71fe5d7047bb3d1][^c-efd383982142221f7abecb1c755b587d][^c-f6807b9e489248f9d6fe38026847e2e9][^c-b19b88f23d1ad9135220027e9d79c292][^c-6e72622222b04e3a9d9168e396479d4a][^c-f7ad9684fa93d61632f1c9f2f53baf15]
 

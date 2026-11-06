@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (261).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 2A — Offence of keeping vehicle which does not meet insurance requirements: immobilisation, removal and disposal of vehicles[^c-e4dfa0594c89fc45e00a659a76d78c22]
 

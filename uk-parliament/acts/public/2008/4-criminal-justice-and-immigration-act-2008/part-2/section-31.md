@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31. Recall of life prisoners: abolition of requirement for recommendation by Parole Board[^c-78cd92a1bed39c6cc6ca4cc6f599bca6]
 

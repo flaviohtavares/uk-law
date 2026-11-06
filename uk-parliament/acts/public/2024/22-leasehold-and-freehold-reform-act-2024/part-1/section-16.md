@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16. Redress regulations: exercising and giving effect to the right to acquire[^c-82addc828f60dc692fd20823e6ab564a]
 

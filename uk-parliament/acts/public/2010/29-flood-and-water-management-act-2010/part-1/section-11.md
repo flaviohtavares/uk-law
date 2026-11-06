@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-12-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/29
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 11. Effect of national and local strategies: England[^c-380b051a2ca3cc12f72c390e8210b6c3][^c-cab8f0afdb55cf533925e1caa2be051c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 1A. Application[^c-1f5f02bc7b35f0eababde825a4fc81c6]
 

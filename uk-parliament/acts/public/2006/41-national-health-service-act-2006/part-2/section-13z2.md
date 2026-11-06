@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13Z2. Failure by the Board to discharge any of its functions[^c-b34524861daa6ae6c75294ad70893ff6][^c-c17c605fbd7569f0644650e6ed66435c]
 

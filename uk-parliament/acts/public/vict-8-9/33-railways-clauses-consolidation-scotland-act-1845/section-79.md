@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2017-12-28.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 79. Company to employ locomotive power, carriages, &c[^c5590011][^c-4408e2e1e6a029dd1553ff32f6662a4c]
 

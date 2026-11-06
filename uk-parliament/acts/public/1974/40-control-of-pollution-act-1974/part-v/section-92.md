@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 92. Provisions supplementary to s. 91.[^c2459711][^c2459721][^c2459731][^c-1a45caf7a4117fcdce084c6c1a5a096a][^c-980deb4e8de441bf0490a77670102638][^c-1364831b58b5978312a844b4a11f5cab][^c-4d62d7c551b6b614431aee56d98db040][^c-5f5756d5dee88a2b2c50588c6c2abd51]
 

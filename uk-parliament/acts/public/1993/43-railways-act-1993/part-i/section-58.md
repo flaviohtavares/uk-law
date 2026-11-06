@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 58. Power to require information etc for purposes of sections 55 and 57A.[^c19324881][^c-929dc95eac7afac443ea4e095b07fde3][^c14105401]
 

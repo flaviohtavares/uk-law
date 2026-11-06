@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 52ZC. Determination of whether increase is excessive[^c-9b0b177d30648d76b2fa3f3a3017c687][^c-847797d587d469cd7ad0e14c5aebf0b5][^c-6e7ef88ffa521f0c646645ea0a191527]
 

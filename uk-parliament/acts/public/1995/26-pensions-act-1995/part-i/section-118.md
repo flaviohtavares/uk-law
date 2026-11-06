@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 118. Powers to modify this Part.[^c-6afc6d6d94b7f7966928a3720042b200][^c-b9d3c8e11b0e38d6323facfba479c45f]
 

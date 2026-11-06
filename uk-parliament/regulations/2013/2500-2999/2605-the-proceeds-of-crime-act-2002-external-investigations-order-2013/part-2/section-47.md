@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-04-26.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 47. Search warrants[^c-4c5a9bc7c2de99ff8177a7deb883fbbb]
 

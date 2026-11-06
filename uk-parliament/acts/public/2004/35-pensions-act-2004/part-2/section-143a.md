@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 143A. Determinations under section 143[^M_C_c47eb3a0-61a3-4ed8-a689-9875793031ca][^c-0edc76f94172939eb0bab2ff3f33d9f6]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2024-01-25. See https://www.legislation.gov.uk/changes/affected/ukcm/1986/3
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England.
 
 ## 33. Transfer of advowson subject to trust of land or comprised in settled land.[^c-25935109290354e67c0c368263a69b0a]
 

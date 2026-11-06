@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-10-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 12. Pipe-lines.[^c4789601][^c4789591]
 

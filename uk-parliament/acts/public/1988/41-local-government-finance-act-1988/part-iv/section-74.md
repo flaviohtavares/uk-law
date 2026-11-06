@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (93).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/41
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 74. Levies.[^c13071091][^c13071101][^c13071111][^c-058d03eaff8b36043db4eeb18a9da41a][^c-5e9d081e15cd5595dd587f8fc124cf07][^c-ad8892c2dc4f3fbfd2ca7a0701e1ba26]
 

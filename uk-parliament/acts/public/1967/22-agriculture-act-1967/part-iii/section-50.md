@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1967/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 50. Control of sale of certain land: exceptions and supplemental provisions.[^c14214041][^c14214051][^c14214031]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2025-01-17. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 5 — Tribunal jurisdictions to which section 38 applies[^c-9f3a979b5f04ed1052f6d68f6f695c63][^c-0657e8a0a73e20e030a59769f756f2e6]
 

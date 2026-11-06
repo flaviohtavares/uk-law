@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 237. Making of order where offender subject to other order or sentence of detention[^c-edff13ea09c6090c74d1f5f03e5bb5f9][^c-eca003c404d364f044cc7865c44652a6][^c-475138cb26403cfd0af0e345e7aac88f]
 

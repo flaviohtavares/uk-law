@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 702. Delivery to registrar of accounts and reports of oversea company.[^c17419201][^c17419191]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-15.
 >
-> Extent: England, Wales.
+> Extent: England.
 
 ## 55A. Prescribing software and supply shortages etc. of medicines[^c-b623ad940be547ce9cbf75cd9bac539a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (62).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 36B. Duties in relation to navigation[^c-55ee841f297839fd18975da669a4946f][^c-3f076c6f5fdcbd3f2247d5a514b147b3]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Interpretation and territorial sea[^c16418451][^c-2101846e542f7d721b511f1b09c4a7c0][^c-f26287244ba86b6680f8fccf7e83c641]
 

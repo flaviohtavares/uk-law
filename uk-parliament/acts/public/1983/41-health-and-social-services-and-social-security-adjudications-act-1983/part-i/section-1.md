@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2016-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 1. Joint financing of community services in England and Wales.[^c-51f03246fca814b42ce126cfeab1b672]
 

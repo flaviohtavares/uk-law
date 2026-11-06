@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 88. New regulation 69A (additional requirements: applications for an emergency proxy signature in respect of a particular petition on grounds relating to identification: England and Wales and Scotland)[^c-76008256f9cf3071487a9f3156b19a74]
 

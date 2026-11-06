@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-18.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 78. Powers of sampling.[^M_F_97e11b53-8d96-4df0-b09d-7bec08b3f757]
 

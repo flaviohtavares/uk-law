@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5B. Marriages involving person of acquired gender[^c-d3b3f8767b89ba4b0042ea1844ce1c01]
 

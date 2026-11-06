@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 73B. Supplementary provisions for purposes of section 73A[^c-c19229d866e13afe36d39b34d22ef788]
 

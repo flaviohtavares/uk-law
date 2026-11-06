@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 76. Limitation of estate management charges: time limits[^c-bef10f6a91275b93589d4e4a1e9bf337]
 

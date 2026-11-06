@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. Destruction in the interests of the animal[^c-b3616adde26aaa2c757cae5ea2e7a054][^c-e4ed1583967ae655e483a3e3f1423fe3][^c-352877e2888b5c1466b3af1982ca9894]
 

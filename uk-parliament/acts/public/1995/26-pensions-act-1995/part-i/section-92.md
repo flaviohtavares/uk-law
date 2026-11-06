@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 92. Forfeiture, etc.[^c-1f7545aa511b94a354c523c23b45f4eb][^c-9e767a6721c75ddc832c03c2d89f4ad7][^c-769743a955fb59a526d3df9633e1c84c][^c-40ce2967412d10a6f55f74929ffc2f6a]
 

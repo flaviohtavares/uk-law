@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 45. Pre-charge bail[^c-4b6966a68e2b6fe3c20042b0c196f61c][^c-9c0d8ff5ebee19373e7ff0315178a54e][^c-068b0a51076f59eb89663c3b708e6af9]
 

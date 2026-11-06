@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 9 — Community orders and suspended sentence orders: requirements[^c-9bc2f132d64c758d2ccb7b999786aaf0][^c-17bb615d4e64a10af928914a16e91f64][^c-9bcd54630655e26ee6aafd184f7f77f5][^c-f1d8dbd64f00218d06f586bfcecb5d27]
 

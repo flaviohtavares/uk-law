@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 22. Manufacturers’ authorised representatives[^M_E_54e8556c-11f4-482d-e29e-0dbf68286ce0]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 60ZD. The Independent Commission for Reconciliation and Information Recovery[^c-2b412792f1ba0d1baf5ac0d109893852]
 

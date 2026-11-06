@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 111A. Appeals on ground of error of law etc in child support proceedings[^c-c2a28b1049215ae6308325c7f9616ed5][^c20644701][^c-5acb3de1b9a3a2ec453fdf2c717fb4bf]
 

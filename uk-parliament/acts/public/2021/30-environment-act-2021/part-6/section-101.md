@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 101. Biodiversity credits[^c-5cb43d535e86fb642a1bd2b006b0f3d0][^c-b630ad5ca5877b658696b0cb86ed3c3a]
 

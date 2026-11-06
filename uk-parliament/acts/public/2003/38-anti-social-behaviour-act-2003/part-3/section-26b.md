@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 26B. Parenting orders in respect of anti-social behaviour: relevant housing providers[^c-fbe2cd37b0f3b871efba2e958a93b226][^c-29e275c7a65436980da27b9eaa35c7a2]
 

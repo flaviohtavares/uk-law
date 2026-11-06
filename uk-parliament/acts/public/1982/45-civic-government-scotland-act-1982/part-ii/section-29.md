@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-03-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1982/45
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 29. Metal dealers’ exemption warrants.[^c-9d2082d11a6a07e4a61aa9eb23956dac]
 

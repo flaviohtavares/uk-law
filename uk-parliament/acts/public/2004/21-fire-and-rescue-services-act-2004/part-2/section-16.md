@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 16. Arrangements for discharge of functions by others[^c-fddcdbc9a377db9379cdbcbff44461fd][^c-5a40f5c3ead2ece96bb87ff1bdefc8ae]
 

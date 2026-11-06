@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 94. New ground for serious offences or breach of prohibitions etc[^c-7f557b28440053e41ae8af4ffeff09fe][^c-7dc5134758fc8462ebca9bcd22f513c2]
 

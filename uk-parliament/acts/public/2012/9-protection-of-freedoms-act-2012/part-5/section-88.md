@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 88. Transfer of functions to DBS and dissolution of ISA[^M_C_ad96d749-25ac-47b8-bc2f-bdf9159dc381][^c-e12ec2708a6bc1281da7d560a71167e0][^c-32031bfce043005f021c119e9e547a68]
 

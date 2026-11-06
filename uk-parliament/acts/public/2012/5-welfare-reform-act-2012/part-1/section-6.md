@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 6. Restrictions on entitlement[^c-25ebab03817d7e49ede7140e796f722e][^c-f0c316d9d1b0dfd0e226e5ef4e030922][^c-bfbef271c6735f972206961f0a4a1433][^c-4c95ba387eb6a5d574f1e0b47da53099][^c-fbf8f092dc83e0f993507a29328f6867][^c-453dac5d29c36d14c8c492550bdf34fa][^c-5670de025133be0d17ae658910bd9f0d][^c-4d73d2fa6cf8b39cf57b7e77c0ad7582][^c-c286ccd54cb8cd92476a2790da0ba7ac][^c-e3a6ea51a6951fa30fb5ffd8dcfd846d][^c-658b40a1b9c9d4f3f01353836ef09514][^c-81df5cdd853ae1f25fc077de6a00561a][^c-a689751809325a8b48c194eb353fd7aa][^c-bf421162c30b5b4656c3d2c6a6714caa][^c-4d4243fe6a92bd2dee328856ea7c3474][^c-0e82954dff57a2d7dcc4fe26e6a6e936][^c-a39475249011ef1bc4748d7454f82b8a][^c-479cd33494cc36469754749d473691bd][^c-f0c316d9d1b0dfd0e226e5ef4e030922]
 

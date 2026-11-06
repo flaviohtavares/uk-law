@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 100. Biodiversity gain site register[^c-b7e2ff67d244bfa194eb67bc915cb3e3][^c-35d55983c0848b7ef94632d8cb70df54][^c-a3ed8504d2ea7da04f1a21b3e261546a]
 

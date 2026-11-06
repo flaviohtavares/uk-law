@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 90. Contracting-out (Transfer and Transfer Payment) Regulations (Northern Ireland) 1996[^c-e113793fbacb7fafd4f854e4e5a0f6d2]
 

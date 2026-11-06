@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 177. Review into disputes relating to treatment of critically ill children[^c-be6bec6ca4470919fd34131002c51a4e][^c-9172f5ab2e9b1992118a9a0b8fb16503]
 

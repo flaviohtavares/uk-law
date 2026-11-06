@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/33
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 60. Powers to stop and search in anticipation of , or after violence.[^c13102651][^c19800411][^c-481f1bd49faaf227edc9bcbdf73621c0]
 

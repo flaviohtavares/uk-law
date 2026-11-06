@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/anaw/2016/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6. Application for registration as a service provider[^c-2f7b39b6efadc7884de3f90f81c0dcea][^c-6f7ed9175b077e3b9d91c63736824f44][^c-655c75c582faeda6c922237197a257d5]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-03-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 175. Further amendments of the Data Protection Act 1998 (c. 29)[^c-4abfecd4937f13506c0348dbbe2c478a][^c-f55bdc22ae3c4239840f0f1018bb7bf8]
 

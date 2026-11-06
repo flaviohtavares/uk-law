@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 12. Statutory sick pay in Northern Ireland: removal of waiting period[^c-7a9cfca13640f26429ee23feeaeaf52e][^c-cbd77de2e2bdb48e258587c28ede858f]
 

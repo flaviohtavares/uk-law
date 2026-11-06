@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 76. Regulations about sulphur content of oil fuel for furnaces or engines.[^c2458231][^c2458241]
 

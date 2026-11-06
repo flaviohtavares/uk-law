@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (403).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 50. Street works licences.[^c14149011][^c-291d6cace0f4206c8bb391567f96ce05][^c-2e238da54f16df477f5ae00fdc926848][^c-9222d5f07e67cf4efc720f8189838528][^c-8bfa2eeba4bb367ebd732648cfa72a3d][^c-ff0a47f926e4c101068f53eac4019851][^c-76180f0ca251652b855bf86e5b091b1b][^c-304a596386f1af81a6d8fb1e5e2fb60d][^c-e302150f40fd5bbd322ce63baa7715a3]
 

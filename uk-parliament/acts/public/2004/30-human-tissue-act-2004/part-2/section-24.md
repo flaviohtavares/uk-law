@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 24. Changes of licence circumstance[^c-a308ac145e55d9b3bdb6a78284045286][^c-ecb352d75a43edb0a46c962158645047][^c-efe22d6002a36d284c15fda6cc528763][^c-8c33ee04e8f14c7033784368e1e9312e][^c-4050013055bd17a5102db74191e016b9][^c-6326ef0684cc31f4a27be5d4edeeaa1d][^c-4749444ce2b9b8e8ff059d8c762c5db7][^c-27d7df2cdfda35a06b154f00dac05e7e]
 

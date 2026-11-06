@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8. NHS England: wider effect of decisions[^c-618fc99075c244ff84c6da3546b7c1fa][^c-d9df9c625b17f93f17c216c975342933]
 

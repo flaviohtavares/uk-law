@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Determination by advisory councils of the cases in which the requirement for Christian collective worship is not to apply.[^c12669251]
 

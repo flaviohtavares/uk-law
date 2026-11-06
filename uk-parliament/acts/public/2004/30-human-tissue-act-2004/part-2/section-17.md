@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 17. Persons to whom licence applies[^c-068066811b12f5e382b948aaa15d1487][^c-da74e77c3708b724f1e7cac0bac27cb1][^c-def9f4d5d5778ae817bf390ffea86a24][^c-62529f7227bd0371dc507c0562ac7e65][^c-744cde771018be203c25b7294f66ea55][^c-745dc808fb5747baaf97a0648c3da844]
 

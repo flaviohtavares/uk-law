@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2018-01-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 4 — Dissolution of Training Commission: Amendments of the Industrial Training Act 1982
 

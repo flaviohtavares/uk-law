@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 137. Administrators: further provision[^c-ed5ec700bb542af2d9d614f753e8469f][^c-d59f6c2a9c42161ca1815c0c61d9e1f6][^c-d59f6c2a9c42161ca1815c0c61d9e1f6]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 1A — Table of REACH transitional provisions relating to EU exit[^c-47d76310a4ff943e2dc2e36c2b5ef529]
 

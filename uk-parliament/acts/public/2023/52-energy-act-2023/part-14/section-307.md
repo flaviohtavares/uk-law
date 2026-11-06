@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 307. Provision of additional police services[^c-c9d1357c6b1da6616efa9b6051e04dda]
 

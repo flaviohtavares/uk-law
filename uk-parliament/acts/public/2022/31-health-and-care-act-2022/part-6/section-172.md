@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 172. Advertising of less healthy food and drink[^c-61079409a94183587bfe773270b23aa4]
 

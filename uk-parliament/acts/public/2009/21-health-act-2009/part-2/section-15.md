@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. De-authorisation of NHS foundation trusts[^c-aa7d6c03822c8d49c057ff4b1947d789]
 

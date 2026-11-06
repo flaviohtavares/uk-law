@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 30. SEN and disability local offer[^c-bd03fb95653682961118ab318d834528][^c-d25dcadb70bcbf7d4b6fbecbff2c4548][^c-856f99ef9a648684c6c18a933c85beff]
 

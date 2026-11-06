@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-13.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 7. General duty relating to placing on the market or putting into service[^M_E_9804d4cb-cd14-4bb9-d97d-cb411b3ccba5]
 

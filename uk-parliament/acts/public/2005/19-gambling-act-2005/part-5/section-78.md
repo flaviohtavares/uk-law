@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 78. Condition imposed by Secretary of State[^c-62b8c429b5a79b23eb3d071a378a4bd1][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-e1f6e585bac667309e250f830e864ec8][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-e1f6e585bac667309e250f830e864ec8]
 

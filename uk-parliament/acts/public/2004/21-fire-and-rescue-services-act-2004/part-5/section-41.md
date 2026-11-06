@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 41. Supply by other persons[^c-085d4185df34cabdafd090b615791121][^c-3b6eef564474a556c3681710e38c6e9c]
 

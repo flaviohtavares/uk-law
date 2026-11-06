@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/69
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 18B. Group 1 offences and licences: power to enter premises[^c19474171][^M_E_f1318b42-c01e-41f8-91c4-c89e210f2297][^c19474071]
 

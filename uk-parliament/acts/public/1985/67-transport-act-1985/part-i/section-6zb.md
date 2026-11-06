@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (54).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 6ZB (Extent: S.). Provision of service information: extent of permissible disclosure (Extent: S.)[^c-29c8323716e26d9d3fe79d912962da22][^c-7a32c36e455ab12566af169d3cbce188]
 

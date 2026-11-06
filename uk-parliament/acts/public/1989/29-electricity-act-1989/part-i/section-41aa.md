@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (62).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 41AA. Scottish Ministers' promotion of reductions in carbon emissions: electricity suppliers[^c-ff2df4c0a0b7f6cd983f860d1d2efd7f]
 

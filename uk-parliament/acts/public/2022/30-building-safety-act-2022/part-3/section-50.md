@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 50. Cancellation of initial notice[^c-1bfa1a2a88f228d1a46fa5032fc56739][^c-7d39ee08f8ab8e6a1726da1e5c332315][^c-c3828a8321cc1de2f8ccab7948d04247][^c-6d3b7350430108e0bd7d2cd3cc495533][^c-c0b7a1d4280ad4bc4ef58d63413c1987]
 

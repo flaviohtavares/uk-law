@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1976/63
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4. General right to bail of accused persons and others.[^c-b964c732198643b87f0ac638dfd77e09]
 

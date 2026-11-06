@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 71A (Extent: EWS). Grounds relating to identification: England and Wales and Scotland (Extent: EWS)[^c-2132779ff77d460056b136dd32307cbe]
 

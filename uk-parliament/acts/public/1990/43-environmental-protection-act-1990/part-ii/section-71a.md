@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (25).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: S..
 
 ## 71A. Information from authorities on unauthorised or harmful deposit, treatment or disposal etc. of waste: Scotland[^c-d0b2d2416deef24e1470d364c3160fe1]
 

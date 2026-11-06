@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12A. Power of Secretary of State to direct advisory council to revoke determination or discharge duty.[^c12669321][^c12669311]
 

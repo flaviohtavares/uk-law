@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 124. Meaning of relevant disposal and exempt disposal for the purposes ofsections 120 to 123.
 

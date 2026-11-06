@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 301. Creditors’ committee.[^M_C_27fcd6a1-1b01-40ba-f131-dcdc24145780][^c15579141][^c15579151]
 

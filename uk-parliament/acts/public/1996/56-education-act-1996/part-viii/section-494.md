@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 494. Recoupment: excluded pupils.[^c-6e88f1a50e3b22f7c90c46351bd3415f][^c17957901][^c15251481][^c-2305e3ffc1b51565431480a418a50bd2][^c17957881]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 244. Road user charging schemes in London[^c-b4b2492e8fe98fd712cc5bb3040a0fc7]
 

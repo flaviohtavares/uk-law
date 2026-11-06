@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 18 — Life sentence for second listed offence etc: new Schedule 15B to Criminal Justice Act 2003[^c-0f8bf3b133b266443d52a49c033ee340]
 

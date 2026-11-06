@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/618
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 11. UK marking of general medical devices that come within the scope of this Part and other legislation[^M_E_d3ab7c91-3719-42ba-a367-0289f916e0b8][^c-eb341c9e082139499450473271403f76]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (46).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63. Amendments and repeals[^c-4b0b5808ca89a29c7d4c831c462d1d8b][^c-d14cba503a8ed913f3c6fbaf204fa04b][^c-6e486e6c87c7a4331c26464a2ef3d942][^c-8491627e8eb489690fe1fdc9a19ab413][^c-a70f068e3f24924301be1fede7ebd990]
 

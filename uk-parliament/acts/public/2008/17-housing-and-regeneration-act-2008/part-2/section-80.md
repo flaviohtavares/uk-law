@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 80. Provider of social housing[^c-bf9e69f0b107623f82590b33e0b8acf6][^c-644b50f57bbc8019ff00d98daf75e3ae]
 

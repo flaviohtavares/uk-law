@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2010-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 43. Connections with water mains and communications with sewers.[^c859819]
 

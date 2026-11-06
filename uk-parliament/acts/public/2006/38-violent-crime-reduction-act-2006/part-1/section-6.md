@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2021-07-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6. Orders on conviction in criminal proceedings[^c-c424a6dba3ad50e10309e0de28e0f238][^c-df68fab1cc5b4639351a356727eb11bb][^c-9c5a358de0985e30071a8a04df88771b]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2012-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 55. Power to authorise amendment of taxi fare byelaws.
 

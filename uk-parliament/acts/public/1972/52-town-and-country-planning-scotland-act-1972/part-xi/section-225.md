@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 225. Objections to orders under ss. 222 and 224.[^c14934921][^c14934931][^c14934941][^c14934951][^c14934961][^c14934971][^c14934911]
 

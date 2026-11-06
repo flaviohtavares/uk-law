@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 67. Systems and processes requirements[^c24480751][^c-da93065304c5bec94957ad2f83daf154]
 

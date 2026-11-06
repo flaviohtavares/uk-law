@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (145).** Text as at 2026-06-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 215A. Statutory periodic tenancies: deposit received before 6 April 2007 (affected by repeal, see note)[^c-6b584d157e9b20e62cf3051912d526ae][^c-6ae86811922a729e3b1d19a97df44ba7][^c-6ae86811922a729e3b1d19a97df44ba7]
 

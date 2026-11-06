@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 95. Surrender of licences and test certificates by new drivers[^c-3afd2cf95dd08b0c71271718fd83ffae][^c-e7e81defa2cbb1090580b7e77841c83c]
 

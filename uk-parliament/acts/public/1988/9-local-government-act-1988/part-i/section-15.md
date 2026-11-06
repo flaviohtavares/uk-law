@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 15. Orders, regulations, specifications and directions.[^c-ce07114f8a41d85b469a1fccdaa6e69b]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/69
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28E. Duties in relation to sites of special scientific interest.[^c-721a48237a9bb08dcfbb55833bb760f9][^c-48bf0be9cd8f67868edca67452309e37][^c-0586be5884a7ebd7fb61dbfedf5934c3][^c-f711f5d7051671ad1e7247f9fb4055a6][^c-f8bf4c7f140c0899b5b3c80bd1d65a48][^c-779a2d9575fadbfbddd92f590c22d79d][^M_C_ff0164d6-b814-4c70-d072-da50a4436c2b][^c4943411]
 

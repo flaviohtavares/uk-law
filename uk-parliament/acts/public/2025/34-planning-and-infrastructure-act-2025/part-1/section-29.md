@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 29. Use of forestry estate for renewable electricity[^c-64ca9eaf02d9c468a50dbec5dc452733][^c-fcfcf481055b2f32408f68a869571bfa]
 

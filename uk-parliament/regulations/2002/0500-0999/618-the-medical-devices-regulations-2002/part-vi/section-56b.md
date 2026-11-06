@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/618
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 56B. Circumstances in which a fee is payable in relation to a consultation on the safety, quality and usefulness of a medicinal substance incorporated in a device[^c-e9ca138a55d697abebdcfc8cd93692eb]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## (not yet in force: 17V). (not yet in force: Resolution of disputes and entry into) (not yet in force: NHS) (not yet in force: contracts: pharmaceutical care services contracts)[^c20973211]
 

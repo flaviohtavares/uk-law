@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 8. Interpretation of existing private legal instruments[^c-f7383c2e273a193dcd0cabc3237324ff]
 

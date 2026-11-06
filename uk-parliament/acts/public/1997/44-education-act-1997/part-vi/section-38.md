@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 38. Inspection of local authorities in Wales.[^c-1eeb1640897d2ccb6be9635f69b503d9][^c-ceb00244a7e53e94eb1fe9e53ab84a50][^c-7c64da374ce9daca07f42f0083363f13]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 43. Notice of works affecting water supply and fire hydrants[^c-130f3b0312ce3d317970771b2233ced9][^c-76e0ca0b998f8f467f8e4176d8636754]
 

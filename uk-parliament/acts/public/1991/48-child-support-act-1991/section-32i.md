@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (110).** Text as at 2022-03-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 32I. Power to disapply sections 32G(1) and (2) and 32H(2)(b) and (4)(b)[^c-dc53b5369fd8d40a3547f604c026b30b]
 

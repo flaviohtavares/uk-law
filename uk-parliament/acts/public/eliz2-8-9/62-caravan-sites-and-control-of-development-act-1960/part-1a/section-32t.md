@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/8-9/62
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 32T. Relevant permanent sites: breach of licence conditions[^c-231a426d5264589732293766d9299b57]
 

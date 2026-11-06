@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 74. Part of building for which an accountable person is responsible[^c-5de64d2bba80e4097d4625794865c95b][^c-0744162b50731f99a88b698d9584387f]
 

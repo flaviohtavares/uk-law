@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 60. Duration of public spaces protection orders[^c-3ec92cd8b188e0a514cc3bbf8f691b5a][^c-af478f558e07b47ea28bab171c7b1d2a]
 

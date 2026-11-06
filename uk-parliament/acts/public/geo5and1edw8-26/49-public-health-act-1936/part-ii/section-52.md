@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 52. Care of sanitary conveniences used in common.[^c611473][^c611474][^c-f5e640afc314aaaa671f4da73f65c25f][^c-e0c897e7ebe6be1e533d589d3312419b][^c-d4fcf980ccfb45cccb189820e9c4a11f][^c-914df304c42dee9b15cffe3956edd9e4][^c-f0e2939ae3231eb9f4645e3331143be0][^c-8585a6dabfaa18f1eff741de336946de][^c-cd06ad13de65932670c667bf1909e783]
 

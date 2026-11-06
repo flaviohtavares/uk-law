@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 56. Power to make further provision[^c-07044e2b5ad534802cc054fe12449f25][^c-d3fe4cbceb76b9dd0bbfe375e0475412][^c-eb6ee2327d1f8fa1fa328df5bb26a9f6]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-01-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1968/49
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 13A. Residential accommodation with nursing.[^c-c02a67feffef9a72a5d21e3a475a23de][^c9964571][^c16929661]
 

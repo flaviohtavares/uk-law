@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 31. Financial assistance.[^c-a8bfbe9286d76ec7d46f054185575e34]
 

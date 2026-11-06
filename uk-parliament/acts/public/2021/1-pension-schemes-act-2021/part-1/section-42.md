@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 42. Prohibition on winding up except in accordance with continuity option 1[^c24459201][^c-821281d7a0d2d2c35aa3b69ffe7e08c9]
 

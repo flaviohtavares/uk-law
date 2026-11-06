@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 241. Effect of section 240ZA or direction under section 240A or under section 325 of the Sentencing Code on release on licence[^c19069601][^c19124511][^c-0c780b6184e67c3ada348d3a114af260][^c-ad9c2bc53516bdc69645a8f71e932e46][^c-155c0f69a8116c840c0366b45e57112f][^c-766e12bc6fb26e8601d934be1ea18143][^c-f8ac351131e545d9580d76e84791989a]
 

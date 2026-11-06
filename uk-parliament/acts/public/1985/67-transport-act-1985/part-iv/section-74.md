@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (54).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 74. Disabilities of directors of public transport companies.[^M_E_955f140d-66db-4d36-e4fe-a72981fdfaa8][^M_C_d71f0c21-b59c-40e7-aaff-ec658360d595][^c-27890099608df53aa49f7782fbd18013][^c-2900f3636721a83870c26a26d667bb60][^c-27890099608df53aa49f7782fbd18013]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 130. Application[^c-4b3bb7c22809e065f60e63235bc72863][^c-b91b4450fb503a3b47fb51f92755c42a][^c-3403d1f5d428b9b5ee559374195f5e6d][^c-b91b4450fb503a3b47fb51f92755c42a]
 

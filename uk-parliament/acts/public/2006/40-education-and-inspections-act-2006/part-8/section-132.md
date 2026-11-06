@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 132. Power to inspect documents, etc.[^c-3f783be655ff1a626ffc732eece17842][^c-1df67e8dc17e36a4a1b51569cee73efe]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 168. Maintained nursery schools: amendment of sections 496 and 497 of EA 1996[^c-a196bc0a32bfa7b73bebf3f087d1458a]
 

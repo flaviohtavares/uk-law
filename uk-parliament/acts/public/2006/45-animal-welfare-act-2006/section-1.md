@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. Animals to which the Act applies[^c-daf923adb8921141a9a50aae444064a5][^c-530bf52b5a4e245830ecd0aaaf126bd4]
 

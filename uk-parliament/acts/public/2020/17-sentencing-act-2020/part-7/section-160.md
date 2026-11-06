@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 160. Orders for forfeiture etc under other Acts[^c-619f7f7290d68eed6ad1bc92fe1a5365][^c-7cc58540eef4f72cecd390a390d056a2]
 

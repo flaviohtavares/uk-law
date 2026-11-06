@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2022-01-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 81. Duty to encourage water conservation[^c-f1b92acc2d8876440aaba2caddef6480][^c-0b139c598a777b1fa3e2f17e1adc7ad1]
 

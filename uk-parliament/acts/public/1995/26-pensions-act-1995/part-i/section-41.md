@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 41. Provision of documents for members.[^c-4a1e9a7fc454dac566af7fc078e3223c][^c-1870c7883208de3eb92e2a12aff5c135][^c-6bf4eb9c8ffdeba0688039ad801f84d7]
 

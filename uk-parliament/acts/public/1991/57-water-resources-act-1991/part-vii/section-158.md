@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 158. Works agreements for water resources purposes.[^c-293c1f5050747451b6cf62ee6e0fedd2][^c-df0cc29c14f131ef6119e859cf2c09fd]
 

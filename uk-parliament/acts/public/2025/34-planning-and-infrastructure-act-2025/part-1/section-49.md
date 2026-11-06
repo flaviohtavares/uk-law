@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 49. Installation of electric vehicle charge points[^c-00d6c6996ce55618856d0d5801dc07c1][^c-1b7ebabe75e223dd8b43e5b3d8104fcf]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 436P. Revocation of school attendance order[^c-1e9698cc672d28f0cccebce23b0d14f2]
 

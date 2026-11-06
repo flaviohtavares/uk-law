@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 16. Extension of civil partnership to opposite-sex couples[^c-26b21b52e6f5f1e63579121d351971bd]
 

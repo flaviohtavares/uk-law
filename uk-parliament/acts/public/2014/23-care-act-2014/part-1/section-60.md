@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 60. Assessment of a child's carer's needs for support[^c-5982a0bc9d6ae8d3a7a5e5cbf8bf9bd3][^c-b5233cd91c08d092b8a21506059579ea][^c-4a62f516d0fe4d3070d9d19880c2ff17][^c-b5233cd91c08d092b8a21506059579ea][^c-4a62f516d0fe4d3070d9d19880c2ff17]
 

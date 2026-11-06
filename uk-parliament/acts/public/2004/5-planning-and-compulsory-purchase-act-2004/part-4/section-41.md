@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 41. Effect of revision or revocation of development order on incomplete development[^c-ff38175b440f558bc9989462efebbd15][^c-57e0fb38bed1c7a21f8728e2a5eb0e67][^c-9595419f14c7670ac0326b112665832f]
 

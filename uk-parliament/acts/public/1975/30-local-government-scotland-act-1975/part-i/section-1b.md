@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1975/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 1B. Draft valuation roll and draft valuation notices[^c-72bc26435fae0ae2d54fa5e5c6cd8356]
 

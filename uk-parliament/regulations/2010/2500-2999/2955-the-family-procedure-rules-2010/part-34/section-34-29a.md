@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2955
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 34.29A. Application under Article 30 of the Maintenance Regulation or under Article 23 of the 2007 Hague Convention for a declaration of enforceability[^c-9ff02230c853f937e7d7f7a08fe14ddd]
 

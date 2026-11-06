@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/17
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 113. Meaning of “relevant offence”, “immigration offence”, “foreign offence” and “immigration penalty”[^c21019731][^c-3e786a6418b2277dd72e64b4348aa1e5]
 

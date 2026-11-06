@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (131).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 89B. Restriction on which third parties may incur controlled expenditure: Senedd Cymru elections[^M_E_5e12c02f-f795-4996-b93d-e58c175fe5a7][^c-fa5f3768b9edb2e751ea71709b05ebce]
 

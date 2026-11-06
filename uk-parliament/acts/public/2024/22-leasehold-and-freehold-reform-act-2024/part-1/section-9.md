@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. Permitted leases: marketing restrictions[^c-1977dd133a05624a7d20d93a267d73b4]
 

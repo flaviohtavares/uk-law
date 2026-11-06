@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 226B. Enforcement orders[^c-79ae9b6ce0c57bd992e6b180ea832303][^c-6e5110bc54f96ec4c0f061a1b1283560][^c-e7abf4bed68d1ff9d9de81f23b56e014][^c-0e973aa519081682a829c45f68a755d6][^c-24b076733341aa476e65b6d7d15588be][^c-c9b0bfd6ac1dd23435a4b4216438ad35][^c-5a3d732010f5dd4fd119cee6ca9f7893][^c-6f557526fe7daf5c5a122de48d886fdf][^c19923231]
 

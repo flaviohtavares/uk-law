@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 56. Further amendments[^c2218952][^c-af9fc229d91dd0ee7a0aa242575ef66c][^c-973a711fe77c67ebf560ee3149d0276b][^c-4be874b067f7038ad55958aa5d718e58][^c-e4789baeeb4ad3b41c0854b958a38493][^c-e37a861d874db434476be8448347475f][^c-005d264e82fa6c1816bbe745069ea72c][^c-fc8db3d4bb17b1a0f69900e560796135][^c-0baadfb886eb055487ab38dcbc30de48][^c-1ef159e7b1d7f5421d57bffca1262657][^c-81621ace8ab3d69896805d084f7cef92][^c-e176cc1abdb945243123598f42e2d3d8][^c-60437c8c23d360b391016503669adc4c][^c-5186246b849d576b6d75965e85c97a49]
 

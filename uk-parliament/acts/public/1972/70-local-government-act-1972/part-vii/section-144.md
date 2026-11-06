@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 144. Power to encourage visitors and provide conference and other facilities.[^c15110451][^c18865141][^c-afcbbf78fb4eda0e9282a6ffb63bde1c][^c-bf820e01259360d6f6f713d96d1d67d6][^c-1f1832de044cd0222a125a3d3d46f245][^c-790a39edf28c206923df7f3315c79192][^c-940e2776d7e1efd9bebd5058c3f6e1bf][^c-697540b84683c2e07be929ec49691092][^c-fee56827e0ac031f20b02a1751f999b1][^c-dd834b616f11efb16418d650f3cbbf0c][^c-463cb0f8a194e608d9d2d09372e95ef9][^c-9ac40c346b7068d42464839a6f300cd0][^M_C_053ee307-accb-42d8-f80c-d57be51d38e2][^c-ea9f0b72af165e8828a45699f70de9f3][^c-11486f577613ccc2fc42cedc5ca7e898][^c-8cf5cf585046b80acada834e30e72b6a][^c-167d225d26e476196788865509c717ab][^c-a03e3f9886c0465084f033f171005c84][^c-afdde7d2a1e0f5dd8d2c1d393da397a4]
 

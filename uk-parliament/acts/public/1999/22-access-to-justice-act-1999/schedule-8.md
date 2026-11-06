@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 8 — Legal Services Complaints Commissioner[^c-131c254421a6b33c5a4e6de57aea0215]
 

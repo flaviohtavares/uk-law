@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 41. Revocation etc of certain provision made under section 2(2) of ECA 1972[^c-c6f6d5f5ba270e6b1f08f8c256b4756f][^c-92c667a3480161f363c6fd7d3567288c][^c-5cebc4cc3c788833bdec090670a0bbb4]
 

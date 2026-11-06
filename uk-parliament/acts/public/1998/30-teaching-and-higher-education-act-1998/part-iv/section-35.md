@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (29).** Text as at 2026-05-12. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 35. Inspection of careers services by Her Majesty’s Chief Inspector of Education and Training in Wales or Prif Arolygydd Ei Mawrhydi dros Addysg a Hyfforddiant yng Nghymru.[^c-dd486213a18a15bb347631f540a2c38e][^c13266241]
 

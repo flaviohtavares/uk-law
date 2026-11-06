@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 73. Inspection of premises[^c-546d3fe250a318f70c65eba41eba6096][^M_C_a5704de6-d016-4c3e-fa25-00ff436a5bda]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 10. Improvement notices.[^c10203291][^c-cc889c83ebf8da351390877b5d5494d3][^c-4484266cf28bc91f12602daf474b9b38][^c-f4f6c5097d8d2ef79a5e49e834f50807][^c-04504e7e1a8f9a0929afc81b673685c6][^c-1a1043bd9a5edac901e35adebd5bf3d2][^c-fced6c5eacf5582a1c9d64c6e09ce6ad]
 

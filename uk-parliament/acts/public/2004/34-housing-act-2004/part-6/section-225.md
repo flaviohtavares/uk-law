@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (145).** Text as at 2026-06-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 225. Duties of local housing authorities in England : accommodation needs of gypsies and travellers[^c-638102af3fbb76426031ba98c4d7b4db][^c-3a96a10fe47ac2a099338a8dafb2d827]
 

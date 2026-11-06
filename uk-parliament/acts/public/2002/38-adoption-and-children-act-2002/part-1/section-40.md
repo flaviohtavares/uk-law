@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 40. Other non-agency cases[^c-c65684eb741b44d53ebea5fcdf67b653][^c-d85f0ddb028eb8c66f35e3f0341f2342]
 

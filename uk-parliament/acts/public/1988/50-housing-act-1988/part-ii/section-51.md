@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/50
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 51. Revenue deficit grants.[^c-c85daeb1b26b3c817ab3f1b5fbfd405b][^c12867951][^c12867961][^c20518681][^c20518741]
 

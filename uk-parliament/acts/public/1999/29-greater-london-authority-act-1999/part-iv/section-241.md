@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-08-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 241. Reserve free travel scheme ....[^c-d4030af8c6e4e4be7ab3a2494bccb5e1][^c-d4030af8c6e4e4be7ab3a2494bccb5e1][^c-0ecd0cd05d052e148dbbd03f8bd1a94c]
 

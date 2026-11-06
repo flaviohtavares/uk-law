@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## Schedule 3 — Pay and conditions of Academy teachers: amendments to the [Education Act 2002](https://www.legislation.gov.uk/ukpga/2002/32/contents)
 

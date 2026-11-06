@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/43
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 24. Increases of rent under assured tenancies.[^c10515121][^c-abca13d1aa54a7712503d333f93fc3dc]
 

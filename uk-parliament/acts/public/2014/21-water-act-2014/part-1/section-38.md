@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 38. Guidance relating to rules about charges[^c-c7d240284dc69385fcc1b4600802be13][^c-fb12651d00106b103cad90ac59509d9e][^c-438f3d03a2d69683f8645f0f86c90da7][^c-2983f42933e07d1e6b629497e09b59ef]
 

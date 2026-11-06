@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 298. Removal of trustee; vacation of office.[^M_C_b9f29667-e3eb-4540-fc87-18bc81957022][^M_C_f0338d56-f7a2-4bd9-bede-3f51df9f9384]
 

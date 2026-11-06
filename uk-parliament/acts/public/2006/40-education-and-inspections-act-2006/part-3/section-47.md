@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 47. Objections to admission arrangements[^c-bb42ae75cd4b3d7b3d582c51c6c01fa7][^c-9f0f58fceb596ccf75286fe0a9089031]
 

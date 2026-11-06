@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 56. Effect of counter-notice under section 55.[^c776622]
 

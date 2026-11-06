@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 137AA. Transfer of sheriff court summary proceedings within sheriffdom: power of sheriff principal[^c-1b259a3b81408b1ca178ddfd9a59b8c1][^c18935251]
 

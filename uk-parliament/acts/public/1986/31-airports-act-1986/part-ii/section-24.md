@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (51).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 24. Provision of services for public airport companies.[^c9343031]
 

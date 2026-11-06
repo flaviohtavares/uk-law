@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 37. Declarations as to marital status: jurisdiction of the courts[^c-8bd621beafff30b22ab6869709ed67d5]
 

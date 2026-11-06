@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1970/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 44A. Interest on judgment debts expressed in currencies other than sterling.[^c-4e5ed7748bdd41f914b797ccf485a7c2][^c9992561]
 

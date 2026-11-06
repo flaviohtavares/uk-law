@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-17. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 57. Use of live links in legal proceedings: Northern Ireland[^c-2d9e66292fbfb224cc7e2a604f2fd10f][^c-834e33081af16df87285361caf128d9e][^c-59f7c689fb7fb5410a6bcadc2b1a7497][^c-7b259cdb14a79c2b6c47863151765dfc][^c-1e2db6b5a40de30e267455e275ac9a29][^c-9ee2a457a1bad71fd5b2bd2023a26a69][^c-2d8cc08326bbbba70eb9967618db48fd][^c-17768512031a0901b0cbac0f07135f72][^c-7fead68f7fb7b0ce22ddd2fcb40df104][^c-63ca8c437dba230ecaefd9cad1d964e3]
 

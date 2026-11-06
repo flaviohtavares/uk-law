@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13F. Duty as to promoting autonomy[^c-4c50c3e2e5eebcc9f0b20fd0d0b62cf9][^c-c17c605fbd7569f0644650e6ed66435c]
 

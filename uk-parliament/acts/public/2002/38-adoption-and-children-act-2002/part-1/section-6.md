@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6. Arrangements on cancellation of registration[^c-5724c62e24fb122b954b165703545d61][^c-9d207de8d15c216f84852922836eb9e5]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 84. Form of declaration of identity: Northern Ireland[^c-b8f340dba860bbbd5686d1ce078007c5]
 

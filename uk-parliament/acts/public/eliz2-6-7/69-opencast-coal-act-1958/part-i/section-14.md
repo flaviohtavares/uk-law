@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2025-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/6-7/69
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 14. Provisions as to agricultural tenancies in England and Wales.[^c6615981]
 

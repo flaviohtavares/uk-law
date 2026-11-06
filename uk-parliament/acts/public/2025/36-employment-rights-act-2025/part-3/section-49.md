@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 49. Guidance and codes of practice[^c-99acc3670dc69ecf5e8187431e00fa28][^c-f97492f8a1da1b95af2f0a4b56df625e]
 

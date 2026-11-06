@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7. Powers in relation to infrastructure[^c-b0a410fc9f8aebda86afdfb50e1cc463][^c-236fc16a4fb8e34c069d083ab68ee115][^c-3285e98fd115c2ebbe701e611672acb2][^c-eaf69d16b26516d4c852e0012fbcbc42][^c-548bd08e8875acaafc04ccb39c0c5f57][^c-fd065542bf9d29db075297a61ac7688f][^c-56f30b92434ddf6d820ab31baf1969fb][^c-c842e8475a882a89160348c67c154a1b][^c-361a89d9a9ffc202affaf2d9e6b26785][^c-389a01576d5183cc4c69cd01256a78d7][^c-5c33108a1abb965e7e0780b2445d4237][^c-6a8339de29a5dac5657b7afb030213cf][^c-cb9161416000981239a68ee9659fcf90][^c-03eb24413affa5b0264d22da3da97b4e][^c-b473cad868dfc5e1b004231e22893571][^c-98d2b60e97e6c0570193eda02dc6b711][^c-ffe64eb6f1ad78e6afd3ea2a747093f4][^c-96396265e555cef2018631befff89943][^c-c4e8158af0841c8a243df83312f08196][^c-4b7e64ac437c7d6ba3ab98113c4de111][^c-2a91ca5c7b3af245caf592d9d7b10948][^c-11b2507a73d7f08dba25bd84261d5e37][^c-7f85becc7f8dc876c8eb1a4bfdf4bf35][^c-7683fe3fd7d85cd59a05d9e35b8d2c73][^c-612fc3b9e8a01ba560198dd06d0a176e][^c-56f30b92434ddf6d820ab31baf1969fb][^c-361a89d9a9ffc202affaf2d9e6b26785][^c-6a8339de29a5dac5657b7afb030213cf][^c-cb9161416000981239a68ee9659fcf90]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 96G. Nutrient pollution standards determined through environmental permitting[^c-c39277865f4d8cd1993150d6eb5ea71a][^c-f8504cfa3717ae6f3ce0d1fd7962e5b8][^c-a8a5e2a2b4a25a09e682382b8ac7078b]
 

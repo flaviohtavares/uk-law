@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2022-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 60. Supplementary provisions as to declarations.[^c13387811][^c-6114c0eb556682a9eba15ebec74a1712][^c-6a0a32a4e4f02e19755d1ceb06a5cfb7]
 

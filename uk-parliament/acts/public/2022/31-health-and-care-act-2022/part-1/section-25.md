@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 25. General functions[^c-c0059b367f0c6d4588ef8ad8485984a4][^c-4ace0e7d1c57bd3a73de9994bb877752]
 

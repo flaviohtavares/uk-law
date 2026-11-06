@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 27. Passenger and Goods Vehicles (Recording Equipment) (Tachograph Card Fees) Regulations 2005[^c-b3354381823f7c940b1995b7aa539b13]
 

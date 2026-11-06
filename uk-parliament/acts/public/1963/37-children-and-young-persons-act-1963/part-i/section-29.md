@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2015-04-13. See https://www.legislation.gov.uk/changes/affected/ukpga/1963/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 29. Provisions as to persons between the ages of 17 and 18.
 

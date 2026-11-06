@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 251C. Continuity of information: interpretation[^c-899d378a2b96739816d9d29c26bb3c9a][^c-134a54eef445c150cf8d9da96f3bd08c][^c-684a2e750dce6b5497c98e5da3da5baa]
 

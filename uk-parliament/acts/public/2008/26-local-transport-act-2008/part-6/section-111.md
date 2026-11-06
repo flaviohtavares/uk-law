@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 111. Consultation and inquiries for English schemes[^c-3c6ae367e2e3e6558a4e0cf57f1c69a5][^c-58ba369f67e59575bedcf30987f17bd0]
 

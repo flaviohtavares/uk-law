@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 98. Parenting orders in case of exclusion or misbehaviour[^c-b06b17d6786028998b36955d776e83e8][^c-f0ac7680f08e6eb7940a690e43d510b6][^c-6f26bfc8a6eb3a45eaf87d858d2e31e1]
 

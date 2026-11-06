@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 18 — Amendment of the Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015
 

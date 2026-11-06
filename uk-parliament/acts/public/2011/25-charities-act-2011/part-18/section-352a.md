@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 352A. Power to amend definition of “connected person”[^c-ed83319e4601ac0b9a8c859e5b0dd349]
 

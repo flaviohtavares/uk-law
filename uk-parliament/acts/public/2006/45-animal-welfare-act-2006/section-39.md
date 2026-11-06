@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 39. Reimbursement of expenses relating to animals involved in fighting offences[^c-0e28e2a72f34f34c6d0b32ce688b758e][^c-5ac3f54658d0f7072104bf04e5c149d1]
 

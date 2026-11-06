@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (110).** Text as at 2025-03-03. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 115. Remediation orders[^c-32d29923438513ba529784bdc516f811][^c-ccd3f52b315f53f58cb47c8ab6d6b050]
 

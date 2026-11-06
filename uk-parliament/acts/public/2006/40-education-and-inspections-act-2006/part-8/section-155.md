@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 155. Payment of annual fee to the Chief Inspector by local authorities[^c-c8c62fed01495f44049fbc1da0f64e60][^c17507881]
 

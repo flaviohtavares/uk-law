@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19A. Exceptions to requirements in relation to publication of notice, inspection of copies and availability of copies for the period from 24th December 2020 to 31st December 2021[^c-1bfdc39adc0a8a1ca329354fd0e63011]
 

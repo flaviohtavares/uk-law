@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 135. Execution and cost of works required by enforcement notice.[^c950146][^c-525ea2a5bf0d39daff4aa1bbfa7caff8][^c-76f33a2e405d285afb6e5491c5393fbe]
 

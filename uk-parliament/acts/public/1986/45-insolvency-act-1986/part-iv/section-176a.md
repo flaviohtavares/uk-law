@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 176A. Share of assets for unsecured creditors[^c19937071][^c18377641][^c18964691][^c20430491][^c20430511][^c20462271][^c-d55cff0d715dd235d737d1ac715b26a4][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-c0b62ecb099afea5703a4fb8b9f0f544][^c18371961][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

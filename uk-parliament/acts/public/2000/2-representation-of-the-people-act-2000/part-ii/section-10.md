@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2024-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Pilot schemes for local elections in England and Wales.[^c9549431][^c20083841][^c20083871][^c20083891][^c20083911][^c-803049c7bd28a810130180e742cf65b0][^c-7e9b87c40cb3f74350810c8abbb8ac2d][^c-85e25fe997549a1923a7e473a245fd91][^c-24cb0290e1c136c9a4a7df90638f2ee0][^c-4d641e451da028b07501e50b30110651]
 

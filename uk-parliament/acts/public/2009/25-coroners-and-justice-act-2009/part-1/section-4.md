@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-03-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4. Discontinuance where cause of death becomes clear before inquest[^c-795748f993b6f95694d81fa39616cd67][^c-2a51d63a918ca9b81b7fcb33df4710fb]
 

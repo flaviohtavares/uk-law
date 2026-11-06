@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 197. Circumstances in which letting to be permitted[^c-e71128d76918ce8c4e3545b95c86b619][^c-2f555fd98105d606f11b2645d4503b4f]
 

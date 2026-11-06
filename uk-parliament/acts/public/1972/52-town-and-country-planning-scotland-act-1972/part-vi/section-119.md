@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 119. Use and development of land for open spaces.[^c14926711][^c14926721][^c14926731][^c14926741][^c14926701]
 

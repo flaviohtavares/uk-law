@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-05-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/14
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 13. Railway functions of Passenger Transport Executives[^c-ead28e13981f2aaf44a73e8d16816381][^c-c721f9c5652222c88d9cbfb42d4e3541][^c-1a21a87ab7336d281b59302d2e7c3b87]
 

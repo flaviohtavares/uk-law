@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. Committees of existing councils for consideration of certain matters.[^c-9000411f1915805bfed846e182072792]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 64. Facilities provided to trade union officials and learning representatives[^c-a4db700c1b7edf9328b19b6322d9a25f][^c-d1dafe5fcc9f87082d30e3a1ee2d4967][^c-e24bc92f4b36d06623f6465efd7f8ebf]
 

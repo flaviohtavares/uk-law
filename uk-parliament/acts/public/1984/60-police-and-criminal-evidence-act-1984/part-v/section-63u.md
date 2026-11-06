@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63U. Exclusions for certain regimes[^c-64d541b155c8b212fdcb19862cf158ff][^c-cea533cd8569f256416d0c1c17b85f27]
 

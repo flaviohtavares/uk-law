@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 59. Offence of breaching CCE prevention order[^c-beee5ce0647ea02d5cd819ed8f2d3fec]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 27A. Default powers exercisable by Mayor of London (affected by repeal, see note), combined authority (affected by repeal, see note) , combined county authority (affected by repeal, see note) or county council (affected by repeal, see note)[^c-f37cfc3f85cbb5ff8f5200dd0739910f][^c-66b206efe3e504a200801217f5a84a3a][^c-66b206efe3e504a200801217f5a84a3a][^c-d79f5806f96dd6c7b832776f74471f0d][^c-66b206efe3e504a200801217f5a84a3a][^c-6a50e86eec088404c83e00c15e3adc26][^c-66b206efe3e504a200801217f5a84a3a][^c-66b206efe3e504a200801217f5a84a3a]
 

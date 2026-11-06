@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 327. Transfer schemes: provision of information or assistance[^c-9671a654637980bae4767e9e6b12e7f2]
 

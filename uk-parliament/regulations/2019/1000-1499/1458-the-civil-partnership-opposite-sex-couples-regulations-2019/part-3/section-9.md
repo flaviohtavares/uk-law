@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. Protection against compulsion in relation to religious involvement in civil partnership[^c-705ddab0962740479836222eed370369]
 

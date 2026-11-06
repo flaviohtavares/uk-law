@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 10. Inheritance of graduated retirement benefit[^M_I_d2f20e15-d250-4d2b-ddbf-20b5595abe7f][^c-012bf03a461469b123ce5d9490677314]
 

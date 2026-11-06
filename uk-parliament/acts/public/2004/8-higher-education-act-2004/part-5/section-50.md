@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 50. Repeals[^c-44275ae1c0ba391561698a67441e1cb9][^c-1b7be5e6ab92e69fb8825d4cc3b714a9][^c-c0b2029fce441b759ecc6b025e678772][^c-869284a358f7d2f235b5d8807dfc87ff][^c-91945f0750974c02416efdc198c22937][^c-5d07a97f599fb854115fc82179211691]
 

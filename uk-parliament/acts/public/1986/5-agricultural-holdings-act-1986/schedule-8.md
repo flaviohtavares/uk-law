@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 8 — Short-Term Improvements Begun on or After 1st March 1948, and other Matters, for which Compensation is Payable
 

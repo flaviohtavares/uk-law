@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 124A. Disclosure of date of birth lists: Northern Ireland[^c-aec5dfaa5a7704bf5f6fbc29e2e4565f]
 

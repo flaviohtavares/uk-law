@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (182).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 46. Encouraging or assisting offences believing one or more will be committed[^c-6cceab5ac8a1c3eaa5f9f99c48c8a6a7][^c-8fac712985455041598b9ce15117ddd2][^c-8fac712985455041598b9ce15117ddd2]
 

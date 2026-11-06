@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 75. Determinations by the tribunal[^c-2b01eed782115e47212e67c31c18f580][^c-18d22a7217360b5c39786c3d42d9ba0a]
 

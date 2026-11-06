@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 26. Integrated care partnerships and strategies[^c-ad3e3e348bf45c107a93ea0f805a3cdb][^c-453e8b28161fa363002187c33d84108d]
 

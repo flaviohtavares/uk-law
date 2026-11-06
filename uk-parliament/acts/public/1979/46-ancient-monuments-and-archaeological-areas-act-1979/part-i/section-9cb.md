@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1979/46
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 9CB. Procedure for appeals under section 9C[^c-4bcff1989a2dd03ab035b0662d4a9a72][^c-c6b8474c40bc014f12b13fe95b0e62aa]
 

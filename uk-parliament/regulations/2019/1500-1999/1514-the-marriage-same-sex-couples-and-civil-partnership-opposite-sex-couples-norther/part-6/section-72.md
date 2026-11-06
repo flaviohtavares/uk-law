@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 72. Welfare Reform Act (Northern Ireland) 2007[^c-c59fb429dd8358d6ef1fa9f407bcf794]
 

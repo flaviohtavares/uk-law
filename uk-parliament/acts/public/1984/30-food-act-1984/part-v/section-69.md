@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-18.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 69 (Extent: S) (affected by repeal, see note). Crop price.[^c1022461][^M_F_f1447caa-c0a5-4742-e19e-f0d9ca791840]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2955
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33.19A. Application of CCR Order 27: enforcement of a maintenance order[^M_F_ef37fb3b-60d2-4ece-d55c-8731d64c55d3]
 

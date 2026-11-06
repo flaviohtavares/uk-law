@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-06-16. See https://www.legislation.gov.uk/changes/affected/eur/2013/1303
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Scotland, Northern Ireland; Wales (the versions of this text differ in extent).
 
 ## Article 41. Payment applications including expenditure for financial instruments[^M_E_7c03b79f-e098-4201-b4d8-9f43ce1a6a35][^c000002]
 

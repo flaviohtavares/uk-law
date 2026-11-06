@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2017/737
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 40. Prohibition on improper use of UK marking[^c-0cd86ce6cd45130c8292f5a44b9e4654][^M_E_a23ad49d-eb45-4c08-930f-c8de602b7531][^c-a23a19f92d00a76913b2df3e4abed1ef]
 

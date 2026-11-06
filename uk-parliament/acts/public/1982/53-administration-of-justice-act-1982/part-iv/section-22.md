@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-07-11.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. Presumption as to effect of gifts to spouses.
 

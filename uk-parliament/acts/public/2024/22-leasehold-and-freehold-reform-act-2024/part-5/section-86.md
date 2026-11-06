@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 86. Limitation of administration charges[^c-1366b0ed3a79cb8f43d2d9adff44a6f8]
 

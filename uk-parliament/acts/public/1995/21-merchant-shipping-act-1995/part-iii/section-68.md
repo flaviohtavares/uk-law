@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-06-23. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 68. Power to summon witness to inquiry into fitness or conduct of officer or other seaman.[^c-fd242e2587628a2bf1bdfcec301cfe3b]
 

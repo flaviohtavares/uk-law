@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 29. Offences relating to the Register of Pharmacy Technicians[^c-44845bc8703bf4e52045263f17d0cd1c]
 

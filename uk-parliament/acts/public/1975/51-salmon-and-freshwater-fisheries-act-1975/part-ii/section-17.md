@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-06-28.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 17. Restrictions on taking salmon or trout above or below an obstruction or in mill races.[^c-f5a70a3cc9753ebccee32b9fdd94cabc]
 

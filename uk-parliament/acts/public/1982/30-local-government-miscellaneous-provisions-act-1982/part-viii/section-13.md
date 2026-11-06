@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1982/30
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 13. Application of Part VIII.[^c2548871][^c-7a33f6e3b68481d8bbece84e46cc7a2f]
 

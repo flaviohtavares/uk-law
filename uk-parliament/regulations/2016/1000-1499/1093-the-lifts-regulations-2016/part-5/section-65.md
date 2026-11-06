@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1093
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 65. Enforcement action in respect of lifts and safety components for lifts which are not in conformity and which present a risk[^M_E_bd769aa2-c083-4f74-b3ce-6caef252901c]
 

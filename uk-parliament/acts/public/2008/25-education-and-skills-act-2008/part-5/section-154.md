@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 154. Power of governing body: educational provision for improving behaviour[^c-124f9a7cbb5e9f7c92ac975d3bbc839c][^c-5e06bfb71070a8a12ba317bedad51013]
 

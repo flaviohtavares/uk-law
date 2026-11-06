@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 6 — Credit for period of remand on bail: transitional provisions[^c-8fa9380ca47a42c5d4f7f07ea7ecc47f]
 

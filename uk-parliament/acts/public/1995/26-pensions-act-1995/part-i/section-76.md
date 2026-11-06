@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 76. Excess assets on winding up.[^c-a5a6f0e5d254dce522200597474af8f4][^c-92e8accdbffac41deb3e62c1b3363e5a][^c-1fa81a0386097497015539f8ee639cb9][^c-14d974788b106145b0d80a29ace0ebf0][^c-03fd27556d05081c4fd305bccdd39136][^c-e20e2e0fdc194f5e1d2520aa073293fc]
 

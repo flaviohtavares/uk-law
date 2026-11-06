@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 26. Children and young people’s plans: Wales[^c-5a7bf8b9fd478549aa1d15bdd3f5b232]
 

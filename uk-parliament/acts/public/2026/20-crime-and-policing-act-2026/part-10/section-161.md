@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 161. Climbing on memorials[^c-8330ba64c43a7fdf020a3b38f0275aeb][^c-0a1c200d448ad49cabe8fd43cf1e30b4]
 

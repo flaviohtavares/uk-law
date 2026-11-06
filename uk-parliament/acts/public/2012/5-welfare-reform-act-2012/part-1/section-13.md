@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 13. Work-related requirements: introductory[^c-fb92137bef044c142847116ad2388fd1][^c-f0c316d9d1b0dfd0e226e5ef4e030922][^c-1e4a934d37b1b144f8ae38c87c120b1d][^c-d939613699cd9cb6c76004bf7a6354d2][^c-06c63bd55cac1876430a49e200dbba18][^c-1d9450b51fabcac51b58042bace94f33][^c-0b27f4a788825e1b4cc778d15133f8c3][^c-f514bd1a0a9d3e1605c02d5a03a35207][^c-db73143c145b6c620c7bb8efd3858608][^c-72c7a42714e82ac5d56565abf3c61bc3][^c-1da4a93320c42316becdfcc3caa5fca0][^c-a4eed05b12fd94f167ff9621a8a5aeb8][^c-f9b4b8da3a8d21e8605420d812f31fd4][^c-0828b2b9ecccc60e65bc1978bc140890][^c-d4d42aafc1b3e1dbd2ca3bda94099fba][^c-75e0929f8aef4aac920c2f94b372e42f][^c-8a0336dbd998df8d5046a9e9ec114e6c][^c-a6ae352e6555e01f74152a0c733e70f3][^c-f0c316d9d1b0dfd0e226e5ef4e030922]
 

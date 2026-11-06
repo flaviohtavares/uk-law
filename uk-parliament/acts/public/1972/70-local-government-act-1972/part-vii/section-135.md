@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 135. Contracts of local authorities.[^c15108991][^c15109001][^c18858701][^c-e01eb9c6446b248fba92326e90df5d04][^c-5086d35d1b5998beda6e2e013d5450a0][^c-babd7747fff0a5f0d46ab55a8de2aa6a][^c-23a2be1c5329431d3192ac408edd1f45][^c-76cd7870e580872db4110d27a2137ba7]
 

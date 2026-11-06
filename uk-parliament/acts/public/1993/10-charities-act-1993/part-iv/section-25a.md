@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 25A. Meaning of “Scottish recognised body” and “Northern Ireland charity” in sections 24 and 25[^c-c19229d866e13afe36d39b34d22ef788]
 

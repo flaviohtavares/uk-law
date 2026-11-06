@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 108. Schemes for transfer to the appropriate agency of functions in relation to main river.[^c-1b930f6448cdbf8b10e89a667a3e4323]
 

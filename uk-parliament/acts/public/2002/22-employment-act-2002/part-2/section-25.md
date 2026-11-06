@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2025-01-17. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 25. Power to delegate prescription of forms etc.[^c-881ee82d5dc26836ed5ad91070b98de1]
 

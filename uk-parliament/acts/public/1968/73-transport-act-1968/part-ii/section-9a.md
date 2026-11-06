@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2024-05-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1968/73
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland, Northern Ireland (the versions of this text differ in extent).
 
 ## 9A. General functions of Authorities and Executives.[^c15307771][^c15307781][^M_F_ea84425f-3038-406d-d3b2-829b345762eb][^c-be7cef09e0914246d857c4d298664004]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-07-11.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 67. Jurisdiction.
 

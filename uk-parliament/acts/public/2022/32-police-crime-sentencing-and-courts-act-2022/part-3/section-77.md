@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 77. Power to specify other areas as controlled areas[^c-d77a38b86ef0ed84f9c52e5fe9a7f1f7][^c-11da8cc1563df6f4423decfe27423817]
 

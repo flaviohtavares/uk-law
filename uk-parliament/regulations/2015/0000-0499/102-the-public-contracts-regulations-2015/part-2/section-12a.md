@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England.
 
 ## 12A. Contracts and framework agreements for health care services[^c-11cd58ebf302ef8e92a61dba36653123]
 

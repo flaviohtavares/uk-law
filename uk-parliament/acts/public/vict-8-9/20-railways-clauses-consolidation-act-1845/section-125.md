@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-12-18.
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## 125. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6405741]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/618
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 40. Procedures for affixing a UK marking to in vitro diagnostic medical devices[^M_E_5626ee41-cdb4-4609-fcbd-f31b6b966241][^M_F_1aab245d-99ef-433f-911e-636441cf8a28]
 

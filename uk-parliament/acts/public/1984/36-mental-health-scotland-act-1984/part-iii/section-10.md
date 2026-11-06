@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2005-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 10. Welfare of certain hospital patients.[^c-0a67c56d28da55a6f047fc2edb64008b]
 

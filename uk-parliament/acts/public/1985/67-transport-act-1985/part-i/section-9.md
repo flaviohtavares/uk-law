@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (54).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 9. Appeals against traffic regulation conditions.[^M_M_c37719dd-257c-4b23-9ebe-254f0e58e150][^M_C_005ff0c1-d969-477f-d5fa-e159f5f75c76][^c-28711a4097679fd646c35e578df27f95]
 

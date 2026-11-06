@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 19 — Health protection regulations: Scotland[^c-f0302d3bb88f500650e85dcfdcbe6692]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 114. Quality partnership schemes.[^c14880811][^c-a0f99d9c741c34c1e64231668bae3240][^c-3c17832aae479b7bab0df9776c937d06][^c-5ac2fb72b7756b61b7770f242893b4cc][^c-c05adb8597f2acc398b3fefbd54794ff]
 

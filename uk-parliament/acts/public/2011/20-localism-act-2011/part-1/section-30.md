@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 30. Disclosure of pecuniary interests on taking office[^c-d30903c924663328bf6ce1e5c2988d0f][^c-56ef051421a60ab5aa0d463599b24ff5]
 

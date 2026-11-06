@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 143E. Rules under section 143B: guidance[^c-ab5bcc1326204b4bebf89b4c8595ac51][^M_C_58ad290b-718f-486f-878e-b9a480db258d]
 

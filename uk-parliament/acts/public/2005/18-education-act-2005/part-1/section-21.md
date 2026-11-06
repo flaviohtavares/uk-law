@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21. Annual and other reports to Assembly[^c-922f37e348b7c3177f62c99c856c3055][^c-475ce8f2273086740a57e948af836fb0]
 

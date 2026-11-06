@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 3 — Acquisition of Rights over Land by the Creation of New Rights[^c3315671][^c3315681][^c3315691][^c3315701][^c3315711][^c-d8d089ab2de26a3ba5a3a07179363a08][^c-a620e2e8f2f960f2979106d67763e2bd][^c-ac302f9bf55678607cbde2146e07f9ed]
 

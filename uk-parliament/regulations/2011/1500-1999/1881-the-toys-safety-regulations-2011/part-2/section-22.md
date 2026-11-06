@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2011/1881
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 22. Submission of Type examination certificate for review[^M_E_53cc5d6e-51e0-4c45-8675-21bb8f732fdb][^c-d961528382429487c815949ab9bed64f]
 

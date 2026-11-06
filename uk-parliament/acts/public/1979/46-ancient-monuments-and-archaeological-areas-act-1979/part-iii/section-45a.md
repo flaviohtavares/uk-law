@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1979/46
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 45A. Development and understanding of matters of historic, etc. interest: grants and loans[^c-be7669ec516c1ecb64be8c13065a7617]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 133. Participation in certain proceedings conducted by, or on behalf of, the Secretary of State[^c-546cc005a5648d7ff1ba9971f6a8756a]
 

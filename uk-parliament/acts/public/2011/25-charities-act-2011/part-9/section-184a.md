@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 184A. Sections 183 and 184: participation in corporate decisions[^c-51042102eacfaa11bc6436fc96f642b6]
 

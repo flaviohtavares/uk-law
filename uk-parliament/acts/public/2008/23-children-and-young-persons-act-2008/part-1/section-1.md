@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/23
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 1. Power to enter into arrangements for discharge of care functions[^c-ede4efde82218128f7dc735a7e5c594d][^c-5e300b086aaafcda1ed66581fe5ad3d3][^c-c7571e8fb7ef4bb3996d3aa8fc06cf17][^c-a22a70f6d8329f63b0b74e5cc77133c3]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 94. Electronic communications[^c-12fd6e2383fd0c6dea1c4873fc05972c][^c-c958b46ffded8a1b92d1caca3960a757][^c-5cbaefce149dd85dc95150beaee40d24][^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81][^c-9907ee4189a0781220e9756f36a52faf][^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81]
 

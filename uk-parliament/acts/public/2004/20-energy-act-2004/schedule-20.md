@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-09-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 20 — Conduct of energy administration[^c-95ad6d75bd2e4c21aed73cd35986bdb5][^c-f42acca26f75b69e693911bda416979e][^c-932dc75764a29a3d2978b77440e57eb3][^c-668a4a13bd91debd3825964395561826][^c-40591093fc683a16f03fc9135903c110][^c-1b16dacf881cc3cdc82a555c30cfbd35][^c-b8544ada9fdf15a69ccf6770b9d63a3a][^c-9e2e78c833ffe071e96d8acd5411e7e8]
 

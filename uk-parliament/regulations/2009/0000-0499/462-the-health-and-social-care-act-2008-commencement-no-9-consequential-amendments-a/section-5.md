@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5. Appointed day for minor and consequential amendments relating to Part 5 of the Act[^c-ed197d366024160f2b6ee1225ae4076d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 93. Carriers’ licences not to be required for small vehicles or for medium vehicles covered by operators’ licences.
 

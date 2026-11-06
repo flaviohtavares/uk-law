@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 355. Parenting order where sexual harm prevention order made in case of offender aged under 18[^c-f8e66ee6638ac7e9548e85605e1bba3f]
 

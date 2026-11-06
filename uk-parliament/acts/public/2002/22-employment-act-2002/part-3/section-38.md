@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2025-01-17. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 38. Failure to give statement of employment particulars etc.[^c-54617caf5d824723b57035c06f9fdc9c]
 

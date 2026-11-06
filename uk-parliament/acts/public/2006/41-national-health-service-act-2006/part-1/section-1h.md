@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1H. NHS England and its general functions[^c-2c8431bc0c5c711eede3d947dc59f9c6][^c-c26379f595629655ada8a57e0d3d2bfd]
 

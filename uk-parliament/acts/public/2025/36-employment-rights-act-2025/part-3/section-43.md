@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 43. Consideration of matters by Negotiating Body[^c-0bcbf5d5e2b012881213f2e0c8015303][^c-fabc7ce894f45cb93bb96da30381fb1c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2024-02-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/50
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 5. Manner of voting at parliamentary and local government elections.[^c1039778][^c1039780][^c1039779]
 

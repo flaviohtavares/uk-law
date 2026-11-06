@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 129. Building control prohibitions[^c-beb2327af2561f2a34da7d14e71ae8ba][^c-1ac37531424ca6a87760060709ab2abd]
 

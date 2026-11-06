@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. Power to charge for services[^c-9d3ecc9523cacaafb2ebb6555303d3eb][^c-d5e817ec83723a22e5b5dd0fadd238dc]
 

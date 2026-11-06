@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 117. Pardons for convictions and cautions for loitering or soliciting when under 18[^c-2c98937291a0096312d285c91d231dc1]
 

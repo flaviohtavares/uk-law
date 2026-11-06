@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 92. Surrender of licence to Secretary of State where disqualified[^c-dd45e106f1d090b5c530aca2f5242d6d][^c-2a4e60219015bac09af553fff414df02]
 

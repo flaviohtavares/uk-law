@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (62).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 6F. ... Transmission during commissioning period[^c-c1a70ca85d6a79fc7a24c126a67dd1c5][^c-1891d823d46bc56a634adb0e1b54cdee]
 

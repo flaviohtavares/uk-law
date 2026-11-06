@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (110).** Text as at 2025-03-03. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 50. Costs of right to manage claims[^c-5efcc552e719a013de966ba952a2f00e][^c-b2bfc07353935ea2225ad73454e8e8c4]
 

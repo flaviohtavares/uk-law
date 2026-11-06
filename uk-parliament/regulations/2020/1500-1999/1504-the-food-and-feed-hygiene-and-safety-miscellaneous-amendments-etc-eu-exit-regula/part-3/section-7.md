@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 7. Amendment of the Sprouts and Seeds (Amendment) (EU Exit) Regulations 2019[^c-42b555eba8bb10791bbc6d564a3ab0f7]
 

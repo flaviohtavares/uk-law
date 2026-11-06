@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-04.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 3. Power of Board to form companies.[^c941362]
 

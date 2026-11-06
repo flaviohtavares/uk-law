@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 290. Notification of legal requirements of host member State outside United Kingdom[^c-b04934cd888e7276c0a6939405dcd835]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 341. Power to apply provisions of Act to Crown property.[^c611934][^c611935][^c-1131d2fed8c5e59609fed053d145df2d][^c-5cf5da2ad363697e4a30964f8d49fdc4][^c-740e8069286e0f23a12f1b64dc185b03][^c-f565e667a2743d9e3e025a4b0beb272f][^c611933]
 

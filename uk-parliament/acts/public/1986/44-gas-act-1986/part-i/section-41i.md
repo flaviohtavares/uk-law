@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (31).** Text as at 2025-11-13. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 41I. Service by Authority of certain notices on Citizens Advice and Consumer Scotland.[^c14427651][^c-47dbbbdda351683acf9f92d2ce21f53a][^c-04f91f112b3118b9ac2bc2fc3571377f]
 

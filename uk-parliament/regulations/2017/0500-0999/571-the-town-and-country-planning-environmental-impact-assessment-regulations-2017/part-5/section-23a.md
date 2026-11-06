@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 23A. Exception to requirement to ensure availability of copies of environmental statements[^c-9e147c0eafaaaf7f1ebd66072a6427b5]
 

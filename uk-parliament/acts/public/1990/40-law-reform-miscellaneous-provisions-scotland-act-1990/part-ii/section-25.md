@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-03-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 25. Rights to conduct litigation and rights of audience. (affected by repeal, see note)[^c-3c60a154a6c1e25e19ac36c4305dfe69][^c-905edce24ec3c785c063bed4edf284af][^c-905edce24ec3c785c063bed4edf284af]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-07-11.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 70. Amendents of Judicature (Northern Ireland) Act 1978.[^c2572531]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2007-09-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 25. Pensions and gratuities for members of certain Boards.[^c-67742d6f187e5c9979556c44d1f40a73][^c1002865]
 

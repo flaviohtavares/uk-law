@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Executive arrangements.[^c1427806][^c-2bba5118c012e13bbda491e5f3169bd9][^c-f3b5ddba970a93a38388365cf2c7ee23]
 

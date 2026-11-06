@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2955
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36.2A. Domestic Abuse Act 2021: provision during pilot commencement of Part 3[^c-8a9066d255a42b1a6b36b46b7bd45bbb]
 

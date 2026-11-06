@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 113. Orders under section 112: criteria for deciding applicable trusts (affected by repeal, see note)[^c-16853a6be53d3f175b6e316fb6f2b3c4][^M_F_f2b60220-1db5-4ca4-ef69-385ce7adabd2][^M_F_f2b60220-1db5-4ca4-ef69-385ce7adabd2]
 

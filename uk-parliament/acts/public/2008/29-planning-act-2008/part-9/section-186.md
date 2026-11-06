@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 186. Power of High Court to remit unitary development plans in Wales[^c-743ac902bfe7d764506add8d842798ef]
 

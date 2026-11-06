@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 65. Administration of funds by the HEFCW.[^c11065931][^c-e3c3c5911eccac9d04abdbc0355cbe63][^c-34ac19bab1ce75a49de0073be7110812]
 

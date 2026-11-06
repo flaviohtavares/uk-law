@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63. Financial provisions[^c-4bad8a7dafeb687c3908bbec8ee00dae][^c-2d07c91448286f55c1c54bd9dde2c679]
 

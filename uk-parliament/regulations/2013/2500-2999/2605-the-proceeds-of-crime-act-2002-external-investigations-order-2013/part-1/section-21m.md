@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-04-26.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 21M (Extent: E+W). Powers of receivers appointed under article 21L (Extent: E+W)[^M_F_6f5a60ae-0a79-45ea-f23d-57ee03aae285]
 

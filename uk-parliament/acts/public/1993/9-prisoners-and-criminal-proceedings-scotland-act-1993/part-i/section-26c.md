@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (38).** Text as at 2026-08-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 26C. Release timed to benefit re-integration[^c-31502fd29fc683f0869e882da2b9de98]
 

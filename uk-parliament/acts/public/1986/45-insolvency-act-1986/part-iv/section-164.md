@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 164. Corrupt inducement affecting appointment.[^c15573181][^c-5106bc7909268b3e62c4f913b16c9bef][^c-063fbd4cd4021ad5d0cc8eebd0b16dfa]
 

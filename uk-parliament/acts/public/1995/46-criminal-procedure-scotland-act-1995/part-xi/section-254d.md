@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 254D. Implementation of a recognised European Protection Order[^c-6e2a097a35583d21e99d8fd540f43bdd][^c-da12d494f2d67b6f26dcbfcb1477a0bd]
 

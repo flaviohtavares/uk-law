@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-03-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 21C. Compensation fund[^c-b09a7e155d34a27dd7883249c380288d][^c-20128b4168d0e4bb02a0c093d4932f9b]
 

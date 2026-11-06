@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 119. Responsible bodies[^c-3c65daa97a296513e634447394537ad1][^c-9b9096fb0a6cc5312dd6dc1a14312f34]
 

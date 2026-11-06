@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 4 — Powers in relation to, and for, statutory undertakers[^c-971b13520b3fb5d65a2b0531a39ae152][^c-5bdb5404d57895187f549670a85ae7a1][^c-9dfcfa96f5c8aad0163ddaf5bb9f07f7][^c-681042f814721d4a8963b23f442af8d7][^c-b9e0e62414cf6187be05c27d19852ae9][^c-105372cfe5112c0e3f7ba5a6ce047f0b][^c-d65c3ec87cd28b418b805f0b0616e979][^c-9287d33a61aec71de45296c7ec57d31e][^c-fd561baf7319f24c8bac1a9e8c81925f][^c-de500512fe62e09a86b522a30f066e48][^c-3f85a422a536735ec331f45f9d456dba][^c-b295e31dc7a4ed32196fbb9dbbeb9efd][^c-1d82d9b2e331aa204280fcb017d1907b][^c-9e2c9b374b0497335d44bf7fa0e45423]
 

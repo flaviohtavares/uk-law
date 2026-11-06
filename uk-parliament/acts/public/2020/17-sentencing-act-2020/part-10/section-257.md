@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 257. Extended sentence under section 254 where offender subject to detention and training order[^c-2d5a1f3689b21f896b2b886522ee86cc][^c-40bba5392ba3a687634c225e25dcd516][^c-dcd4ae72c282d7901139d6afecbd23b2]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 74. Interest on judgment debts etc.[^c4406071][^c-9886a7acf4bdcd7317fe54c1c97fde88][^c-e8d4f8349be3a7870976c71805be60af][^c-445e6a6eeb9250a1ffdd0d9c513885b6]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 1996-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1975/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## Schedule 10 — Repeals and Revocations[^c13065731]
 

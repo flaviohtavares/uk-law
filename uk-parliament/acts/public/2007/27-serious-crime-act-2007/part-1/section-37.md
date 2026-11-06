@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (182).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 37. Functions of applicant authorities[^c-d0703963c5ea34123e29e3fdf7faadb0][^c-932d5e2d494dd75a05732acd4b102483]
 

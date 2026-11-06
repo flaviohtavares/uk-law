@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 41A. Relation to the Pollution Prevention and Control Act 1999 and Regulatory Reform (Scotland) Act 2014.[^c10491071][^c-2c5ca4d38baccda836582929482aed14]
 

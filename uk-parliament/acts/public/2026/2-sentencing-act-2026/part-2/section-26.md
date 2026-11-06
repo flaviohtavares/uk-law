@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 26. Limitation of provisions about home detention curfew[^c-c14f0ccebdb455f945203fc9c0c3a3f1]
 

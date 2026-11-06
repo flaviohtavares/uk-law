@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-18.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 118. Certain regulations and orders.[^M_F_9d5c73c3-9408-492f-ad7e-8b754a6ca2e5][^c1022511]
 

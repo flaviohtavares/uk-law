@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 17. Amendment of the Genetically Modified Food and Feed (Amendment etc.) (EU Exit) Regulations 2019[^c-557f33b07eb8c4c4e8845930dd5475a3]
 

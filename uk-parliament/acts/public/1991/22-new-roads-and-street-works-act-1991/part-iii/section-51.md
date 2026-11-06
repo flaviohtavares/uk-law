@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (403).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 51. Prohibition of unauthorised street works.[^c-ee069ff77b1e9e2569f84f14a9bcd1dd][^c-5442458782034ed66fc9da6828e76006][^c-291d6cace0f4206c8bb391567f96ce05][^c-2e238da54f16df477f5ae00fdc926848][^c-9222d5f07e67cf4efc720f8189838528][^c-23e071f45638f1b368e5a46ce9b7dafc][^c-571ab90ba7c725c8d2da25ee544b0fb6][^c-7d9d6f3b9c23c32a38ad9e618c34783e][^c-d0900fa8f532bad945df28f63b9caf06][^c-ee069ff77b1e9e2569f84f14a9bcd1dd][^c-8327d5542f238f1ab39028cd727baa2c][^c-8bfa2eeba4bb367ebd732648cfa72a3d][^c-ff0a47f926e4c101068f53eac4019851][^c-76180f0ca251652b855bf86e5b091b1b][^c-304a596386f1af81a6d8fb1e5e2fb60d][^c-e302150f40fd5bbd322ce63baa7715a3][^c-7feb95cd6d5c04265e31aaa0dd8fcce4]
 

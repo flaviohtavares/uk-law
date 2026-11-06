@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (154).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland, Northern Ireland.
 
 ## 117 (Extent: S) (affected by repeal, see note) (Extent: E+W) (affected by repeal, see note). Foreign travel orders: effect (Extent: E+W) (affected by repeal, see note)[^c-36d3a1c244dc1180f28ce4944b98df0f][^c-8216d299001d1851e1b7db26cb0e3690][^c-8216d299001d1851e1b7db26cb0e3690]
 

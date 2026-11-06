@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 59. Projects in an EEA State likely to have significant transboundary effects[^c-1985e158a77527e64f5d5565a47039d2]
 

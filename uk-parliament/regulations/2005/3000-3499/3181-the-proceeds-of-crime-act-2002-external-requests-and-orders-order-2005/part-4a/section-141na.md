@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-04-26.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 141NA. Legal expenses excluded from prohibition: required conditions[^c-c7748ed5e0a43634751eeef5a6cb22b7][^c-60d328b1519329044b0e7f9eeb27db3e]
 

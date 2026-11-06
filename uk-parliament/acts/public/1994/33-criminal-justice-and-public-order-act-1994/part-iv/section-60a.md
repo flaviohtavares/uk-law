@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/33
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 60A. Retention and disposal of things seized under section 60.[^c13102911]
 

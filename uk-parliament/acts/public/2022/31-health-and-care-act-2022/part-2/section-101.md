@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 101. Medicine information systems[^c-3fc1b41cc6117e002c7498348ac48e68][^c-13d0f143a9dd681e825ed8138d22e01b]
 

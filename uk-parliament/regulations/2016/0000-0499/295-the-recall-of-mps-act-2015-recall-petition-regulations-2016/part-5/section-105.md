@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 105. Procedure in relation to declarations of identity: Northern Ireland[^c-277d72501512b17c8c14d711243c0855]
 

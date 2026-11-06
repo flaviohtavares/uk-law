@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (110).** Text as at 2025-03-03. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 121. Power to make consequential provision[^c-0c099773377020b5e8615b911edf13a7]
 

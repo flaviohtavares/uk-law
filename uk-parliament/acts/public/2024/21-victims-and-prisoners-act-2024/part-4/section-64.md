@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-09-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 64. Licence conditions of fixed-term prisoners released following referral[^c-bad7df9d881b1eb002c36982346b5cc2][^c-d52827177673836f1034ca602c85f74a]
 

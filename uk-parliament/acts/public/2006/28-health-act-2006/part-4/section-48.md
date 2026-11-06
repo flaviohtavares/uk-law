@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 48. Delegation of functions[^c-bfa4e617dfe84876c0c4355808a16e33][^c16426601][^c-96e1ae8f0be653666f0406197f4644b4][^c-9da8fff1d4269e57b6640d4dc4211eb2]
 

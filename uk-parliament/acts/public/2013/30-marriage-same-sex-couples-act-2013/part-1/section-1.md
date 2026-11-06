@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-04-28.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. Extension of marriage to same sex couples[^c-11272ee8c71617e8eea0c0a5d607dc7d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-05-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 47. Interim custody orders: prohibition of proceedings and compensation[^c-bc85099de718710145a7ba0f0dbb3ebc][^c-3f4f217d3acf4b12ab618a2ce505e59f]
 

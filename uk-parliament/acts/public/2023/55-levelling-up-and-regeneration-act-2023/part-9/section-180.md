@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 180. Acquisition by local authorities for purposes of regeneration[^c-69b9c18924715939d08078afa3a0b6c0][^c-d8a861bba7f6fdcf21a88053b11d5511]
 

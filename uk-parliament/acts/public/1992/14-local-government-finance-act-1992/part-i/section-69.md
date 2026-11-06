@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 69. Interpretation etc. of Part I.[^c-8d3a5cc104e8bb2fea7476f4d74a6994][^c-90cd387516e88f9820eea0caf466e4ea][^c-b8f98cd58cede33200edd30c4c3466e7][^c-8d3a5cc104e8bb2fea7476f4d74a6994][^c-90cd387516e88f9820eea0caf466e4ea]
 

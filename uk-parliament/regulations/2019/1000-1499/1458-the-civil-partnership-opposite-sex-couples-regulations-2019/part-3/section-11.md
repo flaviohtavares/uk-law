@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 11. Religious employment of persons in same-sex or opposite-sex civil partnerships[^c-10af118f8433862729f3b2eb5a445006]
 

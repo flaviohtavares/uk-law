@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31. Further release after recall: relevant young offenders suitable for automatic release[^c-dfc424bdb0a63609ea0693b284c0e4bf][^c-abcd9bba6d1f2fd52448657ad052dd15]
 

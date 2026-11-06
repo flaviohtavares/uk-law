@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 395. Data from electronic monitoring: code of practice[^c-9dfc6432d25a19c282a66900452e7117][^c-000b88cde3361565ee1e562ad3c7e7e6][^c-2e36e143ae3e8cb180003fe317f0a9ca][^c-96bbc66ade3862a8733c3d254122c1c8]
 

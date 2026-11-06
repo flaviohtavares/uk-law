@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 24. Consultation with respect to drainage works.[^c-35d5dff19e05de5a183c017e57cbd7ba]
 

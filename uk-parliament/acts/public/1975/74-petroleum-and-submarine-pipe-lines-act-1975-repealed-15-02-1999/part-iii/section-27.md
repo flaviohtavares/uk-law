@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland; England, Wales, Scotland (the versions of this text differ in extent).
 
 ## 27. Inspectors etc.[^c1124007][^c1124008][^c1124009]
 

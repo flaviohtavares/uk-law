@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 1. The Countryside Council for Wales.[^c-9c433fed91dad2efe8840eecd87137b7][^c-9c433fed91dad2efe8840eecd87137b7]
 

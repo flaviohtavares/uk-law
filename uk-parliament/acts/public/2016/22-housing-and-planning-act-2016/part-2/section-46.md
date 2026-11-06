@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (34).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. Amount of order following conviction[^c-38d9e1f05f75f8e2bd95f23e593ddd39][^c-b9717519401450c0c08e1526a598a4d8]
 

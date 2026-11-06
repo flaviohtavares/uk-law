@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 111. Deciding which incidents to investigate[^c-955f534f59b1d6f09fc3f472603c23fe][^c-60eb0c9af321e9d0b04cf1e1953b1786]
 

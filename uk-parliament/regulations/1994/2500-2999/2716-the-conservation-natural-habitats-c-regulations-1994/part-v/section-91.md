@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-10.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 91. Compensation: amount and assessment (affected by repeal, see note)[^M_F_ff5c1bbe-f0e3-4337-b8ff-0e01be918b9f][^c-2dd38f22e3f0e7272da0337fa848725f][^c-2dd38f22e3f0e7272da0337fa848725f]
 

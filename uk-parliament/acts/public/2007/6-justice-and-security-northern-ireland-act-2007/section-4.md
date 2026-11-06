@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2023-06-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 4. Court for trial[^M_F_2e7ca2ba-c33b-4ab6-9664-8a4d18b5bd3d][^M_C_bdf2860c-2071-41f3-c089-b14076cbcada][^M_C_cad3a2dc-1fec-4e29-a2d3-30ad8a71a596][^M_C_5c1e5e11-cc82-4400-c9d1-58dd12bc7e5d][^M_C_018594f9-fefb-48e3-e0d8-6e2bcdb98b91][^M_C_e5397fbd-2638-48cf-de20-c896037def57][^M_C_4bd34880-ddeb-414e-b4a5-a08bf327b8d9][^M_C_a6f629c2-514e-4c3d-e6ca-c789c21e5e43][^c-003cb78ef249d9fc4c99edbf82d94de4]
 

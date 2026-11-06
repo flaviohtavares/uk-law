@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-01-27. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31. Designation of the Consumer Council for Water for abolition[^c-773755eb8e5a6505c2cd395d0f961910]
 

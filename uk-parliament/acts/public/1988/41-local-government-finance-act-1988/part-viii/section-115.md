@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (93).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/41
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 115. Authority’s duties as regards reports.[^c13074561][^c-2b957be4b388fd2210ddbc0fc97979b2][^c-610281a5a3a94de9e395476a9ff9ab23][^c-70ecca0fc1e70356bca201b99c2cb2d5][^c-25ef4d7269e1f5a6fc5dc45c02b5ef80][^c-94e93cb0eecaada3c72598f44c91bb48][^c-bfa783e39d8d550000aa950df746827e][^c-25663c6a6f8d9f041e5eb079d571cff3][^c-1ec4bac8c8ed40b1961b53835e952cfa][^c-73f476b82de519610a9c124a8e4d8dc9][^c-9463060c77111798761389a85b190713][^c-40d92f27d9bc32cf9321f718571e5264][^c-7d33a8e2f03a0f1ca5be8b416232f945][^c-6488055641c93e64113e3fa7b279dabd][^c-e067cf75a1ff1d1dfe1d545a8b365920][^c-47743e7ce3cb5409a493895a24bb10dc][^c-d12b8a0d0e77c0e1abd2933219f2bd68][^c-255113810602b285ba9346151d409073]
 

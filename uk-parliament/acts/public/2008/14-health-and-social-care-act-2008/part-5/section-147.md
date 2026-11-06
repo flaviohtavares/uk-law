@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 147. Abolition of maintenance liability of relatives[^c-c7202109fc872172f6f9762365f25ada][^c-8bb1fa83698c5fc4fbf5cfe253da24fe]
 

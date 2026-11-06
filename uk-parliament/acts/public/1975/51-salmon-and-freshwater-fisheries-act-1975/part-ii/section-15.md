@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-06-28.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 15. Power of appropriate agency to use screens etc. to limit movements of salmon and trout.[^c-2e485417a17dd20791ebf9c30cfb6956][^c10049341]
 

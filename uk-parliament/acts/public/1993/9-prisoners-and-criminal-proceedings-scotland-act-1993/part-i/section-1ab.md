@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (38).** Text as at 2026-08-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 1AB. Restricted eligibility for release on licence of terrorist prisoners and other prisoners serving a sentence imposed under section 205ZC of the 1995 Act[^c-3324e456abb81961f3713818f93a8c1d][^c-1b7b69de7646fc3f0e1c08a87529cff1]
 

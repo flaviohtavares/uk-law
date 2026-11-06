@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 83. Power to enter and survey or investigate land[^c-82106835ff2b8497f6237b0cd2c9c9a1][^c-082a02f47bc13213b73f118fc1b79125]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 79. Service of documents[^c-98eaa14425377d1a504bf2e484c62adc][^c-1fee15352fc2d32470199531c0ce7d8c]
 

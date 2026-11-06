@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-18.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 85. Examination of food not for sale.[^M_F_2fca2f14-00fb-473e-9dbd-a24bf3d06eae]
 

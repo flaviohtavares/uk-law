@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 91. Proceedings under section 222 of the Local Government Act 1972: power of arrest attached to injunction[^c-da60640b0d37c98a29aadc832156ebff][^c-7c7b2a9e94f938a290e71cab28b81ca9][^c-e6048a276c863ded87a1c45359eb2d35]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-03-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1982/45
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 45A. Licensing of sexual entertainment venues: interpretation[^c-7b2864a668ebd8736b814c965d393815]
 

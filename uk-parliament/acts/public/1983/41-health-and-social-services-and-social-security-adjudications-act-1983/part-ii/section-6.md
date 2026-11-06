@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2016-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c12738321]
 

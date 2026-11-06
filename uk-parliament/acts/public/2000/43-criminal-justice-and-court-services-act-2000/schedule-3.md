@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 3 — Transfer of property[^c10579681][^c-d852869008c4bebc36d15f8ca269d40b]
 

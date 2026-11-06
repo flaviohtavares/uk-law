@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 39. Disclosure of information by water and sewerage undertakers etc[^c-08550f8a8a945f75e47ec6d677884c75][^c-5107bf168716d4db622834ba50cc7bb6][^c-714d05f3bcd825736e772d7cfdd22463]
 

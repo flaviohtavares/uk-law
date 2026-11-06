@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (27).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/34
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 1. Particulars of agreements[^M_E_615bcb94-7497-4525-83b9-b0f0906478b9][^c-6de7d4e7269751897e5b37b9785b87ba]
 

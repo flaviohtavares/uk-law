@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (205).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 167ZT. Power to apply Part XIIZB to other cases[^c19104611][^c-3f7295f9b2a8a768c240ff1aaf8e4d2c]
 

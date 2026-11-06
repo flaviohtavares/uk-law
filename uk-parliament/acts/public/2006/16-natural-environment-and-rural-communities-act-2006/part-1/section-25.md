@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 25. Directions[^c-9d3ecc9523cacaafb2ebb6555303d3eb][^c-3c416108d714609234a3f77e61e1e30b]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 33. Calculation of basic amount of tax by authorities in Wales.[^c12076271][^c12076281][^c-8d3a5cc104e8bb2fea7476f4d74a6994][^c-f6861ff4293391f77071b5e6d5d89305][^c-90cd387516e88f9820eea0caf466e4ea][^c-8d3a5cc104e8bb2fea7476f4d74a6994][^c-90cd387516e88f9820eea0caf466e4ea][^c-1304ad51e0298e9c29d2496b54843766][^c-79b7a0076a43e2da48c2790862d73d28]
 

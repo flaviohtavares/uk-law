@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 69. Appeal on point of law.[^c833523][^c2085245][^c2085671][^c2085777][^c2086252][^c-e1c5d4c099d9f98379ca93dd5a251060]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-09-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 30. Review of provisions relating to counselling information requests[^c-baa08f0ccd9d72908c55bc1ee6b9e521][^c-074eb8d2b2ac8266cb72538714c96a71]
 

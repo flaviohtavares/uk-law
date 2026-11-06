@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Failure to comply with conditions[^c-035f1acec79f116a5aae0894824764ab][^c-1e28ec148890d74561a7d1afd4597ac8][^c-bbe30e86389e8c5432b89df0bf07889f][^c-34d30c48fe83376a82b39dfc49e02f81][^c-42f56f4b713bf66ed84f4d94e85c8384][^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81]
 

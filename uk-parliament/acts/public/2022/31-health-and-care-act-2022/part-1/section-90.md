@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 90. Abolition of Local Education and Training Boards[^c-51fdd93cd295353181c2fca8a49201e1][^c-85c1e81f79e4c272822579d26e2a5b42]
 

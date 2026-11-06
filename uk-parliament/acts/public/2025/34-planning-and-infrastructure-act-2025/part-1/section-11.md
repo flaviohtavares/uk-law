@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 11. Planning Act 2008: right to enter and survey land[^c-ab00069d5279bf5d8c50fd21e2658519][^c-4970faf4b5304a0cd3dc5b3ea5f9d2fb]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63. Orders made on conviction[^c-2bf57b60eb866437151c26a5cc4a1201][^c-23c9a0ce9dfae13c7922e4a2a479eecb]
 

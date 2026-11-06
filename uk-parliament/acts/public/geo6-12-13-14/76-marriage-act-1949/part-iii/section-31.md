@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31. Marriage under marriage schedule.[^c-5d65b8b7f6a33b14ea28e81545de27a1][^c-c898f7a5800b3f42e0c6454cec446a45][^c-39e3a33b54a98a89bb867cdabaa43ceb]
 

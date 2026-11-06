@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6. Power to make grants for probation purposes etc[^c-855206afe0da7fde1af969cf43600fd8][^c-5a18ecf2a876a167ed3637f25898d803][^c-4653f4130dc42c7eff8b4e0c24261b68]
 

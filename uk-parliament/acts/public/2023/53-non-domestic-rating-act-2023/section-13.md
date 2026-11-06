@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Requirements for ratepayers etc to provide information[^c-828ea08ed58d7580151ce2173f5ab07d]
 

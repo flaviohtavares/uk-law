@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 82. Enhanced criminal record certificates: additional safeguards[^M_C_0f32e07b-b9ee-4af7-a750-4af10e558812][^c-81aa21548fb90f22c67864febcf77d56][^c-aa55da9bff1fd3b7b0ec88511616df75][^c-47ac0fb50b2c12ef34e46b31ac27b55a]
 

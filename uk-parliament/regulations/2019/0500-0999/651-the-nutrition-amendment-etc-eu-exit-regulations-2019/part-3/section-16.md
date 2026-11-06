@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-08-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16. Amendment of the Food for Specific Groups (Information and Compositional Requirements) (England) Regulations 2016[^c-9534fa0fab3d7bf323c1b7866c81205f]
 

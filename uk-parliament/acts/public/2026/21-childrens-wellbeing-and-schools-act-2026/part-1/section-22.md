@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. Ill-treatment or wilful neglect of children[^c-b697b1e39bd4783b3b59fdff8d8859a3]
 

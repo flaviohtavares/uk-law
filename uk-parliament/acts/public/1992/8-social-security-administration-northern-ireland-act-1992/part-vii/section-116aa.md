@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (186).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 116AA. Disclosure of contributions, etc. information by Her Majesty’s Revenue and Customs .[^c14899791][^c18409431][^c-4b0123cc16a1b918c5ab8af62b55eb88]
 

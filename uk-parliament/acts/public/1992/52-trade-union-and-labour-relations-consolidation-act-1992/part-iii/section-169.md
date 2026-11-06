@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (156).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 169. Payment for time off under sections 168 to 168B.[^c14517721][^c20413981][^c-35e01ce7cb5b774646e782307977ef1d][^c-e5873ea90ba76b77befb3991bc10ebbe]
 

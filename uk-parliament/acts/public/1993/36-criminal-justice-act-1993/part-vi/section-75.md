@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 75. Compassionate release of certain children and other persons in Scotland.
 

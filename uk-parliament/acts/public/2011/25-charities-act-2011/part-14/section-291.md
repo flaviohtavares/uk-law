@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 291. When and how s.289 resolution takes effect[^c-7a9b63e30d99ce5aab10aec74201d366]
 

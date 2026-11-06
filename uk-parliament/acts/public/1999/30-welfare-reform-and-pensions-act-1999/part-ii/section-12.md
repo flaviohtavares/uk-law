@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 12. Effect of bankruptcy on pension rights: unapproved arrangements.[^c1314215][^c-395e01f2d8e1e8c5af9d53686c10bad4][^c-851be2417ff683b63e4200eea2579b4b]
 

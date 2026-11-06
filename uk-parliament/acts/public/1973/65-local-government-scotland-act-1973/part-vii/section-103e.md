@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2025-08-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/65
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 103E. Action by local authorities on receipt of findings under section 103D[^c-ea5a94ddd72127be467ca373f64dbee2][^c19246081][^c9677861]
 

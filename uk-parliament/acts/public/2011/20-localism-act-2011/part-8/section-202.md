@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 202. Functions in relation to Town and Country Planning[^c-3375e98e1835a6eefd480721b74ed6ec][^c-e0a60031201d05cd7dd1a990884819e7][^c-eada4f88f4769f792731d2fc31c590a2][^c-2d9b9c8098623e06c1a43ffcf49376c6][^c-250b381cc6b3a829195738e959b9cac8][^c-3375e98e1835a6eefd480721b74ed6ec]
 

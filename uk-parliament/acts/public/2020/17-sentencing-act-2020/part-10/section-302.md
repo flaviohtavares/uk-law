@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 302. Duty to obtain permission before changing residence[^c-48597f60e25d23a4ff381b3ab7ef6cb1][^c-5dd51e77b151457505989ea28371add8]
 

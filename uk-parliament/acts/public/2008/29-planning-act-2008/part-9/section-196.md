@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 196. Determination of procedure for certain proceedings[^c-44374a8f9eae6dfb4069b4f2cdafadfc][^c-b6a93dd802f44bf74d21c1e93a822bd0]
 

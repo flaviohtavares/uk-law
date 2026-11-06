@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-12-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/29
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 38. Incidental flooding or coastal erosion: appropriate agency[^c-a1f766f009e9697e47cde165a90f0495][^c-656013e0d58f7d5cd6f6ae5ffdbc980f][^c-1c74ef7ab5ca20276f6d96efec6114c2]
 

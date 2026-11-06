@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 30. Amounts for different categories of dwellings.[^c12073631][^c12073641][^c-8d3a5cc104e8bb2fea7476f4d74a6994][^c-9d23c42a67365ae826ec5120bed1d1cd][^c-90cd387516e88f9820eea0caf466e4ea][^c-8d3a5cc104e8bb2fea7476f4d74a6994][^c-90cd387516e88f9820eea0caf466e4ea]
 

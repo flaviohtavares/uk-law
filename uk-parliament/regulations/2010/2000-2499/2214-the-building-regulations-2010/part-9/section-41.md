@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2214
 >
-> Extent: England, Wales.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 41. Sound insulation testing[^M_E_b5db69ec-53ad-4e1a-bd12-24d6bb17b41b][^c-dc9386c213ea391dea28358e9a73cbe7][^c-72a560f72494ee75a320ca5994af0216][^c-921cc94de7187301f4f63e594c063f40]
 

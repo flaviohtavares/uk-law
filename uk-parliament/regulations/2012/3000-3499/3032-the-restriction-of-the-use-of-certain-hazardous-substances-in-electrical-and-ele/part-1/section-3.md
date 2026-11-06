@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 3. Restriction on the use of certain hazardous substances in EEE[^M_E_d7d182d3-db6a-4d8c-f112-de3bdbabfe66]
 

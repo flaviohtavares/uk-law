@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 238. Childcare: number of providers[^c-a361fd8b1deaac03d3e383b99787dfd6][^c-2a92acdf6185bd52a4ce45bd010d4181]
 

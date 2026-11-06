@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 191. Company’s books to be evidence.[^c15573751][^c20432791][^c-df9d97ccc313b023d5ec679e601c297f][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

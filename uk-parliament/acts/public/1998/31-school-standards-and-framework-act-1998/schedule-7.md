@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 7 — RATIONALISATION OF SCHOOL PLACES IN WALES[^c-262a4c8762ccca5cd78aa25c933fc465]
 

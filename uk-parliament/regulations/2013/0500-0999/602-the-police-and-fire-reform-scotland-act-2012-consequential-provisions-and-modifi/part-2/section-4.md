@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2024-05-01. See https://www.legislation.gov.uk/changes/affected/uksi/2013/602
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 4. Investigation of crimes and deaths[^c-3b05875ae83915b018a5c3f9319bcad2]
 

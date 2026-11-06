@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-04-26.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 70. Performance of functions of Scottish Ministers by constables in Scotland[^c-6f980c285aaa541c029fb61d1c2505d7]
 

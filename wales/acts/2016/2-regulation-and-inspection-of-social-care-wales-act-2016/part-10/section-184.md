@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/anaw/2016/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 184. Service of documents etc.[^c-ad63def22e154646828600c0ddbcaf06][^c-0db0b2617b7163801051dc5a48f2c6c8]
 

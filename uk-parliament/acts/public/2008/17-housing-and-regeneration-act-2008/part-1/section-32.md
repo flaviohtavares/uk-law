@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32. Recovery etc. of social housing assistance[^c-619f7e5f8df87e0669be84b0ac5cc366][^c-2b9f240531e3335d65a0f6459f8bb6a3][^c-60845003768571b8ffc0cb9032e88cce]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 4. Agency workers: guaranteed hours and rights relating to shifts[^c-20e96f08862acda89bebe67d0137c24e][^c-5292f4b16c778c489f65586d28e39844]
 

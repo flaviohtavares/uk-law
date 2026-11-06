@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 61. Non-discrimination rule[^c21152131][^M_C_5273e7aa-a9e6-494b-a16c-6b02a623f75d][^c-eeca0b10344ea6e3a6b0e1802df47958][^c-e51b427e8bde1730e6889b0a7bdf70a4]
 

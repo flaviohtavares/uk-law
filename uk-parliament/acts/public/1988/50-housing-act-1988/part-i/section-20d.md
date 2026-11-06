@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/50
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 20D. Assured shorthold tenancies following family intervention tenancies (affected by repeal, see note)[^c-38a9e653b660b088674e3c0cdeafd492][^c-fc20bf788fddf36d09dbf266cb7b193f][^c-fc20bf788fddf36d09dbf266cb7b193f]
 

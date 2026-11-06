@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 11A. Part 1A closure notice[^c-1d072767126e7dbff9fa895cdd851c57]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 484. Education standards grants.[^c15251261][^c15251271][^c15251281][^c-90adc6c9607003b5e852b0c08cc1a3a4][^c15251251]
 

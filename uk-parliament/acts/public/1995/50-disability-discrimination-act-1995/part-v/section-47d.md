@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## (not yet in force: 47D). (not yet in force: Penalty for using rail vehicle without accessibility compliance certificate)[^c22810461][^c20485971]
 

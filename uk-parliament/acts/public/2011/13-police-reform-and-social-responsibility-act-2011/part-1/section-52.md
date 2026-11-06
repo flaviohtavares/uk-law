@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 52. Persons entitled to vote[^c-350d8707160f9f7151fb4dd1ab1b7098][^c-1317ab83fd35247630aeb7e9c7f67ca4]
 

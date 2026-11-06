@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1153
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 19. Requirements to mark importers' details on regulated measuring instruments[^M_E_75f6e5ed-a653-4556-f511-3d7b4ead5baa][^c-22f70420789e6fe20f309524256a6578]
 

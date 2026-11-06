@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 324A. Power to authorise costs to be incurred in relation to proceedings[^c-2f150886f34de4222717c7bd9af4445a]
 

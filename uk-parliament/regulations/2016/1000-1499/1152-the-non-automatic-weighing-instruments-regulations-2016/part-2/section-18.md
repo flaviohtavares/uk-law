@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1152
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 18. Requirements to mark importers' details on regulated non-automatic weighing instruments[^M_E_9522310f-10f0-4d2c-8995-5aadb8c54867][^c-ba0446179a88e528f401d58629389d2a]
 

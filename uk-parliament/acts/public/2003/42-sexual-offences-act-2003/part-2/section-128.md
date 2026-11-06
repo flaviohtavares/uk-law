@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (154).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 128 (Extent: E+W) (affected by repeal, see note). Offence: breach of (Extent: E+W) (affected by repeal, see note) RSHO (Extent: E+W) (affected by repeal, see note) or interim (Extent: E+W) (affected by repeal, see note) RSHO (Extent: E+W) (affected by repeal, see note) etc (Extent: E+W) (affected by repeal, see note)[^c-30898360abe68d9ccbf000961635935c][^c-30898360abe68d9ccbf000961635935c][^c-30898360abe68d9ccbf000961635935c][^c-30898360abe68d9ccbf000961635935c][^c-30898360abe68d9ccbf000961635935c][^c-1b7551b0786b6f68fde88fbe3fbf7b9c][^c-30898360abe68d9ccbf000961635935c]
 

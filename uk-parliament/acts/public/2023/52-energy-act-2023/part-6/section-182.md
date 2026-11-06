@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 182. Designation of codes etc[^c-47800e50316ba8ac86549f6408e8edc7][^c-2021fb121c21ceae0ad87e49e29cf6ad]
 

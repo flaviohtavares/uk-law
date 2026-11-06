@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (79).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 23. Test scheme[^c19537371][^c21683751][^c21683761][^c21673741]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 90. Meaning of “disciplinary penalty”[^c-a3ea7c17055fb9b55ec79c8551e78b07][^c-815c6be100412ac1b4c2634d8bbb4a82]
 

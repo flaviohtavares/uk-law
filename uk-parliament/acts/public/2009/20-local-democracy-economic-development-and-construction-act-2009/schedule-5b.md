@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 5B — MAYORS FOR COMBINED AUTHORITY AREAS: FURTHER PROVISION ABOUT ELECTIONS[^c-3ce5f97fa30a048e4dd3d86a21f34339]
 

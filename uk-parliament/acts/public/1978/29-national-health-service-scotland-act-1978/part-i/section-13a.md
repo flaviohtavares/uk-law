@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2026-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 13A. Co-operation in planning of services for disabled persons, the elderly and others.[^c14159431][^c20946231][^c-3d7b919f6466880b980c30fcfe36e863][^c-046ff196cf20fcbfdda9dbc11f657411][^c14159421][^c-046ff196cf20fcbfdda9dbc11f657411]
 

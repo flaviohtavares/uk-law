@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-03-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1982/45
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 121. Control of the seashore, adjacent waters and inland waters.[^c-c714c5a57582ac020fc35f4aac501714]
 

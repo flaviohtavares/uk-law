@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/27
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## 103B. Power of Secretary of State and the Scottish Ministers to require information: carbon emissions reduction targets and home-heating cost reduction targets[^c-9dccdbdce02339113d867eaa28e480cc][^c-5f2acb2d277a8f799afe018a262dd039]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 70. Proceedings against organisations.[^c16081441][^c14469841][^c19797131][^c19929092][^c19929141][^c20421061][^c20421081][^c20421121][^c20422941][^c20423881][^c20423941][^c20424011][^c20448771][^c20902641][^c20902651][^c20902661][^c-1944e01d42308d02fd82a54af6681d0b][^c-95f6c6a8197b9b44ec8e3e18dfa5eb9d][^c-7fc3da6695ce8e12bf4f1c3fbcd9addb][^c-4f966a3ad753811c3b62726bb9dc5254][^c-0fe87b48449f5a2982d593e2c94ad4a9][^c-aa1e13ff0561aa93969584c78e6e447c][^c-012b648e12382505df18096b506274c1][^c-e606eb63fab82fe97087091819acb106][^c-3b4d6c1d389237849cf2e8537a33eab1][^c-1d607f56dac7d8338b4af5a7dcaf3b67][^c-6d788747d5d47d05d965460057f6f735][^c-729e9204bcbd9be8f8940b03731e2878][^c-772e2adfdad118c908028a8e59cc0dfd][^c-de01072d2e2ad7f78b77d0cb225ba2c4][^c-78b68d04da1fac0acca1bcfb1824575d][^c-5763809e018368319e89ad44f59b2465][^c-41b69db50d5f2fc2ff57e3f0bc02c134][^c-8acbf9ff033b1f4d265d2497511c2701][^c-0e5106058fb0476234cc872fed702728]
 

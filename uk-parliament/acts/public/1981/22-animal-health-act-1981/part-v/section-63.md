@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 63. General powers of inspectors.[^c-f4342af5c4dfcffe9210d67f75202aa1][^c-cdc0b0ba02d9ee40b6d1a95a1209968b][^c-acdf6f5c38625ffa8a464e69bcb28908][^c-38604b7a6c3614ec1a72584754e96991][^c-352ace5297ee33bf393e00173c84e8ba][^c-dd9bfb63008549692cdfcea4e8ba6433][^c-6ab8ab328b00ba4b52057b7098c2fba4][^c-6198625e4e81fb16031a95389f603ee8][^c-b14119aaa0183b638a0d5545111134ac][^c-81a430182a98e7b02f4b3794de5906ae]
 

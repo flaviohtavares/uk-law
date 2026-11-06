@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4. Information sharing and consistent identifiers[^c-2b13c20b263d0a9189421d42e0688b2e][^c-c413414310fc1533d02c5efc9bcc2365]
 

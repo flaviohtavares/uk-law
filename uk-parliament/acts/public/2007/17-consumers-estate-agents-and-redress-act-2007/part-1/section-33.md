@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-01-27. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Supplementary provision about transfer and abolition orders[^c-2be5e9139f025656aac364fd222f63f2]
 

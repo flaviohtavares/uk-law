@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 254. Extended sentence for certain violent, sexual or terrorism offences[^c-4d0d4d52ae5a1bc19bd33bb7b31a9fed]
 

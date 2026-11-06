@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 8 — Repeals and revocations[^c-c50969b7f510488f34da77a1fddf937e][^c-e23c01b728d8ff7e504df38c9e65291c][^c-8db588c50fa3f6065ecbf34fd188972a][^c-443c224141bc14454c4820e46b5d09ef]
 

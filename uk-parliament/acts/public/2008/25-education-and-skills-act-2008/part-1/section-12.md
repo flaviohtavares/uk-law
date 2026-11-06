@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Duty to make arrangements to identify persons not fulfilling duty imposed by section 2[^c-c46eb555b2556dbd8de52da4c13cd6ac][^c-13249243b3a2923a2d5198db13dce54e][^c-326fcf5fb1dbaa3a39cd8489cb1356e7][^c-9ab96c1a94520a4a832fda5986ce391e][^c-1d43abfd99cac9dc1e9649ab6a9644b6][^c-1252aa1d6613fbacb2b739860879d46d]
 

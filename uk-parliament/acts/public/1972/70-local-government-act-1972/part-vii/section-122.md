@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 122. Appropriation of land by principal councils.[^c15107751][^c-314756c87c0b2fa759a3283dec983a95][^c-4b6ff0b3878b405f55f29e4b717dffdd]
 

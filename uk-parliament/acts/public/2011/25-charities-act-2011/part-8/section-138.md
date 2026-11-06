@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 138. Preparation of group accounts[^c-7abba7e23d00876d1cdcc8d6776448e3]
 

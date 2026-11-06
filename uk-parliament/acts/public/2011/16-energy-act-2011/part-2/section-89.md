@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 89. Minor, consequential and supplemental provision[^c-85deec8217fae3279f34dc22f0a8c336]
 

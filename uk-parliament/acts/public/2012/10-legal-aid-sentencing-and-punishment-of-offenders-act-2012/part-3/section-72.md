@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (57).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 72. Foreign travel prohibition requirement[^c-6054b4cd736fa499580c863b8e5c9481]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 93. Complaints procedure operated by principal accountable person[^c-e59690b4519112fded21e2c3121b7aeb][^c-8bb92f4fbb44f2e17f785f9e494d177d]
 

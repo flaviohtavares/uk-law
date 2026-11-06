@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 47. Effect of regulations ratifying agreement[^c-52f6943324f944069ba67ba4acbb0149][^c-b5669caaea58836d1e1ededfd76acfcd]
 

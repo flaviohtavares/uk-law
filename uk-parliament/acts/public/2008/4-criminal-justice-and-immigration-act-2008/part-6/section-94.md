@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 94. Issue of warrant transferring responsibility for detention and release of an offender to or from the relevant Minister[^c-3f1c0053fd95dbb0f63343c75fafb152]
 

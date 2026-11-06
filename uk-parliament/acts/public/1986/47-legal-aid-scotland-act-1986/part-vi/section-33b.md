@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (32).** Text as at 2024-04-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 33B. Contracts for the provision of children's legal assistance[^c-4b1a19c2f98ce97eb33965a2a4cad65c]
 

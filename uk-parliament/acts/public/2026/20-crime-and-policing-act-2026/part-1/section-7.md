@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7. Provision of information about anti-social behaviour to Secretary of State[^c-8c22ef94e9dd0d4d241d193c8e95cdc6][^c-cc24b5f0313dfccae3b5d4ddc3cd4e13]
 

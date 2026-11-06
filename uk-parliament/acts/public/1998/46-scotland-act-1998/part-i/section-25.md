@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-09-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 25. Witnesses and documents: offences.
 

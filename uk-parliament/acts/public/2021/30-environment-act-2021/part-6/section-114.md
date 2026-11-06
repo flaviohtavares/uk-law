@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 114. Controlling the felling of trees in England[^c-9336f979773559408e2fb5696abe9a7c][^c-f61a83cfdf9966632f6f206d51155865]
 

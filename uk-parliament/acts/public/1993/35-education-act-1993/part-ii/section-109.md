@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 109. Withdrawal of grant where school is unsuitable to continue as grant-maintained school.[^c1400281]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-04.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 33C. Assistance in relation to protected wrecks[^c941444]
 

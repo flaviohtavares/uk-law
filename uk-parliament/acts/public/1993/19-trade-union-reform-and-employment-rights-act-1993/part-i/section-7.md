@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2017-03-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 7. Ballots: repeal of provisions for financial assistance and use of employers’ premises[^c1092498]
 

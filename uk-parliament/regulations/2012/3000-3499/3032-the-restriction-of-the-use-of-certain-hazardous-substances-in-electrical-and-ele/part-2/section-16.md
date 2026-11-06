@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 16. EEE to bear UK marking[^M_E_73b6392d-a053-428a-b3bd-e68a8a7d8f3d][^c-6f0adef836a47de1daa25c1be4554319]
 

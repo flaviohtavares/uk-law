@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 91. Conditions for applying for appointment order[^c-79c88d251b143fd6539c0dbfe7eb30d9]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/50
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 126ZB. Offences in schedules 8A and 8B[^c-18291a6dd88b7ac8a1b42216c7a67f7e]
 

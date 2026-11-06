@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 162. Probation Board for Northern Ireland Victim Information Scheme 2005[^c-85840df790403c904a50fbf99d4489a7]
 

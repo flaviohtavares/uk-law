@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## Schedule 4 — Offences where offender not eligible for automatic release under section 255BA after recall[^c-fdad88029f5bdb203a0d66ecd8f0eb7b][^c-0c289415b0bba2a7590d655bed629e56]
 

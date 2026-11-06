@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-06-16. See https://www.legislation.gov.uk/changes/affected/eur/2013/1303
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland; Scotland (the versions of this text differ in extent).
 
 ## Article 80 (Extent: W) (affected by repeal, see note). Use of the euro[^M_E_bc41fac2-ba8b-486d-b02e-7bc3ffc02749][^c-baf650bfb9dced042c98eadcf1cd7c41][^c-72cf4f981c2ba4e34614775056d25da4]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 36A. Extradition following appeal: Scotland[^c-85862186968e4b116ee521b76fe378bd]
 

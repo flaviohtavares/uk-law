@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13A. Duty to promote high standards and fulfilment of potential[^c-911b3db1ed3fcce6a8973d40ae849228][^c-0dc5bd12ebabb8fc206bf59ad56c3571][^c-077c3becf206977fa0a62510a51decc1][^c-7e3d2339ef3c77d63b44cf94584dfba5][^c-6496b48d9810aea6a62ad5dc861336c5][^M_F_900e51c6-e2fc-452a-e607-798aa697317f]
 

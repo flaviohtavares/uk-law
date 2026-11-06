@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 163. Equality Act (Sexual Orientation) Regulations (Northern Ireland) 2006[^c-ff692377159640a33b1e5de9507c4b59]
 

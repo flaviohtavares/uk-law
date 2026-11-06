@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7. Implementation of proposals by order[^c-5e33aa9c7381b0042b8fe900a68657db][^c-8ffef5b3b8786ff56f612d17d2fd457f]
 

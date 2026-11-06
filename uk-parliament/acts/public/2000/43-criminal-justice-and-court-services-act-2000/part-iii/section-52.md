@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 52. Community sentences: electronic monitoring of requirements.[^c10578991][^c-89fbfe179eff002c8557527c98d3eaf2]
 

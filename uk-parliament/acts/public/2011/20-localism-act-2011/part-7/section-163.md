@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 163. Assured shorthold tenancy following demoted or family intervention tenancy (affected by repeal, see note)[^c-6405d6a408f822fced67b11d30455389][^c-faa086ff80bf42e813000cbc991e8344][^c-faa086ff80bf42e813000cbc991e8344]
 

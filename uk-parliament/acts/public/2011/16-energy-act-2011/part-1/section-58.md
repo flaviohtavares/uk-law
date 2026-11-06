@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 58. Scottish tenants' energy efficiency improvements regulations[^c-730cd6502493d12024b3c6201017d30a]
 

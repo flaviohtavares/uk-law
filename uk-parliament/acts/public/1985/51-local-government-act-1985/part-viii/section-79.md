@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/51
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 79. Audit.[^c-471ea0d56c012ae409a22ded332b76bf][^c3165521][^c3165531][^c3165541][^c3165551][^c3165561][^c3165571]
 

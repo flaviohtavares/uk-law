@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-05-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 93. Provision of information about traffic regulation measures[^c-58ae99a9618957a83d538e99eb48463b][^c-9f8825cf7795f24eaf2048b4d135f38b]
 

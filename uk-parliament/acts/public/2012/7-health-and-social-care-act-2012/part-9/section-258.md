@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 258. Information systems: supplementary[^c-4b9d91e5728758c679a1e082ac88f14b][^c-15f76a582be5f9711683064608f4bda9][^c-4428727902697665108264b7f414d144][^c-15f76a582be5f9711683064608f4bda9]
 

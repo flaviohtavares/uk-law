@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 29. Voluntary attendance at police station etc.[^c11320461][^c-ef557f2a8cb69004bc9a49cdf3127fad][^c-b56a920a71920ad6fac002c5f607f6d3][^c-08b875be61abcba211ca1a3f439022de][^c-19f92a3501f887885b4a17f8918fc033][^c-5074b7ca64e300cb2bf00ad21176bdd8]
 

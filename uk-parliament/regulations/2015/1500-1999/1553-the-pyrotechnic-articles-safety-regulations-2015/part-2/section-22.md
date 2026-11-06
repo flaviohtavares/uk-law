@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 22. Duty to take action in respect of pyrotechnic articles placed on the market which are considered not to be in conformity[^M_E_4a8a5ff6-116d-4311-e4a1-2f9eb9f2b36b]
 

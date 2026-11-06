@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 20. Regulation of regulated activities[^c1942174][^c-efe6fa9620409e92f09e0e86aad35ce4][^c-7c1785b84dd3c267ad48b65fae9eaa56][^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81][^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81]
 

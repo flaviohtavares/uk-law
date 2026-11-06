@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 18. Restricting parental responsibility where one parent kills the other[^c-96e722485c71af194f4df36d0cd3b08e]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 92. Amendment of Schedule 2 (forms)[^c-485fe79bc943ffed7e7761e0ef28addc]
 

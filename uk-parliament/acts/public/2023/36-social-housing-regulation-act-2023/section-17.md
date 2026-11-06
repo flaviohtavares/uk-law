@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Restructuring of registered societies[^c-0fbc691ef271d6bc4090fdafb16e54f5][^c-762a0f3167acbc516a8e5d2dd97370dc]
 

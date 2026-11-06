@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (173).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 25. Inspection of statements of accounts etc[^c-8266f1c3bf279d98c2398667c651adb7][^c-a3177a3da870902a1226dec102fb3549]
 

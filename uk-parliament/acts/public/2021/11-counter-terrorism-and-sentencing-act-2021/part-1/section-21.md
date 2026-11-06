@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-03-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21. Offences attracting special custodial sentence for offenders of particular concern: England and Wales[^c24569101]
 

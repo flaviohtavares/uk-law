@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/50
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: NI.
 
 ## SCHEDULE 8A (Extent: S) — REVIEW OF CRIMINAL RECORD CERTIFICATES (Extent: S)[^c-95bc6f2e8b7383f87b5bdf1c5fad00a2][^c-cda1fd6d0aded7cc5666a383cc53f150]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-10.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 87. Carrying out of operation after expiry of period (affected by repeal, see note)[^M_F_cec72f0f-79c9-4487-beef-e4bc7500eb9d][^c-2dd38f22e3f0e7272da0337fa848725f][^c-2dd38f22e3f0e7272da0337fa848725f]
 

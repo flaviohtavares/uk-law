@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 43. Freedom of speech in universities, polytechnics and colleges.[^c-d009f5b00bff2953cfab7746b8e5022e]
 

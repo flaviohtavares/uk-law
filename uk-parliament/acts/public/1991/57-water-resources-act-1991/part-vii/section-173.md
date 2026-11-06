@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 173. Powers of entry: supplemental provisions.[^c-25f061ca3dfac7434bbe4d7fa5b9ed51][^c-92a46f6504c55d7266945a7cdf817b31]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 209. Community order to specify end date etc[^c-6c41f96da355676dab15999e0dd22117][^c-41887544634b059562b1b6dddd1ce792][^c-a1ffc63143bbd784b816cad957377a35][^c-83b842fc0a2d050e6ed1c658370f0481]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 73. Smoke control areas: amendments of the Clean Air Act 1993[^c-7d775ac80f71003093b03ce1b0c4193b][^c-af11c078529edcf92b2abd520d113391]
 

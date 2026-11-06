@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16E. Local arrangements for safeguarding and promoting welfare of children[^c-0dcc6577bc836a9858688c3bf36e8ba7]
 

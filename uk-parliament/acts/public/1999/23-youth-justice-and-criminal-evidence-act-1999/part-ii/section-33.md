@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Interpretation etc. of Chapter I.[^c9545911][^c-25e2b9eee7178c69716438a83947350b]
 

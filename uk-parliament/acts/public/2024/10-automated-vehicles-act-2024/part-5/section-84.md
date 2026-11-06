@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 84. Civil sanctions for infringements[^c-8aed3abc0dd1bc008b4b4dc8c6866018]
 

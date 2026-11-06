@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1967/10
 >
-> Extent: England, Wales, Scotland.
+> Extent: Wales.
 
 ## 31. Determination of matters arising under ss. 11, 14, 21 (affected by repeal, see note) , 2‍2, 26D, 26E and 26F (affected by repeal, see note).[^M_F_19958652-57e8-4bc4-ed4b-225cd3e274e7][^M_F_19958652-57e8-4bc4-ed4b-225cd3e274e7][^c-64ed0a5ba8c759bbbcc542b81203ba18][^M_F_19958652-57e8-4bc4-ed4b-225cd3e274e7]
 

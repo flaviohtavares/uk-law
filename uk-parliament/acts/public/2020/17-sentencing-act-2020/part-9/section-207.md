@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 207. Community order: availability of particular requirements[^c-a66feed9be6af0d266b6689b68b272c2][^c-bdc535dfd1baf9756c04ec0b753bea4b]
 

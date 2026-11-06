@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32. Application to Greater London Authority[^c-f555a3bed92797623366e6f154ecb05d][^c-99a8b037e069d3a550f41705e567a3bd][^c-832f67b396599c897d077c3542a330df][^c-e55db3ce382cc4ef009c364456f74927][^c-339e2afe1a4d1936fec97b730f73bab4][^c-dd82c06173bce299783b0ec044dad824][^c-8f16e410793ae7a2f622cd153c1c9c10][^c-88d21cb10c0de630397bcbf66a707ad9][^c-11e3004c6c09a96ebb5e740bb947a4d9][^c-c5b66d5080b28c42de83670577b69121][^c-a43d29f0a0021a63ef5b2830b63da7fb][^M_C_799f1fb3-d209-4629-d9a3-2d841b503ba3][^c-b473e5d05f44b189cc61904f0bbe7853][^c-043376ed7f7bdb08d35aa246fcc1d760]
 

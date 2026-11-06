@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 26A. Licences for coal-mining operations in Wales: approval by Welsh Ministers[^c-e9f1623272f14301cb9da1ea71d2937f]
 

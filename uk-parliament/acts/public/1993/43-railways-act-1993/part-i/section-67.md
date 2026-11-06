@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 67. Competition functions of the Office of Rail and Road[^c-edada035dbeb68b140930e9ae8bf8fea][^c-ce7f07d843a58c12c97efb085f3b5d84]
 

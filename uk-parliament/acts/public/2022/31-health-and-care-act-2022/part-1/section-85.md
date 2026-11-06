@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 85. Removal of CMA’s involvement in licensing etc[^c-8a1a48fe43a8136c7a54f059eb4f3759][^c-0d2d8d080e6c680fca24d383003b7466]
 

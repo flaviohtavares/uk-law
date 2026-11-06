@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-04-26.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 64. Requirements for making an account monitoring order[^c-34e9808531c60db437a528f354121dd9]
 

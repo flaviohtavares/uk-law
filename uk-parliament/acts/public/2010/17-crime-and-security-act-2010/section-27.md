@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2022-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27. Application for a domestic violence protection order[^M_I_894be692-986a-4b28-ecad-9c991bb262fa][^M_I_159ff1e3-f872-44b9-846d-2570eb40754e][^c-21e21f7d89292d1c50fcd9769b557e37][^c-caddba764cddee9d0aaf51f922f0ad1f]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28. Monitoring and reporting on environmental improvement plans and targets[^c-1dac0162b42f9a1844f59b70854056fe][^c-86f5404927270ac200c64ee22736a096]
 

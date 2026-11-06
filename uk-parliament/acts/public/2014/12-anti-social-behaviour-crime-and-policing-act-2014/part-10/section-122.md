@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 122. Offence of forced marriage or forced civil partnership: Scotland[^c-9334641e043c332f6c0be9ea12799dc0][^c-1697bcebdd45f369f5acfc1e13746900]
 

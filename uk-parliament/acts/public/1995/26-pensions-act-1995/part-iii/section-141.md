@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 141. State scheme etc. premiums and buyback into State scheme.[^c-0c97fa306462cb53c4e283719bb57b1e][^c-193a7bd02e00f1d1032efa68f3d2f8d1]
 

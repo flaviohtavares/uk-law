@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 25. Parenting contracts in respect of criminal conduct and anti-social behaviour : youth offending teams[^c-4f8962af7c43d340d973d68356f9ea72][^c-ea68f1d5c3e840991e8f648faf54550f]
 

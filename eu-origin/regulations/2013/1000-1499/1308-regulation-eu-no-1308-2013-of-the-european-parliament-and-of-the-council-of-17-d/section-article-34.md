@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-02-16. See https://www.legislation.gov.uk/changes/affected/eur/2013/1308
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland; Scotland (the versions of this text differ in extent).
 
 ## Article 34 (affected by repeal, see note). ... Financial assistance (affected by repeal, see note)[^c-6604ed46c589cd98188f7507e7f25a3a][^V_NI_3b4e02a9-c34a-e2d1-d642-79ede9ef889d][^M_E_7e3459e1-1490-40fb-ebc4-f65e482232e0][^c-12c82a854a011846e2323ec0d77aad99][^c-a5ce9d65af511fe4057d8a92b5d41da4][^c-12c82a854a011846e2323ec0d77aad99]
 

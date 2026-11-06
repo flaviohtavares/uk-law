@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (205).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## SCHEDULE 5 — Pension Increase or Lump Sum Where Entitlement to Retirement Pension is Deferred[^c16405521][^c-893f844aefc11dcb727a899b3e114a55][^c-f28e6467e5cc3d13c87f1878f1200687][^c-ca1407e25af2d3be55bb140a32a1afb7]
 

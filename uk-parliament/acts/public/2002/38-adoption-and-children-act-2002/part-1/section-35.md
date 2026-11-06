@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 35. Return of child in other cases[^c-f4bc768f1a9d8319c4b955b8927eb055][^c-4e214945d095f1aa97305d5d595640cf]
 

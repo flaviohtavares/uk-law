@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 46. Amendments of the Financial Services and Markets Act 2000[^c-923b76d9648b01c4d273c78cbd1d069b]
 

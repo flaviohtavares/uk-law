@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 36. Meaning of “bank” etc[^c-2534ed2779dd195bc6674d1fc1705e03][^c-58e4d247562d9ccce699e63677a91a06]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 184. Designation of central systems[^c-0a321f4fb3a3a7ed147943fd90f70f1e][^c-c6522fc1e9080e90decdd00743373bcb]
 

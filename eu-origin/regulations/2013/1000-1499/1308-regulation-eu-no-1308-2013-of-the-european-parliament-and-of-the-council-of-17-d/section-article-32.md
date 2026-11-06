@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-02-16. See https://www.legislation.gov.uk/changes/affected/eur/2013/1308
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## Article 32. Operational funds[^c-6604ed46c589cd98188f7507e7f25a3a][^c-3c3ff1b90e224232ee54fa7387657b3e][^M_E_536bd894-47f9-4d70-fb09-10cf4855f87c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 34. Power of Secretary of State to deal with special circumstances[^c-1634dd3ddae7c8047209a76d52ca121c]
 

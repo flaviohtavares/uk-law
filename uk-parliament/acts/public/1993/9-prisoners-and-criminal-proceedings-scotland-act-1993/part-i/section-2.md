@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (38).** Text as at 2026-08-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 2. Duty to release discretionary life prisoners.[^c12922941][^c12922951][^c12922961][^c12922971]
 

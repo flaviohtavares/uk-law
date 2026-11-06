@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1982/30
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 15. Tattooing, semi-permanent skin-colouring, cosmetic piercing and electrolysis.[^c2548891][^c-b2677ce2470bf19e26ae667c76a5de52]
 

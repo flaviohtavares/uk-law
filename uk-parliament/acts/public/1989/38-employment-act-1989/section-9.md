@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2018-01-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 9. Repeal or modification of provisions requiring different treatment of different categories of employees.[^c-d914a9347feceebf13c4ad54669e2813]
 

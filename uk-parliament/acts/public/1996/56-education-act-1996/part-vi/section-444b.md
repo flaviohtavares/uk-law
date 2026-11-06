@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 444B. Penalty notices: supplemental[^c-653cae3f1bdc21ea24b664c89ef350a0][^c-7732020b28ab4d8ca20ab043645912a3]
 

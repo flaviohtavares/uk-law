@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (205).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 167ZY. Entitlement etc.: prospective adopters with whom looked after children are placed[^c-604f3133e2a60f1eb77d1cdae586af7e]
 

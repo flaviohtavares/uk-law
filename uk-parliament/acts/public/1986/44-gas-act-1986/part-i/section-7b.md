@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (31).** Text as at 2025-11-13. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 7B. Licences: general.[^c-a0b183d00abce823841b47b2613ee789][^c-337841e40159b854fb6e3adf132b28c6][^c14413041][^c14413051][^c14413061]
 

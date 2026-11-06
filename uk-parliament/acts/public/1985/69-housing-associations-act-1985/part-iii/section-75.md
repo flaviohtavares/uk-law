@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-12-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 75. General functions[^c-6cce09e997cc265296748ac467ad7fd1][^c-992c48b8a2e7a2824e1e34151e4ceab1]
 

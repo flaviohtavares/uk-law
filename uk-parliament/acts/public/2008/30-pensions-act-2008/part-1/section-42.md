@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (79).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 42. Penalty notices: recovery[^c-b70d7640b083924010f435e87dd87363][^c-948adbd0f065dbe80446d5ff8d90921b][^c-5ce5332af685b90f8fb3a3c9d8d9060d][^c-d5bf039f538cad1ea42dff4676a73d72][^c-3a23f8e7a4041a5b56002106c50b5585]
 

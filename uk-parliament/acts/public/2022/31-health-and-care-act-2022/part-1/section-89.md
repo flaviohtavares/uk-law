@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 89. Repeal of spent powers to make transfer schemes etc[^c-926ff62c2b4e763cce7e22c0db73b444][^c-ce28ba62462792ccea30facd0ec7c39b]
 

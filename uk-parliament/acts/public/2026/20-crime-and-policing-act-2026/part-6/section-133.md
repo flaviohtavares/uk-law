@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 133. Guidance about disclosure of information by police: Northern Ireland[^c-9d800c966f73a7098d58c8206e7b0323]
 

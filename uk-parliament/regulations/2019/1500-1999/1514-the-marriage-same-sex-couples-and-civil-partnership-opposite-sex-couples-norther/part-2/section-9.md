@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 9. Disapplication of regulations 6 and 7 in certain cases[^c-6ed9963ae0fd65c0c3412e4c5c424cd9]
 

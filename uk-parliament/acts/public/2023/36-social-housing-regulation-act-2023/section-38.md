@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 38. Meaning of “subsidiary”[^c-3d2ed8f3b1669c945c55eef7438e9aaa][^c-68d633407dcf6bd53019d2d4a7262187]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 4. Amendments to the Railways (Access to Training Services) Regulations 2006[^c-bc69822b3a9bda33353e9a2b21263f39]
 

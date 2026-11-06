@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 144. Custody of company’s property.[^c15573031][^c20429551][^c-181c78310f6bd13aaed6e4f4cb3ed2e3][^c-19a0dbd549ca6815d6c057f3c4163f52]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 86. Special Health Authorities: removal of 3 year limit[^c-f75182916f56154c7a7bbdb42cd948b7][^c-e39c859ad2cf3d9e3daeaaa5d76697be]
 

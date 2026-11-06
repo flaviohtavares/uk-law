@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-01-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 52. Transitional provision: plants, plant products and other objects from EU Member States[^c-93979f3743ac8f64aa27c9b686d2f6c3][^M_E_5af5d67c-0e73-4beb-f0f8-6b8786f90178]
 

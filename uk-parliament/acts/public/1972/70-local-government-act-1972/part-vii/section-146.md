@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 146. Transfer of securities on alteration of area, etc.[^c19911901][^c19911891][^c15110571][^c-c665b93e501e039937cf8db7490df272][^c-b5c65ab0281c71889a9997a0e737f5d2][^c-098d9d7c467efd39177d87a7e07f25df][^c-18d272a4f5051726478584738a5499d0][^c-02d13cff8cee19ae859484cc3cde7222][^c-b139cab9af134c8f85ecc81be2e45abf][^c-bb9659b1d6d367a8f7fc2f218692d206][^c-096225c9b3c591df35f45e12afe690f1][^c-bf78be2f6c029235fbd5e02f92b9a18c]
 

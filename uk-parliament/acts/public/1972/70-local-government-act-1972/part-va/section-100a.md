@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 100A. Admission to meetings of principal councils.[^c-14949f45621ecfe19d46343a0728deff][^c-577f2f3d5ff34eb6201719448d8306df][^c19745171][^c19745171][^c18608651][^c15100041][^c15100051][^c15100061][^c20519961][^c20527071][^c20528571][^M_C_b119282c-da86-49c0-f8b4-3c1cbb504577][^c15100031]
 

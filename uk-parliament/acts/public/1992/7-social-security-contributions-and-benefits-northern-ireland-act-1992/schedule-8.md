@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## SCHEDULE 8 — Industrial Injuries and Diseases (Old Cases)[^c-14ef2d462c74de2d1b6422d6aaeb8da5]
 

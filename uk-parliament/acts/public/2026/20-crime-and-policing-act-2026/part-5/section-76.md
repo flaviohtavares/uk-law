@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 76. Possession of advice or guidance about child sexual abuse or CSA images: Scotland[^c-6fe2e58f0ee2f02964825a7e1701a75e]
 

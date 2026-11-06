@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 142. Limit on compensation payable under compensation order of magistrates' court: offences committed before 11 December 2013[^c-ce559d5c602bd6fc6b37587f512bbd06][^c-2c52f38c099ecdd1a417dd24bdb2979d]
 

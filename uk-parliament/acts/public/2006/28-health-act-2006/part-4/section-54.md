@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 54. Manner in which disclosure notice may be served[^c-bfa4e617dfe84876c0c4355808a16e33][^c-cb1c66b01c6a29f16d5b65415a8304aa][^c-dcbcf5647f512a8f7ff1d25af8dd9cfb]
 

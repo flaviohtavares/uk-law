@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16. Exception to requirement to make monitoring check[^c-754dfdda93a2a26fd2817f068ddeced1]
 

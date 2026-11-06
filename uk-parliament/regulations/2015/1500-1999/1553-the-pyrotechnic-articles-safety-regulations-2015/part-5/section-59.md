@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 59. Enforcement action in respect of pyrotechnic articles which are in conformity, but present a risk[^M_E_98e68af5-e89a-4b2b-a7b6-33c568df4e95]
 

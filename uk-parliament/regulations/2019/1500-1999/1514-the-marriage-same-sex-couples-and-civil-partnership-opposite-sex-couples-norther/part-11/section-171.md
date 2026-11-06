@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 171. Overseas relationships: transitional modifications of CPA 2004: dissolution, finances etc[^c-1f1def941316be657c8234af2c228c33]
 

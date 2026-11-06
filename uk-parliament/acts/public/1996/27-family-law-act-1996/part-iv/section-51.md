@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 51. Power of magistrates’ court to order hospital admission or guardianship.[^c-4c182994cbe8add52415dd2f91d5286c]
 

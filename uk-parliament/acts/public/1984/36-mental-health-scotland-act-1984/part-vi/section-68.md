@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 68. Powers of Secretary of State in respect of patients subject to restriction orders.[^c-0a67c56d28da55a6f047fc2edb64008b][^c-b4fdc5382b61d8d3da6fd9ae7bebccdf]
 

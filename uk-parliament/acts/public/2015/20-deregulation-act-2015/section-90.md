@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 90. Poisons and explosives precursors[^c22547931][^c-a0102e1b899dacceaa37c5c5eb8ab5e0][^c-b8d94a06f5a1e426d84b475571d98cda]
 

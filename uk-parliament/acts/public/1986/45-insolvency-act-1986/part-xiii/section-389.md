@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 389. Acting without qualification an offence.[^c20438451][^c20438441][^c-e1e3f5ef388f59b096db6d4dfc6ba322][^c-bce653da65b9d1b38f5bf863f469b8e9][^c-27f6a4b363f4fc9f98dc9f53993285e5][^c-67e84b3fde1253471739882cade02486][^c-53e23e5032b55114129bfd4243322aef][^c15583101]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-01-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 19. Variation or cancellation of registration: service information[^c22722081]
 

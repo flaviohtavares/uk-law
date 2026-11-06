@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 38. Destruction of animals involved in fighting offences[^c-b26806d43ff30174961d582e433cc7ad][^c-fd0a412f0846a0dd7fe7efcb483f34df]
 

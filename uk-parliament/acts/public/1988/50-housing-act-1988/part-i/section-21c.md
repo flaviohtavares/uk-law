@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/50
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 21C. Repayment of rent where tenancy ends before end of a period (affected by repeal, see note)[^c-bf192db80b8e4253bc876c9712ecda4c][^c-fc20bf788fddf36d09dbf266cb7b193f][^c-fc20bf788fddf36d09dbf266cb7b193f]
 

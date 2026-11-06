@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/asp/2008/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 64. Payment of remuneration etc. of certain judicial office holders[^M_I_3472b645-0cac-41e7-f3c7-eb47c4fe97f9]
 

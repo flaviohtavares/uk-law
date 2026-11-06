@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 45. Deportation of foreign criminals[^c-a333c35cd463fccc7d03e4dfe4cd41f2][^c-93b2bbcbf4458f0fbde03772f5f703cf]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, W..
 
 ## 27A (Extent: W.). Power of community meeting to apply for an order establishing a community council (Extent: W.)[^c-792a7b25cb38c05b813b9d585c0994b7]
 

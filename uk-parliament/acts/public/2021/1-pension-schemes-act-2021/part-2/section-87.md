@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 87. Continuity option 1: discharge of liabilities and winding up[^c24481121][^c-8c68181e511c22d5ba55019c2a2548cf]
 

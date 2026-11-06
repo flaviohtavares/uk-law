@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 222. Extension or modification of functions of statutory undertakers.[^c14934661][^c14934671][^c14934681][^c14934691][^c14934701][^c14934711][^c14934651]
 

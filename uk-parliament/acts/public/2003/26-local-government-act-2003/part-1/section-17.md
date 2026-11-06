@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. External funds[^c-4ed70da8c99eae6a5c97f7a4ff0dc6b7][^c-2c35bee600d6e2546ec818e424e83382]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 131. Offences by bodies corporate[^c-499ec072c3a8943aa72ecf0feff5915b][^c-5d583da99274d1b639ae2b67efdd78ce]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 127. Restraint orders: restriction on proceedings and remedies[^c-bcb1b9f67628cc7586a1f5b195074391][^c-d59f6c2a9c42161ca1815c0c61d9e1f6][^c-bf1422bf2e602f499b6e4a1b87fb0e4c][^c-d59f6c2a9c42161ca1815c0c61d9e1f6]
 

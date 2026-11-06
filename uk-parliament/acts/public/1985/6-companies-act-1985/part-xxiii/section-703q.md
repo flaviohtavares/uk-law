@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 703Q. Particulars to be delivered to the registrar: insolvency proceedings etc.[^c17799621]
 

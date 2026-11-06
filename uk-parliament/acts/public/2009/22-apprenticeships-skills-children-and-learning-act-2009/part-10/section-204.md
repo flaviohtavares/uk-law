@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 204. Power to require local authorities in England to obtain advisory services[^c-810c98e7c7e6c3a85091bf6f20972a93][^c-062d27e760c356996de33ee6a2c9d7a4]
 

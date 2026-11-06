@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 130. Tendering for quality contracts.[^c14881041][^c-460087bbd4af094b6936b5a0ed5b45a8][^c-c05adb8597f2acc398b3fefbd54794ff]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 313. Area in which functions of Countryside Council for Wales exercisable[^c-ce882003f0d4c3f0ceb25a8b2adb3915][^c-ac75f39dbf027abc73c2e6e0ff4095cd]
 

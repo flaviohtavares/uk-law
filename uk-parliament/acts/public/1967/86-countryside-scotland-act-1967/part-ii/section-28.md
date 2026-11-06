@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 28. Boundary notices.[^c-77fdb88ae8e9f276f0476bfaf71aaf04]
 

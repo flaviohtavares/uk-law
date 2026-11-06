@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 21A. Alteration of Welsh police areas on local government reorganisation.[^c11163261]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 148. Parliamentary scrutiny of pilot[^c-2f372232507abb22cb48b47b24d7adb0]
 

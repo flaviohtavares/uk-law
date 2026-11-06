@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 103. Combined authorities and their areas[^c-82613bad3cea4e4643d2e5346ee5b9ab][^c-8109fc4592a1097dcdaba8fbeb856467]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 46. Power to give effect to EU obligations[^c-624cc2407ff4778748abde1591e0c8b4][^c-bcd911ec5474a4b66d941f6e98447332]
 

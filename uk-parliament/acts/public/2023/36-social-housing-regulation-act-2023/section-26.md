@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 26. Failure to meet standards: exercise of intervention powers[^c-0a7710e09e3e13d6b11aadd0bf82b92c][^c-b6ec3bc05a1856f157f20f70be066698]
 

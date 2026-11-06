@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 141. Community land auction arrangements and their purpose[^c-60caed462ab67cc7022353b88ea3e1b4]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 222. Power of local authorities to prosecute or defend legal proceedings.[^c15118541][^c15118551][^c15118561][^c18866801][^c-765a1b5c4e9ae7e212dfc1d66ba2f39d][^c-8ba5dbc6a42e6401b6ab338a779d689e][^c-268ed5f5fc01f9388b226337275b9536][^c-6da8a4f53227faf286beada55b30c6d5][^c-34ca452a987ca8a5aebf636dc567f769][^c-2b62e5e630dc7c52d6449d97b221b280][^c-d1b7b841754d92eedfc95b23758bf642][^c-ae52c6e7610af6d57c6061adad916320][^c-6cdbfdf7fe1080bdbd22ae01383331d9][^c-1c58731b09e9e2c4b5fbf536f95122c0][^c-dc4b5e3ab24a3ca8785d992dbb0aab99][^c-d611f23c086094df396dae3a31e30d4e][^c-b75fbc54cbcffaa6c2f38fae27bfe987][^c-93cf9f6ee344b61d3c22e2b55354be08][^c-b2bb9b0ab78bfb40a6059630ecb94719][^M_C_df134849-57f6-41ba-9af3-0574b8193761][^c-966017aedbca60474ef162e8b14fb5f9][^c-17c8da9bdba17e7ae6f8c67ecb52dcf8][^c-26d3ad3d953281557ec6069948352c63][^c-ee3eb1ea47fa951179852eacfc580675][^c-f393a2dc955f36ff08623093f415b9f0][^c-660fd15e24d7770d9b8f5866ed77286a][^c-76932b8bc095bf43a700d1d492e0c2b6][^c-f268a9e85bf685db309c69f98ad81ac2][^c-4d2bc7a03470affc3cc2f0a8435dd271][^c-6d2863cd2636224c2ba32eb3c5bca69a]
 

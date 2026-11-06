@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/8-9/62
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 32P. Fit and proper person: Level 1 disclosure[^c-79a472f5e1e27276c24a18afaba5c84f][^c-1996fd791ad672f9b9ea73d7c3036fa0]
 

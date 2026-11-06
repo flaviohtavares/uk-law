@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 79. Social Security (Widow’s Benefit, Retirement Pensions and Other Benefits) (Transitional) Regulations (Northern Ireland) 1979[^c-d0e051b87e02f6a342f4fc6c11e08d19]
 

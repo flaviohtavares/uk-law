@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 193. Standards relating to consumer matters[^c-39d68fdd2d345665692ca930357823ff][^c-6cb54b0015a5335a2748c9d11f0e58f7]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (36).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/42
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 167. Reports to tenants etc. on local housing authority functions.[^c-77c5a510a7f1e5ec385d7e98fc2846af]
 

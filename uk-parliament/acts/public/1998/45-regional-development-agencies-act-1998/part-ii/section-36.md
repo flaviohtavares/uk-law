@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36. Transfer of property, rights and liabilities to agencies.[^c-5a7be3349f6f3e92efa55ada9774411d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2009-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1976/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21. Variation of section 18 order so as to substitute one adoption agency for another. (affected by repeal, see note)[^c13480381][^c-51ffa7be4230233abff416232bc15ad1][^c-51ffa7be4230233abff416232bc15ad1]
 

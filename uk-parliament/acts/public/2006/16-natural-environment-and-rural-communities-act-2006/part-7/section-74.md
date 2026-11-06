@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 74. Constitution of Council[^c-04ce47f4d87c0613822b344b6a279974][^c-4d4319126cfa8bff56296c0b776f91cd]
 

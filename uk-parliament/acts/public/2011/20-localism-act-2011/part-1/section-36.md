@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36. Amendment of section 27 following abolition of police authorities[^c-58cdb5c29ad7d390ecb9fb56e69dbc84][^c-c0ace28f03994219e94a7009a419888f]
 

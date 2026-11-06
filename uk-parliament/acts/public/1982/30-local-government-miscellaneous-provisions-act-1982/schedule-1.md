@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 1 — Licensing of Public Entertainments[^c-00902ad2a694e3bc37732a15edf2ae72]
 

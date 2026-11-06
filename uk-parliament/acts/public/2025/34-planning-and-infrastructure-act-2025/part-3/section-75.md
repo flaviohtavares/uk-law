@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 75. Amount of the levy[^c-4431eccc05acbb54c6bbf83d4113f061][^c-2b13abcd9854b9e4c41076e0abd3cc12]
 

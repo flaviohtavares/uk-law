@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 208. Liability[^c-e44a8b50c783ac43b13370b2c3af2377][^M_C_808b692b-42a9-4d0f-b75a-eca306ebd09a][^c-5d347a594ef90d1f736afc9b0b6492fd][^c-966131b740451be37090f482f717cc30][^c-5fd7b84887707002bcfbcd7d282f28f2][^c-bd21b983ffeec99aa59db259c79b6799][^c-b9960d6a7c815cd557dad6dc65f2d9d9][^c-f29933b282fdc55f8c638f5956cc9b77][^c-2b434ef89576325517c0aec8ed6c8720][^c-3b13e3f01b330823b4e28d42d08414eb][^c-384c25c983fa3f1bcd09dfbf58c637a2][^c-adf1498bf66d2bfe8300fe0f750ec853][^c-4bc2e91b41da910137337710173bce7b][^c-a0af1d8f44b753c73529a402b244b7d3][^c-654c9e2c730ed855c2c2bdcf1b4f3686]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Moratorium on disposal of land[^c-59cbbd4dc9d8d7b28d5071b2a02723ac][^c-1ebce94e730b5fdb88fdb7f411d310b1]
 

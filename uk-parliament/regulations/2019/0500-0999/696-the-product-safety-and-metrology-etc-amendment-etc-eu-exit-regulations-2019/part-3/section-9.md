@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 9. Amendment of the Weights and Measures (Intoxicating Liquor) Order 1988[^c-1a6b770f538acc264284f053ff735fae]
 

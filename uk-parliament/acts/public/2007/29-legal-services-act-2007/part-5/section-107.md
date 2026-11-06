@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 107. Modifications under section 106: supplementary
 

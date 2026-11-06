@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 31. Collective redundancy notifications: ships’ crew[^c-83ea05f07f200a1004116fd0d247b4be][^c-a558bc9b50ab0375c6d9781556b18eb7]
 

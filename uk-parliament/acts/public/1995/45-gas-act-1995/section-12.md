@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2019-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 12. Acquisition of rights to use gas processing facilities for downstream purposes.[^c-235986e06f4bf5d881c20e40d3e9cb32]
 

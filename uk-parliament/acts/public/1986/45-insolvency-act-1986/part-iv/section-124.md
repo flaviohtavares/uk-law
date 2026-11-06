@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 124. Application for winding up.[^c15572431][^c15572441][^M_C_0c8e2a4a-b016-46c4-f801-1f26810450c4][^c-cf0b1da60ada0cd40b3471f5b9635012][^c-03caff2bb12bf9923001b29c18763f48][^c-803a3fda85c951a94126cd22a08ec02c][^c-a2790e3676f523f1f10127daec36a3e9][^c-16e47b2a9fd8ca03d319fcbc53bd8b82][^c-6ad9da4858b149c6ae7799cfa9c3c6e7][^c-79ea49f8f2a2eff8df177d71554c4c38][^c-03caff2bb12bf9923001b29c18763f48]
 

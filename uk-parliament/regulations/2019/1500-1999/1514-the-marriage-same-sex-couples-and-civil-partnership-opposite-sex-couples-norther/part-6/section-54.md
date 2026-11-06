@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 54. Judicial Pensions Act (Northern Ireland) 1951[^c-bddbea7b70e8f9c7783819aa85a85540]
 

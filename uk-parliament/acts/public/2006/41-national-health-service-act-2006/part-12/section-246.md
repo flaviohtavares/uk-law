@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 246. Business relating to functions of local authorities by virtue of section 244: exempt information[^c-35996f78f360998679c63a45a786c015][^c-bea01e3aff8e299221d930a41388e018][^c-f4891d04d753b6fb6bbc7bcf392e976c]
 

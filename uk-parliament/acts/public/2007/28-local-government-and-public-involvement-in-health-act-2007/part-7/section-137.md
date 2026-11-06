@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 137. Guidance about general best value duty[^c-ce8cdd4e9813c21bc0fe34108983c216][^c-60401dd5acf638311c8043f41f6aff0c]
 

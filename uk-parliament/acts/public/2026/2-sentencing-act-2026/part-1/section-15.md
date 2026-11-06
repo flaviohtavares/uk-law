@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Public event attendance prohibition requirement[^c-8ba670c93f3b458c5212be332dbf4639][^c-e292bc802d2334fcd7df2e2649072918]
 

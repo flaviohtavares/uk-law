@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-09-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21. Victim impact statements to mental health tribunals (restricted patients)[^c-793d759e8cf6d71d3c31318a5ddf72e1][^c-d2a8a5715947f02e3acf4f88266c0915]
 

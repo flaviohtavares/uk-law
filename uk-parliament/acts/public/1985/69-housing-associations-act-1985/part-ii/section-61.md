@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-12-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 61. Power of local housing authority to supply furniture to housing association tenants.[^c11838131]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2023-08-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 85. Duty to obtain report in certain cases where section 83 is disapplied[^M_C_2c920afb-0edd-4ff2-ab7b-0a1bdf6e7e73][^c-c895ec9a7cd9dbe8150c056cc6ad47bd]
 

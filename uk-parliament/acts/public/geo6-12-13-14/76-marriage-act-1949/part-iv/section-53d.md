@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 53D. Registration of marriage[^c-7b4a8c6e2c248e329a276ffd7578b131][^c-db5ca8d522361c2dd12489899f74c068]
 

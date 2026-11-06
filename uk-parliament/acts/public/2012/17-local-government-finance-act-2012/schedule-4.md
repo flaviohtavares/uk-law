@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2015-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 4 — Amendments relating to council tax reduction schemes
 

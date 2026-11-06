@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## ZA8A. Interpretation of Chapter ZA1[^c-15f8a42394fa83d002894302163bc230][^c-0c99b847710d17c270f703a2fb51d4e2]
 

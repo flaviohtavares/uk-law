@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 389B. Official receiver as nominee or supervisor[^c15583181][^c-27f6a4b363f4fc9f98dc9f53993285e5][^c-67e84b3fde1253471739882cade02486][^c-53e23e5032b55114129bfd4243322aef]
 

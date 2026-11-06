@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 73. Consequential, transitional and incidental provision[^c-4d503066aff3e9dd7387d06aca77c22f]
 

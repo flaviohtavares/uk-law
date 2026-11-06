@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-01-19. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/1
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 254. Abolition for cheques[^c-e2a2c884aa030e9047755e39e2743d09]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 170. Procedure relating to modifications under section 169[^c-7c213c6f65ec8fdee447a2f4a0a71ea3]
 

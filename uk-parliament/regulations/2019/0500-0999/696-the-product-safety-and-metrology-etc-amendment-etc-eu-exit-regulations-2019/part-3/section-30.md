@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 30. Amendment of the Measuring Instruments Regulations 2016[^c-36fba239e5ac043b235b5689d8c51678]
 

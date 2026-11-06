@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 84. Premises[^c-82f9b90d9ca8cf66f09671117f386987][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-9004eb833c7102f1572a3b48d2897be8][^c-e1f6e585bac667309e250f830e864ec8][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-e1f6e585bac667309e250f830e864ec8]
 

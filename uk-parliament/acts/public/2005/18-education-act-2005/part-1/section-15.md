@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Measures to be taken by local authority[^c-5acf4e1c1929c77021ee2589b05268a5][^c-94ed0295e29907765ea29be5dd3e5cb4]
 

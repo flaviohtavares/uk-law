@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31. Appeal by prosecutor etc ...[^c-30a631329a90d66ddf5abc4bfad4e0c2][^c-78b1c15bcb352ab7bfd63e285b18cadd][^c-89d6ff8ae2319039cf93be5ad20ecb77]
 

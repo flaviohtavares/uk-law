@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2023-05-03. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/72
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 42. Power to make test purchases.[^c-aec3c27de7694d4d7089be26ff50992e]
 

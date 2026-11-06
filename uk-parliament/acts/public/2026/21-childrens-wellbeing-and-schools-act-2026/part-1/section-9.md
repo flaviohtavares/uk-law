@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. Care leavers not to be regarded as becoming homeless intentionally[^c-57005b155fe0dbd98ff5a97c12aa1431][^c-26f29fe07103a54a45722b74ceb72518]
 

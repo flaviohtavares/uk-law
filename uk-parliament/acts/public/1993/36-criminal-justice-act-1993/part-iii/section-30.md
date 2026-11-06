@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 30. Acquisition, possession or use of proceeds of criminal conduct.[^c-b48374e0a8b92f1ddd7bc1d16c97fa4f]
 

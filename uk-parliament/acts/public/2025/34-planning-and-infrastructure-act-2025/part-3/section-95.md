@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 95. Duty of co-operation[^c-ad6502a08c3aebc64944be83c8fe24ee][^c-392610335e53ef3a7a607a06b284ff03]
 

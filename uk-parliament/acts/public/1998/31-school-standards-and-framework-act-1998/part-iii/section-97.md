@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 97. Procedure for giving direction under section 96.[^c14009971][^c-be6953125de17e0e0684f34da7ca5778][^c-8135573a587aab82788dd2a50f144a6a]
 

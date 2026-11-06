@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 62. Interest[^c-2df5080399af70d32eb1c09ec824bb51][^c-8485c3c3d6d3da4688361e323bd3049a]
 

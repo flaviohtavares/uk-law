@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 239. Proceedings for questioning the validity of other orders, decisions and directions.[^c-9863dabbeb2da481e67735949bf8120b][^c-92d7e883cdd7aba6cf38d9bbc90e8065]
 

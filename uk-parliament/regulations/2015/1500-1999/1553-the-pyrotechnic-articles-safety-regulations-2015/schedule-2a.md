@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 2A — Conformity Assessment Procedures (Annex II to the Directive)[^c-cb7ab0cb260f42a95a16fafae04d7328]
 

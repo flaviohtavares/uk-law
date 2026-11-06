@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 34. Prohibition on improper use of UK marking[^M_E_6ab3c191-7b77-4de9-8e14-ec3b3997fd9a][^c-cd63774246f1040b79f80e53c8b83821]
 

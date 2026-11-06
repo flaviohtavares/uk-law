@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 10 — Supplementary Provisions with respect to Transfers[^c12685401][^c-13df4683887f98bfd50c0ebe7446613c][^c-f61761821b9bc4f81dbb15c82986339b][^c-ba99ed80dc1a0283109daad69a2f6f7e][^c-6c04cf699691a85759ad359c2e931c8e][^c-1938487c413e424ad07814c422445aa5]
 

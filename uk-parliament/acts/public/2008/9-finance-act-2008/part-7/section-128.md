@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 128. Summary warrant: Scotland[^c-762776c662ae474c16aa9096fe0d295f]
 

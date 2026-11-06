@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-08-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 88. Calculation of basic amount of tax.[^c12801391][^c12801401][^c-34d48544e26c809f6d38c5aa4633e0f3][^c-42e13e8c5f79e78d430de39deee4a17e][^c-d22e0169097f0fe6a277a5296f1f56d8][^c-8e450988340594b53314b115db894de7][^c-87cc47974fdf0cf06252fbaa2a54feb7][^c-a2901d90425ea2d260b495e01b427307][^c-3c55d1d6ba1b28ce8e7f1950049cd7d2][^c-6a7c40d2528c242d2cadcd622040fbcc][^c-e9e8d74b960499e860f7ad8d8ffcabd6]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 68. Pension Schemes (Northern Ireland) Act 1993[^c-95a01c478dc579cd42d2a3e1614c22de]
 

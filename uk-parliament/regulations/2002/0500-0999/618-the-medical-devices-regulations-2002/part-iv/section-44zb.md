@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/618
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 44ZB. Obligations in Part IV of these Regulations which are met by complying with obligations in Regulation (EU) 2017/746[^c-25e0172df3f3cdee7b7f8eacd3085243]
 

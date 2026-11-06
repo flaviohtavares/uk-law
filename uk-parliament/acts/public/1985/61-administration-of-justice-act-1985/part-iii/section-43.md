@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/61
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 43. Jurisdiction and powers of Solicitors Disciplinary Tribunal in relation to complaints against solicitors.[^c20472501][^c-f590aec49bb46d89df2d69005eb2a073]
 

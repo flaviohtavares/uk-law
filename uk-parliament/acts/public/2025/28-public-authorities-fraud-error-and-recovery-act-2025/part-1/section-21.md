@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 21. Further requirements before making a direct deduction order[^c-83640bf993b4526e71bd84b42e2ca1a0][^c-fb5f5718665f778ab406f6c0e19ab397]
 

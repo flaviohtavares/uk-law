@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2017-04-11.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 119. Promoters of the undertaking to pay the expences of litigation as to such lands.[^c5627601][^c5627591]
 

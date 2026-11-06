@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 43. Power of direction: public health functions[^c-94ac3b3cc2148a2fbe66e7eb63c5a0c5][^c-dce40d887f47542fd10f3364605709b6]
 

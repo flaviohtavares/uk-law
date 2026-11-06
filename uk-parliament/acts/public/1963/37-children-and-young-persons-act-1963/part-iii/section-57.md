@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2015-04-13. See https://www.legislation.gov.uk/changes/affected/ukpga/1963/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 57. Newspaper and broadcast reports of proceedings involving children.[^c6540361]
 

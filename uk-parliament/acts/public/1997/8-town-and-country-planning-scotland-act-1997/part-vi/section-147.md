@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 147. Enforcement etc. : register of notices[^c950162][^c-525ea2a5bf0d39daff4aa1bbfa7caff8][^c-42d982ca005f16a8f2c8296b1e864782][^c-ada3a0051041ba4f26913dd4964fc7d2]
 

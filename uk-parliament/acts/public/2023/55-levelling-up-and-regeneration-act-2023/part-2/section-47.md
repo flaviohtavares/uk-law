@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 47. Proposal for changes to existing arrangements relating to CCA (locally led)[^c-dd65270284b161fbaca57437a5387984][^c-564a0ebd22b7578d55c5547668af1f13]
 

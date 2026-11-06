@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 18. Amendments to Commission Regulation (EU) No 1169/2010 on a common safety method for assessing conformity with the requirements for obtaining a railway safety authorisation[^c-9103ff113ad0b127d0aa0e1f732e2230][^c-e18742ef86983c7ebe32e452ceeff566]
 

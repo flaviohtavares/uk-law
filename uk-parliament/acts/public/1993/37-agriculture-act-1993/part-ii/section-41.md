@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 41. Voting in poll under section 40.[^c-b0c16fe58116fed4bba7aebce74dca5f]
 

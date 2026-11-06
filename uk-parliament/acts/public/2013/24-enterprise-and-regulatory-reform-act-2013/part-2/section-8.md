@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2025-08-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/24
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 8. Extension of limitation periods to allow for conciliation[^c-0e2883145e23b5bda68dda6733324aad]
 

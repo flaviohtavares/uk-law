@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/54
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 76. Sending for trial: alteration of place of trial.[^c-019fc795d6a8080616595f0aeba89c6d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 29. Functions of the National Assembly for Wales in relation to curriculum and assessment.[^c-fb6789e1dd7a1d13a1a8956b875369b8][^c-230b828eb14a961217f8440bfbb3e057]
 

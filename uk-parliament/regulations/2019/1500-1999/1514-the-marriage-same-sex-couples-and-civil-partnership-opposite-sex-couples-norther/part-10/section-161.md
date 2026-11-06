@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 161. Residential Care Homes Regulations (Northern Ireland) 2005[^c-78fd5e94eae9fafcf9ac2f70e4152d33]
 

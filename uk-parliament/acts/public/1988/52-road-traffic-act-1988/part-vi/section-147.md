@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (261).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 147. Issue ... of certificates of insurance ... .[^c13992121][^c-a844b7754517d10dab17da85fc333535][^c-46b6dd8415c14bdc0ee22b82a7135b81]
 

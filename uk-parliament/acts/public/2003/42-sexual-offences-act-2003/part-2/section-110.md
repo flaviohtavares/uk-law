@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (154).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 110 (Extent: E+W) (affected by repeal, see note). Appeals in relation to SOPOs and interim SOPOs: Northern Ireland (Extent: E+W) (affected by repeal, see note)[^M_F_81ead728-d537-4d61-8f8d-def4b771156b][^c-8216d299001d1851e1b7db26cb0e3690][^c-b126c6c6d2bc3809d43e6b360550c50f][^c-12f011d2c77e11f02549c20ede30da60][^c-df99c325224174918305e50de88d7c70][^c-336977800e2b65a4def4215e9e99c61b][^c-8216d299001d1851e1b7db26cb0e3690]
 

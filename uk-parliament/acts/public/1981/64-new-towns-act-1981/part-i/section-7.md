@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (37).** Text as at 2026-06-17. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/64
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7. Planning control : proposals given effect by development order.[^c-6f0bc4d2881640af6615dc2c02a941f0]
 

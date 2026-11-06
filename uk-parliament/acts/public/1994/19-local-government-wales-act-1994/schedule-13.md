@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 13 — The Residuary Body for Wales: Corff Gweddilliol Cymru[^c-cb723ceee4df40e4680211f1fb24471a]
 

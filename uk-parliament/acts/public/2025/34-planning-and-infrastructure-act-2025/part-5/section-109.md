@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 109. General vesting declarations: advancement of vesting by agreement[^c-9c489801372e8ca316b39f0821ea305e][^c-9afc14a5d348bbaf3d3031d2b5dd3585][^c-30ff46dfbb8edb93d890ae5a941fcd50]
 

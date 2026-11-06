@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 51. Care of closets.[^c611470][^c611471][^c-66c75cd2ff639949ae6bf9450bf4c9b5][^c-6bcf2e4c05e90cb3448b195f33d9853f][^c-ca26c002b47a5d3d50bb7442cc7d6c2d][^c-339825ca5f27b668ce7a8b94119cbb39][^c-cb43999e2bc5e266de971371966eccfd][^c-8585a6dabfaa18f1eff741de336946de][^c-6b8036bb32b1f7c8a913bd1c79e900fc][^c611469]
 

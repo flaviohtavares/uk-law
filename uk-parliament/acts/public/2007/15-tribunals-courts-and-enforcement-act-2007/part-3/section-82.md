@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (31).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 82. Off-setting payments under a notice[^c-e34f51a39cae0c49ef47c2bce8df7a35]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63P. Retention of 63D material in connection with different offence[^c-b8e9229f8fb513cf9f389e7f378a193e][^c-64d5a35fd762ebcfc210c4387bc9e577][^c-56fab737542b0a604c73816a5da11eda]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 44. Compulsory disclosure of documents for purposes of counter fraud or security management functions[^c-bfa4e617dfe84876c0c4355808a16e33][^c16419641][^c-8021265570164dc1a87a99d2885ecbe6][^c-0ea1b728ff3c12fb10fd655dee5fa8a9]
 

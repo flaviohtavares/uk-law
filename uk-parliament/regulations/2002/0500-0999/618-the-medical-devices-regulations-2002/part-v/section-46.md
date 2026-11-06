@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/618
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 46. Choice of approved bodies and conformity assessment bodies[^M_E_404224d9-7eda-4bea-a10a-293d14a7a86e][^c-c306276ed4b60ccc04b40f669913e26d]
 

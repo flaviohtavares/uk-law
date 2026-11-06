@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Functions under the 1983 Act[^c-4327b67fc0e9faa8f9c5ef8e590842f3]
 

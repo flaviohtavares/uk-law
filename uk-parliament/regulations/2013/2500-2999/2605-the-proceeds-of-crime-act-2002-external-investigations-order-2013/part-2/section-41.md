@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-04-26.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 41. Requirements for making of production order[^c-0b6001c01ee5742cba1dfab80ebf6926]
 

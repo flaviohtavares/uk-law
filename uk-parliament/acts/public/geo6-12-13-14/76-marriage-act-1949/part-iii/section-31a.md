@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31A. Appeal on refusal under section 31(2)(a) or 31ZA.[^c-5d65b8b7f6a33b14ea28e81545de27a1][^c6281781][^c-c898f7a5800b3f42e0c6454cec446a45][^c-878cb25d51312cbab180e4f63c0d264a]
 

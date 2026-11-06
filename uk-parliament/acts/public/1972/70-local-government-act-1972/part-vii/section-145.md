@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 145. Provision of entertainments.[^c15110491][^c-10fa7f611548c8963278342a674e687a][^c-a667e8f7958961f939643fb8f475b4b2][^c-b7c32635627d022aa6dba480ff05c654][^M_C_3a1c4191-cd6e-451f-f555-6980bbe17568][^c-c1f4689119015482ffd49f899d4de47a][^c-2ea6a853a68e68743b1618de7ee82c91][^c-e1d528655780fbaa337521539f047a7f][^c-e9bde287efef8a3c828623bfb5ec8daa][^c-5f028c59ec28bba5d61201703863e455][^c-8ddc41edd4f7807899d4ae584abfae0a]
 

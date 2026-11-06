@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 40AA. Sharing of information by or with the Secretary of State[^c-06a05282a1954251fc38945cd2088b57][^c-ee96820e708471d9139ec0a57cf4b3c6][^c-a74a1568d44cd089ec00df098c2866d4]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 185. Persons from abroad not eligible for housing assistance.[^c13153351][^c13153361][^c-26877dc2f9db8e62dda2eabbe4ddf283]
 

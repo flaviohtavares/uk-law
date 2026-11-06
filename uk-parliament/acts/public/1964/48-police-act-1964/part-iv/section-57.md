@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 57. Police expenses of counties falling partly within the metropolitan police district.[^c11165211]
 

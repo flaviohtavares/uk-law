@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 37. Disclosure of information by gas and electricity suppliers etc[^c-f07f8c571bc97992050db9f2127ce9a8][^c-714d05f3bcd825736e772d7cfdd22463]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12A. Tenants participating in collective enfranchisement, or entitled to individual lease extension, under Part I of Leasehold Reform, Housing and Urban Development Act 1993.[^c776114]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 29. Liability for wrongful acts of constables.[^c1371798][^c-c641b5c19496a39bcd21ad4016e768dd]
 

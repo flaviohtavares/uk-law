@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. Review of duty of candour in relation to major incidents[^c-8bd9475b8941b3cb7f7181139e0bb1ab]
 

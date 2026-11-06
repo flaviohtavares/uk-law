@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 2 — Powers of a Scottish Receiver (Additional to Those Conferred on him by the Instrument of Charge)[^c15587641][^c15587651][^c-768ce6cecd55bbb592f5e9e53e0d25be]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 129. Failure to exercise functions[^c-d9e00b32bd04664dfbcb95c19f36e52f][^c-dc8dc0683f3b223c51a5184ca039e969]
 

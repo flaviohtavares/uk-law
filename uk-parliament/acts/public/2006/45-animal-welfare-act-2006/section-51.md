@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 51. Inspectors[^c-c599987b7563c2f60bce139f224d30ab][^c-770925a78e85e47e25efd0e7aaaf165e]
 

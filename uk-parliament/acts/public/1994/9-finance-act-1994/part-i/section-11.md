@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 11. Breaches of walking possession agreements.[^c14449171]
 

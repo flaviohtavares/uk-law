@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36. Compensation grants.[^c-25ddd0429a94dfbfce323cb2e3f1d54e][^c-302206b5c841b3ed15564745b13693ec][^c13348432][^c13348442][^c19660461][^c19660321]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 69F. Revocation, etc. of operators’ licences for breach of provisions controlling use of operating centres.[^c15323301]
 

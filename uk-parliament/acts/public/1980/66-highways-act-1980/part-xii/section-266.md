@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 266. Transfer to Minister or a strategic highways company of privately maintainable bridges carrying trunk roads.[^c-2b40e2f41c999482c3aa9d937e5b744b]
 

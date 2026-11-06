@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (139).** Text as at 2026-07-08. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 139. Awards by social fund officers. (affected by repeal, see note)[^M_F_b9da5dcd-efaa-47ed-d317-fe943be2c46d][^M_F_b9da5dcd-efaa-47ed-d317-fe943be2c46d]
 

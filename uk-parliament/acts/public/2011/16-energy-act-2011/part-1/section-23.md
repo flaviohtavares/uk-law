@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 23. Recovering green deal payments: gas suppliers[^c-4e2bc5b90d83f0ad0668e5c2b8b8b402]
 

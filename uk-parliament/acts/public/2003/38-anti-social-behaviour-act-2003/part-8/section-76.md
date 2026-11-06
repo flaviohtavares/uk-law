@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 76. Power to require occupier to permit action to be taken by owner[^c-a4aa7cfe033e517c532542b92da09a89][^c-f20cdfcae82a1cc18610df0c1e76af71]
 

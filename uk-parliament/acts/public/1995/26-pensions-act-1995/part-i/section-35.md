@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 35. Investment principles.[^c-bdc788e304265438c0c85e63ba77498f][^c-cdf9edc072362c5f1411bd8b730d20b3][^c-65c38d9b87ecada17f8c9949bdd82093][^c-da2915e40c3ed58e7deee317cee66b61][^c-88b346abf883f8dc04f35c6f0c955d24][^M_C_8145f653-6780-4955-c088-dfe4bdc23588]
 

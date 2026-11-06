@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 14. Amendment of the Food and Feed (Maximum Permitted Levels of Radioactive Contamination) (Amendment) (EU Exit) Regulations 2019[^c-56b9f47ce92a48f69dcdb3672ce887a8]
 

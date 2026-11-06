@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (31).** Text as at 2025-11-13. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 17. Meter testing and stamping.[^c-ec34f6bdc5dd6f0f38e30dc4ab0b6556][^c-295d008096ecd7e4bfd6cfddd321d824][^c-bcbcc0e9d9ddb8003286db3b4df116e2][^c14414681]
 

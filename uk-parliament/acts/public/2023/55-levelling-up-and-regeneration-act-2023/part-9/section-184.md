@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 184. Corresponding provision for purchases by Ministers[^c-96396d18f0d3f36364a1a293bad7a104][^c-199ec9aed51e729e8028204585785b82][^c-d34359a91ca5955db0c7ea6e9fa2d0f6][^c-74f108495edf21dbce187fbc467e168d][^c-9c5216563c5043abd34cbfdef91ba49b][^c-03f475f8b2fa5cae43002e8c6f18fb76]
 

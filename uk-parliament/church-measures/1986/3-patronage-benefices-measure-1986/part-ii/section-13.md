@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2024-01-25. See https://www.legislation.gov.uk/changes/affected/ukcm/1986/3
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England.
 
 ## 13. Provisions with respect to the selection of incumbent.
 

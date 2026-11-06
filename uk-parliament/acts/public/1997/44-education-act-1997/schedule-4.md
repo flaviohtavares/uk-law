@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## SCHEDULE 4 — The Qualifications and Curriculum Authority[^c-05e1200048774a97ae38866fe32051fe]
 

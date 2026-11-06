@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 68. Issue of licences etc. in blank.[^c-a72dc7f71e9ba836632b0fd90d7f5dd4][^c-c5fcac046bf10fac007fa6ea60123b79][^c-491a6c556d553dc890b710910d98c4f4][^c-26349225b97452bc959a378016e117e4][^c-d6fe19a8803fc79dd4f57adfcd8e9d79][^c-71191e76db925af4136d5efe27c7eedd][^c-6e071452db29753a7d7de9ca8ebe618c][^c-b03cb97c19a5a759bd07711fb63e10ba][^c-199b58cdcb60b6078c3cc230ee5ef63c][^c-a7ea85577542f58b1fb4c92908be4b9f][^c-2af36f1e17fb9f2c07b5eeb99da68d05][^c-5885c65687234a938aba84d20354d19b][^c-0e9d0451b86f1385b7513f116b62f89e][^c-d2a50289355486274b822ceb8b2717fa][^c-bc1d4feb9d6f484fc82a0d7eb9df632f][^c-0c149908c55ad04ff386176c727e6d39][^c-209c130b2b204d2197b17db946d715e6][^c-60efdb41f347b3657070ff33c08ba08b][^c-70355285ec8c131950de54a66f812720]
 

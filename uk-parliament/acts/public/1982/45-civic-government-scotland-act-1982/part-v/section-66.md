@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-03-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1982/45
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 66. Relationship of sections 62 to 65 with Public Order Act 1986.[^c13375791]
 

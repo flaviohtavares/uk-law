@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 204. Arrangements under section 107 of the National Health Service Act 2006[^c-e0435fc457580e7d4c67c958d8d6222b][^c2191341]
 

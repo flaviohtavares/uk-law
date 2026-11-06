@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 18. De-registration by the OfS[^c-901dfb6e0c7df62675d2ae5504de3d04][^c-d1087b3c5f48049c1fa6e1b5c556ae53]
 

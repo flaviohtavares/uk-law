@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 76. Requirement for completion certificate before occupation[^c-0ed81324a38b166d353b0143db72894c][^c-4b45fee07e87388a0f9b95a6166bc0ae]
 

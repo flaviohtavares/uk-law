@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (171).** Text as at 2026-09-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8A. Establishment and conduct of reviews[^c-6cd2e425b0306e5b95974ffc354294e1]
 

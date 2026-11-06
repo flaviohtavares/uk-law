@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 88. Meaning of “health” in NHS Act 2006[^c-816de0cae002b2581a79a80058833947][^c-f953c71a46b949c61591189a68edd683]
 

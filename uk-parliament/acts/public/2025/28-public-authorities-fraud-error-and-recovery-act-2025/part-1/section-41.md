@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 41. Requirements before making a deduction from earnings order[^c-982dae1195ecc1377894b450d7ba96de][^c-f261212ab02b1c506517a02c26ca989f]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 54. Absent signing at a particular petition: Northern Ireland[^c-5e4b754bc1d27466ef9cfaf3f6d990a0]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 61. Restriction on prosecutions under this Chapter[^c-8bb6a104df88cfccb1960e14ea60713d]
 

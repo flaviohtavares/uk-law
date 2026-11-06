@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2009-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1976/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 34. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^M_F_54de0bff-5c42-447d-b36f-0058bd8813ec][^c-eef3a6c5e97ee17bdb8c67f97344d0a6]
 

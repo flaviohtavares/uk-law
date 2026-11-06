@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 109. Species conservation strategies[^c-a8e659d7a852e6746e3a842a39eafe4e][^c-51f705ceecd63688f32ea9cc8732b68d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2017-12-28.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 20. Pipes not to be laid contrary to Act of Parliament, and 18 inches surface road to be retained.[^c5588951][^c-a2e42592f9b05f1fa95f24fa1e132063]
 

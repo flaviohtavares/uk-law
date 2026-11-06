@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-05-19. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32. Remuneration and expenses of agents, nominees and custodians.[^c-e4b0305751bda57832c8f7bdb0344b81][^c-d82c8c840073e16b9481d5a6f66aed9f][^c-a1797c92d006ee33e6a212ca03079423]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 5. Effect of approval.[^c15569001][^c21430321][^c-5cd9c8460d5cf34b54cb12e626387718][^c-340f09e3e17d2de8c5b3739b11d7b0c7][^c-81b6337261a368236e9e62b1a8e26839][^c-602c9f0c2bebd9cf784961919dbf67ae][^c-9700d312d985436a858eae9798d49154]
 

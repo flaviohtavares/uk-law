@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2015-04-13. See https://www.legislation.gov.uk/changes/affected/ukpga/1963/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 32. Increase of penalty for sales of tobacco, etc., to persons under 16.[^c6539131]
 

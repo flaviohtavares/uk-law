@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 317. Duties of governing body or (affected by repeal, see note) local authority (affected by repeal, see note) in relation to pupils with special educational needs. (affected by repeal, see note)[^c15246751][^c-83403ac1c888729628a0b8b62067b52e][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-a26091f02a6f098b8797ebca0f491930][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-df82d42709314c7296748c08b3554faa][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-44c659fdf3ae27bfa95ab072d6157d41]
 

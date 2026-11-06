@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 56. Recovery of unpaid parking charges[^c-bfba55d8b5acfff23b68681573232289][^c-7b82ddd446c9e875975203a87d849b99]
 

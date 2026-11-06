@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-04-28.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 3. Marriage for which no opt-in necessary[^c-110bbd061d81446ab94386e2fed3c08d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 259. Offenders who commit murder etc when under 18: duty to detain at Her Majesty's pleasure[^c-d61abe0f77535173268bda40530b3d22]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 23 (Extent: S) (affected by repeal, see note). Consequential amendments.[^c-ecd71e0e5bf68b0a19e90be64058d563]
 

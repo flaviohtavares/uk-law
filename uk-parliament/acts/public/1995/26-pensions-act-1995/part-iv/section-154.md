@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 154. Right to guaranteed cash equivalent: supplementary.[^c-41168656b3f7bb670e4901e178df148e][^c-2d56850b3050e69683c44c493945a8cf]
 

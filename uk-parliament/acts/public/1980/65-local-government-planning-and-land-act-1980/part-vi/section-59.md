@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 59. Adjustments of distribution of block grant.[^c-a19d7daea0a8fbdd3fdb0a665b17a2d9]
 

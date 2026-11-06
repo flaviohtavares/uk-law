@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 108. Local transport plans.[^c14880741][^c-21c78ab7cfcea3364196b52226445d46][^c-5c6872aa0045e98f7ee7e7721bfd47d0][^c-5e4d075762ffa3a968ee94e8aaf67c15][^c-63131c26ca98554bd7e4a82be39decdd][^c-edcfc701815518dbcb458e3a10090e4c][^c-38655cb458b97a6dd21ff07e03d03432][^M_C_c682bdea-be7e-41c2-95b7-7fb543621fc2][^c-6dd71a6b072005706981f9d6a6a4ce83][^c-8413a0ce59ed27cd5607960dc3a39b32][^c-f9a8685da116b8b1ca23180938af8fa4][^c-358ef72878c530ec4c6605685d27eb47][^c-de64384727ff4a90f44fe3305b8b1bec][^c-d97f50d3f5e6df75b43c026a7d7ea85f][^c-b0c9105fec1d9d3a7f7d32f4fcc8e5fc][^c-5a6bf012a98ba33c5c12dbadc5db4a13][^c-63131c26ca98554bd7e4a82be39decdd][^c-38655cb458b97a6dd21ff07e03d03432][^c-4d6da790ee3fb92444037d40b72b3801][^c-67fb48b6e1bd41eead8235f345880cab][^c-05d25b334e3ef57b698f1fe7b681951f][^c-81a4b93f4bb4f481cb26e54026fe5821][^c-ba53aa819dfa66b6ca6177e0cd938ee3]
 

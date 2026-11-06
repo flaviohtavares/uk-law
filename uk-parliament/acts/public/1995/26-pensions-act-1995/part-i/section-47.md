@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 47. Professional advisers.[^c-36af475906a682857ac66c16f254c991][^c-3905686fe42d31e7ecfa9cc850dcfbcf][^c-a7ab25a0e446d25c23cc959062a08974][^c-f7c966f8ef64535c6563084f7412474a][^c-e7db3bc6142fb24f2d4ec654578d14af]
 

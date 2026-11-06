@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/50
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 120A (Extent: S) (affected by repeal, see note). Refusal and cancellation of registration on grounds related to disclosure[^M_E_1494439e-4752-4540-be54-6c663b23f748][^c-994047ea1a9cf5e806afa7e55f61dcf6][^c-d9267584ff31a0a6ad4b4ebb0a274f8a][^c-18291a6dd88b7ac8a1b42216c7a67f7e][^c12096761][^c-e045c23a2805c2765c2dbdd82d9955f4]
 

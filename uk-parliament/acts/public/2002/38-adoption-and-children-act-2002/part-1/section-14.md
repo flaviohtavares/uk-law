@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14. Default power of appropriate Minister[^c-ba5f769b72f5bdb7a912980942aafac7][^c-4cca63171ec38b9087b6fd40257d8cea]
 

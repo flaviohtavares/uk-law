@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 4 — Further functions conferred on District Judges (Magistrates' Courts)[^M_X_6e720351-76fa-4f5f-a29e-e2a30f852c5f]
 

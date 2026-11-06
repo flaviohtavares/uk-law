@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2010-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 24. Compliance with standards of overall performance.[^c859788]
 

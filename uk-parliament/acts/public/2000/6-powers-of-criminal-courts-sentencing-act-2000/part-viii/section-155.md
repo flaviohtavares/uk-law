@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2024-05-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 155. Alteration of Crown Court sentence.[^c-1294aa7cfa1954332f202388fd91b954]
 

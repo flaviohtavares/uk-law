@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21. Information services etc.[^c-9d3ecc9523cacaafb2ebb6555303d3eb][^c-b335bea329a892837768335a43b5ef2e]
 

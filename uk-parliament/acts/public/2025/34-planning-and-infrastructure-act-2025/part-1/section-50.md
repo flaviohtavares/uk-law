@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 50. Accessibility of public charging or refuelling points[^c-7a0d37a63194f4af69b3e1a023fcde5e]
 

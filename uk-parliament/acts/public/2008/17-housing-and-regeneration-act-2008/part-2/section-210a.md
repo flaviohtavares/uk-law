@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 210A. Extraordinary audit: local authorities[^c-4adc3a1be51d0c5a951db698260d9555][^M_F_b128cd8c-0ec1-4dea-d4d1-f32e148c1139]
 

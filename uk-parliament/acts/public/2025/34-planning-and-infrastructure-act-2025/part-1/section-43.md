@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 43. Deemed grant of listed building consent etc[^c-da9d5e6f819363ec291588e9967de066]
 

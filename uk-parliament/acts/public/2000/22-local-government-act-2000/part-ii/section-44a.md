@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 44A. Election of leader: whole-council elections[^c-481f790cbb57a8408a496b5114706f83][^c-dfd6ae37e1cf972d9b3d339ddef7504b]
 

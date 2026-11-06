@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5. NHS England mandate: cancer outcome targets[^c-0a831596cfdd5d7fd7102c5da64d8db2][^c-7c2fda6e298bbaef4b8fcf03f43594ed]
 

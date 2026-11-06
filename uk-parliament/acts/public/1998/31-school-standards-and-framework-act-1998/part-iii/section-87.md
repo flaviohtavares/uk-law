@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 87. No requirement to admit children permanently excluded from two or more schools.[^c14009751][^c-923086bc2bf8a939715808b9ea148a03][^c-9d9cdfdea9a9dbd83c9bd7b96f8ae38f]
 

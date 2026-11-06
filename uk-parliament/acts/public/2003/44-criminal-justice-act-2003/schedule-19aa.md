@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## Schedule 19AA — Offences where offender not suitable for automatic release[^c-1850638edf054818a2a419957fb175c3]
 

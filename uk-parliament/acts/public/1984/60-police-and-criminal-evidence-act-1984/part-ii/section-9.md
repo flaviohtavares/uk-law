@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. Special provisions as to access.[^c11314661][^c-8b7d1245f3cc2e27ed7f68ba91482589][^c-2a2c326e307335173df0bbe65087fb86][^c-7cbe86b767ce377e6dd9bac652c40f92]
 

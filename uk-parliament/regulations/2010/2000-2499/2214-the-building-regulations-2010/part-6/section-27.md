@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2214
 >
-> Extent: England, Wales.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 27. CO<sub>2</sub> emission rate calculations[^M_E_f11bdeac-7788-4299-ee2a-abfca379235e][^c-d94ba92b882e75aaf7cfec52cd016584][^c-a4243e831871a8dd891419106a851811]
 

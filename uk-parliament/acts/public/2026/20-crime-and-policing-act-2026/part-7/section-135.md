@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 135. Encouraging or assisting serious self-harm[^c-5485ce5ff8504e9d139b5c5c5b472757]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 6 — Statutory Proposals concerning schools in Wales: Procedure and implementation[^c-262a4c8762ccca5cd78aa25c933fc465]
 

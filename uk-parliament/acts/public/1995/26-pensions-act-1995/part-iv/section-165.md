@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 165. Levy.[^c-f61fa64b1e05f415c87e8f8530cb3363][^c-6aecab5553b48ec64ea2291a3eb145da]
 

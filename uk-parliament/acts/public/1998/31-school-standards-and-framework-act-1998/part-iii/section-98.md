@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 98. Admission for nursery education or to nursery or special school: children with statements of special educational needs or EHC plans.[^c14009981][^c14009991][^c14010001][^c-be6953125de17e0e0684f34da7ca5778][^c-3eaefc23d7b7eb48ef3f556cf157e012]
 

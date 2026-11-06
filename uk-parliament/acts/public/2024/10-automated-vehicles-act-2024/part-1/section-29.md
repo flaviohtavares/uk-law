@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 29. Powers exercisable under warrant[^c-255dfd2aeb67a31b00c0f82bb2210d57]
 

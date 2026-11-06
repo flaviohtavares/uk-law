@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 139. Breach of personal licence condition[^c-06a717498d54ebf68956ecc7486bcf29][^c-b91b4450fb503a3b47fb51f92755c42a][^c-e7ef3916c16ad5d7510b495a9585895e][^c-b91b4450fb503a3b47fb51f92755c42a]
 

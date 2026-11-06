@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 84. Duties of Scottish ... local authorities in relation to designated areas.[^c-b253b660c99f23b233b0bcf365f0645d][^c-9c8b2f01ac026ca7dd22b3f0c6d78c28][^c-d50de57412693f7377cd5cf529d3c67e][^c-f3806ddead02bdebaf1176520b893a24][^c-e7916e088bbe0873cf1dacd44d312528]
 

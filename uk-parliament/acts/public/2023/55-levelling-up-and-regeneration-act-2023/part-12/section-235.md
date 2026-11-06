@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 235. Transfer of land by local authorities[^c-949dff43abd9733928634b815fd8f0e8]
 

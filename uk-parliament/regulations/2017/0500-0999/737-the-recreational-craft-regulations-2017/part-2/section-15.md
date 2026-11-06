@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2017/737
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 15. Instructions and safety information[^c-f8cfce8ef8c05b6eb0a8d35c3a96c0c3][^M_E_6e7060b1-3dbb-4ec1-bcfa-3e1ad7f57628]
 

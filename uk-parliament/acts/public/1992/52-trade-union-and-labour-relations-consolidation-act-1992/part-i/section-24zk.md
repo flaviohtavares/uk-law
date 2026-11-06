@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 24ZK. Sections 24ZH and 24ZI: supplementary[^c-a299d3cfcfb3b363df58268cdfc36553]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 39. Power to establish Social Care Negotiating Body[^c-26b08c5de542d8ddf09956a805ac73b6][^c-152646b773bd343741db55df01855d04]
 

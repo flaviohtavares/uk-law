@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2026-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 87. Regulation of financial arrangements of Health Boards, the Agency and the Dental Estimates Board.[^c14171501][^c-7ab71e91305830af262f8ac8ed4deb10][^c14171491]
 

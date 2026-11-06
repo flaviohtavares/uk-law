@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 159. Other duties of person acting as estate agent[^c-c5a387f094be3db3ab8006c673ef8e8c]
 

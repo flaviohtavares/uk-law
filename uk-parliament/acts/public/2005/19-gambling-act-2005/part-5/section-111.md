@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 111. Power to limit duration[^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-805c809a165b568135a6522ebc4fa089][^c-ec21a236dccd8ed449babe8852278bb1][^c-e1f6e585bac667309e250f830e864ec8][^c-9cefb3af4e1f5c9f6608335281845677][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-e1f6e585bac667309e250f830e864ec8]
 

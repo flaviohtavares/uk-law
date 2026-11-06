@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 35. Amendment of the Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017[^c-f86fb4477c1d1567b016c2e3f5f26874]
 

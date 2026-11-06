@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-05-17.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 22. Records by a holder of a wholesale dealer’s authorisation[^M_E_62e1b518-beed-4d91-9c87-fb81b57e6628]
 

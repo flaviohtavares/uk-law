@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2013-06-24.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 89. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c1078202]
 

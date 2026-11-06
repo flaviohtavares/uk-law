@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (71).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 203B. Meaning of “EU citizen with retained rights”[^c-b8282bd65c503875dcb0fb9ba05eddab][^c-a2f33834672940b34f7b65ca8f3e3a0a][^c-b858ed12a30d1024611c527378fb7c4c][^c14479931]
 

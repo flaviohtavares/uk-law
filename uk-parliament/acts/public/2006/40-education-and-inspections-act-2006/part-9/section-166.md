@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 166. Collaboration arrangements: maintained schools and further education bodies[^c-17886b874e80ed3f26fc519728de10e3][^c-ec010bf1b21e2e908a4dd41d0ca6032b]
 

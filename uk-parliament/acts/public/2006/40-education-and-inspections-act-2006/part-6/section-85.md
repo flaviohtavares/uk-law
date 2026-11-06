@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 85. Further amendments relating to travel to schools etc[^c-db3d092cef45d3114497ba8f0bf37d4a][^c-db0f2cad2ec434ff09eee98b7d388208]
 

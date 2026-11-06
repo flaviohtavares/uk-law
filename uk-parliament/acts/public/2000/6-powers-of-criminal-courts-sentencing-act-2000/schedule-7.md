@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 7 — Breach, revocation and amendment of supervision orders[^c-0d1a8a9e4ae326dea357edde9d0f62f4]
 

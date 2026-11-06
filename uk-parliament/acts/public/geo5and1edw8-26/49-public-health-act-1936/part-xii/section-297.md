@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 297. Continuing offences and penalties.[^c-58713964d52fd0d8cf61c9a5a0b827b4][^c-ce6f1dcd03d7816af2b7aac0c0af8a0b][^c-66fa6f60dd74827ec93a907fd80346db]
 

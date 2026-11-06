@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14. Transitory modification relating to section 156 of the Act[^c-a1f385a4136317782ff8fc7d15fb25b2]
 

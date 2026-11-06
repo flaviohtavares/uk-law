@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28. Condition that may be required to be imposed by HEFCW[^c-7009eed284731916c9f4dd43cef6f80d][^c-bf5a0b7af5d31d34be73d305c976d097][^c-495be7ffb60d6b9b63344c191a0be1a0]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2024-05-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 141. Power of Crown Court to allow time for payment, or payment by instalments, of costs and compensation.[^c-21c10d878d6c86330b1605bd2a79a161]
 

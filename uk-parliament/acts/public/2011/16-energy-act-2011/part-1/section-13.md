@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 13. Disclosure of green deal plan in connection with other transactions etc[^c-4e3e5fae0124a241832ec27aec2de0e9][^c-5ae6715ac93b712f8917b584becf6b76]
 

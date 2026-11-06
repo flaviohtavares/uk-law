@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 106. Sanctions for failure to comply with a contribution notice[^c-3226fbe3b2610db02f413d8917b3f639]
 

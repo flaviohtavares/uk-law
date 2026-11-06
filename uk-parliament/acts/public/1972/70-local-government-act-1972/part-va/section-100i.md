@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 100I. Exempt information and power to vary Schedule 12A.[^M_C_b837d7a8-d81c-4628-f577-3799bf0947fa][^c15100471][^c-ddf07148ac2fc0a214db014bf8e4ba99][^c15100461][^c15100081]
 

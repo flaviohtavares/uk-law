@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (149).** Text as at 2026-06-25. See https://www.legislation.gov.uk/changes/affected/ukpga/1970/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 73. Further provision as to infants.[^c-4d23ba825889b65e9c7cf273f4654e6f]
 

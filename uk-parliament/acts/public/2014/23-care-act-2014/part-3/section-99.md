@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 99. Quality improvement in education and training, etc.[^c-115d10ff2e1e6cbc005abe9b8ddcb26b]
 

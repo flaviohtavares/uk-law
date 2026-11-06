@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 208. Grant of MPI licences to existing operators[^c-78d92182a36792f790b59513c0d5216b]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## ZA5. Conferral of further functions on the Institute by regulations[^c-15f8a42394fa83d002894302163bc230][^c-def310ad7dfdef2e4b6c5b49874b65fd]
 

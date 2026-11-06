@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (154).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 103CA. SHPOs: requirements included in order etc.[^c-6f234650b1a14ef30405b25b4a9fbf58][^c-a1047a862949c3172bd6f2de57ce39fa]
 

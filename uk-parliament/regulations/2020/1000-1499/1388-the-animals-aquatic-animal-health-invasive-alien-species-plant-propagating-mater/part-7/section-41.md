@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 41. The Invasive Alien Species (Enforcement and Permitting) Order 2019[^c-b3db6e0f274003f14255b2b7da4841a5]
 

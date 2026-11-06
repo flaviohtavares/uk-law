@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1979/46
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 20. Provision of facilities for the public in connection with ancient monuments.[^M_E_fb7a70df-3793-4c51-846b-8d438b3350b9][^c-330e80c1d2f58b213031785874982789][^c-cda51f7eec00a382cb99f625a2856100]
 

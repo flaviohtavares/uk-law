@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 48. Revocation[^c-39e68910c69ae884a5bdc63266329c24][^c-28052a22d494f118d1936f1a0c3a2daa]
 

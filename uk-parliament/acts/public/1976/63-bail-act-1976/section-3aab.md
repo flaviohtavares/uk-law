@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1976/63
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 3AAB. Conditions for the imposition of electronic monitoring requirements: certain adults released on bail where real prospect of suspended sentence[^c-15fef29746f0a10976692b09b3032df5]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 2 — Curfew orders and supervision orders[^c-854f00215d650b5272df867b95bc63a3]
 

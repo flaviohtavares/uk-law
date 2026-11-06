@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 118. Powers of entry, inspection and seizure[^c-ba8ee162106b478064bb1e085f0ba48b][^c-53af85a6b4592ae58c80185c8e13e257]
 

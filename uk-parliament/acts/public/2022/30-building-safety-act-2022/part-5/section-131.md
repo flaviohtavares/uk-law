@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 131. Building liability orders: associates[^c-f519f86ff3004f77b8f34527f4f71d3d][^c-9f4c5e604b062a75d7400e14def01a2e]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2018-01-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 3. Restriction of exemption for discrimination required by or under statute.[^c-7be528fdb39ae51e678f410530daa377]
 

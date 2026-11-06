@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## Schedule 3 — LPB case reviews: supplementary provision[^c-bd9f7e1a1841deeb067119534fd92f6e]
 

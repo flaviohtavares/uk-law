@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 20. Powers of the court on hearing an application[^c-e00bf872c969ee1aaa2e80da8951bba8]
 

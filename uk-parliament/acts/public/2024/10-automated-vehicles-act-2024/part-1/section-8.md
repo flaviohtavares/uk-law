@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 8. Power to vary, suspend or withdraw[^c-572533f8ad80cbe5a7fac7d4c2c3b4c0]
 

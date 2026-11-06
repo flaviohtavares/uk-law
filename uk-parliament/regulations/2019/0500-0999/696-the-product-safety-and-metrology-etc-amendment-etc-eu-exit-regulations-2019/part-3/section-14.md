@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 14. Amendment of the Weights and Measures (Packaged Goods) Regulations 2006[^c-9bc9e3add57b9ce166d428485bf10e77]
 

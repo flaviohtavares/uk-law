@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 92. Proceedings for disqualification.[^c19905601][^c19743591][^c15096591][^c15096601][^c15096611][^c15096621][^c15096631][^c18846041][^c18883691][^c20511001][^c20511651][^c-a76b2783228a474af7c4ba77f31c1475][^c-4d21ba56c277d47751e56348475dae52][^c-b23f5e584819e2e9331756cb02265a12]
 

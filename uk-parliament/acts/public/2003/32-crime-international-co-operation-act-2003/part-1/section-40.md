@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 40. Account information[^c-8aa3b792cb2f5c2b56679843a0974b70]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Constitution of new principal councils in Wales.[^c10519111]
 

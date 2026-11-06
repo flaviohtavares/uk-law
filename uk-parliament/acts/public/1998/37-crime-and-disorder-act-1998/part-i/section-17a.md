@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-06-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17A. Sharing of information[^c-b4afe58f6c182ea054320678ad9e7f6a][^c-44d665f1495e30ecf41fd7077f2d19d8][^c-a7a9390ec18ec09ff0be407fbef1bef5][^c-cb5475af8d1f7a5faad0f4aadd8d82ee][^c-8fcb187f15def39c083b91b627e29dfb][^c-b9cd56295ca7e6e52e569b59646e841d][^c-a4a7d2e9f33d0163315d5a5921c968d7][^c-c75c6de872a06cf0bee2dad0f612be9d][^c-347d21a183726b606e958a63726eb6cc][^c-d9254edbfc8fba40935496bfab9ad670][^c-271e2ff28ed8af2424b33dd98d6ab7e1][^c-e0f0b75e448e3a5defaa9edf2494b0ed][^c-3ad9b12be5aa4473e2591fdc8dedb139][^c21395711]
 

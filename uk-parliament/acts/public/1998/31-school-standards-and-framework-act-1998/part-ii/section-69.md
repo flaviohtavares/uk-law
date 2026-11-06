@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 69. Duty to secure due provision of religious education : England.[^c14009521][^c-3df59306e63ee1910310ec2196a2ce01][^c-32fa88fc597380998d9a5ab093c7d0f5][^M_F_bcc071ec-b7f5-4549-da51-18544bb86e81]
 

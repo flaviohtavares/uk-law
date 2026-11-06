@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 15 — Inadequate Professional Services[^c-0b0d60f7c2064a58fea34daa8e20f94c]
 

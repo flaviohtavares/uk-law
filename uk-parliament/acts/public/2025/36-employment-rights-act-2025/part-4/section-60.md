@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 60. Trade union recognition[^c-8f5057edf9f4ef4c54d6fc8ea61c9611][^c-1a2e27c2e967aeaf458733660b3500fd][^c-52b819973de9462beca76135fbe2a004][^c-15bed10846213a14fc1ec20f53fad7f7]
 

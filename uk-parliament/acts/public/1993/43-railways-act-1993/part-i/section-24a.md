@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 24A. ... Exemptions granted by Secretary of State or Welsh Ministers: operator agreements[^c-323c523edac8747c542fbe3fe835c61a][^c-a8888da643651135275a5a4b24447cad][^c-85d8d7797e22060a3cdf7a541d3e97e0]
 

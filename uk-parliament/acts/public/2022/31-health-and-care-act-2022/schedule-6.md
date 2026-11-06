@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 6 — Intervention powers over the reconfiguration of NHS services[^c-3fc7f6e87a9e3479fadd29ee0aac44ba][^c-05d89feb758b5afec428a1a769dd68a1]
 

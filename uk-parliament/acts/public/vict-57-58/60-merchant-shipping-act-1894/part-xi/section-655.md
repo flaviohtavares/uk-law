@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2006-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 655. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c16235171]
 

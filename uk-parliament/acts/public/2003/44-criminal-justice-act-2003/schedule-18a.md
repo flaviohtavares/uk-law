@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 18A — Sentence under section 236A: offences[^c-3525697804973ab0a3fe3f9c5fc548b2]
 

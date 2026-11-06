@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 43. Expanding the scope of regulation[^c-f8ff00ecaa4fb6fcf0ce41cda5194050]
 

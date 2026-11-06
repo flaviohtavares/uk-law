@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 256. Application to. . . planning authorities of provisions as to planning control and enforcement.[^c14937341]
 

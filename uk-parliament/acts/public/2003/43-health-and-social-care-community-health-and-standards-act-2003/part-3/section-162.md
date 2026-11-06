@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 162. Payment of NHS charges to hospitals or ambulance trusts[^c552132][^c-66b511588ddd16a1edc276e08f4cffa1][^c-d0cc031b3d17b4d69277b1774d208e5c]
 

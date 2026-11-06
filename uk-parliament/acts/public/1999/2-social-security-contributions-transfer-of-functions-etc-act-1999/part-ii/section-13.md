@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-08.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 13. Regulations with respect to appeals.[^c11210651]
 

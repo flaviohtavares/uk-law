@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 20. Claimants subject to work-focused interview requirement only[^c-10f9bfed7abb62f19af779183a0c8763][^c-f0c316d9d1b0dfd0e226e5ef4e030922][^c-0f025a2bc299c78363b7b33332bde658][^c-c88f1de1d8ff9fbac4c477088e0bbd6d][^c-f19771921b216e68934968fcc7d90744][^c-c6cdb114344b88aaa0351235e899debc][^c-ae50b7c3253e53341836de44c72403de][^c-d24329294c997e28dcc3aeb9f4560abd][^c-817c5158908b2680aba90ced859fb1fc][^c-d66cc66f8a4ba5357c95f26d659a1b3a][^c-f4512e1ada5599a1d1e25f6e7ea3d688][^c-34b1352e3d96726860394cbdbf636cdc][^c-75f5803f05395f16cd16482a8f435bb6][^c-a3f3bfac3981bc33a304a34eae3bf2bf][^c-465b0c25ae7993d0d48d505de93305c9][^c-ad8e9c100292a8d6ddbcea4b7a38edce][^c-7a0addc65ae5c7c7a9b6196f2701b198][^c-46dd1bc0c595a948696c62f41017b902][^c-f0c316d9d1b0dfd0e226e5ef4e030922]
 

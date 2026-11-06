@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-06-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/24
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 170. Rate of interest applicable to judgment debts etc: Scotland
 

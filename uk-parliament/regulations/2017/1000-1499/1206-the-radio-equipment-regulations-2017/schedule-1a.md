@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-01-05. See https://www.legislation.gov.uk/changes/affected/uksi/2017/1206
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## Schedule 1A — Information in relation to charging capabilities and compatible charging devices[^c-ca1d6e17cb8661608d9b30b7d6a06e6a]
 

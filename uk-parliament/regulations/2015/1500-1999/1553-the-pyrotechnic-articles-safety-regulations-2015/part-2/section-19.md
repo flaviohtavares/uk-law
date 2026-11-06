@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 19. Retention of technical documentation and ... declaration of conformity[^M_E_f11aa0c3-7fe2-44b1-9084-9f7369d84464][^c-b0944c540e5019de6777b25cb02b5bcf]
 

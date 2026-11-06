@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (71).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36C (Extent: W). Expenditure by returning officers at local elections in Wales (Extent: W)[^c-23e9dfc1c15cc2126aca0745175ac273][^c14479931][^M_C_c20f38f9-b3a4-4833-fde8-2c1a004f3ec2]
 

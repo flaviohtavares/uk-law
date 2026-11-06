@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 55. Intimate searches[^c11323891][^c11323901][^c18892241][^c18895621][^c19560111][^c-5b79c5c2a7e9eba71540b19dfdb8d95b]
 

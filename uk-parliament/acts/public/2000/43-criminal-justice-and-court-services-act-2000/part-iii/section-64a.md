@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 64A. Release on licence etc: drug appointments[^c-c8ae3f8dcdef81925626a04f541244e4][^c-d98fe2b6aef61bf08b88c98bbe47eb95][^c-725914618a1eaa0ef3fde817025d74dc]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 19. Parenting contracts in cases of misbehaviour at school or truancy[^c-daa72f44a404db45765f45b8c7179c8e][^c-c930a70f815451a8e7936465e5ec3d1f][^c-7d0877228692a27991bbf2199a0a7a0c]
 

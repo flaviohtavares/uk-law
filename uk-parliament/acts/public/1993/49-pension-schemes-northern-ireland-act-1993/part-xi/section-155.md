@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (70).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/49
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 155. Inalienability of guaranteed minimum pension ....[^c11730812][^c-13b148fe932f4e64e8b13cdbf7cbae07][^c-4cb869a2cd96a2427a5b1ff23c0f5361][^c-ce87e339f6fba328fe1a7de75341f5de][^c-96619c2da7ee3cb8d1d86c92c205921c]
 

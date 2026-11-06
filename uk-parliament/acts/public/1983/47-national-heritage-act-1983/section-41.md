@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-04.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 41. Commencement.[^c941465][^c941464]
 

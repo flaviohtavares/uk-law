@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 25. Reminder of the need for an anonymous elector’s document: general[^c-29b0c15171ff1341618386a8013a0056]
 

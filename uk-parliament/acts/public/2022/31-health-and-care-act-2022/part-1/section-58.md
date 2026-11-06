@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 58. NHS trusts: conversion to NHS foundation trusts and dissolution[^c-6a582ee4dc9d4b6532661cdb4ff4446b][^c-a70ea2a4497b175ccf5c8baae2394d2f]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 110. Rehabilitation and reparation conditions[^c-2aedccae4cd3365325e51d48d1b29b7e]
 

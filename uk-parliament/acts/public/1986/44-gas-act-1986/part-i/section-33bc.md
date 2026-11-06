@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (31).** Text as at 2025-11-13. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 33BC. Promotion of reductions in carbon emissions: gas transporters and gas suppliers[^c14423591][^c-3b7e669ce29b7d91d51b6958a628fb37]
 

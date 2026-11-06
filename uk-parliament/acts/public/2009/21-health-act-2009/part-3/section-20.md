@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 20. Prohibition of advertising: exclusion for specialist tobacconists[^c2006733][^c-c016f2c01597990907908a31545c228e][^c-afac0d3525c3c9808b01bc6ea37f170d][^c-e514f32b61cdf4f5a2ca68aad2817f39]
 

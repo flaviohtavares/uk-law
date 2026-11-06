@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 256C. Breach of supervision requirements imposed under section 256B[^M_C_cfa2f360-d0ae-4760-e5ac-2a2fa206e12e][^c-932b6a018e4f64788148116e3b12ee45][^c-ad9c2bc53516bdc69645a8f71e932e46][^c-155c0f69a8116c840c0366b45e57112f][^c-76dcfa92a05ee9b741e93e3498428fcc]
 

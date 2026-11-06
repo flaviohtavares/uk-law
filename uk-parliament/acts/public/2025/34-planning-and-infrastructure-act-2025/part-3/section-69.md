@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 69. Revocation of an EDP[^c-0e1e439a14604164c6ffd9c095ede01c][^c-43bb02ab09e6e6a6bdc3b270f72db419]
 

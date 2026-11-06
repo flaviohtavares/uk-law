@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2214
 >
-> Extent: England, Wales.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 44ZA. Commissioning in respect of a system for on-site electricity generation[^M_E_46ebf620-986d-488d-d08c-3699c1cba9e2][^c-39eaa10b5cd66b32f06ef079ca5c4982][^c-fab331f95c0d25fce0770888f2f83aa0][^c-4064cf32644572a4e193531726c64c1c]
 

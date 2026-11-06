@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/asp/2008/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 70. Default power[^c-43727ecbf123f5553244fc7c09c339ff][^c-116b98fe4ef36ad97194b985762be26b]
 

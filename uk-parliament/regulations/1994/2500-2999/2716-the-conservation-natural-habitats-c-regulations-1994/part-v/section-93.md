@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-10.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 93. Compensation: procedural provisions (affected by repeal, see note)[^M_F_7a0fc749-4c32-4092-8c4e-c9b07b2f5ef1][^c-2dd38f22e3f0e7272da0337fa848725f][^c-2dd38f22e3f0e7272da0337fa848725f]
 

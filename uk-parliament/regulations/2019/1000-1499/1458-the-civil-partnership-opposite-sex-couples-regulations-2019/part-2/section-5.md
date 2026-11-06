@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5. Treatment of opposite-sex overseas relationships as civil partnerships[^c-6b80ff205e7d14bf5e9565a76e076cb3]
 

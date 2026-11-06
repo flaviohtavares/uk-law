@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2017-03-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 13. Action short of dismissal: non-infringing actions.[^c1092500]
 

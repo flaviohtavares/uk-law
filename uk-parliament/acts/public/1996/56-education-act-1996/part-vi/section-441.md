@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 441. Choice of school: child with EHC plan or statement of special educational needs (affected by repeal, see note).[^c-b2ef312e530f4f2b774a484e3e2d0db3][^c-9d28bd1b897d37c3c64976ef0437089d]
 

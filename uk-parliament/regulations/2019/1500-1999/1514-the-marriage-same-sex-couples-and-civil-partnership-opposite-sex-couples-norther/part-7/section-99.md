@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 99. State Pension Credit Regulations (Northern Ireland) 2003[^c-e76f7e843d0a6e9bf18080f59911e6f4]
 

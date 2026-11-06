@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 113. Placing of staff of local authorities at disposal of other local authorities.[^c15107051][^c15107061][^c15107071][^c15107081][^c18858261][^c-8fafe89064f4c009f1abc0056e24a654][^c-906baf455a64426a70b53899183e8394][^c-e34d0a21eec0ecc670d314681c509244][^c-ea6f1a562f468bdf67461a8bec067b48][^c-4101b31c8b19663f5fa8b9c65562cc89][^c-3fc1571b77aac21df71e2b3f800a74df][^M_C_56cc428c-5261-40f4-d57b-afceadd5dc31][^c-f98c5be9c04e8c3fc2bde59ced42a151][^c-2ab739b4d5f38f396da62346958db2a9][^c-47cfbab1608a9063a599ea46c90b3b90][^c-f1c1d4412b919d03343d618b06f229d3][^c-f74a5d55e266e2ff5702cf5e6d5d0c8f][^c-4d8377f5f3694e05dc62e11b016d2fd0]
 

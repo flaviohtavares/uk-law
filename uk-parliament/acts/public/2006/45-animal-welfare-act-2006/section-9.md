@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. Duty of person responsible for animal to ensure welfare[^c-d95adcb43db395f690e24b71b4164101][^c-2ff4cb36566aacc1f0754d18dba127ef]
 

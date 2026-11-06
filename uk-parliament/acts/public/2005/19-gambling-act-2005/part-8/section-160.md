@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 160. Notice of application[^c-989536475d22947a6408b393675c2409][^c-05887f0a17cc5c7c616e4195f42a28c7][^c-20dab77846f08f772f6c3d068f859c35][^c-fec315ab97dbda2a444468f0c03f8106]
 

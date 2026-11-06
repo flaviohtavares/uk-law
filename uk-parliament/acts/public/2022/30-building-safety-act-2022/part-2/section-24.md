@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 24. Provision of false or misleading information to regulator[^c-8c9b18e3d821d00ad2e4f3c08675f29b][^c-34f09b213d5e917a062aa760532907c6]
 

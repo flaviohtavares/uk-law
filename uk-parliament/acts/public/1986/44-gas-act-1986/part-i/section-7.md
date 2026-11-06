@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (31).** Text as at 2025-11-13. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 7. Licensing of public gas transporters.[^c14412351][^c14412361][^c14412371][^c-0a217bcb3d872313b6ada24b344d827d][^c14412341]
 

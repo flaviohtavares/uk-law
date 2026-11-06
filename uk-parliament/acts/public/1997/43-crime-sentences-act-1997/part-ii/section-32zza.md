@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2026-06-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32ZZA. Imprisonment or detention for public protection: powers in relation to release of recalled prisoners[^c-862d44b7f939c37204ef8424f403f0fc]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 35. Membership of trade unions.[^c1371825][^c-f92c8db39c8a95d3c5b0fc8ad4ea0312][^c-2d96849090ac7d0465af0e7771dec248]
 

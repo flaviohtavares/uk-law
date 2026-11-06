@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 127. Code of practice for securing effective relationships between local authorities and maintained schools in Wales.[^c-648a22c6d4ba01d36204523c2392f116][^c-570ae5afeec7f2b1ffee877e975cdee5][^c-ba0618638030751b6609b27916ab5283]
 

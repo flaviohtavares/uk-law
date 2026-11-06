@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 49. Powers of entry and investigation etc[^c-c35a1d28ebeaea2f63c80b7986ef8924]
 

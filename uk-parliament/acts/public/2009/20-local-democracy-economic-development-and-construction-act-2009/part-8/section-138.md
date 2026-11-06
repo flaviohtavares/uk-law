@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 138. Application of construction contracts legislation[^c-b7adfd64b5e323e5ac041fe719afb688][^c-01eb6a6f1de2a4a0583278d75a6afc3c][^c-05c91e460d805eb02608c24a9e2feaff][^c-235fc2ee06af17ddd4760e671233bad8][^c-fbde32cd2c43c8d81f8492c648a20a87]
 

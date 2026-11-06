@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Effect of scheme: different dates for different facilities or standards etc[^c-8bd0764a01c7d6de9e88d476f0d4d6db][^c-bb511d77fd3f3bb20dad995046fb787c]
 

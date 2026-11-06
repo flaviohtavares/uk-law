@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 188. Selection on a non-competitive basis[^c-480a75206d328abaaf1640a25b019c28][^c-2dfcf3e980541a01bda5b0a614ab671c]
 

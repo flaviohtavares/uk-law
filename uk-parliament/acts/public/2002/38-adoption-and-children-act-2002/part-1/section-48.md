@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 48. Restrictions on making adoption orders[^c-2e69eb0b8fe106b0e476a05dca60187c][^c-f0ce73c4dc076e02f2949cd1eea756c7]
 

@@ -23,7 +23,7 @@ summary: ''
 (1)[^c-55e9fe1d7b72af764a676b82a7888829] In this Part— *(affected by repeal, see note)*[^c-a2531265b08f7ca2190513c24c66a27e]
 
 - “**child *(affected by repeal, see note)*[^c-a2531265b08f7ca2190513c24c66a27e]**” has the meaning given by section 8(3), *(affected by repeal, see note)*[^c-a2531265b08f7ca2190513c24c66a27e]
-- “[^c-a91c68a3676984a21b5a7c7c4e227f33] *(affected by repeal, see note)*[^c-a2531265b08f7ca2190513c24c66a27e] **couple *(affected by repeal, see note)*[^c-a2531265b08f7ca2190513c24c66a27e]** ” has the meaning given by section 3(5A), *(affected by repeal, see note)*[^c-a2531265b08f7ca2190513c24c66a27e]
+- “[^c-a91c68a3676984a21b5a7c7c4e227f33] **couple *(affected by repeal, see note)*[^c-a2531265b08f7ca2190513c24c66a27e]** ” has the meaning given by section 3(5A), *(affected by repeal, see note)*[^c-a2531265b08f7ca2190513c24c66a27e]
 - “**the current year income *(affected by repeal, see note)*[^c-a2531265b08f7ca2190513c24c66a27e]**” has the meaning given by section 7(4), *(affected by repeal, see note)*[^c-a2531265b08f7ca2190513c24c66a27e]
 - “**employee *(affected by repeal, see note)*[^c-a2531265b08f7ca2190513c24c66a27e]**” and “ *(affected by repeal, see note)*[^c-a2531265b08f7ca2190513c24c66a27e]**employer *(affected by repeal, see note)*[^c-a2531265b08f7ca2190513c24c66a27e]**” have the meaning given by section 25(5), *(affected by repeal, see note)*[^c-a2531265b08f7ca2190513c24c66a27e]
 - [^c-e8eeb2749540405025d35a3a268f6516]...

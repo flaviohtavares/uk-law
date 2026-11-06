@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (453).** Text as at 2025-05-19. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 70. Approval by ... tribunal of estate management scheme.[^c-5981e3709d3a4f2df05047aafb42ed3e]
 

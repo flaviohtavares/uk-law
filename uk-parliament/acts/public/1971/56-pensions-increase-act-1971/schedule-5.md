@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-29.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 5 — Other Overseas Government Pensions[^c8667501]
 

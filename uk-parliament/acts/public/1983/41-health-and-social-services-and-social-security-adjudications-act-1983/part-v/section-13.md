@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2016-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 13. Repeal of provisions about designation and membership of teaching authorities.[^c-b5988cddda7b2dc180bf856b6b8e8674]
 

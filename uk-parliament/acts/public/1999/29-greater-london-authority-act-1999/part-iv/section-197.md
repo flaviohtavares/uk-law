@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-08-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 197. Strategic Rail Authority to consult Mayor as to fares, services etc.[^c-e8ab82404324fe346cdc0cbb2fa43992][^c12803361]
 

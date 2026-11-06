@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-05-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 78. Restriction of certain terms to authorised automated vehicles[^c-4c73e607e94f8e3424bd7b5b36a73551][^c-883f6786aee60c6e12ea33fe93dca96e]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 3. Multi-agency child protection teams for local authority areas[^c-b698c1c1068be9e968d0f356e4216918]
 

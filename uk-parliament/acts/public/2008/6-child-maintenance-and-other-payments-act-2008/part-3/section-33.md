@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2023-09-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 33. Power to write off arrears[^c2175032]
 

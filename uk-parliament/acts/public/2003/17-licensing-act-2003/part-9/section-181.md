@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/17
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 181. Appeals against decisions of licensing authorities or the Mayor of London[^c21020121][^c-485b391a04df1685c406371d44ceca3c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32. Free school lunches: eligibility[^c-bc712daccce8c16806d14b83aae8323e][^c-123c1b84ac67aac26dfc8d3995eb34ec]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (205).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 4C. Power to make provision in consequence of provision made by or by virtue of section 4B(2) etc[^c-0d84afca4025822bd48340a803eb3f1b]
 

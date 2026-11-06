@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-12-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/29
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 4. “Flood risk management function”[^c-4e0ef1840265c82d4e982c96a39fd5d4][^c-557c9997c7e0b5c2cb911b75985bb324]
 

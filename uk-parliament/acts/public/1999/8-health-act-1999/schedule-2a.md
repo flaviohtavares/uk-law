@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2022-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 2A — Section 31 arrangements: transfer of staff[^c21247481][^c21247481][^c12203601]
 

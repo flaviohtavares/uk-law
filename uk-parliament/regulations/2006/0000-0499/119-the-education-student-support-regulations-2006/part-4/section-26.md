@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 26. Availability of the grant for fees to old system students for years of repeat study[^c-cffd2a59a6d9484badaf029d5fc2160a]
 

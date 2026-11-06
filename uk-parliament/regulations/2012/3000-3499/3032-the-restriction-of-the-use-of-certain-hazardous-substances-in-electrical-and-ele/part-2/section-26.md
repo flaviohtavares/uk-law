@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 26. Non-compliant EEE[^M_E_03633852-a2c7-4a39-fe12-1ee8a45e7184]
 

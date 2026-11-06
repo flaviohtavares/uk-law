@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Restrictions on use of cautions[^c-2bb6aaf3820468899eda6ae6a69a35f9]
 

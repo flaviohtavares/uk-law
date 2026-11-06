@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2214
 >
-> Extent: England, Wales.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 26C. Target primary energy rates for new buildings[^M_E_8a5bddb2-49e4-4577-b259-6597e11f5774][^c-8cef95e88049157c07fec3e4e2335232]
 

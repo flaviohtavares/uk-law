@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 101. Offence: contravention giving rise to risk of death and serious injury[^c-7ecb0971eda312f19c16339a2f7150c9][^c-08e5594196c2d39f5e77c8e4d81b9cfb]
 

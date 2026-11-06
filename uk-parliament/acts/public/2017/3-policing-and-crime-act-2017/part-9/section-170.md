@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (13).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/3
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 170. Other pardons for convictions etc of certain abolished offences: Northern Ireland[^c22720061][^c-7ddb7d6424d02ac2599af6f7910d3653]
 

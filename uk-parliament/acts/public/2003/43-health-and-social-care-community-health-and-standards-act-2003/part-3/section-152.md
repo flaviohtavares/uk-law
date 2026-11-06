@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 152. Section 151: supplementary[^c-6bdaa8cd57b830d2caf489a93607ce40][^c-3699171a09d30704cb0444ee830b40ce]
 

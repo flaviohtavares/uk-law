@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2017-04-11.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 66. Expences of the arbitration.[^c5624771][^c5624761]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5. Responsible officer and offender: duties in relation to the other[^c-9520358ba3bad87f24749d580e0218e7]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 57. Effect of failure to serve certain notices in connection with SSSIs[^c-7a67524e8e3d717f7e657fef5bcc6060]
 

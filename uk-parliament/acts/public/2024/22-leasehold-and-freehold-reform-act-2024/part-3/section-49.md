@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (110).** Text as at 2025-03-03. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 49. Change of non-residential limit on right to manage claims[^c-f1ef0115070ef3bee3dbc9716994f96d][^c-8ef555596d816caea5323206b8fcf0b3]
 

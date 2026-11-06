@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 301. Duty of offender to keep in touch with responsible officer etc[^c-201e4f083b5a3edc054247168a786712][^c-6cabde984e5ceaf0e88b7b17fd389e93]
 

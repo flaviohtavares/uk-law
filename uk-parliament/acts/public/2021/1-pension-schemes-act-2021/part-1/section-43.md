@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 43. Periodic reporting requirements[^c24459211][^c-456e263d905c297c410bc0e8f76ae526]
 

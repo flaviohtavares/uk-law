@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2021-02-28. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 12C. Landlord's objection to legatee or acquirer on intestacy: supplementary provision[^c-379cdee5d3bf2f53ee2c3811dee96775][^c-379cdee5d3bf2f53ee2c3811dee96775][^c-4308ca7ef83c825376cda8ad1ac4dae2][^c-4308ca7ef83c825376cda8ad1ac4dae2][^c-115ab173d1eb4f638258af3e048ce5e2][^c-f19c744aeaa154eea11ec9bd2af319c0]
 

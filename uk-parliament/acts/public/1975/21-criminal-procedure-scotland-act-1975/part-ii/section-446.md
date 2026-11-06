@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 1996-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1975/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 446. Procedure where appellant in custody.
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 10 — Breach, revocation , termination or amendment of community order[^c-bd9b9ccc4a221a7f55c30031e2168cdb][^c-18773751fe7bab2795e41a01e7c8ea15][^c-54c749db43220f2a21f21834217bdfdc][^c-b362199314a58941fe8b596b604e0442][^c-c67ead0d2c36e5b2a839259f24d00448][^c-2b2fbf27757ce3ef7bf1ce935b0cb1c0][^c-801e3df9273fcfd64d762615831b0dc9]
 

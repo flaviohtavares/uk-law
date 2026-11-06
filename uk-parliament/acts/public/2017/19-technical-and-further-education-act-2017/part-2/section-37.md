@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. Restrictions on dissolution of further education corporation[^c-b89a055a7b96cab03d4cf5c3cb388a54]
 

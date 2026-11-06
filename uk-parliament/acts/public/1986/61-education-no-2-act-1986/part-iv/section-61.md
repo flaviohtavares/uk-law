@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 61. Minimum age for governors of establishments of further education.[^c-c2d9489edf29b8491a29e66dceadcf17]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 20. Orders in relation to animals taken under section 18(5)[^c-3d2dd2001a33201c560954695addbc0e][^c-a8cb749ed7004cadbdf610971d3112b2]
 

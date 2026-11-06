@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 10. The Spirit Drinks Regulations 2008[^c-b0c0b0aa38dfbc6782a23f6a1b65d214]
 

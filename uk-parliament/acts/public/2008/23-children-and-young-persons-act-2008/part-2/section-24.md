@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/23
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 24. Extension of power to make payments in cash[^c-17f2b946fab02c53fc97393bec14db09][^c-e60314b753ec20a6cf03a044fe86dd95]
 

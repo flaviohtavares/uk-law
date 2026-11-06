@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19C. Copy of order under section 18, 18A, 19A or 19B, and Commission's reasons, to be sent to charity[^c-c19229d866e13afe36d39b34d22ef788]
 

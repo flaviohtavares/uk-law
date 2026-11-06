@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 24. Restrictions on abstraction.[^c-1ce3836d703e4d83039bf7ebae32d3cf][^c-49760ce1712f00726704a248bdb1f796][^c-14580f07f519ee712167fc00946466d0][^c-1e3898b0884384e25037165d2f1b1427]
 

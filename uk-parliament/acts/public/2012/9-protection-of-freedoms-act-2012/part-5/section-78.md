@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 78. Corresponding amendments in relation to Northern Ireland[^c-1d654943a9d4825714f1ce1b59861019][^c-f68a87afa66c8c569034313f5889054f]
 

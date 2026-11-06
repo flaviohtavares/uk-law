@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 3 — Schedule to be inserted as Schedule 2A to the Housing Act 1985[^c-833aac2f1d8d0d900bf9f8e44c297d1d][^c-09f0404c91a74189299d3771495f6f46]
 

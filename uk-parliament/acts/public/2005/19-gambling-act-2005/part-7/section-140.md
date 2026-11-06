@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 140. Definition of “the Tribunal”[^c-4b916ab6b67f64c09b0b3114d9df9c48][^c-d4167b60eae2f4b7d51a3d4085239361]
 

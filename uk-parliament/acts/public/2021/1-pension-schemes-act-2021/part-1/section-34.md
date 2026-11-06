@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 34. Continuity options[^c24459111][^c-e2f11ff64b340a2f1410b9e6b82e5e75]
 

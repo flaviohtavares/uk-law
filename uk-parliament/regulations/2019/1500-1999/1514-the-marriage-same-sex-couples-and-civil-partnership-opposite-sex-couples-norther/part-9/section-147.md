@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 147. Presumption of Death Act (Northern Ireland) 2009[^c-c9b013c9b761448c8145aac640873466]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 13. Modification references to the CMA[^c18898951][^c-2a8fb91bbb9c72ad0d86d05f179782ce]
 

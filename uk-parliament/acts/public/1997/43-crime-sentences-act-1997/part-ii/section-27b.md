@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2026-06-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27B. Power of High Court to reduce minimum term[^c-6e92c05e1902e9a7e9c3ca7b4cd0269e]
 

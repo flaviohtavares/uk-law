@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 65. Independent review[^c-6118b5fcb59a9739a8d5a6d0f8766194][^c-3fccb84cc70f1063e4788645ab56a56b]
 

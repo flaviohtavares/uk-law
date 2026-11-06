@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2015-04-13. See https://www.legislation.gov.uk/changes/affected/ukpga/1963/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 38. Restriction on licences for performances by children under 14.[^M_F_2a24801c-3f8e-4ba6-8a36-57abd37d375c][^M_F_bfce8416-63d4-4e57-e9cb-e1acd2804c97]
 

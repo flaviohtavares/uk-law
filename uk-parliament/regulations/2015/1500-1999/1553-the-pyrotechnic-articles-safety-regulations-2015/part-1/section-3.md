@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 3. Definition of “pyrotechnic article”[^M_E_0110da18-4362-437c-ec1f-ccf7c89a0580]
 

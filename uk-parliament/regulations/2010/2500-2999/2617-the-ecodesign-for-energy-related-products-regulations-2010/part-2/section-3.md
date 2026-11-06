@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 3. Restrictions on energy-related products[^M_E_09e657d9-0574-4218-f7bd-009905353274]
 

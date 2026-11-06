@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-03-27.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 70. Dealing with the late payment fund: payments into the Consolidated Fund and to the Northern Ireland authority
 

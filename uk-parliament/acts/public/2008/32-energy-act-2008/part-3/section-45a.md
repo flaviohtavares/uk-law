@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, NI.
 
 ## 45A. Costs incurred in considering proposed programmes[^c-71bf5f08923d2723caece71c2dcfabda]
 

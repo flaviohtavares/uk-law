@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 57. Voting at elections of police and crime commissioners[^c-d212b9605a40818a8466302e0dd057a7][^c-1317ab83fd35247630aeb7e9c7f67ca4]
 

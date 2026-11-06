@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 91. Rights of entry and inspection etc.[^c2459641][^c2459651][^c2459661][^c-5328ba2ee51a7aac4df155743f70f93a][^c-52724f616c0ca4159548e975f71c29b6][^c-3ead421d795585bf26b28170bb358b30][^c-ad3b225be72e582894c4076e52f7c053][^c-12f6d4655d8bd98e651b622220f7d966]
 

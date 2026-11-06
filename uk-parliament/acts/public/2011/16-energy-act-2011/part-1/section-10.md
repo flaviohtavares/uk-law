@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 10. Confirmation of plan: supplementary provision for Scotland[^c-317042b6827ecde85909128e7522a2b4]
 

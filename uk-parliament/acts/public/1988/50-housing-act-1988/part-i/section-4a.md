@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/50
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 4A. Assured tenancies to be periodic with rent period not exceeding a month[^c-3deb237748a81a4bdde19b47a7bcbb3c]
 

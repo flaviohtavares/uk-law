@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 131. Information-sharing in relation to welfare services etc[^c-d484940bd74cdb5e44a4a0570f542c24][^c-cbec30a49b7c398b7f8e73beafbb0a93]
 

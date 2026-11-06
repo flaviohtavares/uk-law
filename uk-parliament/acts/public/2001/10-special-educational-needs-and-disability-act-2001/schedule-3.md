@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2021-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2001/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 3 — AMENDMENT OF SCHEDULE 3 TO THE 1995 ACT[^c-6058ce5fa3243e6fd176f59544683c2d]
 

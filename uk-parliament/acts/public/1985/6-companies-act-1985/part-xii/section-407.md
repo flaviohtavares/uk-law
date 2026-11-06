@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 407. Company’s register of charges.[^c17407561][^c17407571]
 

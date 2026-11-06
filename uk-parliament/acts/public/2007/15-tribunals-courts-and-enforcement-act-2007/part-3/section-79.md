@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (31).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 79. Use of CRAR after end of lease[^c-bc1cfe72b3b0ecc1ba4e747876f7fb4c]
 

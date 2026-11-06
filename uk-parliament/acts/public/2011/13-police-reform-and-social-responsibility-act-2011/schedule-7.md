@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 7 — Regulations about complaints and conduct matters[^c-5692576c4b36fba95014f23a884a0547][^c-f4ae8d873b435b5b1bac754b46dcb045][^c-d10b990fae136135911fb516a4ee169f]
 

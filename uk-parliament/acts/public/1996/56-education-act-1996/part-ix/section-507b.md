@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 507B. Local authorities in England: functions in respect of leisure-time activities etc for persons aged 13 to 19 and certain persons aged 20 to 24[^c-e55c8e5718f853ccdca46d9f9f6d50d8][^c-df82d42709314c7296748c08b3554faa]
 

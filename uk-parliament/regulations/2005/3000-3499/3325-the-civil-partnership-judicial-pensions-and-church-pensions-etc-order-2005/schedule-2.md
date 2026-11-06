@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2019-03-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## SCHEDULE 2 — Amendments of subordinate legislation made pursuant to the Administration of Justice Act 1973
 

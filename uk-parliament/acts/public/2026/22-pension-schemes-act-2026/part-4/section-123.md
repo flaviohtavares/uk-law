@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 123. Pension protection levies[^c-f0b073f3c57d49c35bb1e663706fa1b1][^c-04e190bded9370588e8ec3a60ed61d35]
 

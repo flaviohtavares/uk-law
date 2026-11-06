@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1975/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 7. Levying of rates.[^c10755321][^c10755331][^c10755311]
 

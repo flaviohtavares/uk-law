@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 8A — De-authorised NHS foundation trusts[^c-ba189bd227770337b2d63f16eacc1f93]
 

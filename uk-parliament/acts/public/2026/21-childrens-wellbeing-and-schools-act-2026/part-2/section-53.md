@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 53. School teachers’ qualifications and induction[^c-0e6ff190ad908a394b5d99eaf83cde89]
 

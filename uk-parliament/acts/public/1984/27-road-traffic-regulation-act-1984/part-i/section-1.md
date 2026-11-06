@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/27
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 1. Traffic regulation orders outside Greater London.[^c13544131][^c13544141][^c13544151][^c13544161][^c16323921][^c18778731][^c-4bc0edb514cb65f371f71504dcafc111][^c-a3bb8928da54b0e35e727f79c0becbef][^c-4d24872aa7f6e193ebd0f93ece0a2fdc][^M_E_fbea046a-8738-4780-d616-e8b1738180d2][^c-daf4a3e110fc5b598397f47d7cc10221][^c-725ea49afe373d9ff82c67da483b7e4f][^c-725ea49afe373d9ff82c67da483b7e4f]
 

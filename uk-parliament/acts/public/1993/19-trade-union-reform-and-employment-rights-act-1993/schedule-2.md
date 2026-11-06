@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2017-03-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 2[^c1092615]
 

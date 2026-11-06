@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 34. Extension of power of the Law Society of Scotland to make rules[^c-02e2cd6c063498e5f5de40a7ca0b129e]
 

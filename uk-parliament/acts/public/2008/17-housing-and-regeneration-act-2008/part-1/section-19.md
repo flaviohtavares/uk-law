@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19. Financial assistance[^c-3626c5368c9ca0faad0e58d6b97b628b][^c-9e4424b69e1f92861df72b2aacc7422b][^c-f778ce47ebca496f97bf338b686b8616][^c-c7cfa8f41a9e96cf5d109ab80965b04a][^c-d151b682ed3123eedaa1715a97916445][^c-413037d4604fd8db58cd69b07116023a][^c-8a8e718d7b62f5fe8f5a562d1ad0031c][^c-4acff6ad7eb4b1bc777acbfd0755dd3b][^c-f7953e5c0e3892dbf6ba92c132e6206d][^c-8c6255e5938e8e818335c31189cb98a4]
 

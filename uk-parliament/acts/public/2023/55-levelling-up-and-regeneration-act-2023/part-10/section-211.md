@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 211. Power to enter and survey land[^c-0d4c1044cedaf7550989160c6ae12f60][^c-4d900fc0197143ab564b31733d66fdc8]
 

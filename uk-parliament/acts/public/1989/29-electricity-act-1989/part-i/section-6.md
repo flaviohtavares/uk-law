@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (62).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 6. Licences authorising supply, etc.[^c4110591][^c-6b7b98a63406b4e790bf7995b911c8d6][^c-65950c3fd36bd09ffef10d9688322572][^c17031951]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE A2 — Applications exempted from the restriction in regulation 3(1)[^M_C_f86a90fa-4e3c-4d2f-fc45-611e7e41b1f7][^c-ee71d2fdeb7818e063913efdddfe177d]
 

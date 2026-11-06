@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-10-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 15. Compulsory purchase of land.[^c4790391][^c4790401][^c4790381]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 95. Training for persons working in regulated activity[^c-f5de122f0f0933e7f2ce18b9267fa397]
 

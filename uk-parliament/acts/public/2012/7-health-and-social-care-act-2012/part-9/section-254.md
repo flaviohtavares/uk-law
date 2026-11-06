@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 254. Powers to direct NHS England to establish information systems[^c-0f366a1487768a929f43d82a8c3d1c0c][^c-15f76a582be5f9711683064608f4bda9][^c-0fb853367f33a6de1d82b3e96d74470f][^c-15f76a582be5f9711683064608f4bda9][^c2191357][^c-9d62f91d1603b2635a02cf0d39dac4d6]
 

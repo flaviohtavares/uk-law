@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 44. No first-instance applications to the High Court in tribunal matters[^c-026d6db9f3b8ef1c2e5b09b713834766]
 

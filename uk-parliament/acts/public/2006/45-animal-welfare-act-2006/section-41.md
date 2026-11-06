@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 41. Orders under section 33, 35, 37, 38 or 40: pending appeals[^c-be03dba49a85180fc41f5353c9983302][^c-a43e02096a00cb49ac66d7b10d4d60e8]
 

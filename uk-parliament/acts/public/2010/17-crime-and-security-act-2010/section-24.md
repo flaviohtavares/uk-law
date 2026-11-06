@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2022-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 24. Power to issue a domestic violence protection notice[^M_I_d4b02b43-f5ad-4f2e-e33f-2c418c1ed159][^M_I_da9d17da-c3e3-4ddf-fefb-aee465d14ad5][^c-0b4e759bc48a5d6431be13f59bea4c5a][^c-986d3d1d006f129046325bc3de491bed]
 

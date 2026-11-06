@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-02-13. See https://www.legislation.gov.uk/changes/affected/anaw/2017/1
 >
-> Extent: England, Wales.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## SCHEDULE 8 — TRUSTS
 

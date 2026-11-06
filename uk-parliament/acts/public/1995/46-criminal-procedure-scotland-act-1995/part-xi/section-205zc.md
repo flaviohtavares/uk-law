@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 205ZC. ... Sentence with fixed licence period[^c-e6ae143a5aa9cb9425b59c76877a31e2][^c-11505ad38725ba0b0b4ac8dbb1716495]
 

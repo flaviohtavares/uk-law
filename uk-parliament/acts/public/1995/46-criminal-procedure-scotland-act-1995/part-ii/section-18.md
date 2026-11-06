@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 18. Prints, samples etc. in criminal investigations.[^c14467851][^c-c7ef53df51731ab35e363cc52f90deae][^c-9d21f1a64bcd2e39ac1d728f144ed57d][^c-a976a43d7070e596d879a217f3ae2317]
 

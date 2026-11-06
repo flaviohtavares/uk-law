@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 69. Terrorist connection[^c-23308082eb5f70bddc7f78fa59a82ecc][^c-950beb8b8135bb2d7a8018df83a0259c]
 

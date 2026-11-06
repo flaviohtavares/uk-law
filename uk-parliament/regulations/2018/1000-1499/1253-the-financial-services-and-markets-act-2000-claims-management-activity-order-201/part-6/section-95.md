@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 95. Legal Services Act 2007[^c-f2aff71e74749cee4040d836f2d7eae1][^c-d59f7d90006c80eecf139e5927917210]
 

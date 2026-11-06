@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 48. Regulations about registration of marriages and civil partnerships in gender-change cases[^c-7cc81e02bdab811d0b41f2b4e1f8db18]
 

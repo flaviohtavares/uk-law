@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 200. Transitional provision and pension arrangements[^c-1c7c612b599edebe8049f8618d07307c][^c-66f7ea6c24fa5030d5d7f4e4fc3b88d9]
 

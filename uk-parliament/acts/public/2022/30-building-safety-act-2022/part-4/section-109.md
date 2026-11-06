@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 109. Cooperation and coordination[^c-ed212103319ade88b8de92ba81917ca5][^c-7854dd7e6def7b0acc25d55562dd8fb4]
 

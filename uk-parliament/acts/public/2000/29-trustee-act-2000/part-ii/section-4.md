@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-05-19. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4. Standard investment criteria.[^c-659e7678d6b5b3a28a078bfc53d4f788][^c-2598d63dd3d790fce6c5734e529ce1d1][^c-f8f47d88161781b8455231fe57ad623d]
 

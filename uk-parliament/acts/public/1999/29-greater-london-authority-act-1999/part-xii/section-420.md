@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-08-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 420. Regulations and orders.[^c-d8f09e5056f3d32333cd14f292be0039][^c-caec83ea1f32be4394e6035b11c6028b][^c-9482c2ad9338f290cd971eeac17401fe][^c-e7cda6efe5340aaabec632314347451b]
 

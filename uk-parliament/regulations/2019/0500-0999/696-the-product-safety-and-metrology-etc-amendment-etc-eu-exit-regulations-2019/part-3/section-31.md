@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 31. Amendment of the Recreational Craft Regulations 2017 and related amendment[^c-1ec88be67227611e88c513edc662be0b]
 

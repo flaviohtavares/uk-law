@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-04-26.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 8A. Restraint orders: power to retain seized property etc[^c-1b84a9a317a93828775c4623c93aab42]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 109. Minor and consequential amendments relating to Chapter 6[^c-1a3dd870197759bf095150870f89b338][^c-b3dfa797bb8cfa4c2430e0dc5bafacb7][^c-ece299d79fff6ecc78abcdcb097172b2]
 

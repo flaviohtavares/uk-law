@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 49. Other responsibilities of trustees, employers, etc.[^c-6acf4e86e2594aa22da95d6e8d942f94][^c-558a203ae7b9b5af0eebb2e9b3f7b8c4][^c-625dec612ba7f41cfbc22f5181d912f9]
 

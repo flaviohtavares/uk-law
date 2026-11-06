@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 41. Road Traffic Offenders Act 1988[^c-ec866ae68d7a33cb90a7dcf2e2fba4a0]
 

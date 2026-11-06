@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 27. Parental responsibility[^c-f209f75d20b027a6d7ba1bf88c23d259]
 

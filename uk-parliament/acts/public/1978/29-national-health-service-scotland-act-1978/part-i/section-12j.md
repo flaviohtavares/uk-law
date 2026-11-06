@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2026-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 12J. Health Boards: co-operation with other Health Boards, Special Health Boards and the Agency[^c-ee11f8d852a4cea66de1abdaac0eba41][^c-046ff196cf20fcbfdda9dbc11f657411][^c20957651][^c-046ff196cf20fcbfdda9dbc11f657411]
 

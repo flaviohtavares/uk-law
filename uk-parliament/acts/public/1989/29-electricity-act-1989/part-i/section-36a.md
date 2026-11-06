@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (62).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 36A. Declarations extinguishing etc. public rights of navigation[^c-aee7e378f88742741f1b2de97c889633][^c-3f076c6f5fdcbd3f2247d5a514b147b3]
 

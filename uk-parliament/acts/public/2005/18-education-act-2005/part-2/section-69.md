@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 69. local authority not to establish school on opposite side of Welsh border[^c-8f0e7f8a16daf8b97525bdcbc514776a][^c-94ed0295e29907765ea29be5dd3e5cb4]
 

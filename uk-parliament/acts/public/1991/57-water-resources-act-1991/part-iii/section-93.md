@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 93. Water protection zones.[^c18733581][^c18733591][^c-d54d4b0a90a47bffa90841757290ff26][^c-fb7590d13bb312607fbee5b23c191526]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 52. Repeal of Fire Services Act 1947[^c-a181ad65959a0564fb7bcc041042e43a][^c-182840e0b187fd039243fe0ca7801308]
 

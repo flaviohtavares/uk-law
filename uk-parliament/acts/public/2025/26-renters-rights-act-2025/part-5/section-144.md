@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-22.
 >
-> Extent: England, Wales.
+> Extent: England, Wales, Scotland.
 
 ## 144. Extent[^c-5584b8583d3880476e9a19b8694b4225]
 

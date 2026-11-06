@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2017-04-11.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 111. Charge to continue on lands not taken.[^c5627091][^c5627081]
 

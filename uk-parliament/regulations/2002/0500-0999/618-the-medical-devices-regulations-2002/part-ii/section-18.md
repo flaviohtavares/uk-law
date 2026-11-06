@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/618
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 18. Approved bodies and the conformity assessment procedures for general medical devices[^M_E_7fa30b0d-8298-49a4-f21a-f6c4dc4c7694][^c-ce3ea5becb00f4ba6d5a9f4cea58b64f]
 

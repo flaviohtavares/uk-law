@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32AD. Monetary penalties: interest and recovery[^c-8b1f1ba3fac04efdbdb334dcdbb003a7][^c-0e40447f5790660d3c774566ac594165]
 

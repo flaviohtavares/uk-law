@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 62. General interpretation[^c-6f139bc41e7c01ece06eddf649ac46a3][^c-6304d99f725fd7ed357b3bbbf0b17c05]
 

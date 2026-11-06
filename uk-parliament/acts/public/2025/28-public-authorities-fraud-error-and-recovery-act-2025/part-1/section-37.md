@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 37. Deputies[^c-4919e6818800ee2581aff9936ba7d132][^c-77fa855d912a66c199170c1a97fac292]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36B. Grants by Welsh Ministers in respect of Welsh principal councils[^c-dd22fa68d411baf15ef02283edf607c1][^c-f413d37a56d88c64a31f84b591d5752c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 25. Applications on alternative ground: evidence about civil partnership[^c-070686dfd3a30e5dd43eaf09ace1a218]
 

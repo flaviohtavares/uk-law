@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 117. Discretionary Support Regulations (Northern Ireland) 2016[^c-3c05104fc930709aa463e4198bddcec4]
 

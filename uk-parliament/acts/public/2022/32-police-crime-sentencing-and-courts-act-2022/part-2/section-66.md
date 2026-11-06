@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 66. Disqualification order on conviction for certain offences involving dogs[^c-b9b178db7c33926df02cb24a406df7e6][^c-ede2e0881d1bcabed81992a4fa6b889d]
 

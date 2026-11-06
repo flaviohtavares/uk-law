@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 102. Staff transfer matters: pensions[^c-2c4a489e7e861cea84dcd09ddb3e6f80][^c-7d98dafac49e6dd4c44004cb5dc16ae3][^c-280d8ec9366c2382402437622c23985b]
 

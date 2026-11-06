@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-13.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 12C. Qualifying Northern Ireland Goods[^c-3777ac972f4bc1dce87beb7c207f08cd]
 

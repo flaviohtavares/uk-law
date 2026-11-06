@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (156).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 280. Police service.[^c14523071][^c-67e08ce6f262120bcbea73cef6f25570][^c-93bcffe42f604a8b00598da9804d7ffa][^c-e305d25b319eb8528482708ddd32ed7a]
 

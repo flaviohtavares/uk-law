@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 45. Prohibition on increasing charges etc during triggering event period[^c24459231][^c-299c914883441e0599b7bce87ae4cf41][^c-3aba0983e70772d32a619aefebc1fc41][^c-7cfcec67e11c0c483c7d66f477579d1d]
 

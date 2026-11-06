@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 20A. Transitional provisions in relation to EU Exit[^c-401118f97af1bda8f8c840d14e360d2a]
 

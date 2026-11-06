@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 105. Procedural requirements relating to decision under regulation 104(4)[^c-ac19f1ee218df2753ef1da13163ef763]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1597
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 3. Placing on the market and putting into service; supplies outside Great Britain and showing at trade fairs not covered[^M_E_95b7384c-2c75-4918-a763-b269b96b8b77][^c-f04dbbf77b0fb4d227e0c814aa240b52]
 

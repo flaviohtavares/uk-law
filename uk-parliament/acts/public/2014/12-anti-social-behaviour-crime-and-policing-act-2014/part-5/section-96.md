@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 96. Review requirements for new ground[^c-185a859782b1fb9dc27db41d0e6c1b5b][^c-57e2722e33080a0b92c2579b5ed1d6f6][^c-d33e6a0e4dab9611b223c7cbdb9f8c30]
 

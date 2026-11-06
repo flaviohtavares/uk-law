@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1979/46
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 9HA. Power of the Scottish Ministers to serve stop notice[^c-8f6c604134557b193d1df5ea82c56fb4][^c-c6b8474c40bc014f12b13fe95b0e62aa]
 

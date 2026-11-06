@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8. Establishment of The General Teaching Council for Wales.[^c-3006d573236b28f3024c127eaf6cf603]
 

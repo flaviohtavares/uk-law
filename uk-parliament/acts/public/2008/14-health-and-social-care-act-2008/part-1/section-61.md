@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 61. Inspections carried out for registration purposes[^c1942187][^c-aa52d0da4db59f381a4fbf34f248cedd][^c-620b21cff0868788fa76345e6d892c12][^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81][^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81]
 

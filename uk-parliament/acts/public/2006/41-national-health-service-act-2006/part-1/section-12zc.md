@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12ZC. Eradicating slavery and human trafficking in supply chains[^c-83994025fdc995289d84acb1fca768a6][^c-e8a263d827f1e306f985b06a04ef3783]
 

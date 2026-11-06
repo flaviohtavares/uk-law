@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 243A. Duty to release certain prisoners serving less than 12 months[^c-98c694f2700537a729be428df8392280][^c-4548cd64204ab267a315f3d81e53825e][^c-bd4add83845c4e090097edcc72771392][^c-7afcb0af90d6ab1a6d81a0d1f162f002][^c-12d916bfa22114b5a02d5f1f02769029]
 

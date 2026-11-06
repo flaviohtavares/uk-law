@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 4 — REGULATION OF CLAIMS MANAGEMENT SERVICES: TRANSFER SCHEMES
 

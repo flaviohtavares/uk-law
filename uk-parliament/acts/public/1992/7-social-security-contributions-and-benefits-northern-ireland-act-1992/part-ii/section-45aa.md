@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (205).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 45AA. Effect of working families' tax credit and disabled person's tax credit on earnings factor[^c-1244d3263a96807c5e5c42812e9b9a9c]
 

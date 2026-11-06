@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 203. Rental auctions[^c-04efd561e54321d95847206c067df4f0][^c-2f458122fd2601c93a64611cc4da8477][^c-5624f9573814d14c0f6442b1475f98f2]
 

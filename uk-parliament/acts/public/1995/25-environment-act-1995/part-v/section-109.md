@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 109. Power to deal with cause of imminent danger of serious pollution etc.[^c-38bf46af9f300c03cbc2a3bc03c0dbd5][^c-7b2d1e831e9a47ba27cd11b039986742][^c-f3e1f5b4a1e3e0b7e8de5ac7267dee9a]
 

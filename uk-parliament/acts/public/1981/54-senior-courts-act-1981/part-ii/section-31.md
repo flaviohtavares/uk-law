@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/54
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31. Application for judicial review.[^c-7050af9734fafe75c9cd050cadbb7fd8][^c-366e3de37dc3dd98f52d5506982f2b17]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 16. Material subject to the Criminal Procedure (Scotland) Act 1995[^c-d9e71a2b9923e6c318c5c92fa189f678]
 

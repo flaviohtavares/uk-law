@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1B. Restriction on practice as sole solicitor[^c-f84599ba71d9ca1fbc7d673fe7b97c8f][^c20503271][^c19642101]
 

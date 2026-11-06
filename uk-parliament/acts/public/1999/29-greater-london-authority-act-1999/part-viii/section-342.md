@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-08-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 342. Matters to which the Mayor is to have regard.[^c12807481][^c-3bb601dec3fcaa3c3e2c261923af2522][^c-90079bf05dc2a221546f46d8d76321f6][^c-ea7c4d9cd95cdb81220e1a1aba46d6dd]
 

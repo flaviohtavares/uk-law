@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2017-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1964/48
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 61. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c11165441]
 

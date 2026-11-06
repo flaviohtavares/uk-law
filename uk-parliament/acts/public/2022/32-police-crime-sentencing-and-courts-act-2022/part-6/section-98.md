@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 98. Diversionary and community cautions[^c-eba9c141f065e7b9630ecaa5c2a8626e]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2025-06-25. See https://www.legislation.gov.uk/changes/affected/asp/2006/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 2. Duty to establish and maintain the Agency[^c-541eca71b7f5418b2d2f1afb3cc5160e]
 

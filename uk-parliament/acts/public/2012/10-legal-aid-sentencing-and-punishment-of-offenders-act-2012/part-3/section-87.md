@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (57).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 87. Power to amend standard scale of fines for summary offences[^c-38ab7cae774be3d078331a468ed1b9d4][^c-373789877a78bb664f25fd447d1d59ba]
 

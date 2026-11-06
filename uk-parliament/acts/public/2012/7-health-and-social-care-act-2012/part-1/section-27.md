@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27. Financial arrangements for clinical commissioning groups[^c-a2632f33dbeb7982a379d8795e7f607f][^c-f5dde99221830d41d0ff9160ff7eb5e5][^c2191282]
 

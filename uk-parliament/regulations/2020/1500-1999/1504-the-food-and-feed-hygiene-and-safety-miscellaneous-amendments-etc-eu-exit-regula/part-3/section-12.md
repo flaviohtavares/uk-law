@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 12. Amendment of the Animal Feed (Amendment) (EU Exit) Regulations 2019[^c-c1b06894dba781864c3704e095dcded0]
 

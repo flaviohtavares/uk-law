@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland.
 
 ## 34A. Obligations which are met by complying with obligations in the Directive[^c-feb6d9f36472e1975286696584147ce9]
 

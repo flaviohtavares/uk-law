@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 8 — Constitution and Proceedings of the Local Government Boundary Commission for Wales[^c-078128e2fad34f6c922fe8c2ac4ef3f8]
 

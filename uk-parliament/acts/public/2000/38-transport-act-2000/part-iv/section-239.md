@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 239. Operator’s duty to continue.[^c-335031a729ab682b6a88e6bdaae6be4e]
 

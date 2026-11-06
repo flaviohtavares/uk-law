@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 82. Urgent Crown development[^c-ae0f0b9e809c2c2742dc90ba43272f01][^c-ae60f33d59c9aa16981af3a58244cde3]
 

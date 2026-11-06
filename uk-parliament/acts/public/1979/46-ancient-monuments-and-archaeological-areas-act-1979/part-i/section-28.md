@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1979/46
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 28. Offence of damaging certain ancient monuments.[^M_E_f132f54c-107b-4d2a-ca42-74285ee20dba][^c250977][^c-a0b64b5b061e00fc21b706434ae439ae][^c-e563ed869421940ebde7ae9316e990bb][^c-bcfdb6f6f7cabe520c43e348f277f7c6]
 

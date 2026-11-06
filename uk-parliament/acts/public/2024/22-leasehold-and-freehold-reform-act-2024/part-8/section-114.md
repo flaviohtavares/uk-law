@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (110).** Text as at 2025-03-03. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 114. Steps relating to remediation of defects[^c-46cf307bc40be34ed3a662b0c63a4c53][^c-ce5d9304e334cd85f8500ffebc84c36c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-04-26.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 21C. Non-compliance with an unexplained wealth order[^c-edc9bff5ab79f1844fe87f371d901184]
 

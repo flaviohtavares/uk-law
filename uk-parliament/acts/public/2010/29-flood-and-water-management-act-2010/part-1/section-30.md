@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-12-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/29
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 30. Designation of features[^c-bc0e5b8cb97918d7ca9ef3cc9531436b][^c-ddac7ad5050571270e65268e4628ef80][^M_C_7ca74388-4e4f-44d0-85c0-17f6702b73e3][^c-e7a7e5f0cfd0734772936648d298b3aa]
 

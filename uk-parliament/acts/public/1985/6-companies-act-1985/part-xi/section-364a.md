@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 364A. Contents of annual return: particulars of share capital . . . .[^c17405721][^c17405711][^c19876361]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-12-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 59. Powers of local authorities to promote and assist housing associations: Scotland.[^c11837951]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (62).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 41A. Promotion of reductions in carbon emissions: ... electricity distributors and electricity suppliers[^M_F_1be22cc4-9137-49a6-80b1-f7feb3d81653][^c-52d8b75ed4e47a5596813e653c4c03af][^c-cac89dd19c35f1898f4a76abe9eafff6]
 

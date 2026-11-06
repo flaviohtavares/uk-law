@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2021-07-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7. Supplementary provision about orders on conviction[^c-c424a6dba3ad50e10309e0de28e0f238][^c-81b887ff46b3dc776572b73ffa7f5e0d][^c-5d3850b92b7fb281c287ed7fc5b1d1e7]
 

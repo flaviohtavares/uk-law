@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 71A. Prosecutions: time limit[^c-7c1b7e41c04c819f288b8c814588980c][^c-4a04c5adb3de78e8f1e8b4745a17ab66][^c-91306986e98f5fa40ca8c60f8f1512ce][^c-097931145a065e4ba3b0b2454c13d2b1][^c-33f2afcc9b3aea455bbf82f962090b95][^c-aa4c5635f0864648ab2b2f44d18b32a2][^c-fd65699cd4f0019de5de142ad729bdd8][^c-d62b061515cf806ee0cfc90fe1cb65e1][^c-1e57394a11ed637a8333751ccc957797][^c-00752d2abac17158647f14fd51f27675][^c-dfc953c51a626a1b6736417f947df256][^c-90430ec8ec5f44d14a24ca2c47b70c1a][^c-71c3c60a52b3fea1b1781acb97f6f505][^c-de099887aabd8aae939a2b6bfc3028b1][^c-6172fb2117243977d2bb3e51f3b34a62][^c-6d2ebbd38e23cdd7c80b4f88e60d0c84][^c10346611]
 

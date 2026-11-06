@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1153
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 57. Restriction, suspension or withdrawal of approval[^M_E_427c62fe-5cb9-4ca5-e5d4-6023ddbc3f08][^c-819bc0dbe42933501fb9b560b0fdcea2]
 

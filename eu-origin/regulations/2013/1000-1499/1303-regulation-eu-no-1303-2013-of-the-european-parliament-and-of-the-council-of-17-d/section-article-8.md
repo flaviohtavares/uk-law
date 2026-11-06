@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-06-16. See https://www.legislation.gov.uk/changes/affected/eur/2013/1303
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Scotland, Northern Ireland; Wales (the versions of this text differ in extent).
 
 ## Article 8. Sustainable development[^M_E_19e92298-c575-479b-e0d8-e7ea53bba687]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-09-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 171. Interpretation of Chapter 3 of Part 3[^c-2835081a453d6bca5182913edcb1f746][^c-6ecbca2562a3c5581953b7d8588ba2fd][^c-ea2bca7df12998f0a880958888c79325][^c-9a9ba38510a5e178498ff389b22b0a31][^c-c50a6b098230abea7ce4224b0ae6a214][^c-656e02a0185857c795b0c6d274c17389][^c-7328ab1dcbe8857d120f58f4bc8f63ee][^c-5f2612a932ea39cbd9eeade118f49d7f][^c-e3fbf9874d0e06ac672993772902d700][^c-2e30e059b2d95eab43c69fe71bfcc9c5][^c-dd345823bbc29c278b5dd01448e13e50][^c-5f2612a932ea39cbd9eeade118f49d7f][^c-dd345823bbc29c278b5dd01448e13e50]
 

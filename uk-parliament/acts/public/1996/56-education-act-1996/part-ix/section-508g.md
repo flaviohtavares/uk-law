@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 508G. Local authorities in England: transport policy statements etc for young adults subject to learning difficulty assessment[^c-5d50d94044696f4d87eddb6cfd876d19][^c-df82d42709314c7296748c08b3554faa]
 

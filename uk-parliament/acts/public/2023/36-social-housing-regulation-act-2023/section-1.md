@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. Fundamental objectives[^c-56a2eb8689f0dca76a3c9b73bf01198c][^c-1a4ce28a8b17163148968569bfca0a20]
 

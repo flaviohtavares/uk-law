@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 97BC. Rights of entry in relation to hazardous substances control: supplementary provisions.[^c14925281]
 

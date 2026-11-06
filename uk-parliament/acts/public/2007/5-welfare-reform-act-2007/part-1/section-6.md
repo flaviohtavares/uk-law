@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 6. Amount payable where claimant entitled to both forms of allowance[^c-edabbbd2a45ec99ddc59553d3b2c8a21][^c-a930b4f5a9da12f15855a11f7d9602d0][^c-aa58e5532683b2e3e4168fdc6726f1ff][^c-a930b4f5a9da12f15855a11f7d9602d0]
 

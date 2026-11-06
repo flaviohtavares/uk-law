@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2023-09-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 8 — Repeals[^c2175990][^c-72af2f508ab562ddd199decca78d3115][^c-2640dd0668959abd246cc04385f680e9][^c-ff8d0ac6a845ffa2a2821ce59c258e65]
 

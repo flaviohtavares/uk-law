@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31. Amount of the fee contribution loan[^c-cffd2a59a6d9484badaf029d5fc2160a]
 

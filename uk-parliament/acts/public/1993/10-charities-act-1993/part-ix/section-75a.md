@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 75A. Power of larger unincorporated charities to spend capital given for particular purpose[^c-c19229d866e13afe36d39b34d22ef788]
 

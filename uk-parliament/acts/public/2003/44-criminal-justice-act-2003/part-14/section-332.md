@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Scotland, Northern Ireland.
 
 ## 332. Repeals[^c5234451][^M_I_f7b21865-98cc-4ae5-f4a0-187427a83923][^c-5aebeb5e8de4f87a62d8024da36524c6][^c-c1d7d03a3781ec8561b5c821d8ed768d]
 

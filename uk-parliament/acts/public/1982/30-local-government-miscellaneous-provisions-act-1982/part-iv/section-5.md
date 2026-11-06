@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 5. Closing orders etc.—procedure and appeals.[^c-f01a0b35f728046097d822afdebc7f08]
 

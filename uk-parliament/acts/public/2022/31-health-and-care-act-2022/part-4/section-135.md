@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 135. Interpretation of Part 4[^c-7ab280020eb327c2e7e5e0ab8780cd9a][^c-3005e915d8d9de629f2d96bdf030f64d]
 

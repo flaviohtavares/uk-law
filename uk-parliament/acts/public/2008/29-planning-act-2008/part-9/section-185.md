@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 185. Power of High Court to remit strategies, plans and documents[^c-211099e473893444cc6002dac6b07a1e][^c-90dfb3087e9d1c50d6128325808e44af]
 

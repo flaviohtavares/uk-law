@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2024-04-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1975/70
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 21C. Powers to advise on land matters.[^c301522][^c301520][^c301519]
 

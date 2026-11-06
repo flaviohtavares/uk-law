@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 337. Other provisions as to orders etc of Commission[^c-6cf4175293164e853b1086bf3bb52993][^c-e30c94019a210c7c1cae526ae0971ab9][^c-cbc9927c1908fe4ace949e350d0771b4][^c-2359bfaa616c264f02e21784103e867e][^c-34cb9387b88ea1cb11fe3b007bf930fe][^c-c5656d4f66719fb43310414179d2fdd1][^c-d457e6ceb10220e139c89e659c6dbcdc][^c-79f896ce1950f17a6ae98f29347ec257]
 

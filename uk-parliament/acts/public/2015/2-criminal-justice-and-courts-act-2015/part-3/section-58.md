@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 58. Rules against inducements to make personal injury claims[^c-4d8b3d1fa8c5fb93616918280958d0a1]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 315. Minimum sentence for repeat offence involving weapon or bladed article or corrosive substance[^c-11bc14f737f380295847680971f4f293][^c-90374fcfd7835bffad44d10bfcd7eac9]
 

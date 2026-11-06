@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Government funding of services under control of London Regional Transport.[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 

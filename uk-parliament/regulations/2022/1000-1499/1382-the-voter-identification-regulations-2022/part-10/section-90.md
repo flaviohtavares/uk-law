@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 90. New regulation 71A (grounds relating to identification: England and Wales and Scotland)[^c-b7a074134f1b381dacf9f3f6bee7daee]
 

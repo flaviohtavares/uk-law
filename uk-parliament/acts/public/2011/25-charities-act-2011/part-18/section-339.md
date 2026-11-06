@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 339. Service of orders and directions[^c-9d3ce8892780947ea323a3217b583fc3]
 

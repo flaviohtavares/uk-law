@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 30. Suspension of police and crime commissioner[^c-b6f4364fb1760e197a5c27245ddeeefb][^c-ad462868fe279848466787af3197fd86][^c-de8e0da5757be63b3ec331d41d949ce7]
 

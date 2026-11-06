@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 131. Preservation of accounting records[^c-203e53ff339d0255d9f1497cbcf9ecf4]
 

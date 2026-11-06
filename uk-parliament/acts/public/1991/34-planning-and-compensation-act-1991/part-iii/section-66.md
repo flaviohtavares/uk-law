@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 66. Compensation where permission for additional development granted after acquisition.[^c-130c609203c315cb2fed5b8b48781a90]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 39. Responsibilities in relation to persons detained.[^c11322711][^c11322721][^c19000711][^c-4fe2cd0cef2ff2a74f5c0f15adf2b59d][^c-a443f0a11edffbc66d8aa383ddeb60e0][^c-1baea12cacc0e8c2ec514c430d961b36]
 

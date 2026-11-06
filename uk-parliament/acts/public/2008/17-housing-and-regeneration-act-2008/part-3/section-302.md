@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 302. Shared ownership leases: protection for hard to replace houses[^c-0f24d7f28886dfef5b039be800b9cf43][^c-aef0b9ba72c451b5ee6b1b4d9d1b3b8c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 189. Suspended sentences of imprisonment[^c-66fb90da21e6767f671b1c02ce254e9a]
 

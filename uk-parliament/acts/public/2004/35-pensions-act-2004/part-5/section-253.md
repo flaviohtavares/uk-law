@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 253. Non-UK scheme to be trust with UK-resident trustee[^c-2cc83ea0dcf256a67c3de448ea26d982][^c-fe382e3e6b2d2a98c1c08641f32c994b]
 

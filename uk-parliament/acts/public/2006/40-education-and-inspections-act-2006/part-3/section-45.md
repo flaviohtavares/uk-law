@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 45. Admission arrangements for schools with religious character: consultation and objections[^c-f34745fe8426fd92d9f790e35730ab99][^c-d86ae89389457a1dfbc549de15f3dc5b]
 

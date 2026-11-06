@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Proposals for discontinuance of schools maintained by local authority[^c-3cd2090bfbec141feb2186506e1b92d5][^c-2800dc56627d43968bbf637a79204e08][^c-0ea7acc4831332590d0c9da4689eca3c]
 

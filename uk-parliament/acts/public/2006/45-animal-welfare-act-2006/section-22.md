@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. Seizure of animals involved in fighting offences[^c-b1076c605a8fff5bc6ca652642d7eaf1][^c-b794a3c41413c47700c4cc7cfe98e3c0]
 

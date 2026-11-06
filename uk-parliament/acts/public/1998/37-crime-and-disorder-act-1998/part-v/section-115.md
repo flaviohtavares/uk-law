@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-06-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 115. Disclosure of information.[^c9526611][^c-2e26bfd507ef0abe7707defe98d9cfd6][^c-cf227ad7af8ec7b2ee409a59eaa32a60][^c-aafdaf997bcb8d2b767cdb9a246fefe3][^c-2493eec56d7314a081cfd1c6e118e624][^c-0176c17ac6bb55c9b1dbdff07d5595f0][^c-704cbcc074ebfcff67b25fd7bb0d6031]
 

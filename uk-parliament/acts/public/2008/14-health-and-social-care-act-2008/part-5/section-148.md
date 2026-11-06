@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 148. Ordinary residence for certain purposes of National Assistance Act 1948 etc.[^c-b825024a9b94d2a34b23d2a4988e21a6][^c-b94e857e283a226ba6b24dc1302fa255]
 

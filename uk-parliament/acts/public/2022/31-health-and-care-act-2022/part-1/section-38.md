@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 38. Transfer schemes in connection with abolished bodies[^c-98005bb224f37aa65fb4f3296e072354][^c-827a20a47c154079292f50682cd116e5][^c-406c0a44f49fd8acb43c5fddbc7b1a7e]
 

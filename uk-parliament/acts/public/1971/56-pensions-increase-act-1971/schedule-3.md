@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-29.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 3 — Further Administrative, Incidental and Consequential Provisions[^c8666371][^c8666381][^c8666391][^c-50d58593ca28efb45c772d7411e29f46]
 

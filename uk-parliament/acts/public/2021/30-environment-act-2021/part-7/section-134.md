@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 134. Effect of deemed surrender and re-grant of qualifying estate[^c-e8d5d00e36d7f3e415e4277b22ba168e][^c-ff5bb2b4acfe63c40827eabc8383e9c7]
 

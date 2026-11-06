@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 57A. Penalties.[^c-929dc95eac7afac443ea4e095b07fde3][^c18937061][^c14105311]
 

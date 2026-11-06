@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (34).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 41. Application for rent repayment order[^c-290f6447d1e44fd19166e0ab3c6e0cc7][^c-3163c2da7b1b37e8135ff2fc4c0b68ee]
 

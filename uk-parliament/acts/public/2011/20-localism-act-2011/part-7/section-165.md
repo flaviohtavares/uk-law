@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 165. Assured shorthold tenancies: rights to acquire[^c-d0b72bc7b26299ecca56658f88cab0a9][^c-430a212bc9959bc1a23d43326637d27e]
 

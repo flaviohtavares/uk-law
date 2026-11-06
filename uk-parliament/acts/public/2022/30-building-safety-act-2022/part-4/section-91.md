@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 91. Residents’ engagement strategy[^c-3a1a13dc83d9cbb820266630da2bb854][^c-44520c38e50438b4bfc90d6ab1ad5cb8]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 61. Initial choice of Panel or single appointed person[^c-dbbdd1e23da2029e30b56e5ff25dba50][^c-b5f631aec3c13f72f61aea3fee314688]
 

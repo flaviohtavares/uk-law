@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2018-01-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 4. Exemption for discrimination under certain provisions concerned with the protection of women at work.[^c-7be528fdb39ae51e678f410530daa377]
 

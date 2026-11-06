@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2022-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Jurisdiction: general.[^c-e857a87336e46b03217c51559e728baf][^c13381741]
 

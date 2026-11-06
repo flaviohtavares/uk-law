@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (403).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 135. Liability for cost of temporary traffic regulation.[^c-35056ad4164ea9928603fc6aa764e93a][^c-e1a9fa6bc29b9687cc88d0e6e3cf3f6d]
 

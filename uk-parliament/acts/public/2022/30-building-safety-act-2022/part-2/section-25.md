@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 25. Review by regulator of certain decisions made by it[^c-9fd20045cc84d56d72641b76fe546934][^c-3b207b74954c4bb463e8668030ecf686]
 

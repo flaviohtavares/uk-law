@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 67. Meaning of “local authority”, “reside” and “parent”.[^c-93db78df548a28a1742f412c112c0a15]
 

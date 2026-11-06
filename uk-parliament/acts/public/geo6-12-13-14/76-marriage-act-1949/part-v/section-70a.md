@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 70A. Registration of chapels for marriages of same sex couples otherwise than according to rites of Church of England[^c-34cb949a37e86c5572eb20f80822fb85]
 

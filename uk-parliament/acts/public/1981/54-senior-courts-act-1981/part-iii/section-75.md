@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/54
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 75. Allocation of cases according to composition of court, etc.[^c-019fc795d6a8080616595f0aeba89c6d][^c-7dc46622a8b39c2278b68cf7ad262b2a]
 

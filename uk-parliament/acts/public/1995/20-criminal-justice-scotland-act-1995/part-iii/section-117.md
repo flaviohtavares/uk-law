@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland, Northern Ireland.
 
 ## 117. Minor and consequential amendments and repeals.[^c1524021]
 

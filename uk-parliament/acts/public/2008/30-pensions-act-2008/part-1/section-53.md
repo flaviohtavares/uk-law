@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (79).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 53. Review of notices and references to First-tier Tribunal or Upper Tribunal[^c21656951]
 

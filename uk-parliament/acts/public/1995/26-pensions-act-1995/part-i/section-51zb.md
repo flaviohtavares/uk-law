@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 51ZB. Meaning of “cash balance benefit”[^c-f191ea979d8c2be8dcdfd8160e0820e3][^c-4ca1484245b593dee936ce0c409b4de0]
 

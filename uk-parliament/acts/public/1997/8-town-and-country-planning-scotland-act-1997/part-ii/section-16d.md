@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 16D. Play sufficiency assessment[^c-47e1df61776c2f1a20d08ae8cdc57894][^c-a9a88db2b397a4914f8e8d771f762037]
 

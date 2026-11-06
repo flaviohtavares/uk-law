@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 76A. Offence of failing to attend premises in compliance with a section 53D(8) or section 53E(10) notice[^c-bb48480ed0f9eb3a6537f2909777e41d]
 

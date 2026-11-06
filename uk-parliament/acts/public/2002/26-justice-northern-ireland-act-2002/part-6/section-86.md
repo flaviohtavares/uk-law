@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2024-11-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 86. Repeals and revocations[^c2627691][^c-dc7abde826fe9782f7d21d1b35585268][^c-05d1d7ac59fa4e5522da33e5e27ff184]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 69. Specific powers of court and receiver etc.[^c-ee13779d3ec07ddd3daf908bc561e5ec][^c-a3889e161e736d1b5e0be99edde6119b][^c-bc59da76f74a5e9debfbda22fd326c18][^c-a3889e161e736d1b5e0be99edde6119b][^c-bc59da76f74a5e9debfbda22fd326c18][^c-1e44377a67605ac380d746f6ac9b48d8][^c-4e64c7cf686593bd4f37a9c2a0ebe44c]
 

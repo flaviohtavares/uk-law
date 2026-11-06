@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (13).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/3
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 125. Firearms Act 1968: meaning of “firearm” etc[^c22719641][^c-c2a3c09cebf2bced550b79c4dd6a6b2e]
 

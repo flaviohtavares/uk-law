@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 2 — Repeals and revocations[^c1952895][^c-c785fbcee856ae3070ff7deb296c3309][^c-f90d3f64ecedf4322195477f4bdc567c][^c-8f7d4785881c1c992216bcf9a0a734d8][^c-906fb2e1c305363838f797f5ff46054b][^c-c536378222150804b54488cb4de94cad][^c-d545fe6fbeb733e4d2218b34bc5ba883][^c-6453f8adba4c5bfce4393fce21950262][^c-48221738128a56b4f048fb23098162f4]
 

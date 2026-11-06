@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/uksi/2010/948
 >
-> Extent: England, Wales.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 9. Meaning of “chargeable development”[^M_E_a4e8bcc3-cedc-4957-cf2e-ac9ac9c9f87d][^c-2e178fd9695681f1ead6ada2e397dcaf]
 

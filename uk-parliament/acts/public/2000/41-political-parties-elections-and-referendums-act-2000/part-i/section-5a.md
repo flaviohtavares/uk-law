@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (131).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5A. Further provision about reports on Welsh elections[^c-b8039ed1c7d48d914d85176cf248d7d3]
 

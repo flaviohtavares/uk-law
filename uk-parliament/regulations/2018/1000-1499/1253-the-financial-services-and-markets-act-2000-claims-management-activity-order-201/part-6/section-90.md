@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 90. Courts and Legal Services Act 1990[^c-83871b0bf38c14420b07b7f3f14ed800][^c-d5a8258e6fbb5b706b6ce4aed89daf22]
 

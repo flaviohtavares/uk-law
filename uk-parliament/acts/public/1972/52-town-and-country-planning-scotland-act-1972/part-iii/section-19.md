@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 19. Meaning of “development” and “new development”.[^c14914511][^c14914521][^c14914501]
 

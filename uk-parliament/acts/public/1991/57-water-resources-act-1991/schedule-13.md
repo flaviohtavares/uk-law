@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 13 — TRANSITIONAL WATER POLLUTION PROVISIONS[^c-542a33eee622e6481b75de7b3263233e]
 

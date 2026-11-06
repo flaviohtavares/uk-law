@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 6. Debt respite scheme: advice to the Secretary of State[^c-1b19d019e475a53619d72cb79fd07600]
 

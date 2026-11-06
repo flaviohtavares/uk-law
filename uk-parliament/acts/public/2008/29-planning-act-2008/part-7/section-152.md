@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 152. Compensation in case where no right to claim in nuisance[^c-1a2cbdcddabd8ab108a89833a360710e][^c-c90c3e49688c3d757f9acca539ed942f][^c-de318b2fe1ab7bb8bfe45728cb935640][^c-037a273cf9df5cf14e1756531f32f6fe][^c-c49aa74026525e64e9c9f13e3821d6b3][^c-9d8a9cd1ac7f7f3ad503392da7ea8e2d][^c-5d0da986a19c8828e66aac7159be9be9][^c-ff390126776adf82cc736584aef2ffda][^c-8b7505a4e0c397b94b2d62c0629405c2][^c-0074eb38ee15929a36f7a2b68873c7c3][^c-ede7937c33d0d44aa3afed4f9b180068][^c-d1a3c20174a1eb5b12bc01f07128868e][^c-4387e811abc3f18f8afe4184e2cab894][^c-38b4e62022d1f579b62d43aec76e1b25][^c-c132cf3e3c3e49e33d3c04cc4bef8d65][^c-6343843a89a0856280c0beb7e2ba536a][^c-ca4294036acd0d135d08194ca1bad4ed][^c-dd2aeab297c99f66910cb710c3d8c8f9][^c-fb54580b4db7177dbc33b2a6165a8c69][^c-ca7ef7e3bdaa9049d24839d240226ea5][^c-2a0c057b1cd6454cf961b14eed57a297][^c-8f559d4a433c64e81677f1b267d9172d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 60. Duties and authorities of constables.[^c-0bfd945d0d723731343c4ecfa638ab72][^c10346351][^c-5463488b6c5dc7c7c12818a956f5912b][^c-7e6cc2842529a8a2d5821d696817503e][^c-a6c312bc627276cf4fb24dce119a6bdb][^c-5b1617e5d4c2a9c9b3de33e49b0f1bd1][^c-ddcdfe8206c16b76ac8c10c1a0182658][^c-3efaddd3ef98d7e46a0b13fd10819bb7][^c-0619aa5bb47672590725bc4521421e82][^c-7074378a1414ae4179faf9c19f8e2f98][^c-8dca66e12061bfdc4004263ecfba07c1][^c-e13659cbecc2c9284d3f051f4b727b64][^c-0ad63b929f6ae9bf52b7c1d2c173c578][^c-3e18b8f823ce7a14a5a159423ce3c06e][^c-7daabad13f2e8e38caae4797c22d8cbf][^c-c1e43ad31f1ceab0879f001e54f365b6]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/618
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 37. UK marking of in vitro diagnostic devices that come within the scope of this Part and other legislation[^M_E_4611b97f-5850-4285-dee8-17962b96875b][^c-c6949e1bbb3605282dacf3ba63807ec9]
 

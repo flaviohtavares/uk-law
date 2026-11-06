@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## Schedule 20 — Drug testing in police detention: trigger offences[^c-1cae7a2a9ad730504a750f957f323ad1]
 

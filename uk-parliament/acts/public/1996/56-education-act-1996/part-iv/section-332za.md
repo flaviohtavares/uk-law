@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 332ZA (affected by repeal, see note). Right of a child to appeal to the (affected by repeal, see note) ... Tribunal (affected by repeal, see note)[^c-a59a0d0f77f148cd9cf15817c0afa5ec][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-bf369de5476901d213db4115fddfe059][^c-44c659fdf3ae27bfa95ab072d6157d41]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 237. Childcare: use of non-domestic premises[^c-040a91abb8207448dbdbeb835d1d4cca][^c-96a492e587c0bf0f01a3189c2eab2db0]
 

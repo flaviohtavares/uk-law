@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/43
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 34. Reference of rents under short assured tenancies to the First-tier Tribunal[^c-c9577c1c27f88b788fae3f8c9a492932][^c-872631c0338e69b2642721418eb2c567]
 

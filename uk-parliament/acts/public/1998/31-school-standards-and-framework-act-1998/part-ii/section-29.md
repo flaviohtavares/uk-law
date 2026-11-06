@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 29. Proposals for discontinuance of community, foundation, voluntary or maintained nursery school in Wales.[^c-846020a7ac342f937429c49f53906ad4][^c-d5d4222fda83a5b485eea1cb1081a339]
 

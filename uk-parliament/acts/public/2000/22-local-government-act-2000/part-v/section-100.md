@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 100 (Extent: W) (affected by repeal, see note). Power to make provision about allowances.[^c1428010][^c-79732cc99fcda9c67d01f5a0599f1ad1]
 

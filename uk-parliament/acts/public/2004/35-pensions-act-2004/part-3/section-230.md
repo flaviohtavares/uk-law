@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 230. Matters on which advice of actuary must be obtained[^M_I_4a7f5a46-1375-4fcd-e08d-f3764cdb4273][^c-62d4e91f093fb0c0354e6929d10330f8][^c-e4c6135becae08bc234e235fd2888aae][^c-cea7e7bf9e8e9a0064a2dc6ad604f567][^c-5be3670b1f7fb172ef921f5f203e670c][^c-aa656be260842006494945a32be32a37][^c-882e98ae09e7abd62c886a686ad0a66b][^c-24276a817ce25c0e3fbd4b95582adaf9][^c-85c25da5b73c65adc75d7f9a4b604bcb][^c-e4c6135becae08bc234e235fd2888aae][^c-cea7e7bf9e8e9a0064a2dc6ad604f567][^c-5be3670b1f7fb172ef921f5f203e670c][^c-aa656be260842006494945a32be32a37][^c-882e98ae09e7abd62c886a686ad0a66b][^c-85c25da5b73c65adc75d7f9a4b604bcb]
 

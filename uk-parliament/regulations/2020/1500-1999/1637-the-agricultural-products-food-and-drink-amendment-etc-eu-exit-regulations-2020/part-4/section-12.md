@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 12. The Quality Schemes (Agricultural Products and Foodstuffs) Regulations 2018[^c-3d9049fdfcd173b3718b9fa4b843fd38]
 

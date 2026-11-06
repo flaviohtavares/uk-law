@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2013-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 3[^c10851721]
 

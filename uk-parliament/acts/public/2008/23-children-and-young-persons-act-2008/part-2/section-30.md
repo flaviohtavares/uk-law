@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/23
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 30. Removal of restriction on hearing of application for discharge of emergency protection order[^c-9db72b8007200b805dd82667885174ec][^c-66377346315e186c0d9c7989af37fe31]
 

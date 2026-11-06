@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 59. Application for authorisation[^c24459381][^c-52129a59b9a4710c2c8ebcd2a02fd39a]
 

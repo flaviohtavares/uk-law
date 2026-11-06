@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 18. Provision where designation of operator to cease[^c-bbbfabf35cf92741539d45b1ec347c62][^c-03e63b88dcd25d75a1df75c2df449890]
 

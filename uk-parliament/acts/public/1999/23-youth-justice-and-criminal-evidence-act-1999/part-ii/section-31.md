@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31. Status of evidence given under Chapter I.[^c9545881][^c-477d2159f13ec8f25f399839c7a14442]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 124A. Petition for winding up on grounds of public interest.[^c-c3325a03887628863a445b242699b96b][^c-35b4322eb9d3d58c0309dfe05ebc7ebf][^c15572611]
 

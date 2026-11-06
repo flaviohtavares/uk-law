@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 247. Effect of probation and absolute discharge.[^c-e0d09b53360887390012fbf3013c2a04][^c-1fcf6d1a23dcaf39c489d7d22d097d1b][^c-6081656aaeb060ce5a1f3ac10847a367]
 

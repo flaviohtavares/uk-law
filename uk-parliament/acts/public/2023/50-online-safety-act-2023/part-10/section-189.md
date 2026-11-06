@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 189. Repeals in connection with offences under sections 179 and 181[^c-eb11711206f40291ae5e95427612457d][^c-f8f53342d4b6d17638885f755ca61c31]
 

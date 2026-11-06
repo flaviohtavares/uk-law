@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England.
 
 ## 19. Publication of banns and solemnization of marriage where church injured by war damage.
 

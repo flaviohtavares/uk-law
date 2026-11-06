@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-03-27.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 13A. Determining the number of UK ROCs to be produced by a designated electricity supplier in order to discharge its renewables obligation: obligation periods beginning on or after 1st April 2019[^c-b6f7e86c2ff53d9ba0f5ed9ebf46d3d2]
 

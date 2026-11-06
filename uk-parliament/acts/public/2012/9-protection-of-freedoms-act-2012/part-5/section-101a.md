@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 101A. Power of Department of Justice to disregard certain convictions or cautions[^c-9f166f7f0165de48084637eef7bb0858][^c-f0f3aeabcf2ab89d2ec38e61d59d9fe3]
 

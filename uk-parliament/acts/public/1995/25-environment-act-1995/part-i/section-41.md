@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 41. Power to make schemes imposing charges.[^c14537131][^c14537141][^c-0a0300ad9b7a253668ef7a161f8f9551][^c-312be5357ecf2fa3d498b5d6c633ca1d][^c-c98bde970b66da9650951a4b496ecca0]
 

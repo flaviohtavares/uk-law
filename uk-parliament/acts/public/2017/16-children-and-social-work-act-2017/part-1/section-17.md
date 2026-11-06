@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Local child safeguarding practice reviews[^c-f173469e7b61c5ccc0f204619bf31ac0][^c-90225f5e8c97a95c5a78ba80da6e979c]
 

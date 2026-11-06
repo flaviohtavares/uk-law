@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (154).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 57 (Extent: E+W) (affected by repeal, see note). Trafficking into the (Extent: E+W) (affected by repeal, see note) UK (Extent: E+W) (affected by repeal, see note) for sexual exploitation (Extent: E+W) (affected by repeal, see note)[^M_F_ea75384a-b9ec-4f3e-cdc7-34ac28ca92d8][^c-74d78b9759d1445d6e97128f9e66d4cd][^c-74d78b9759d1445d6e97128f9e66d4cd][^c-74d78b9759d1445d6e97128f9e66d4cd][^c-74d78b9759d1445d6e97128f9e66d4cd]
 

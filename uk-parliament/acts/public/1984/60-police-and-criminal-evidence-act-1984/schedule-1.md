@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 1 — Special Procedure[^c11332931][^c11332941][^c17045461][^c19871221][^c-10f8e23102fc10497f07db1a41f699ea][^c-db2c1ad55d335cb95b856579b3df9cab][^c-ee9e0e16d91b757c033ecd940bd27de0][^c-2452a8395b63a95d7fd2ab36a5972dee][^c-eded208bda77205304275e7323a03893][^c-ec2171e8518e25996abd7bd1696afad2][^c-746849f3ba304c59b37de3dfc2a1ab99]
 

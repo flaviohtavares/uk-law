@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 35. Seizure of animals in connection with disqualification[^c-5d2feff4442da180caf583891a37270c][^c-48f344514da414070cfb715f01d38699]
 

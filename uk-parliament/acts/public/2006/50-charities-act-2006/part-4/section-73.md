@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-02-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 73. Report on operation of this Act[^c-3bd69f0f3f87e353ed52f408c3ac0066][^c-7cb7622475e70426ebc6ab0798247e98]
 

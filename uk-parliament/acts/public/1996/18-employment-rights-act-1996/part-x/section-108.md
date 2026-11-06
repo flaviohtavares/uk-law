@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 108. Qualifying period of employment.[^c16330381][^c20891341][^c-d23c908f9800e15a5a44c23c43ae6503][^c-8668f4727b8da87e7a6d89a8eb377abb][^c-3b82076838c9ef5d2c62d341f1871c5b][^c-8668f4727b8da87e7a6d89a8eb377abb]
 

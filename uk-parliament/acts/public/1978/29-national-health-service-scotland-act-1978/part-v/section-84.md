@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2026-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 84. Power of trustees to make payments to Health Boards.[^c14169741][^c-eb1b52732ff52ed3f25af01b8299ddd8][^c14169731]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (71).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36A (Extent: W). Rules for local elections in Wales (Extent: W)[^c-776567b1f345b8669266105c0c7aa8fd][^c14479931]
 

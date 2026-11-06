@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 85. Application for licence[^c-57c3336a35aa99f1f366fe8ee70735bc][^c-b0a5c5770e4eceed8f64ee311bf12114]
 

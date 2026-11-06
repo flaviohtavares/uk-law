@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 138. Appointment of liquidator in Scotland.[^c15572911][^c-ea165c558765d5554df492c8d1b8b8be][^c-3eeb8214fe438f1877f4ab4895630b83]
 

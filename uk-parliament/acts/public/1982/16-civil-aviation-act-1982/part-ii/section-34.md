@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (29).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1982/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 34. Financial assistance for certain aerodromes.
 

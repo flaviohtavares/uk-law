@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Relevant and exempted disposals.[^M_C_f9f7041a-760b-4dfb-b746-e04ccf09abe8][^c13147791][^c-25be9cbfd06a6badb4f3cdadc24f8401]
 

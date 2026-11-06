@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-22.
 >
-> Extent: England, Wales.
+> Extent: Scotland.
 
 ## 54. Power of Secretary of State to protect others[^c-6ad32bbea14fd934845077b2897204f5][^c-bad486f9dac5d740ae7a5f946ea5338c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 15. Design of electoral identity documents, anonymous elector’s documents, etc.[^c-5cbef434d34cfda32902f6be92d4b317]
 

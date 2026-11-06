@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 94. Consequential amendments[^c-aa22727ac056bfc981f48dedaecf456d]
 

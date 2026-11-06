@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 121. Duration of obligation under conservation covenant[^c-39e813402b1aac6f0493583afb80303c][^c-3f87ff2cbc141cbd5fbf092513a5c96e]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5. Information: children in kinship care and their carers[^c-c540ad3d860ecf7e7c02f0a2a5bd50d2]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (139).** Text as at 2026-07-08. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 70. Carer’s allowance.[^M_E_59c3a559-1347-42bf-d4a3-2cce6a45def7][^M_F_3959ee9f-8e12-4e4a-befa-4d2bf3835da7]
 

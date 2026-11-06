@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2017-04-11.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 118. How value of such lands to be estimated.[^c5627521][^c5627531][^c5627511]
 

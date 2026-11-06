@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 103. Foreign offenders’ conditions[^c-12fcb19953ce654c0766b7c167dc8fa2]
 

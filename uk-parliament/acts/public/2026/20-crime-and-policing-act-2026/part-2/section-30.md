@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 30. Power to seize bladed articles etc[^c-8a63b5d8b7f79411579c3621db0f1063]
 

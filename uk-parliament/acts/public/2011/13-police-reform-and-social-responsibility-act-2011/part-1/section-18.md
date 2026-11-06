@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 18. Delegation of functions by police and crime commissioners[^c-949adb1aea7d72846ef93ec7d05732ce][^c-603067dc8fc1d1912602666e02ab36a3][^c-9e1814cf25a67d250300a67255733c7e]
 

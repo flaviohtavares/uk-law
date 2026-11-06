@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4. Duty to establish companies to run London bus and underground services.[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 

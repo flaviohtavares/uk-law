@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 17. Amendment of the Accreditation Regulations 2009[^c-015e62d0f71f819fd63e25f5441190cf]
 

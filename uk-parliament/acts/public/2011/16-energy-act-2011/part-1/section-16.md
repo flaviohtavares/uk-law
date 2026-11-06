@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 16. Sanctions for non-compliance with obligations under sections 12 to 15[^c-4ba87b41d54301b5c618b397763a0130]
 

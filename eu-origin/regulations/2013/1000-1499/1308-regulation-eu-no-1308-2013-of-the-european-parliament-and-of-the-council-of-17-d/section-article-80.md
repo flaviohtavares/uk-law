@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-02-16. See https://www.legislation.gov.uk/changes/affected/eur/2013/1308
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland; Scotland (the versions of this text differ in extent).
 
 ## Article 80. Oenological practices and methods of analyses[^M_E_gc3h4gpm-mn43-w4n6-l73s-673208902793a][^c-856b6965dbb8eb3dc14f1c3a267837e8]
 

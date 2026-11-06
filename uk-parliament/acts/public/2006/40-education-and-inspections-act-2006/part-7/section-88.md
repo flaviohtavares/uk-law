@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 88. Responsibility of governing body for discipline[^c-a26d567f93a975c58270fd1a57d1c086][^c-84e486626f53b158c16cf796eabad33d][^c-7f9a8acc5c2416850e4db8a8f4d1884d]
 

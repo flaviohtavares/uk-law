@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 496. Power to prevent unreasonable exercise of functions.[^c15251561][^c15251571][^c15251581][^c15251591][^c15251601][^c-efb8ef01c1f9c4305e81004a9cd455b3][^c-56f00ec6623f3f267774f7282c90b477][^c-d31bdfb672af482624d0be001950017b][^c-2cdfb82d92f079ac1cee01080e184c11][^c-7b99309d3ca7d85fdce947597bb3fde3][^c-45238af5a64774a732154ddb52820f63][^c-eed34d70258b5f8ef3ea41d87f637d30][^c-e5d981668f3524c7015f7e5efe28a585][^c-4eea208524db212c37fe11c7c395a0ec][^c-510841e70c059723ec74bb16b838371d][^c-b69a8ebeb06612d03aa4c0b8b4796386][^c-0b6ba1e8822b531b575d47e961fde7f6][^c-68225d2e60f4b29f6b15defd063bc06a][^c-37dc2f7834925f696249ec14a0113e30][^c-85bf02c26a0ad511a652639c421c13e3][^c-e5d981668f3524c7015f7e5efe28a585]
 

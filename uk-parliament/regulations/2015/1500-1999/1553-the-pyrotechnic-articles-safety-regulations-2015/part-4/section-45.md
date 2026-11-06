@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 45. Presumption of conformity of approved bodies[^M_E_79ffb4ba-39e6-4ab9-9639-58434ad55c31][^c-dc440bbe671175c03761b7492e5b2754]
 

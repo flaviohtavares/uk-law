@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19. Grounds for making an education administration order[^c-1e8cc0c4b7e58674852216cf52a6310d]
 

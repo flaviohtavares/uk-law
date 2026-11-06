@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 46. Monitoring[^M_E_798b7441-9bdc-4097-a465-447a053deb70][^c-dc440bbe671175c03761b7492e5b2754]
 

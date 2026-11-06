@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Power to pay grant: local health boards[^c-b219dee41a556416e328553e4d468b3a][^c-705a356b4d35de0695a9f9678d45ad43]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 23. Screening witness from accused.[^c9545761][^c-2188974d75e722db3a4b9c6721c4a5d2]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 86. Social Security (Additional Pension) (Contributions Paid in Error) Regulations (Northern Ireland) 1996[^c-9619e69087181da78134528bfc4bea71]
 

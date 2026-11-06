@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-08-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Amendment of the Medical Food (England) Regulations 2000[^c-c74465ac3fa60d868e90838a24500340]
 

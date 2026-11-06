@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 51. Substitution of references to section 78 right of appeal and modification of provisions on appeal to the Secretary of State without an environmental statement
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 150B. Meaning of “consumer” in Chapter I.[^c13220811][^c-5a0eb0fa1b4bc45ddc42377daa2219c7][^c13220801]
 

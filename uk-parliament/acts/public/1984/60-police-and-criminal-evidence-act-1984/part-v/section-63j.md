@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63J. Retention of material: persons convicted of an offence outside England and Wales: other cases[^c-bba486925c36b8689a2029867debe843][^c-798fab579f2d1f1e04d40dad273ac8e8][^c-ef0617aff467cca093fabe6b1d60ef78]
 

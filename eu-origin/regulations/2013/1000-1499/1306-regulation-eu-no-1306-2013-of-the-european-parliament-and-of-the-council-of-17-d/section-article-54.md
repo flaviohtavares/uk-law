@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (32).** Text as at 2025-06-19. See https://www.legislation.gov.uk/changes/affected/eur/2013/1306
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Scotland, Northern Ireland; Wales (the versions of this text differ in extent).
 
 ## Article 54. Common Provisions[^M_E_j6fmjhjl-ocs7-eh5m-wov3-663bbf32b2cbf]
 

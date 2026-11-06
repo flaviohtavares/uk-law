@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/anaw/2016/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 55. Proceedings for offences[^c-23f43567f5c4447e8a901a0d7d988eaf][^c-4300507d519f187ccd9dae19d1de7fb5][^c-5113d2bd2ea0420f002fc889365947d8][^c-520dcc606f0ee4e43bfa315a6aab66d5][^c-dd7f525ca3f43b97e25ca404ab24067f][^c-f77ce3d838578780a79556b77e2d2a22][^c-c0196bdefba2acf739bcc461cced6c52][^c-5113d2bd2ea0420f002fc889365947d8][^c-520dcc606f0ee4e43bfa315a6aab66d5][^c-dd7f525ca3f43b97e25ca404ab24067f][^c-c0196bdefba2acf739bcc461cced6c52]
 

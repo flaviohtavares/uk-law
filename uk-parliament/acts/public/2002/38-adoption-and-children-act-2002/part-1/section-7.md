@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7. Inactive or defunct adoption societies etc.[^c-acce981d15bbade82f83e0ce8b54edff][^c-c237752345c9768fff80d6cb80263473]
 

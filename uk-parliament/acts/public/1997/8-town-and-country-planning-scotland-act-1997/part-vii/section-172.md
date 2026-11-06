@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 172. Preservation of trees in conservation areas.[^c-b074acc03be5b9e514d3a2a20584571a][^c-fb906b3a4c2f46c92df6baf281b59c8f]
 

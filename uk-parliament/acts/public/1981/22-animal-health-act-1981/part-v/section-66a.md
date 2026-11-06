@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 66A. Refusal and obstruction of inspector[^c-cbaa721bba456198f8c52cb0526d793e][^c-70f5507e89122e9f812ddc59015b61d3][^c-a83dd5193752693b57f49b2d8d47c35e][^c-88ff810c2f6ad10042730105d134f080][^c-0a97d3c8d22593f2c6b7c3ad47e9c987][^c10346591]
 

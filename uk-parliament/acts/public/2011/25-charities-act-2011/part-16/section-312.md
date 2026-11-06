@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 312. “Transferor” and “transferee” etc. in s.310 and s.311[^c-a27aea72889af3eea1e2d5fb396b2d02]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21. General duties of lead enforcement authority[^c-a7df9f1e39784e95f3d8ad28e0c0653d]
 

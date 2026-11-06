@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 132. Offences by partnerships[^c-bfa5c93967ad2d32da93686646daf9a9][^c-dfb9526f0bce6507d5d36562a13a86e2]
 

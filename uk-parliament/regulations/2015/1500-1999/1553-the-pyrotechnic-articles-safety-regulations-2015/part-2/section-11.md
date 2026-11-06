@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 11. Labelling of pyrotechnic articles other than pyrotechnic articles for vehicles[^M_E_4aadfa1c-31b0-42d7-9a45-ad34163ea899]
 

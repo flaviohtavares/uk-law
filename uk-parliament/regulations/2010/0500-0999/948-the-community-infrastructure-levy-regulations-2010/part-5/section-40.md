@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/uksi/2010/948
 >
-> Extent: England, Wales.
+> Extent: Wales; England (the versions of this text differ in extent).
 
 ## 40. Calculation of chargeable amount[^M_E_d7fb9b0e-9539-4416-b600-3ea08898a242][^V_W_df9fe39b-dcf6-3189-4642-7b049db97ca8]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (25).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 34ZB. Fixed penalty notices: offences under section 34(6) relating to section 34(2A): Wales[^c-df4040af33cb6e75c45c41bf326eb43f]
 

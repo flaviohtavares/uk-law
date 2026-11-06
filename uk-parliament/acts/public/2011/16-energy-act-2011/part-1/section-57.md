@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 57. Sanctions for the purposes of Scottish domestic energy efficiency regulations[^c-c193cdce7dbca473616857de7b157e4f]
 

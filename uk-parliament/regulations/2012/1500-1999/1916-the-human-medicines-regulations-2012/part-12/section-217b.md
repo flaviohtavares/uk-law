@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-03-31. See https://www.legislation.gov.uk/changes/affected/uksi/2012/1916
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 217B. Original pack dispensing[^c-7cb4c2f50a2154d71230f0d1129fa023]
 

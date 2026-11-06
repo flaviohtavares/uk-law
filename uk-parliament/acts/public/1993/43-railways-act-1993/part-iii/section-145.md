@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 145. General restrictions on disclosure of information.[^c18964621][^c14115591][^c18765711][^c-5060962f2ce12e0503f2c8b895a10585][^c-cd5b5f62c6829affb182207ba5578387]
 

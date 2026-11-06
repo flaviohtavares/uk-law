@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/50
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 1A. Application of Chapters 1, 2 and 3 of this Part to dwelling in Wales[^c-fe64ce08a0a1b014c0324621fd92efd0]
 

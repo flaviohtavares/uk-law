@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 73A. Operation of scheme during winding up period[^M_C_e79467e0-bee3-4d4f-89c0-c1184806d586][^c-a2718a26c4c988971b6407c72d9ae1f0][^c-a95e7cfe27ba2336539a268b35c67dd8][^c-b155580a9fb75f6dcaf076cd7faa7e9e]
 

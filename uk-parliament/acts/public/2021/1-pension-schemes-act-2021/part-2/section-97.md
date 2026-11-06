@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 97. Publication of information[^c24493561][^c-6f73b77540af48d96ab6008767eb161d]
 

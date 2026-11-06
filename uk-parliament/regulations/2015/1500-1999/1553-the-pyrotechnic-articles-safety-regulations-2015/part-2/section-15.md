@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 15. Requirements which must be satisfied before an importer places a pyrotechnic article on the market[^M_E_e7eb1289-05fb-4b12-ceb3-de6978ae5c4c]
 

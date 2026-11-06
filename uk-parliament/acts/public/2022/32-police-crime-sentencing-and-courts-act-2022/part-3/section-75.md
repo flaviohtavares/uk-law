@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 75. Offences under sections 12 and 14 of the Public Order Act 1986[^c-644c27fe33b1431898d900a14c6e5cec][^c-bdb0c9f1d9698e1fb435b498fa1c2939]
 

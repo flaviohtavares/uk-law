@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6. Delegation etc. of functions with respect to trunk roads.[^c13418331][^c-ae0e58899e4979616405b1fe24d8a5e7][^c-5fe3a633cca564cf6b524b9405f6f19d][^c-b406207700eb5022d0bef9da7ad40c52][^c-4106d63029a480784f56b191b1247632][^c-9c99750cf3e274b7fe772aa7d0a75e2f][^c-ff2bcf4bdd13422782f76b4a6a4295ec][^c-5edaa26a66652e2b2a5a81d648b9ac09][^c-0efa37a4835322ee9f5d81d2a11bd43e][^c-8c57bd1f557f2857953bf3df9a20a8c9][^c-d4406e738f8e02c8febd7515ce73e581][^c-7aa064589c2114d17d696a2151c032f2][^c-46cb7c9367f44adfcd18d0fb767a445c][^c-d27cb757aec97db8613a62adc6b6b191][^c-7ff580b67820c3aea8cbe7ff5dfd8f3d][^c-10cca5c6b5b586e0c9bf57dd80e08d5a]
 

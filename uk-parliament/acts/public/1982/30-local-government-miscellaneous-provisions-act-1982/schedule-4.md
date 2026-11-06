@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1982/30
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 4 — Street Trading[^c5207091][^c-c08cb74abbcba119f2cc56a83540ed35][^c-2355759da0bb9e990288ecb8b67d9972][^c-a69d772586b44c086bf246ed8b9997d5][^c-5d8f7bb7e714708b4287689c18370e80][^c-b2fa1b0d6ecc7b0d38580bdc0c99fe64][^c-fbf22563d7fa0f2a5d447993c7fbee22][^c-7343d807eea9c7dda11f2422ba85560b][^c-b3b257a9595437a71daf6b7ee6fc99c3][^c-8cb8ed7290b818e606118c7cb68e5f8f][^c-5784d906e3c930bc8f6b9401d47729e2]
 

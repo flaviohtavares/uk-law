@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 1996-09-24.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 59. Financing and security of minimum benefits.[^c8799051]
 

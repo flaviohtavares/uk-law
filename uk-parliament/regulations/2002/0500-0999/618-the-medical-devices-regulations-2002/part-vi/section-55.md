@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/618
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 55. Fees payable in connection with the designation etc. of ... conformity assessment bodies[^M_E_9139da87-7453-4a58-8e29-64d5ef3796a7][^c-24bfb31497548afcefff398381b034c3]
 

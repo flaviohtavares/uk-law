@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63M. Retention of section 63D material for purposes of national security[^c-5233504a3e132704cf86bdfb21de097f][^c-7ffa1adec1d7956934e69a046842bbff]
 

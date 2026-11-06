@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2024-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Power to provide for the continuation of the basic payment scheme beyond 2020[^c24386041]
 

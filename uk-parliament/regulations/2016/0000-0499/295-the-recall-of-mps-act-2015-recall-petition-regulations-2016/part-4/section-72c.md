@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 72C. Processing of information provided in connection with absent signing applications[^c-ef45cd1e42d46816a759c17f3c2d618d]
 

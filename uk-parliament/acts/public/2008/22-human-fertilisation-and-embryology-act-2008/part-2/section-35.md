@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2022-01-27. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 35. Woman married to (Extent: E+W) , or civil partner of, (Extent: E+W) a man (Extent: E+W) at time of treatment[^c-de621226dbf5b4f18fe5079540692637][^c-15f028cee1fbe9d43d5e17ef630f6845]
 

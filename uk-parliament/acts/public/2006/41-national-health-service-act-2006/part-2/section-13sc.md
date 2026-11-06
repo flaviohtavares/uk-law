@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13SC. Provision of regulatory information or assistance to the CMA[^c-c8a0a2190d1af91c72765dfef9040bb8][^c-c17c605fbd7569f0644650e6ed66435c]
 

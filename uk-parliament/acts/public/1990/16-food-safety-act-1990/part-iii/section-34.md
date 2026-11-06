@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 34. Time limit for prosecutions.[^c10204581][^c-fd291b154412046671e4310151901eca][^c-2325e7bbb54c4f4a9a19429d769183ab][^c-f4a8e91e86821f289cd353cc9db895de][^c-d8dcd878591e3815b11b256649a0e000][^c-a64dcb56585a3bec301dc2ac3601a1fb][^c-aa807c18dd2beeeab9b6c5a14fd0ac4e][^c-ae454a7587dfff2cef899648d746a688][^c-5eef65c4470b2926f53de6423c42f9d3][^c-60b00aeb146693b4d0a004d38cd8e630][^c-6c1c2d7a3e82cae589798f818a5eb43d][^c-4eebc11214438ae2a0babdc2e94d8814][^c-a044c3d141557c8e04137f71576bf942][^c-3976682a04f235e0d0b970552e89ce61][^c-e9c2b33554c18cab53ce740c2ef449c0][^c-48a010a2abf12ecdb75644b2bc2183ac][^c-e5afb70603f3516c3edb7ae5aa1bd370][^c-ec4af3f4b8efe42f7836ef50e013d14e][^c-0003ede23afe8eb65e0fb19e3026f847][^c-0c00684a5a9576181f037dd8e16cbb92][^c-d18f799a7ac0a576c3de5c870d260999][^c-0502d1f8cd591cebab22b4370ed87be7][^c-5647022111608d545890ee2a5f6b8fca][^c-e0c9055d54fef5cb4a73731a1152e6dd][^c-4d83cd5bc2f58b24b8981cdebf563374][^c-2644d7c2d8a9483b6fcf187054d6af59][^c-28e7d714fde04c92dfde988687353b9a][^c-291a1ef49993e24b6ee74bf680f12b27][^c-4671b201b9dbcf0f78ddbe59c1417eb5][^c-dd7d72822fb5370ff3f21f879cc28761][^c-ecb8a7950a5ac9556a6d0dd9f05a72b1][^c-3cad6d2d126f09c436320944eac44ee1][^c-ef371e7bd2a6f1c953866f3a5db6b4b2][^c-cfb456bde614ea9f7cbbdaaf293faea4][^c-916aaa40bd9835a76566986dec2808a8][^c-e23d2fb530ce6368f8065128ecc76906][^c-32efed24aa802094dd1c29266d5622ce]
 

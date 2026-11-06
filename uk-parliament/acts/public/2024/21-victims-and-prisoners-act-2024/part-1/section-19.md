@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-09-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 19. Domestic abuse related death reviews[^c-1fc11145cc0462702fd0e956fb8a57a2][^c-b4fd9b96e8855489b109448bd59aa48e]
 

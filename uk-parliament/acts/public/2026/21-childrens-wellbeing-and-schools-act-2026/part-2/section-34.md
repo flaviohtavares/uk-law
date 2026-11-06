@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 34. Allergy safety policy for pupils at schools[^c-88d09598253c0afc711c75d0c5d0c395][^c-aca8bc5d36c303b3b79b9f27bb75766c]
 

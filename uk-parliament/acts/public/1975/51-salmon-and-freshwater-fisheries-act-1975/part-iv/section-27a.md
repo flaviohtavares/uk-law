@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-06-28.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 27A. Authorisation of fishing otherwise than by licensable means[^c-4f65a97cf65ec7dc02180ed3f6255dbc]
 

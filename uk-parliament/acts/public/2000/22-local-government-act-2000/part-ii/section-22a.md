@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22A. Overview and scrutiny committees of certain authorities in England: provision of information etc by certain partner authorities[^c-3a8ec10ba1c0086323f7e825eded4c2c]
 

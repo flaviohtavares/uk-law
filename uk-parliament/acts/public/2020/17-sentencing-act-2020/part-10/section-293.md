@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 293. Power to provide for review of suspended sentence order[^c-78310ee74bb4e8d5eb059dd944697d5a][^c-7d2254d57b630d40f4396abb1f8a17a0]
 

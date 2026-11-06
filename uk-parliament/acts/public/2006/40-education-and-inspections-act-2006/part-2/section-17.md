@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Direction requiring discontinuance of community or foundation special school[^c-785f057494b09c1218002d028968335e][^c-9ae6f9cea5fe1bb73de5a4e7ca13bf59][^c-2800dc56627d43968bbf637a79204e08]
 

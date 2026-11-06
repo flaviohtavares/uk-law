@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (192).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 139DA (affected by repeal, see note). Directions: variation and revocation (affected by repeal, see note)[^M_F_893a3fd5-4c1b-4d61-b20e-eff58564fd23][^M_F_a83c7a24-87b0-4ff7-a744-d05145be56f2][^M_F_a83c7a24-87b0-4ff7-a744-d05145be56f2]
 

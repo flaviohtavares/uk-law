@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 133. Service charges in respect of remediation works[^c-c3b260287b0c706d571af839868996a6][^c-20100b3d95b6e2ea74f663e1383fbd55]
 

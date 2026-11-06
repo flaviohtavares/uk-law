@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 76A. Exercise of powers where section 76(1)(a) applies[^c-561b271d0620112d4dcc83d45deb915b]
 

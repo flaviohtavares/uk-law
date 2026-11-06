@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 100. Admission of public and press to local authority committee meetings.[^c15099941][^c15099951][^c-1d2b2f2f0ccd8ca02b3f47a14c92bab1][^c-bbba111a59764118d14829a2562f2662]
 

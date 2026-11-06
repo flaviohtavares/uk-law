@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Guidance on collaboration in exercise of victim support functions[^c-5d73ea8706b6a244b8a663cdd3bde91f]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 79. Imposing conditions on one-person protests[^c-cbba585e6f3c4cb875a4f67dd73b9a9f][^c-fa88993bccfdb5015c1df29ca4fdf1b5]
 

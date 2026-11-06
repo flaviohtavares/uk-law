@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 203. Competitive tenders for electricity projects[^c-427a1ba98fca6e3f1f442eeee534ad43]
 

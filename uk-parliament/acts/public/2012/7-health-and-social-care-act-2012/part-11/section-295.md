@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 295. Arrangements between NHS England and Northern Ireland Ministers[^c-bfc0472a8f805d9f726886aa96f74b7b][^c-31b7aca36aba72e05154950051ab3de0][^c-b0808c77020076e094df09601a49f4e9]
 

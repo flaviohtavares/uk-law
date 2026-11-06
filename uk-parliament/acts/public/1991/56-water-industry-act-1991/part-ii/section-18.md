@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 18. Orders for securing compliance with certain provisions.[^c13217051][^c13217061][^c13217071][^c13217081][^c13217091][^c19900211][^c19900191][^c-14716c5e7fb8dd1eefd8d193ede147b6][^c-dc4d31ccea3b385e7a2ff2fa30940f7d][^c-6afac81d9e6f44e1aaeaee26536b2f49][^c-ae58c961bec755601074c5125b84d7ac][^c-f4597fb1a15c8ad153ddad64a559a260][^c-ee1c1afcc0b662646853c2b03ed1e3ec][^c-639b3f1e253f901c168c918b66f1c42a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 2 — Additional requirements which may be included in community rehabilitation orders[^c-b411102969a197c965de45fc268839d3]
 

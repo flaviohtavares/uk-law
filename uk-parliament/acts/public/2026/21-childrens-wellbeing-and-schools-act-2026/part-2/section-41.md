@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 41. Guidance on children not in school and school attendance orders[^c-244b21bdd1ef7f15bea205409a1a307c]
 

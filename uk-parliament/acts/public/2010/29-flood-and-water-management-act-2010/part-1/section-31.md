@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-12-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/29
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 31. Amendment of other Acts[^c-6f170068f0d1eb7f4d7074038d82aa0e][^c-18146e5dc8db89f9421c35ffe76245fc][^c-3f33eef4a146bf948ab55be62a151d54][^c-c6d1d82641f809ebbb924a5e1f7c051f][^c-d46f9936b0ced11fdc749ab7df5ed177][^c-99cfeeb5d88ce055687d76edef9a8f7e]
 

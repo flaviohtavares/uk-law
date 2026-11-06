@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-22.
 >
-> Extent: England, Wales.
+> Extent: Scotland.
 
 ## 53. Power of Scottish Ministers to protect others[^c-54b92391e864bece9cfa8f59b5e4efb4][^c-6486567e1e18c392aec1296be704f206]
 

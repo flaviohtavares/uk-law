@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 52A (Extent: W). County and county borough councils: duties of leaders of political groups in relation to standards of conduct (Extent: W)[^c-97dacf61e522444cdee8e88450ff3e88]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-09-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 47. Review of operation of Part 2[^c-920fb6ecc2bb3df54f0c7601a755118b][^c-be31229951bba8ed89806fa5180d89f0]
 

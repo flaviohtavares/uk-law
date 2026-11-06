@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 9 — Repeals[^c-80be4aec275f3bab710f46789df5922b][^c-ff88499268607e5636b973d64a0dfef4][^c-262df7a05b48f56c738a57bfdce92bc8][^c-9b2d79d0d63878f49500a2bbe581705b][^c-80ca9e66ab5a8dbb3382599de33fe20c][^c-f4d735cf746ee1e3a14c5b071621c0e3][^c-4fbeb076282119a8598bc7f5fe5f7bce][^c-4b17f420a1dababd77c54832e1fcfe7b]
 

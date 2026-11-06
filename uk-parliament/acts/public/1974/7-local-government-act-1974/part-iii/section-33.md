@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (50).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/7
 >
-> Extent: England, Wales.
+> Extent: Wales.
 
 ## 33. Consultation between Local Commissioner, the Parliamentary Commissioner and the Health Service Commissioners (affected by repeal, see note) and other Commissioners and Ombudsmen.[^c780305][^c-014f1ed4511158e52dc81abbc74ed272]
 

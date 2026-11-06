@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 72. Application of certain Convention rights in prisoner release cases[^c-7bee16663883bda117f80b9e30b79170]
 

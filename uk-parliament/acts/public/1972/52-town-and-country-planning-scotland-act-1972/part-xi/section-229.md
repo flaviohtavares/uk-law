@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 229. Procedure for assessing compensation where s. 227 applies.[^c14935171][^c14935181][^c14935161]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 57. Provision of advice by Natural England to public authorities[^c-608ec2624105cbbb197363397da013cd][^c-902f4d73e562dfc8f39784dd870dcd5f]
 

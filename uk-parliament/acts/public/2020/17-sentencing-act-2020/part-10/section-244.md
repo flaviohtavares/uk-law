@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 244. Offender subject concurrently to detention and training order and sentence of detention in a young offender institution[^c-712b580de5402ad0556acdef3e924b0d][^c-eca003c404d364f044cc7865c44652a6]
 

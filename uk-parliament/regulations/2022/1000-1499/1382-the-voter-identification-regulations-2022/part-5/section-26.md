@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 26. Reminder of the need for an anonymous elector’s document: transitional provision[^c-5e0470fc974a8b74147273964d0a22a3]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 99. Collection of information about adult social care[^c-950fe08acd61e0526b3eb1017eb3bea5][^c-bf3760308cc4ad460c40ee0ac65e0aca][^c-1f2ce312511e31b0601e050154410553]
 

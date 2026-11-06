@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31. Power of Ministers to pay grant[^c-43408791453964ba6b9afdbe779da563][^c-da5de6906300fea2d6dbe8e1b825771b][^c-ba496796e81a8da42dc5632ece3cfa00][^c-c1bb10672cf1b4b52a7ce64f57700b6e][^c-077561772015ff4cb74f124ef6ac7362][^c-e11bddf36c936937deec5ca00219c6ac][^c-bd4e2db50a1e69d201a18a7f026d8802][^c-d7e15e544960269a78450d93b6f0db0b][^c-6169f0f5350e5785143e28d17af6f604][^c-e59925fb5f68da47a74e139adee1de8f][^M_C_5c885afa-aea4-43b6-aade-cf66542c010b][^c-df94a721129043998b0207c48b19f26e][^c-9cee5b39d9344b92ed1ffeca5c1f982f][^c-5e6926135db62a7f51616d10bb693dd9][^c-84fb86eec34342d307006c357b06b4d2][^c-878c4d151985727cf6d96fd81f753509][^c-3434580d9f4509746c699fb613dd13c4][^c-4c6d2eb7b2f6f690a35a4c74e840e5a3][^c-952ceab4775e3e19d7628ac32ac058df][^c-7349d8a75b38a200d95f0783545dd6a4][^c-d97144292b6d5745787c9fcca12ff163][^c-b7c1a84c3866207c82d1c2642314ced7]
 

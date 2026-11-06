@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27. Power to extend restricted premises orders in Wales[^c-adf2a9a628784eaacab6382dac94ce04][^c-494bd44b4f03118e6233be12e90edd33]
 

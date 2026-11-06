@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 137. Child abduction[^c-1bf5c9930c3bf0f1c6aa384ac4731100]
 

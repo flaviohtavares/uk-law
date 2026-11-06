@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 92. Trustees' duties once implementation strategy approved[^c24481171][^c-12a43e3ef9d97704b1c4313ea7831b52]
 

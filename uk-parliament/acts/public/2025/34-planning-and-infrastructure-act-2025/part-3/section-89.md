@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 89. Compulsory purchase powers: Natural England[^c-11c40dca40a50cd6938584894328b4ae][^c-7153fe4fc74d57dcd02e05625577f9bf]
 

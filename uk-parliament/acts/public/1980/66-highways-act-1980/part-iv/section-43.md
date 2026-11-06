@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 43. Power of parish and community councils to maintain footpaths , bridleways and restricted byways.[^c18588621][^M_F_56b0cfa5-083b-4e29-dcb6-2ac3cc37ec82]
 

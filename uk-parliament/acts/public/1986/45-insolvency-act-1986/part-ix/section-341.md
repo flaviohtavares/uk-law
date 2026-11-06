@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 341. “Relevant time” under ss. 339, 340.[^c15580491][^M_C_aa742d9a-a1ce-4beb-eab6-77c7b5ddae42]
 

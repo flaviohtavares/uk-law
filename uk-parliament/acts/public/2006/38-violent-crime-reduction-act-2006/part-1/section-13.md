@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2021-07-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Certificates of completion of approved courses[^c-a2486e9ce1de0e676bcae2a074792166][^c-4066a19af35a10afe4261ba6c609a9db][^c-f310194e191614691c99aaed0e796fd7][^c-48d05fab488cd17690960c4e0a797e4e]
 

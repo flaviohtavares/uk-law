@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 72. Age of sale for tobacco products etc[^c-d7e0d91fccca5fc2a609521619623213][^c-d9bc07026d56afad81d4264b0eac1833]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 2. Shifts: rights to reasonable notice[^c-049e59906a84d9d4d020688e880b6fe7][^c-aa314a3a5552447496e4bf33c6d34bcf]
 

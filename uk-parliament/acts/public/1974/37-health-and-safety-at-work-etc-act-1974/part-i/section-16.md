@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 16. Approval of codes of practice by the Executive.[^c18893731][^c7807241][^c7807251][^c7807262][^c20459331][^c-0fe72d9a6077d9cfd7b83aac041509d3][^c-2efaa75a9f67da686fec016a584e2dea][^c-ec168a840a406d01236d93e7f84e66aa][^c-7271194b82074fcbd37965884f3cf752][^c19946601]
 

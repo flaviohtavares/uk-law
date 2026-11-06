@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 73B. Keeping of register by the Welsh Ministers[^c-75d1273fb618fd691c51ab3f0bd8ea64]
 

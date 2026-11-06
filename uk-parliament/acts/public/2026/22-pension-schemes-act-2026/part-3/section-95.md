@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 95. Release of capital buffer treated as reducing employer debt[^c-5120b3f0245d303e27dbb5ce075d903c]
 

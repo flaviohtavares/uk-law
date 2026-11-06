@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-12-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 38. Definitions relating to charities.[^c-94138f60b9a07499bcad60ea7d0a915e]
 

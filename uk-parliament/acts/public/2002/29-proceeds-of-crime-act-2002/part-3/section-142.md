@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 142. Criminal lifestyle[^c-9fd557882de06e0f6a336ca80c9133a9][^c-d59f6c2a9c42161ca1815c0c61d9e1f6][^c-d59f6c2a9c42161ca1815c0c61d9e1f6]
 

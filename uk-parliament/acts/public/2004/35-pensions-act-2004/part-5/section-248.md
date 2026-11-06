@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 248. Requirement for knowledge and understanding: corporate trustees[^c-0c658e65c7862ce9d34dc7a645835fbf][^c-2a76333dc246c380af48d5e359aa0cd0]
 

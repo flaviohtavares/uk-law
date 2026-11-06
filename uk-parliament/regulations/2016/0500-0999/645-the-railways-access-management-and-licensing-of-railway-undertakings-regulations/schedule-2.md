@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-03-04.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 2 — Services to be supplied to railway undertakings
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 73. Regulations about the nature restoration levy[^c-3a8871a6f19e708eecca8a034c581cca][^c-252f557bd4e7fcf4c898ff7d3728228e]
 

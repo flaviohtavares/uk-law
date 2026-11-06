@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 198. Court order for examination of persons in Scotland.[^c20433091][^c-fd61562b8c1cacd3aeda09a64a924dca][^c-3613b28086129e9394fadba529c40e48][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

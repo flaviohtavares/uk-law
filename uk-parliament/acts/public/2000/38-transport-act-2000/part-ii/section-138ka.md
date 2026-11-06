@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 138KA. Variation where scheme includes provision under section 138E[^c-2911af3c505a5b43b65aa93fa391cc82][^c-652ea49e5927586cb07bdb4300947115]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (154).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## SCHEDULE 4 — Procedure for ending notification requirements for abolished homosexual offences (Extent: N.I.) (affected by repeal, see note)Procedure for ending notification requirements for acts which are no longer offences (Extent: N.I.)[^c-7f5aaafe8155093a8e06ac42236311c2]
 

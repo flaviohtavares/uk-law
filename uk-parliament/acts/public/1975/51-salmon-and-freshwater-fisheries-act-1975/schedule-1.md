@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-06-28.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 1 — Close Seasons and Close Times[^c-ec03e6369f8c7e9ee272207034ff1898]
 

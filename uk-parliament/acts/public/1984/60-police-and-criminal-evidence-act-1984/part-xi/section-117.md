@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 117. Power of constable to use reasonable force.[^c11332271][^c-e02ecd34bd218c4a20b6639988a9e807][^c-6a06db9e77c1280180b9ba40193986a1]
 

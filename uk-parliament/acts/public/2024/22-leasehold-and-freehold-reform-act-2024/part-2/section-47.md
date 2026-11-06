@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 47. Part 2: consequential amendments to other legislation[^c-68bc3bde4d1fd30651a986a2f7d6e73e]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2024-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 12. Changes relating to absent voting at elections in Great Britain.[^c9549561][^c9549571][^c20083941][^c20083991][^c20086011][^c20086031][^c-b19a54a3306c8119fc6db5b0cdcb6492][^c-c155301341eaf83ad67db6b60963a2b3][^c-27f817f015cb99630e212ac971b33ac1]
 

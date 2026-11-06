@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 213. Fraudulent trading.[^c15574061][^c20433571][^c-c3e0ac26e46bee530bbba20451ff5874][^M_C_57af6a97-74a6-4498-8c36-dda5e30650a1][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-e3f6103bb4b1fccccdb324de7e54762b][^c-27c740bc34b14db40a2e339d730c551d][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

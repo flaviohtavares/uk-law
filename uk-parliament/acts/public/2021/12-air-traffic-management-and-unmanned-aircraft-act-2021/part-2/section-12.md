@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-03-03.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 12. Airport slot allocation
 

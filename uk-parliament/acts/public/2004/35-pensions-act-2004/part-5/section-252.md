@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 252. UK-based scheme to be trust with effective rules[^M_I_b63bce70-1f90-44cc-a067-014afbae9fc4][^c-ec16c43859aa8561fe1f8e5ec9151cbf]
 

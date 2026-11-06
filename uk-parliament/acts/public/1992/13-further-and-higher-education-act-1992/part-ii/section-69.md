@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 69. Supplementary functions. (affected by repeal, see note)[^c11066041][^c-3f357803baaf36a0324afb48ed46adbd][^c-ebd165fd4682fd38ae423ecc786953d1][^c-ebd165fd4682fd38ae423ecc786953d1]
 

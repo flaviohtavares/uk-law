@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-12-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/29
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 15. Civil sanctions[^c-8a13e21e8b93130dc97baea02dfe78bf][^c-5fa9e5725bcdea2f97ce6b4e1be3cc40]
 

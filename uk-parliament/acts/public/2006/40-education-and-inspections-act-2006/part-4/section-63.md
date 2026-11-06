@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63. Power of local authority to require governing body to enter into arrangements[^c-fb395070ad00ab57f2f73abf0cd8352d][^c-81ffb0eb20e62c98df124b83aeaf3944]
 

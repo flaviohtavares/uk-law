@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (34).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 172. Right to enter and survey land[^c-b4702add36f6e2f5537771160699c8f8][^c-1dd3f425d0dcb4ef149fa9a7d13349fe][^c-ae43287342e7edc684544cde66b0df6c][^c-2b60b599d5b046ae44547b546a8cf872][^c-fbf3b66bbb2b0cdaa315e51aff312abd][^c-eed0cd125f81eed504b06bfc6ea49620][^c-985717d19bf3df47b6bbd01e9c02d464][^c-bf1555306d01cf28b60c4583a548de73][^c-1937637c9eeb07d0dae2ee93118d9c71][^c-3edcb9867cfe2399f2eec67817012659][^c-ae0f1a857d9a7e862c95ffc5dcce886b][^c-960a0f3b599052b155970da7853f387b][^c-1e2211e1e5e07af96836d92f3d73511c][^c-d615e949bb30fd53d8bc7c628463fa67][^c-571abcc5e428cd0dc78a5c27bfb25811][^c-90b3818a6b687ec431d085c0f20bba2b][^c-dbaed519a53407d98e2efab7fe5f19fc][^c-9d6ecf6da8cdb57d2230058311f6deda][^c-b79a3b1905ac8c70c526348630f622fb][^c-faa6dec52996fba28c35d091d89d8f54][^c-16ef17565cfaec37550749bedd43b078][^c-ffe0c59d8339610c951e4dabf9b7033e][^c-0e2eabe56ccfbdd45b0162d716e1811b][^c-7731677240fe47edbd8a0af53259bd60][^c-8a0373e69f8e04fe51adb21dc43e6a48][^M_C_7c4465ca-2c56-4a9e-c074-df91994e712e][^c-6a0aaad8031cf38eed5c99ca77bfb710][^c-4a792582d89e32bf18bd63072331d0d4][^c-79a895b54a25468695cec89532954f2b][^c-d63db6ae3ee25a6fc837611a50362171][^c-3a837175bbbfc46bdf8c296a8d58760f][^c-47897d8c5c9afd0b3598026efde99d65][^c-67066e69c9195fba4d2b741d09082672]
 

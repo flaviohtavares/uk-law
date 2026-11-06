@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-01-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 22. Bus companies: limitation of powers of authorities in England[^c-66360e093c7533d5c8e0d68b28297dac]
 

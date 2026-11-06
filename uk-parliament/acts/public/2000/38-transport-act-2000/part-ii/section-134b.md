@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 134B. Quality contracts: application of TUPE[^c-c05adb8597f2acc398b3fefbd54794ff][^c-88f80460dd8db1408ca2aa5d13dd6426]
 

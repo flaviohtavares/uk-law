@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 57F. Validity and effect of penalties.[^c14105391][^c18937391][^c-929dc95eac7afac443ea4e095b07fde3][^c-50e1c136bd2640106035cd29bf3afb88]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 145. Housing (Northern Ireland) Order 2003[^c-3bd3fe7f74bc46d88c154ec50e6ccb40]
 

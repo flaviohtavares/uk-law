@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 19. Preparation of local development documents (affected by repeal, see note)[^c-6d7a75349b99bb815cb69612093189d4][^c-35c7880d2721d99fbc3b94c0deca587f][^c-0af79274b55d7a6716686ba2d4da2fce][^c-ed2614ebcdb893eff0e64c521f5ac184][^c-50ce8a10dbcb37832241d09fc72d8e16][^c-66b206efe3e504a200801217f5a84a3a][^c-66b206efe3e504a200801217f5a84a3a]
 

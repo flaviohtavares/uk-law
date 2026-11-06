@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2005-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland, Northern Ireland.
 
 ## 95. Reciprocal arrangements in relation to Northern Ireland as to exercise of powers.
 

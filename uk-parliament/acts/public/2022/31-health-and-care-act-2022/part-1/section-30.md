@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 30. Expansion of financial duties of integrated care boards and their partners[^c-71c6682da420ae2e04847454f3d0530a]
 

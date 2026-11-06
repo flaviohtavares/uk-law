@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 220. Orders under s. 219.[^c14934521][^c14934531][^c14934541][^c14934551][^c14934561][^c14934571][^c14934511]
 

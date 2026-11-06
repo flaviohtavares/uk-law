@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 45. Duty to notify the Minister of change of circumstances[^c-438edbee9cf97f1b39efb97aa4e5386e][^c-ac29f991300c41df0aac99ac3d1c21df]
 

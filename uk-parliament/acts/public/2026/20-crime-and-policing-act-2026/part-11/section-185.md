@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 185. Power to take additional sample[^c-c6279a7778f8732e6045a4ab31c7a7c5]
 

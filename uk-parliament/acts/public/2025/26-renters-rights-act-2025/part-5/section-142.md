@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-22.
 >
-> Extent: England, Wales.
+> Extent: England, Wales, Scotland.
 
 ## 142. Power of Scottish Ministers to make consequential provision[^c-57c324e52589ca8409339ec3f43918fc]
 

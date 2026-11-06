@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 66. Certain proposals to establish new schools: publication requirements etc[^c-8ed2744777c6e743d2507bac72f06256][^c-23e6807149650e232111cc840b8e11c9]
 

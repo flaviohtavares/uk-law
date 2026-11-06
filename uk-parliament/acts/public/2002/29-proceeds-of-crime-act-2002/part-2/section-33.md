@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Appeal to Supreme Court[^c-30a631329a90d66ddf5abc4bfad4e0c2][^c-7e28c4c812c1e8ac0d45d2d5bac08f09]
 

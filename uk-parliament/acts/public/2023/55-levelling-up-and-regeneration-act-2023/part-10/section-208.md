@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 208. Deemed consent of superior lessor or mortgagee[^c-0bd16eab84c569173f6d1730a33619de][^c-93d5d040027ec488bba12c74bff2a15e]
 

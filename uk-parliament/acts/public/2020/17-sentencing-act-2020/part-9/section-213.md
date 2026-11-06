@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 213. The responsible officer[^c-6222921d52963ab4225cbd4ee9fe33b1][^c-ee661075847c0a62e841fc72f9f452a2][^c-1ebd87d74c93febf8b160f850c23f172][^c-a5c5a8f9a8c17a7c92cdadd9cb9700f7][^c-7aa25eaafe451cb53b14498aafbf1e98]
 

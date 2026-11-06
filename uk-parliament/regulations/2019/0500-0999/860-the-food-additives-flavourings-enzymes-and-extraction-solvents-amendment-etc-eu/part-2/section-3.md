@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 3.[^c-6b388fe70e0e8e79f4a45429a9c46b82][^c-9aa7d74c10ac55bfd465b99cd7ef9807]
 

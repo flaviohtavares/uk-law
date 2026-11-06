@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 120. Pensions dashboards: Northern Ireland[^c24494171][^c-60cdf1ebf23fc9f06b8abd243da5c3a3]
 

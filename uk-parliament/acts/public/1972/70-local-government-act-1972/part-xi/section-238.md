@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 238. Evidence of byelaws.[^c15125401][^c15125411][^c15125421][^c15125431][^c15125441][^c18867631][^c18895531][^c18895561][^c19658921][^c19920071][^c19659101][^c20518301][^c22561711][^c-e4234e0a39d9182c75ba49357e0fe3a4][^c-4a28eaec5133c9f98ca536844a1f5b62][^c-ef34717a0f57b2a54820d74dc26a77e4][^c-e0dd0b9042804ebd4a07253daad545f3][^c-6511444bafd7074fb441038b24df757d][^c-0548452c29d9dbab781d28c15a3e775d][^c-e2fadc10ae9456d21a466def51af691c][^c-977c4e19f70aec804f39632e156f0ebe][^c-50463f73118273e43e145e507af86d9a][^c-984f37ec626ab73986563d9be7cfd79e][^c-8cc30504c4b78125611beabda994a9cf][^c-8b69681661e8e54a447d9e2fe4181b3a][^c-9dc9e6f853c96b87f52913d2efeb98ce][^c-a931812f5647e084c75da0d114edb756][^c-a49e8fbdec1f14da120322131541c758]
 

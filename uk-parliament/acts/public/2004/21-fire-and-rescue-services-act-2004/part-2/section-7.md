@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 7. Fire-fighting[^c-dac6f21c59383c63c5212778a4925416][^c-64eb169873b3fc1264cb22dd34a44319]
 

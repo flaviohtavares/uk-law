@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 60. Performance standards and safety warning notice[^c-35c49afae4b0be05b9c6a932367fcb11][^c-bc79e68d0069fe396547082ed639e7f5]
 

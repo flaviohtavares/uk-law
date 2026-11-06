@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 82. Apprenticeships: functions of Learning and Skills Council for England[^c-c9298fd9d1cbad6478d0ff9342db322b][^c-3049d41099c426f84c2d2d7c0b4f3280]
 

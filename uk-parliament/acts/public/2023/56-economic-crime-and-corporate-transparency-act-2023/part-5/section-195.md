@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-29.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 195. Meaning of “SLAPP” claim[^c-9cecba317f798b28a1efc37a2456bd0a][^c-f469ac8eec15bfae8f2efa479f8a5979]
 

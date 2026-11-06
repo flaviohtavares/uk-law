@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (38).** Text as at 2026-08-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 1A. Application to certain persons serving more than one sentence.[^c12922381][^c12922391][^c12922371][^c-d1d7ef0e1e8fbae4eca30f12d3dc7f3a]
 

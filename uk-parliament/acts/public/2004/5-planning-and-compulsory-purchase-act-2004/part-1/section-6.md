@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 6. RSS: community involvement[^c-95661c1f1df93953c323cfc6a88b9475][^c-dc6897b6f90f5201b5b750f71b5c404a]
 

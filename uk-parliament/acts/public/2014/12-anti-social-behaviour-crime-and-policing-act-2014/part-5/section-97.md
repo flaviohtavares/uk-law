@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 97. Corresponding new ground and notice requirements for assured tenancies[^c-4dd2d6a42c269266df70b44b73a4e124][^c-c37fed75f888bd6bc214512213041940]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 33. Remote sale or letting of knives etc: Scotland[^c-e2e989d02d1f191625f8656e73dfbc83]
 

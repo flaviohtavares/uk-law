@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 93. Compensation Act 2006[^c-f07c3681fdde16377de5722ae0ee9c7f][^c-ce5ea9bb315e19036306256bc6717166]
 

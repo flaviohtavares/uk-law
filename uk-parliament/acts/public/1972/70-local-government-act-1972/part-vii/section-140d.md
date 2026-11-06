@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 140D. Application of sections 140, 140A and 140C to corporate joint committees[^M_F_2dfae058-b557-4ac6-9359-4a5cbd8a836e]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (32).** Text as at 2025-06-19. See https://www.legislation.gov.uk/changes/affected/eur/2013/1306
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Wales, Scotland, Northern Ireland; England (the versions of this text differ in extent).
 
 ## Article 81. Objectives of the scrutiny[^M_E_1l2ume9a-lzkb-39x2-qj8x-664748b01327f]
 

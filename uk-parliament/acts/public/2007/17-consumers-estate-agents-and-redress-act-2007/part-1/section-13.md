@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-01-27. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 13. Investigation of complaints relating to disconnection of gas or electricity[^c-5626b0a79f0c60b524e5706df50c135b]
 

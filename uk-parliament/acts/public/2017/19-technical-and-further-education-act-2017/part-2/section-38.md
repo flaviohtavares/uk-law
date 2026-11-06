@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 38. Restrictions on dissolution of sixth form college corporation[^c-b0f5f9e0e7edac4445b399fe2a2d9c72]
 

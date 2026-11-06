@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 69. LTA 1985: Crown application[^c-8344b76d5a3feef3fb150afbaba20d48]
 

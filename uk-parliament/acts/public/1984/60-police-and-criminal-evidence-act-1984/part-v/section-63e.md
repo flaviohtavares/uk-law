@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63E. Retention of section 63D material pending investigation or proceedings[^c-17001617e39f1b70fa473ae3f3e2ccc6][^c-cff13bacaf7cf35965d883bc5359777c]
 

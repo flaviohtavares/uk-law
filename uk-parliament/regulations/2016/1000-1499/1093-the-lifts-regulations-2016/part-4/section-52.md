@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1093
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 52. Approval of conformity assessment bodies[^c-b72950f7ebd95efdd809afd4296fe321][^M_E_c26c5ef8-2783-4fa3-afbc-92c512f160b2]
 

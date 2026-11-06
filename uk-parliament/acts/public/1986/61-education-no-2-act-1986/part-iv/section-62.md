@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 62. Access to papers etc. of governing bodies.[^c-5345098af515758d3c07f10ff24b9d01]
 

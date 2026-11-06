@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-04-28.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5. Opt-in: other religious ceremonies[^c-ccb887496d6f95fb57541f3af6a52df3]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 98. Conduct causing nuisance to landlord etc[^c-92d065f8735e66f2469530fea2aa7556][^c-fe40cc8c6a2a98629a68992185554cd8]
 

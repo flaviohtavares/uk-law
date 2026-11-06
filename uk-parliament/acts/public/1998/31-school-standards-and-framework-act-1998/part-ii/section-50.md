@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 50. Effect of financial delegation.[^c14008981][^c-058a750876d66622bf461b076d84a231][^c-5f4141f0d4844b4b132345cf521f94a7][^c-bb62fb2dc203dc9f18c0281a7fb8193f][^c-e9760d1fc1f75855c2bc3caf4cf5c3e6][^c-b3df481dcc50656708b3a2c9971d41de][^c-835db9f1efa9271f5466e5a4dd267be2][^c-70f8753f122cce825b9fc788cd8793a6][^c-5f4141f0d4844b4b132345cf521f94a7][^c-bb62fb2dc203dc9f18c0281a7fb8193f][^c-835db9f1efa9271f5466e5a4dd267be2]
 

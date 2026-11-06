@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/54
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14. Power of judge of Senior Courts or Crown Court to act in cases relating to rates and taxes.[^c20742581]
 

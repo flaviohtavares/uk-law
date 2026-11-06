@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 30. Money received by administrators[^c-baa42ebfdc0d8a75459430b419d75f7c][^c22725331]
 

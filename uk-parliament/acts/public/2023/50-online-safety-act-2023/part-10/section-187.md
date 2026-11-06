@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 187. Sending etc photograph or film of genitals[^c-b7a4749f85cfa393cfc00bf89fba1f60][^c-df6ea942ccd0bcecaefe2a1ea2dc3fe5]
 

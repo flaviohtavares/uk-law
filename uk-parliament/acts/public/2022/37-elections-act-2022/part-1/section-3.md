@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 3. Restriction of period for which person can apply for postal vote[^c-4f38038067cba97f69bb2614627c09e5][^c-e9be06175fb285772617f316a6d42e1f]
 

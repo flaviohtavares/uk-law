@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/8-9/62
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 9G. Appeals under section 9A, 9E or 9F[^c-0b77ed28b6245113ee9172cbbc876dcd]
 

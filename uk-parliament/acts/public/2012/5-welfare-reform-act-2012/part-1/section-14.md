@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 14. Claimant commitment[^c-2ecbd7c5bd80b37cc47cf61d0d3d03b3][^c-f0c316d9d1b0dfd0e226e5ef4e030922][^c-8b69b9d5f85492694284eb3940350262][^c-a356dc2fd6e8e6910bb2b77216fd1f0c][^c-2cf0eef3dd35ebf9897562318f1e95f6][^c-1f7b0980fd61f83cf9fb359ae6139e44][^c-8fa1e63b3e33056eb794dbc4f725c842][^c-5eac03db1f34cebe5a05c25473d1c5f2][^c-b349500db089740caab3f84f60c1dab0][^c-7d1f311d9a18d1759bc1e31145fab21c][^c-dff60de92e0214c29268e04bc02422a2][^c-45517954984debd5f6c22109514e8d03][^c-71a228b927107df692133ec1a9fc41c0][^c-6d84512802f87e25daba856ff102dd79][^c-0090e2d5ebc437a6882d10a837f5cfd4][^c-b906136caa4d5d6b883b57ea4fdace24][^c-9c83167607e31fef3d7c0978aa6cead9][^c-6f4925356a0b9c8c31bb46c941c539f1][^c-f0c316d9d1b0dfd0e226e5ef4e030922]
 

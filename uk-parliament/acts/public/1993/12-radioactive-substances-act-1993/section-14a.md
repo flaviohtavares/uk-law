@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2023-12-20. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 14A. Radioactive waste: requirements to be imposed on persons authorised to dispose of and accumulate radioactive waste: Northern Ireland[^c-3fa2e6f15fb660ae29351931aa96884e]
 

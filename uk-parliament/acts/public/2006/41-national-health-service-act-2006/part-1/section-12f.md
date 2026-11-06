@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12F. Expected mental health spending[^c-834c3d1b362b8c1c3bc7e3df26ac2f14][^c-e8a263d827f1e306f985b06a04ef3783]
 

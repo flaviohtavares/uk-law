@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 176. Duty of Health Authority or National Health Service trust to notify parent etc.[^c1400386]
 

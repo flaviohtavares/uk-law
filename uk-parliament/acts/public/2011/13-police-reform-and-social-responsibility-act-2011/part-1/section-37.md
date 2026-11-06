@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. Appointment of persons not employed by chief officers of police[^c-74794ca24e1e8ac7cf344083a485270e][^c-f4c4a1e5f5ca0308523284486da85ed1]
 

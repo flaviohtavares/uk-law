@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 48. Notices given electronically[^c-03dc3762f3af8fc65609c1f38fc9b680][^c-b0d88f1cf0bb68e09b24690bcefc1ec8]
 

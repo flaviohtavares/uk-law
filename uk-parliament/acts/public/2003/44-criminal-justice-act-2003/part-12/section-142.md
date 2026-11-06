@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 142. Purposes of sentencing[^c-470fa263999d1495d83450fb96d79cb8]
 

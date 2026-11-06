@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (70).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/49
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 90. Right to cash equivalent[^c-5d6283226469ab95516c2cedad1047e4][^c-920bb60c1ce06dc0c76d1607b21a3fe0][^c-e85fea2e415384a1b766bba1856ecba0]
 

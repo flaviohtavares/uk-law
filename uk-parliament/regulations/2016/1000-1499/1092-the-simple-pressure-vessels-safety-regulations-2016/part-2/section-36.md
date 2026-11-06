@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1092
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 36. Translation of EU declaration of conformity[^c-b2d746ff2a382946245467eda5f38408][^M_E_d847a498-926b-458d-ca8f-7436f5ee96e8]
 

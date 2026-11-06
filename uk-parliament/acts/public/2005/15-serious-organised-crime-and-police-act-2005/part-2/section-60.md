@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 60. Investigatory powers of DPP etc.[^c-ed5021d2030fde017009e92ae0a94634][^c-fde1b774b509e7f5c9951b85fa0b45ec][^c-a8faaf61725f45aa0284914e8dc2ea99]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 123C. Notice of assessment[^c-c253a983d454a5ee1af6f1bc2ef71b40][^c-c05adb8597f2acc398b3fefbd54794ff][^c-f6b9d93c45c0837c95e6bd6eb678281d][^c-63131c26ca98554bd7e4a82be39decdd][^c-38655cb458b97a6dd21ff07e03d03432][^c-a77bb3bdddbdf8f5711c8054183b3fe6]
 

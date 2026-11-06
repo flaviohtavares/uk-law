@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 55. Non-appearance of defendant.[^c18243011][^c-ad31902281dc3e8aed5786d8aea5341b][^c-1096fa88d9fc3688bbe560409e63b350][^c-fb69bb506a22949696c4cd28e3431b88]
 

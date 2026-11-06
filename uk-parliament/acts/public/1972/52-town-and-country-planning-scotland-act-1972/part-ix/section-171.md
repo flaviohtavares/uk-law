@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 171. Procedure on reference of purchase notice to Secretary of State.[^c14929131][^c14929141][^c14929151][^c14929121]
 

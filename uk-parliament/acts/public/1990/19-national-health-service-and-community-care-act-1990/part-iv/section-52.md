@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2022-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 52. Local authority plans for, and complaints in relation to, community care services in Scotland.[^c1358663]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 33. Amendment of the Identification and Traceability of Explosives Regulations (Northern Ireland) 2013[^c-f86fb4477c1d1567b016c2e3f5f26874]
 

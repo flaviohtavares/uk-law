@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 56K. Provisions as to effect of hazardous substances consent and change of control of land.[^c14921361][^c14921351]
 

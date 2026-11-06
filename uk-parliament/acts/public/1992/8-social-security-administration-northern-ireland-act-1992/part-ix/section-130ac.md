@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (186).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 130AC. Revaluation for transitional pensions under Pensions Act (Northern Ireland) 2015[^c-2e779f9a45147fb5a9d7ecedf7b07052]
 

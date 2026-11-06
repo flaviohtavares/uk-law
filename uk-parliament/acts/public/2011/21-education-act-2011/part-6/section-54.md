@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2018-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 54. Consequential amendments: 16 to 19 Academies and alternative provision Academies[^c-bff5fd5208e1b6f7bdadaf729bc6fd1f]
 

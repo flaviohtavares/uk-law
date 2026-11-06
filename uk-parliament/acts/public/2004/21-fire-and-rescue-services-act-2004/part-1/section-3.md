@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 3. Creation of combined fire and rescue authorities: supplementary[^c-d4fba356f2a3e9c562ebf708f8accb1e][^c-18bf322a2e38b1a19b05a0637e2c00df]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/uksi/2010/948
 >
-> Extent: England, Wales.
+> Extent: Wales; England (the versions of this text differ in extent).
 
 ## 50. Social housing relief: qualifying amount[^M_E_ea5734c8-dc0f-477e-ba17-663e45ed850d][^V_W_7476f5c4-fe52-a046-bfc2-d669428221bc]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 175. Immobilisation etc.[^c14882141][^c-544c5c075378a5c219976fce3b9197c5][^M_C_495ea499-bac8-4caf-f309-931efef9e5cb]
 

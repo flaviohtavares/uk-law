@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. Emergency financial assistance to combined fire authorities[^c-0d3e5779625c7fbb39f27e55486828cf][^c-f7a31ec135cb9b3e2bd3e8ed2ea29e91]
 

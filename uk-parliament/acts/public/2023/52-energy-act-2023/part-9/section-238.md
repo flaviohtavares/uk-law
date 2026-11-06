@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 238. Energy smart appliances and load control[^c-708d77d07d6084f47697338efbfdd86e][^c-8adbc98e1ba8314d27656b0343f4ec75]
 

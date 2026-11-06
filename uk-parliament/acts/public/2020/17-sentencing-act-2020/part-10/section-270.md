@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 270. Sentence of detention in a young offender institution where offender subject to detention and training order[^c-bbd35a9b271d28cb52378a7610674e0e][^c-d4e955a04b720d51c6143fc03ac03bf9]
 

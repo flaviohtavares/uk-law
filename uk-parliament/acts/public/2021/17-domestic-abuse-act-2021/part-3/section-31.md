@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31. Domestic abuse protection orders otherwise than on application[^c-43457820f499807520ae0d4b0c7bd49c][^c-15aa2b717cf5bbe80136afdf46918e7c][^c-18fb850404a0c53d7b504ae4769ceda5][^c-581cb51d7ba518f1df4eaffe93e164f9]
 

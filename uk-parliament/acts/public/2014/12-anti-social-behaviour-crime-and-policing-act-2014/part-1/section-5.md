@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5. Applications for injunctions[^c-4be0e06f0c5fef2c062c566d48b44290][^c-0599284d15b225c76ceba197f0da02e5][^c-ec1e06017d0f03f318aab75180a922b0][^c-0599284d15b225c76ceba197f0da02e5]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 209. Exclusion of security of tenure[^c-bcbe97a61edb07796b61dd021c4c423f][^c-b61b8daea7d8146a78b9308fd587ea4b]
 

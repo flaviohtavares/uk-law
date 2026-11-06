@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Northern Ireland; Scotland (the versions of this text differ in extent).
 
 ## 23. Provisions supplementary to ss. 21 and 22.[^c18891321][^c18891661][^c18891691][^c18893611][^c7807811][^c7807821][^c18891711][^c7807842][^c7807851][^c18763391][^c18763401][^c19677891][^c20459401][^c20954931][^c20954461][^c20955381][^c-0fe72d9a6077d9cfd7b83aac041509d3][^c-65bfb4fe3e68071da7d56f06062cb529][^c-23fde049cf685cf3abea10f749317368][^c-b77426c96be6d0eaa3921fcd5533a79c][^c-2efaa75a9f67da686fec016a584e2dea][^c-61af3d0fef48fd4f2eca1f7d1ad490ea][^c-9e47ba003e8fc07441cf79336a822f99][^c-66a1f1072f7b26345e42d105a896132a][^c-f58dbcf525031ae3f07fd720af634dce][^c-778723f284f4576f59851178daa996b9][^c-13e18499eeceb26cd2be163fe6acfa77][^c-4871700ce426829441a14f098b43202d][^c-57fb7ec46b91a08882b9ea7f94ea05f9][^c-e3b912ba5798a3ea1bb6d053cb5e60bd][^c-60cb19c4751a5de087cc949bfe5486da][^c-f3fc01474c1b62783e081f8bfbca39cf][^c-58de61ddb03c38e2af87d03f836134f2][^c-c5afe0af058eaab336f07c8fd81bf5a2][^c-911932d5e81b4f90395ead8c4e18613e][^c-25aaf956bffae30f9e41fe2032e1ab43]
 

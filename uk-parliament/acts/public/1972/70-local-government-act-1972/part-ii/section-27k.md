@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, W..
 
 ## 27K (Extent: W.). Power of community meeting to apply for an order separating community from a group of communities (Extent: W.)[^c-6c1df49188a5d8811dd28db9226340dd]
 

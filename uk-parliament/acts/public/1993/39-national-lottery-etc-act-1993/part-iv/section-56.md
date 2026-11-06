@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (31).** Text as at 2023-02-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/39
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 56. Removal of prohibition on the use of premises for the delivery of football pools coupons and stakes.[^c-d25d2911f4c96353a83c19b079e50b56]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 71. Challenging an EDP[^c-c60f4b413e91f8a7a327d1bd92982c42][^c-dbef10cbb313e92a9360a99e77aaf268]
 

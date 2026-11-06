@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2014-10-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/51
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 21 — Amendments of Leasehold Reform Act 1967 (c. 88) and Housing Act 1974 (c. 44), Schedule 8[^c1152143]
 

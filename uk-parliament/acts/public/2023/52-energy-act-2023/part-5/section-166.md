@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 166. Licensing of electricity system operator activity[^c-cccacf3de012a4f96b6aba43f8f7d276]
 

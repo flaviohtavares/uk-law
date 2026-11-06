@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 12. Amendments to Commission Regulation (EU) No 1158/2010 on a common safety method for assessing conformity with the requirements for obtaining railway safety certificates[^c-3256e673655700cd99f31b733c163abc][^c-f750357ba78888bb8df288da47250526]
 

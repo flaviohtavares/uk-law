@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/33
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 39A. Power to apply sections 36 and 37 in relation to food crime officers[^c-5573a14d653f637fa9840e5ac10c7b0c]
 

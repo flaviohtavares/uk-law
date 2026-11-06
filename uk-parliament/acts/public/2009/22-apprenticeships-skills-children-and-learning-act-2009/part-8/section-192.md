@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 192. Minor and consequential amendments[^c-af19edd91fab732853a666bcc58c934c][^c-d5ca23de2a1a20c8c627d7e949df4da5]
 

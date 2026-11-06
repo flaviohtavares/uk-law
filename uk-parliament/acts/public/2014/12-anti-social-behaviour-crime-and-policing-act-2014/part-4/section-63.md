@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63. Consumption of alcohol in breach of prohibition in order[^c-2cba2bc0352e0678afca1556956d478e][^c-d08d3994df6512b34decbca49f42fcad]
 

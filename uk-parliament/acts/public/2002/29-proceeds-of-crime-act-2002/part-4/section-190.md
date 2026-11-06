@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 190. Restraint orders[^c-c82daf618072cc089280c895a369571b][^c-e3634034bab4be7cd4cb838ceea63874][^c-e6a2365e6b28fd124a5831264291e81f][^c-e3634034bab4be7cd4cb838ceea63874]
 

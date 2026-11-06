@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21. Overview and scrutiny committees.[^c1427836][^c1427837][^c-e5c576e91bb3518cd7a7fd06ebfa9c10][^c-8d9542aaf79e28f7c324a2816eb73d2a][^c-99351186641719624a4898c6d5f3f3c7][^c-cbfdcc21f54860bc4c887a7ee5c8c08c][^c-ca8dc963aecd9e233e580bb0284e1629][^c-0737005dc8b56ce0dd4c106b3f2a47c6][^c-b3eca01c9efc18d4933c19d87c5a31ca][^c-e3b6e213cbe806108c7aab95fdcbf0a0][^c-195c3ee4b5382300606aa94f72dd6f2e][^c-31a7aa32efb92f301e32600b7bd0a85a][^c-b3eca01c9efc18d4933c19d87c5a31ca]
 

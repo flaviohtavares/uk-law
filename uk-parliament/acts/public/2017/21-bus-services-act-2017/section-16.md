@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-01-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 16. Powers to make traffic regulation orders[^c22722061]
 

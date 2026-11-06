@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (79).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 43. Review of notices[^c19537731][^c-2fb993b4ad50e7cfc168f826e17ab2c6][^c-cd536472a50bd1e7e8bfa991a7c67efd][^c-3dfecaa7acf1717e5f55493dedcf4d8c][^c-809b83db10e6c3f07f7d6a51fab3c1db][^c-c2f65377f97c52df75e964a1c4712c5a]
 

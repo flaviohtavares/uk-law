@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-06-28.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 5. Prohibition of use of explosives, poisons or electrical devices and of destruction of dams etc.
 

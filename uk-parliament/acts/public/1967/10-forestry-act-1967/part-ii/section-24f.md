@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1967/10
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 24F. Notices under section 24C(3) or 24E(2) that affect tree preservation orders[^c-f45017a2fc9d6504fd7eef670bd2c333]
 

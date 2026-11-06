@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 46. Duty to notify Secretary of State and others of proposed application[^c-0d67a2d15014eaa2b986cf5d9f13f5c9][^c-2a37837a24706469abc36521ff331dea][^c-131dcfcbeb9603cc10df743c62b6a539]
 

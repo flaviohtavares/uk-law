@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 3. Monitoring boards, courts boards and youth offending teams[^c-fab3ed5e20af480c5248b419c9c3d9dc]
 

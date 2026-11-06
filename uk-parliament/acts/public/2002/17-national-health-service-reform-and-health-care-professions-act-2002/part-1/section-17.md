@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Entry and inspection of premises[^c-b3b8fba11d190cc9bca15788ce1990e1]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 8. Misleading markings[^M_E_b62156e3-73d2-43ba-bb9e-3cb9c2a73c7a]
 

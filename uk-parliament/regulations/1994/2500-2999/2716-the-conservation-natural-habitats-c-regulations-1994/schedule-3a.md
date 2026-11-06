@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-10.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## SCHEDULE 3A — PROHIBITED METHODS OF TAKING OR KILLING WILD ANIMALS[^c-94de2c41876d1e737d24f6f1942f9737]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (31).** Text as at 2025-11-13. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 7ZA. Licences for operation of gas interconnectors[^c-9a2e2f557dc7281ba31658bac2b47d1f][^c-7bcb872891e92a66cd5045e649fc1383]
 

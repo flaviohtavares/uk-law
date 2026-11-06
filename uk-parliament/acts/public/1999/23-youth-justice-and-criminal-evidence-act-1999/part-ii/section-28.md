@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28. Video recorded cross-examination or re-examination.[^c9545841][^c-dc304f967416f2297fbe1dbcc4988b01][^c-76b605da514180ae9546458016e0c723][^c-c9ff07f2e8d2b36f093045de2594ecc9][^c-d771bc3fde8e10d748a7ea572ab406c8][^c-17254dd2ca534a2334dff862eb5cd2fa][^c-f0cf5be73b87b4a0287bc0b5de397956][^c-11c21205529666c9f22d8a3adbfcfb19][^c-2e07771131c68d353df478271c9755e7][^c-f78c054daf79683406c94c5768cbccba][^c-33e5b42fe151d706345f519136520dbc][^c-f8c0c6ff7177c20bcd641fa7b2b13761][^c-08a50fa319dcedaed98fb8c62d05ea92][^c-9e31b5068364045c485010ece9469c86][^c-54acee2855e11fefeebc54cfe0af583b][^c-2699fb06d17548f758faa73c27d6a2d8][^c-dcdb96e2e1dec246d343a01d1ae5c54f][^c-ead51b65efd6e246cb6cc1faaae6afc0][^c-016bb74d806e31aee6a14590d13e599d][^c-9fc97b2cea816adf06efbc8ebb1885ca][^c-57d99657b88d2f38287c5c84982e80dc]
 

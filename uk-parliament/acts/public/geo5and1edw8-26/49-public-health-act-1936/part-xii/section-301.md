@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 301. Appeals to quarter sessions against decisions of justices.[^c611824][^c611825][^c611826][^c-cbf256d5ac1d7055fef3f56dec0eb8bf][^c611823]
 

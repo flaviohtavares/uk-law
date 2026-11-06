@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-17. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 47. Health and social care pension schemes: suspension of restrictions on return to work: Northern Ireland[^c-7e2ad98819a6f40b0cec0f8376cb00c0]
 

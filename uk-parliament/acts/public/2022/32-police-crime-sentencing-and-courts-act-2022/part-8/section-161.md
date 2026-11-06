@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 161. Youth rehabilitation orders[^c-84c4c254006f5316e544f34e037005e0][^M_I_5a73a2c6-e073-4555-e0fe-9fb69952f721][^c-9f87941cbe0371c200ba1cf28b20dd78]
 

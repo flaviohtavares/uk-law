@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 334A. Status of certain trustees of charitable trusts[^c-9515f8824ca9243255b8e33fd986329a]
 

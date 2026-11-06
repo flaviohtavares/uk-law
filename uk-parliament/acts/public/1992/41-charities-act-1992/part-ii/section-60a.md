@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 60A. Other persons making appeals required to indicate institutions benefiting and arrangements for remuneration[^c-fe85dba891f4a663141735540402beae]
 

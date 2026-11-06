@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (54).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6G. Traffic commissioner functions where an enhanced partnership scheme in operation[^c-28711a4097679fd646c35e578df27f95][^c-29c8323716e26d9d3fe79d912962da22][^c-4c1fdb72397214ae9b054aaad955d844][^c-28711a4097679fd646c35e578df27f95]
 

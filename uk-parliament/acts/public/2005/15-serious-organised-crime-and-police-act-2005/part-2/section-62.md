@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 62. Disclosure notices[^c-2d3c7bea7846c9fe27c7ef2695b5c25b][^c-af55c44f2f3e68b54e8d217f233a506a][^c-a8faaf61725f45aa0284914e8dc2ea99]
 

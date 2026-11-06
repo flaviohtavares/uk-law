@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 131. Land Acquisition and Compensation (Northern Ireland) Order 1973[^c-dafc74490b241993b12b78ca44b5c6ef]
 

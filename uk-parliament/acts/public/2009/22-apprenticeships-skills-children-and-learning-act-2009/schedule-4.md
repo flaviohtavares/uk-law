@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## Schedule 4 — The Chief Executive of Skills Funding[^c-a1df65e761585cef944b37f2b930b6d4]
 

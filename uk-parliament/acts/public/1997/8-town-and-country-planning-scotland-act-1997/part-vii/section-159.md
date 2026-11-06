@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 159. Planning permission to include appropriate provision for preservation and planting of trees.[^c-c878611eab1a9891d099c7f5a1b4d6ac]
 

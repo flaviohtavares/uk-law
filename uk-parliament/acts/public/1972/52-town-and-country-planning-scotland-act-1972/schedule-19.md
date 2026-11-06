@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 19 — Provisions of this Act referred to in Sections 250, 251, 256, 257 and 259 and Paragraphs 70 and 71 of Schedule 22
 

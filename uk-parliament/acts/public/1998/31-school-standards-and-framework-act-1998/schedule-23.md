@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 23 — Determination, variation and review of standard numbers[^c-3bf8a526ef5bea96222fba95593855b5]
 

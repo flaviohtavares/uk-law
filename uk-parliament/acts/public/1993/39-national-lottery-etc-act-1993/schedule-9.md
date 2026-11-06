@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 9 — SCHEDULE TO BE INSERTED IN THE 1976 ACT AFTER SCHEDULE 2[^c-573789007da7bcbf18d0a8ee58283962]
 

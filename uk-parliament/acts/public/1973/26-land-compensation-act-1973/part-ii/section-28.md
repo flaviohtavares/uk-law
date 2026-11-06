@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28. Power to pay expenses of persons moving temporarily during construction works etc.[^c-ae4314003e53f5e436ae17718c335574][^c-8b1628f55b6cd738d0683420166d638d][^c-cd2a6ddebedc12a5acf8b3a74c6e05cf][^c-245c2747b5b005c7bf419979ae1f8c5b][^c-df89c801b8bde3781ca58b8a65402b11]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 102B. Offences of recording or transmission in relation to broadcasting[^c-44bf9ef9a8c45dcc970b118aca12e7be]
 

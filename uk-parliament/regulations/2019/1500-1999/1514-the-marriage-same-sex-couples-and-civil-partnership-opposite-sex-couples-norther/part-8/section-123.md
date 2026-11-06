@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 123. Other public service pension schemes[^c-08db3d55dd587d5a805ea3daeee915c5]
 

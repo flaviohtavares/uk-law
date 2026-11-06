@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13W. NHS England’s power to generate income, etc.[^c-c17c605fbd7569f0644650e6ed66435c][^c-194bac1c4a5d1f982c85bbde41c3e00b]
 

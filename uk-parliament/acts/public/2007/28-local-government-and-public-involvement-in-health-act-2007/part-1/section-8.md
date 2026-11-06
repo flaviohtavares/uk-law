@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8. Review by Local Government Boundary Commission of local government areas[^c-6d5bb7e3340da6d12c9fa5d258136f9d][^c-7b189e3663c07c181cceb520c642833a]
 

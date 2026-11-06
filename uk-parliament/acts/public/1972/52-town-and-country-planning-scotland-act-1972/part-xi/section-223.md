@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 223. Procedure in relation to orders under s. 222.[^c14934771][^c14934781][^c14934791][^c14934801][^c14934811][^c14934821][^c14934761]
 

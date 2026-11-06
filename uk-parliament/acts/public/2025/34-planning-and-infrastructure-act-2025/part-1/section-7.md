@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7. Applications for development consent: acceptance stage[^c-4477b50a32b3e48116b690debba58757][^c-ad0b23dea43e853d7b60f09d1c0b9082]
 

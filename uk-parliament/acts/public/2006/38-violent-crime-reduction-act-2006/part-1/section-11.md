@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2021-07-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 11. Breach of drinking banning orders[^c-a2486e9ce1de0e676bcae2a074792166][^c-4144060f75746c34709b0484c893fa73][^c-7256a81f28264ed853b8684a69f08151][^c-423ff665ed286a54cad123e35441128d]
 

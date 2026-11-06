@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 26. Energy suppliers not to be treated as carrying on ancillary credit business[^c-fe68fb8a74e286ff5688a659547d5b8a][^c-474a21e64184a1fee5c9baffaa869885]
 

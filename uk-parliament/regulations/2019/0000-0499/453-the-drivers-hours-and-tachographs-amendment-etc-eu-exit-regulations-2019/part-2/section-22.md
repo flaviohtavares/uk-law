@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 22. Passenger and Goods Vehicles (Recording Equipment) Regulations 1979[^c-70ba9e6ab1ec9c716cdf883cbf0c42fd]
 

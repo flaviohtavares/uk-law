@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-12-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 11. Monitor: compliance and fines[^c-734451d328a17e1c609a8c143ccd4c36]
 

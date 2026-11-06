@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 3. Shared risk scheme (sometimes known as “defined ambition”)[^c-69f26c10e40ec1af926b8a77529958dd]
 

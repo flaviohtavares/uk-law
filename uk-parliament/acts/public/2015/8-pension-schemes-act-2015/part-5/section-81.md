@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 81. Extension to Scotland of certain provisions about marriage of same sex couples[^c-d92a2ccf0c1b3fae149193bb11d724ad]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36. Information for elected local policing bodies[^c-3e7b5581f49281f18a47ae6c2630c06a][^c-093e72161231e77097b7f1fa0ba1c8ce]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-03-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Effect of right of access on rights and liabilities of owners.[^c-ec22743954e2555a447deb8c6da5e052][^c-cc6f72c635415694bc0d33e292df8acb]
 

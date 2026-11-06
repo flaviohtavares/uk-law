@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 5. [Commission Regulation (EC) No 1251/2008](https://www.legislation.gov.uk/european/regulation/2008/1251)[^c-23409e1f13aa5d31e52cccb6a0087a76]
 

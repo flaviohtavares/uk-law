@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. The general principles underlying section 22.[^c-83a4cb76bc79405a5d7fd704c40554da]
 

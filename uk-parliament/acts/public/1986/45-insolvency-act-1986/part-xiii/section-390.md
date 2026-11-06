@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 390. Persons not qualified to act as insolvency practitioners.[^c15583401][^M_C_8a8cc3d8-991e-42ea-9f7f-3abbe555eefd][^M_C_6b28925b-0c0a-492c-c5b7-47d54ee7ce08][^c-29ee3e41a4dc165dced7cfe69b51e3c7][^c-27f6a4b363f4fc9f98dc9f53993285e5][^c-67e84b3fde1253471739882cade02486][^c-53e23e5032b55114129bfd4243322aef]
 

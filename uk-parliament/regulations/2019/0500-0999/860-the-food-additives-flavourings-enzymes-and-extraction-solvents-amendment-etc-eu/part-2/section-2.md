@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Amendment of the Food Additives, Flavourings, Enzymes and Extraction Solvents (England) Regulations 2013[^c-c6191df79da8ad71d8d8aba6d4c68a85]
 

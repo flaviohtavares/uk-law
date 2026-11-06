@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 100. Deciding on the conditions[^c-c8065b6c190ee0d04dc5553ffbaa3e2a]
 

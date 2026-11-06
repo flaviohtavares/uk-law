@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 1A — Governing bodies consisting of interim executive members[^c-a8a8dcd22f95646fe7906764bb0b0ef4]
 

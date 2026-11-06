@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 203. Restriction on making both community order and suspended sentence order[^c-f246f0c6ebedfba326373dcfc8c4cc21][^c-c6caaa70a95271ece9de9cca3f2f00b9][^c-d9b9ef9268e9664d4b7f53f892934058][^c-2adba769fb09629d9861c174a394b341]
 

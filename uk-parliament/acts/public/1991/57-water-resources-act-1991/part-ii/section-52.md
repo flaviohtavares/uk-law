@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 52. Proposals for modification at instance of the appropriate agency or Secretary of State.[^c-c81019f4412be707c8a7e4a0c1cda57a][^c-c10468be9db11c367b5925a537d6245c]
 

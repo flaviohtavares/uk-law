@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 92. Preventing or deterring a person from complying with duty to report suspected child sex offence[^c-c483c0ddfe411d323b9e8a5ff9c82479]
 

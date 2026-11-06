@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (403).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 113. Advance notice of certain works.[^c14150271][^c-c76e4c8ab1717a01b7a95bd97f5f9c6f][^c-c5e7322dc99dd3d5bb631462c53ca920]
 

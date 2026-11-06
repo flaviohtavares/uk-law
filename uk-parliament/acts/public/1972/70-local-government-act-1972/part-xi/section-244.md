@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 244. Saving of transfer of certain powers under local Acts from Treasury to Secretary of State.[^c-d079bb456d694163b89fefe1fff8aede]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Educational, prison and youth custody authorities[^c-d499104ae9bac1ad298c02fa9a27df99][^c-c686d3b280103fffcfbec22f05d6b10e]
 

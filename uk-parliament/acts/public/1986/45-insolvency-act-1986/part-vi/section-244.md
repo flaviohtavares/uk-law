@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 244. Extortionate credit transactions.[^c20460541][^c15576061][^c20434821][^c20434871][^c-e3b91d243f5c2fbee32c672b230614e6][^c-c347dc7073144b34fc61ef3a38a5603a][^c-47d667e37bbb9b236bcb44114403045f][^c-788371096f8da5425d0cd572175725cd][^c-c089235e1df568f52186839619dde230][^c-1fb3103fe6aa8db178f23503bd58d1b0][^c-788371096f8da5425d0cd572175725cd]
 

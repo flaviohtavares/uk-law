@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21. Use of agency workers for children’s social care work[^c-e31ebcb9691c5b3ebb4337af6e4e0584]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 43. Penalty notices for graffiti and fly-posting[^c-426284270c8714ad759d4af67d922b9f][^c-4710281d204215de923297200a3a4422]
 

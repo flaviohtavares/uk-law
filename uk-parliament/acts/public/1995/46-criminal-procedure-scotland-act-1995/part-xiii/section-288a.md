@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 288A. Rights of appeal for Advocate General: compatibility issues and devolution issues.[^c14475051][^c-0364bb48227492ef6c4b9c0a4a5957df]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 25B. Rights of entry and appeals[^c-4c1a9625c141fe24378019dbf60e22b1][^c-73d8702e2869f22ad0a708effff725cc]
 

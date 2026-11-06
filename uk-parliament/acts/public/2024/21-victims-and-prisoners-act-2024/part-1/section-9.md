@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. Code awareness and reviewing compliance: British Transport Police[^c-baccd890269371e60396d8589711431e]
 

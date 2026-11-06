@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 14. Power to give directions.[^c-ce07114f8a41d85b469a1fccdaa6e69b]
 

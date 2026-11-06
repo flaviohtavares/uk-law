@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2024-05-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 117. Treatment for purposes of section 116(1) of person serving two or more sentences or extended sentence.[^c-4a034c2c6bf90fef6b0ae2948dc44dde]
 

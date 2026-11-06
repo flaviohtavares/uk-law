@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 36. Presumption of conformity on the basis of designated standards[^M_E_905bdab0-d3c6-4633-e810-e7655f3379b4][^c-4a7d7723f6abc5890962ec729159864c]
 

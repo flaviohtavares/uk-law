@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 10 — PARAMETERS , PROPERTIES, ELEMENTS, SUBSTANCES AND ORGANISMS IN RELATION TO WHICH CHECK MONITORING MUST BE CARRIED OUT[^c-8de9095146f27d9a76328aa6bc08f4c0]
 

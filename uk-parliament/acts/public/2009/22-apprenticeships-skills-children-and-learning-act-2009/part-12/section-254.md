@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 254. Provision of social security information for purposes of functions under Education and Skills Act 2008[^c-1b5c6f0dd8236de8b8c48be96e77a7eb]
 

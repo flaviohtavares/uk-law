@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 237A. Public protection decisions[^c-0fe081c31b9d0ebd0775e8c38daac35e][^c-3973b9f3a2cac42531704f01b76ec1a5]
 

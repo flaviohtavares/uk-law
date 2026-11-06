@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 44. Reviews and re-assessments[^c-f7a0cf14897c51abba2c0258e7fc0894][^M_I_0f61be09-b65c-4e92-9746-7507174aa5f0]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2021-07-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Approved courses[^c-a2486e9ce1de0e676bcae2a074792166][^c-03b1afa230159d7bb543f79c37e74e3c][^c-018817cdae8c363a971f24149bb0eabc][^c-50f40aa79711f22aef19ad1dba343fc9]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 68. Grants to the HEFCW.[^c-3dd1a40e9edaa298f03ddcdf8badc634][^c-a23b360d3c9c5de0db07cd41a22c5930]
 

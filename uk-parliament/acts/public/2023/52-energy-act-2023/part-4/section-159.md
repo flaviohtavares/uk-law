@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 159. Renewable liquid heating fuel obligations[^c-bf8faefa98dd87ba6ca5794935484859]
 

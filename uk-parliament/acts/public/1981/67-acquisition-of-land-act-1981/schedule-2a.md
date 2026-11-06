@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## Schedule 2A — Enactments eligible for directions applying section 14A of the Land Compensation Act 1961[^c-762e64254fd0866334a5420d8f1ea0eb]
 

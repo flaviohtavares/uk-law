@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 172. Hoardings to be set up during building etc.[^c13427471][^c13427481][^M_C_b30f9b23-517a-4a5b-b0d4-c683c46e5f25][^c-3649bb49bc13152455dd2123a65e90f4][^c-3759c48a10d0ae6604c83cac4926305e]
 

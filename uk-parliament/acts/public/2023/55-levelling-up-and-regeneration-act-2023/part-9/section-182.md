@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 182. Confirmation proceedings[^c-edb4e76c23c9e6b9f0acad98b4e26467][^c-67d573d989be7d7aeeefd2792ac7da7a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 25. Release on licence under Criminal Justice Act 2003 of prisoners serving extended sentences[^c-e25780c06fc078b81fc2aba6d821a4fa][^c-168c7202d5d5794d2fce6bc725d9f670]
 

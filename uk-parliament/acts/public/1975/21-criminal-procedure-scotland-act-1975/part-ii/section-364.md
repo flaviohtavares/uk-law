@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 1996-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1975/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 364. Power of court, in respect of certain offences against a child, to refer child to Principal Reporter.[^M_F_8976ff85-885b-4a45-b72f-b8464f87d197]
 

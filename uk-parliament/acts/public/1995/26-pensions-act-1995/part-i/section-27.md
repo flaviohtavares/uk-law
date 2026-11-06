@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 27. Trustee not to be auditor or actuary of the scheme.[^c-9b886c5ca052ca51047bee7030c5a4dd][^c-acdfc94c2544b37717fff980a86bb3b2][^c-db182fb63fbe9cb3c36277fd764f69fa][^c-c598c0e65ff455335404a88d856bd9a4]
 

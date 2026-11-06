@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 310. Publication of three-year strategy plan[^c-f068ed2bed2afd65357a2c0b24a001db][^c-bbff6e89c7986779e2acf38b543a7ae6]
 

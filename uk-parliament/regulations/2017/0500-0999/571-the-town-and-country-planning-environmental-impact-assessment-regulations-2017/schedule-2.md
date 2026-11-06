@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 2 — DESCRIPTIONS OF DEVELOPMENT AND APPLICABLE THRESHOLDS AND CRITERIA FOR THE PURPOSES OF THE DEFINITION OF “SCHEDULE 2 DEVELOPMENT”
 

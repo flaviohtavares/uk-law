@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 50. Person to whom marriage schedule to be delivered.[^c-930f36f696264c32ed3bac21fd2f2dee]
 

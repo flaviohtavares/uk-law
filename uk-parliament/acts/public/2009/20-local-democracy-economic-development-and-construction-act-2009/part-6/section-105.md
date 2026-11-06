@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 105. Constitution and functions: local authority functions generally[^c-ff222a690f98502d6d2f8476b3bc6257][^c-50357fa4c51ed5be8c89a8cf63fb9a3b]
 

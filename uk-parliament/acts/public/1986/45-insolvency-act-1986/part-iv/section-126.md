@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 126. Power to stay or restrain proceedings against company.[^c15572671][^c-b45e38ced17db7037eef052f8c4cd4cf][^c-fe742f546faa282d50fcc1cca8477fe0]
 

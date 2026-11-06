@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 127. Enforcement by taking control of goods: England and Wales[^c-99e48e789acc270898fb9d7f816367d3]
 

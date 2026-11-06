@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-04.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31A. Grants for preservation of Royal Naval College site.[^c941401]
 

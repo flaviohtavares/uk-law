@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2955
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 25.4. Control of expert evidence in proceedings other than children proceedings[^c-45302bb375f8e1d49deab995a71da6b2][^c-fac486bccc89c6381f2f4fe36561bffb]
 

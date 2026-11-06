@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (32).** Text as at 2025-06-19. See https://www.legislation.gov.uk/changes/affected/eur/2013/1306
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England; Wales; Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## Article 12. Principle and scope (affected by repeal, see note)Farm Advisory System[^M_E_eqckv52w-q0o7-57m7-q5p5-679206d3aa508][^c-48377a0ca11bed4bebf74969a5d89fbf]
 

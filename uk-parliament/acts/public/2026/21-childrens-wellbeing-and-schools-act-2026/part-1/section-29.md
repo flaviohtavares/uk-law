@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 29. Employment of children in Scotland[^c-e468208b03c25f65aa5fbc6cf8e111ee]
 

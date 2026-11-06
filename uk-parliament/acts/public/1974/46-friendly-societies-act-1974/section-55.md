@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2016-10-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 55. Power of the Public Trustee to hold securities of certain friendly societies and branches.
 

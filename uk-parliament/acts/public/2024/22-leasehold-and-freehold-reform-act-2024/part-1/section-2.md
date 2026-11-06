@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Long residential leases of houses[^c-63a81f3ba24a28b2c1ab4abe9b7f51e8]
 

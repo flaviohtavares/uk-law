@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 173. Requirement for courts and certain persons to have regard to the list of countries[^c-4de791cc19bc5b8a26144c0a6be4dd53][^c-8bbe4b59b49e73591a3508c0f20c6e04]
 

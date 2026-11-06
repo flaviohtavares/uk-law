@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 242. The period of supervision[^c-7c35c1eefdb19fd632041597bcfe86dc][^c-bf3f986c61e3cf4ba0d49c711b42b301][^c-eca003c404d364f044cc7865c44652a6][^c-b7eb52dc83d86cd9e5318988f7fcc015]
 

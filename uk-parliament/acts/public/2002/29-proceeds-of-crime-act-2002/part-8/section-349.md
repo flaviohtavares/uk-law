@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 349. Computer information[^c-dcf22e354d7fd483415bcead2ee6a83e][^c-46a9a865180a6fd8c75f8ad98c0c0ecf][^c-fc7d523211dd4874b26bd051318a7a20][^c-32b5a28b5d29e3a131845fa26536302a][^c-2398e547ad1f6fc01d712109634d28db]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (91).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/53
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 45. Effect of endorsement of counterparts.[^c-ce5f749e8d1f2ba558da74413d0b132f][^c-55613db599202d0e137d6b4bd274ce3f]
 

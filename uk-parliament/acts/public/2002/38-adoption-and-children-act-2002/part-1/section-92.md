@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 92. Restriction on arranging adoptions etc.[^c-cd3f51e005202054b8cbea39283f1a58][^c-7136d113d2c8b0f90743cb6ccb4e4df1][^c-e17f6f141277217a36c50ee98902520b]
 

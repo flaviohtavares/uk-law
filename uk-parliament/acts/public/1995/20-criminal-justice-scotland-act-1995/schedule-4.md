@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 1997-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 4 — Sequestration etc. of Persons Holding Realisable or Forfeitable Property[^c1524028]
 

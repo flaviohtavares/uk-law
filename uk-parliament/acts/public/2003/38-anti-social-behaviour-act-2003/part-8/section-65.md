@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 65. Complaints to which this Part applies[^c-e5e923ec6b98977dbd5486de247baa8f][^c-b893cc387451b3d92efe017ae69d2834]
 

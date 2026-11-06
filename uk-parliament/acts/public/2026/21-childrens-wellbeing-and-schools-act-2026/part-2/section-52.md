@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 52. Teacher misconduct[^c-8a287d2c4ccc61ad033ec4ac0de28ceb]
 

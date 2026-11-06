@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 75. Deficiencies in the assets.[^c-c8f76801f0e8c4d94850c36b305db7f0][^c-114738bc7f16c7a1808f2cc7db05f6e5][^c-b218ad9628a1ededd626630036c99923][^c-1d6a33ad7bf275e85023bbc25f79bd75][^c-4d5a0c5c1dbf48771577528151712fb5][^c-2d46e7b6e203b776961447ea69b11ae2][^c-2cd39e9f4abbf6361433b96b5096a4c0][^c-8d96e156daa9cdf6d9ba28935cce170d][^c-a96451a97e9f4f592ef4240b053af7e6][^c-ee680af0827d2b8d4b2353e2b42eab09][^c-45aab9be5cbb982cba08f68f98e679a7][^M_C_32956168-3a3c-4927-9fcf-caee8e040b09][^c-6b17489451277b0e66491e0ada975aab]
 

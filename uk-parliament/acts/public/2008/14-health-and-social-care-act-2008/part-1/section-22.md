@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. Codes of practice: consultation and Parliamentary scrutiny[^c-f0ed83f3ec7165ffe299a9a522ede681][^c-973bf843ecba4db5d6141056e45f3c4d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 40. Information for Secretary of State about further education[^c-09a0f81a4e1251ed5bcffaee0d655b28]
 

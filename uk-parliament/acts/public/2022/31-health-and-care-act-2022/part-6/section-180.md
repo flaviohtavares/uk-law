@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 180. Licensing of cosmetic procedures[^c-212f553807e573040dd94893a0cc0563][^c-c35a9939bb47deaf931675e290c87696]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36. Abolition of NHS Trust Development Authority[^c-b8457245ba65969057cda25310737a5a][^c-9e53aa49b945073210e41499093e486e]
 

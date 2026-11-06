@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 9. Incidents etc[^c-ceaf4dbe1c76e616cdf948823cf9d62c][^c-351353b4bb8da06a883dd44f87a22a6b]
 

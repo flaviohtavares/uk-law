@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4. Agreement for exercise by Minister or strategic highways company of certain functions of local highway authority as respects highway affected by construction, etc. of trunk road.[^c-133e5fc1b6009a866fc9ea348345bc88]
 

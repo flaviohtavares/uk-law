@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (139).** Text as at 2026-07-08. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 48BB. Category B retirement pension: entitlement by reference to benefits under section 39A or 39B.[^c-e61b519b8ad4c02d5736095bc776c664][^c-2b28286553c6b50981a683b25e08be40][^c-4acc08a68942d1c884d5be2e8239fb3c]
 

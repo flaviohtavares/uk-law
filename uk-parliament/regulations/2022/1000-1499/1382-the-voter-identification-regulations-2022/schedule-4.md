@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 4 — Prescribed form of ballot paper refusal list at parliamentary elections[^c-96726a06a83e8d65972dd58f40923b7d]
 

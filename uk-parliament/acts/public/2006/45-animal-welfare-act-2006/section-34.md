@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 34. Disqualification[^c-a8b776dd0b329861fc1a6c561e4c30e1][^c-4066c9cc45846ab849d76bef00370c18][^c-e0fac6bfbb565386f50477b8b9d23127][^c-1b9b827086d288c2b6089ef37b0c5755][^c-798cd9aa15342af60f3c6b42ca0a9403][^c-d2ab416dc9309c548b91df1d6de18613]
 

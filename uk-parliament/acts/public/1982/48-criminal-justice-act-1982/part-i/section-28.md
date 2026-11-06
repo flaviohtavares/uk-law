@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1982/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28. Increase of limit on amount of recognisance to be taken from parents and guardians.[^c-f8fe2c08c0f9a2252a0b4e64a1d1586c]
 

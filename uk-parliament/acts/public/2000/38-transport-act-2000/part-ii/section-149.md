@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 149. Reimbursement of operators.[^c14881611][^c-e72c1dde7bd5df3936225261cfde1587][^c-2ab63b5183042a1c7182e7dcf7160817][^c-c05adb8597f2acc398b3fefbd54794ff]
 

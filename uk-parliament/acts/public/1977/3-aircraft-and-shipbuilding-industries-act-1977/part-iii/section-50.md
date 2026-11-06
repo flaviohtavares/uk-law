@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 50. Compensation for loss of employment, emoluments or pension rights.[^c-10d72fca511fba6631658ed5a27d2a7d][^c-10d72fca511fba6631658ed5a27d2a7d]
 

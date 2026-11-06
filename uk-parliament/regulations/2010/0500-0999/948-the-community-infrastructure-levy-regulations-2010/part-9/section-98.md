@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/uksi/2010/948
 >
-> Extent: England, Wales.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 98. Enforcement by taking control of goods[^M_E_c0185dea-1038-448d-e942-2d7b170c3ab5][^c-b80f7fe28301054239409250b1f2870e]
 

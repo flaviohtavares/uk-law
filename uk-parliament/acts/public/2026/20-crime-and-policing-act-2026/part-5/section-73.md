@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 73. Child sexual abuse image-generators: Northern Ireland[^c-d8ba4eb33eb69e3273ead8c858f09f0b]
 

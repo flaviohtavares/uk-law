@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Smoke-free premises[^c16418351][^c-c877f83e67f933b63430b53dd8ff4988][^c-6035a0bb2db712408c6cb4622cae4377]
 

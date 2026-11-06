@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 156. Pre-sentence reports and other requirements[^c-b6a39b221b0ec0924d4bd6ab27a6de63]
 

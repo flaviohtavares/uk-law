@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. Restrictions on alteration of admission arrangements[^c-ba76faeceff33279b8f251c3f9ca18ed][^c-b63acc9a201f16cd6aaca44c7be66a06]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2013-05-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1977/49
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 7 — Additional Provisions as to Community Health Councils[^c-64cf4276e85b01a78ed6a99349d80af9]
 

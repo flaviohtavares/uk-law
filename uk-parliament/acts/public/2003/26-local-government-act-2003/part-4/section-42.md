@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 42. Joint arrangements[^c-77eb4032f3387d73ec9cc9fa10eeff92][^c-c670d7304d1979dabe14bd83a6f8c067][^c-21225c56bd63782001a7479ebd68172d]
 

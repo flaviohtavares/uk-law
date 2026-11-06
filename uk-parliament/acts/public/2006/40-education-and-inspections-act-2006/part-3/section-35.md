@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 35. Funding of voluntary aided schools: meaning of “capital expenditure”[^c-325a7f1bc5815e2b780533571c4e504a][^c-3d9bf89fc1013ea2e1dbe03755473510]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-05-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/14
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 52. Duty of Passenger Transport Executives to advise Secretary of State[^c-292967ffd8f2b8352bf07e9ed7226e72]
 

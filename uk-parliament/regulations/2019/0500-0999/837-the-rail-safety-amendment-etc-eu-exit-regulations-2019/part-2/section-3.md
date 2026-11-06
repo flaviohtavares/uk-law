@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 3. Amendments to the Railways and Other Guided Transport Systems (Safety) Regulations 2006[^c-01e6a7d9c3fe88287293d33bdd3d3a01]
 

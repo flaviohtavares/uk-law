@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 181B. Duration of disqualification, and suspension pending disqualification[^c-a9947b1d637c24a3ecb82a83ba702716]
 

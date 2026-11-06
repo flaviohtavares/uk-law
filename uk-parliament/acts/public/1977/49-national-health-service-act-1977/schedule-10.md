@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 10 — Additional Provisions as to Prohibition of Sale of Medical Practices[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 

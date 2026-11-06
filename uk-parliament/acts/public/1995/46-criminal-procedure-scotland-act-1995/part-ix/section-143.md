@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 143. Prosecution of companies, etc.[^c14470942][^c19806911][^c20438651][^c20903061][^c-de8db48f527ee93322799f00f41d2b0d][^c-a78e880248200f1ee6b29b1b6046f3b2][^c-6b597ae7a9580b2ee9a62a50c04ac97e][^c-d33dd546ed52c9d5806547ab73f79e39][^c-75518da71bfc90aae6c5222abd1f8b0f][^c-30bd0a11ed78f23d251d8c762c211d09][^c-ea9c3bcdf1ea17cc3d144c2b03f49254][^c-f90a091c4630926c9b0b357d32233ea8][^c-62cc1d415a050dfd4bb4484ec9ca14c6][^c-b4a2931a3c6b444bc3237bf7bddc8544][^c-3def27ff6e0f3e4704049e64834df393][^c-159542c9785d6588caad74f5ca774433]
 

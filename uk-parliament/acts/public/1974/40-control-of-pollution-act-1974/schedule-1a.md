@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 1A — Orders Designating Nitrate Sensitive Areas: Scotland[^c-a5651fe2fb0f39f4b480e25d404710f4]
 

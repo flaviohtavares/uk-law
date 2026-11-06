@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 51. Period of entitlement to contributory allowance[^c-17fbc9012a6b066b3dd47d5cf45c7dc4][^c-62acb8d4ec3aaadd9e8f87a729b44705]
 

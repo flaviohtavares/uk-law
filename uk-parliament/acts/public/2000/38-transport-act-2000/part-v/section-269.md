@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 269. Report on rural road speed limits.[^c-21765078cee2206efce40a84dc73de5a]
 

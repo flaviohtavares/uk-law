@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 25. Inspection of records required to be kept by holder of licence[^c-5b7cde7f5e260295d68d241f32184273][^c-d5bac60df2afcbca5ac2aa7d2316bf91]
 

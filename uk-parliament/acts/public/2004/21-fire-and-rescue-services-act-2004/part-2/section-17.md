@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 17. Directions as to arrangements under section 16[^c-7b66f93556378e8fbdd1e0878f0cba01][^c-977930a4ae27b67acc3ba25f844898da]
 

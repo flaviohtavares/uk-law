@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-23. See https://www.legislation.gov.uk/changes/affected/ukpga/1964/40
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 54A. “Developments of national significance” etc.: special procedure[^c-2c52ed7b917f11f39b9c8a9e88bece89]
 

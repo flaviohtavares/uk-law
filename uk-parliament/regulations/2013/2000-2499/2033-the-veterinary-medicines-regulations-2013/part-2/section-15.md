@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-05-17.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 15. Exemptions[^M_E_c2cb2efe-3ece-4b87-c4ae-0e7219a5733a]
 

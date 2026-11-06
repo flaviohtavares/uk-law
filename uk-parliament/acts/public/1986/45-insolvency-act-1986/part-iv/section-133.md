@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 133. Public examination of officers[^c15572861][^c-8bc9fe2880e8997065a0508629af93dd][^c-5ed24ba9fe795edfb1a99e72a515ed7c][^c-008d75ac86736297ad86f68b7ab6dafe]
 

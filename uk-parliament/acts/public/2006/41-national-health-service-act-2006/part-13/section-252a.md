@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 252A. Role of NHS England and integrated care boards in respect of emergencies[^c-c3668256dd3a8ec848533ae4fe5359c4][^c-c26379f595629655ada8a57e0d3d2bfd][^c-77f236601d5f7e63e37540041f785bc5]
 

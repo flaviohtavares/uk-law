@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. Repeal of register of retailers of tobacco and nicotine products in Wales etc[^c-0dccc1522e7a6a6770ab1c346a6964c4]
 

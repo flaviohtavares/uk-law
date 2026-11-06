@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (186).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 116D. Supply of information by the Housing Executive.[^c-26194f5d61442d376e54ba0a99217aae][^c14899971][^c-29e2cc8856bcbab15ef87fef598d031c][^c14899961]
 

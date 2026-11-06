@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (34).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 48. Duty to consider applying for rent repayment orders[^c-3e7b74089bc4de0a6788c29918ce3525][^c-3dd00280f974a1b6742cb556080cf46e]
 

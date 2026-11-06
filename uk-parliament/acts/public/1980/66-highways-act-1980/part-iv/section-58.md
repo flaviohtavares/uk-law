@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 58. Special defence in action against a highway authority for damages for non-repair of highway.[^c21456701][^c-c6a77ba05acebb8d3c3aaafe89e09fa0][^c-f3fa65132b6171f3f43c036e77603a8c][^c-cd601295a3a2ce514921e486c8291131]
 

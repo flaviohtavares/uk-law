@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (34).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 122. Electrical safety standards for residential properties let by landlords[^c-358a8d77c756f7d0733c0c1db244282a][^c-6743a12a61a99a5e1b8bd5890bb10bf9]
 

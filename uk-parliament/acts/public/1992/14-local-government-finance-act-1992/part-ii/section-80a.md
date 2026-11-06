@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 80A. Local authority's power to reduce amount of tax payable[^c-5028c0e77880718590072da62150e3f2][^c-83101f05e799d7c952e96a9119b86102]
 

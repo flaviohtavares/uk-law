@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. Power to give a domestic abuse protection notice[^c-1e5038dbfce2413fa9fb2b34333f3db6][^c-e014203b60360663a0d9c8d9e30c2b94][^c-9965ca094e298a156b81234f65c43ece][^c-156c1b1e97c95c936f7a79cd83de9800]
 

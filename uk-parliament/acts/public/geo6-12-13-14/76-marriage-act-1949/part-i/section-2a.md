@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2A. Marriages of whole life prisoners[^c-1a591484807c831a278b4562d26d942d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5A. Local probation boards and service justice[^c-a8a3a42b8a242b1b30838d7710087a3b][^c-e688f0acb6c59e49da1f0f12b42894d3]
 

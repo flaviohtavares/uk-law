@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 216. Revocation or modification of permission to develop operational land.[^c14934171][^c14934181][^c14934191][^c14934201][^c14934211][^c14934161]
 

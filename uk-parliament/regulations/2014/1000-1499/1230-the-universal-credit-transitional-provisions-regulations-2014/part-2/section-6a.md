@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/uksi/2014/1230
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 6A. Restriction on claims for housing benefit, income support or a tax credit[^c-d9c558fe380a65bd953ab0f2effb4904]
 

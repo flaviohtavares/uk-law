@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 2A. “Discrimination on the grounds of gender reassignment.”[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 

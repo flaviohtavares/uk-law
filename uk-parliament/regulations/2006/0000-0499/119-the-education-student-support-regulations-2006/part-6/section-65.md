@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 65. Students who are treated as in attendance on a course[^c-cffd2a59a6d9484badaf029d5fc2160a]
 

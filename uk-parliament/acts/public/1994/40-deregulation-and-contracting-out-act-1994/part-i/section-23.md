@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 23. Repeal of Part I of the Shops Act 1950.[^c-b6bcd9cecfb11f70688a978611f360e7]
 

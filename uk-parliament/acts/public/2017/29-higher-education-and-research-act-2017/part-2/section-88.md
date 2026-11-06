@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 88. Other amendments relating to financial support[^c-bb494f639b6f3a960ea79f1f9a5ae256][^c-640d40b54de57bf28918d92fd90e50b6]
 

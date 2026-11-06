@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 170. Action by. . . planning authority on whom purchase notice is served.[^c14929001][^c14929011][^c14929021][^c14928981][^c14928991]
 

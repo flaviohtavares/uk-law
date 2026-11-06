@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 42. Fire hydrants[^c-bd79ca2950b914d797dd575dbf2abb75][^c-964b29c778d06961ec2c1b376d496ea3]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 25. Further requirements in relation to notices[^c-be54f5ea44ea7e1941ba0554c89af638][^c-83884657bc5c658ad855d10e01efedb4][^c-610bd0b189f53b819076bca91e225aa6][^c-6b6f1b257160f0209218f2fe9f45dc51]
 

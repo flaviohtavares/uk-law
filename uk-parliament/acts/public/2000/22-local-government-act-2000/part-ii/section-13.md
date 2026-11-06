@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Functions which are the responsibility of an executive.[^c1427810][^c-e1b9e2d90a55d9f1e6e7f803af113155][^c-ab4f7c803c061d21a26abb67e403412a][^c-1896459164c81ce4113fc8155d829f91][^c-3cef183acfe906d937241a6bcec70029][^c-ed06d1f5ea3615764784965a0050ccce][^c-84a90782a91d4f54b5ff068a255b8707][^c-b3eca01c9efc18d4933c19d87c5a31ca][^c-31e5c1a308197923afd390c4c053cb9f][^c-6efdc17cb960c4ec524c8bdb834688b3][^c-dad2a6306dab3c613105736744c53914][^c-b3eca01c9efc18d4933c19d87c5a31ca]
 

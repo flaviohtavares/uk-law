@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 21A (Extent: W). Fire and rescue authorities in Wales: performance and governance (Extent: W)[^c-2b0d93359f4458eb9704e1eba0fd6e39]
 

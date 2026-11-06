@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 18 — The Health and Social Care Information Centre[^c-d922f707d5ebd45cddbc1e058011bae3]
 

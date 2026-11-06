@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 6. Activities involving material from adults who lack capacity to consent[^c-4e0c014138d1caa66c61b4fa78a3c991][^c-e41bb524842a1cbbd4ffd66a7ad5e529]
 

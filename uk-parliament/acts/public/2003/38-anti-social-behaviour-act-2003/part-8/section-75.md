@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 75. Offences[^c-709f1adf4098ac69a59013cde50241d5][^c-6aac267bc0afd20a5abd8bed23af1e21]
 

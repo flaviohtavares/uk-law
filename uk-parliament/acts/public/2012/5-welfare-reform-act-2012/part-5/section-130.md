@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 130. Information-sharing in relation to provision of overnight care etc[^c-ea7052baed59cfe434e50a940eb7d3a0][^c-27cc10b02fba41b82384df5ed9df4a2c]
 

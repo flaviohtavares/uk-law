@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 32. Application of Commission Delegated Regulation (EU) 2019/2017[^c-bad4ac9ebc079571d68cc8a20e7cc90e]
 

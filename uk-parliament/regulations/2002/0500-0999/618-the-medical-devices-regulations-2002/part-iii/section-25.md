@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/618
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 25. UK marking of active implantable medical devices that come within the scope of this Part and other legislation[^M_E_fca8c960-fac7-4c00-e0d6-9731b05b78de][^c-7df58b0f0c0b98b4069b9250669dcc56]
 

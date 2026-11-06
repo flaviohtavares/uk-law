@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2019-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1967/86
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 37. Compensation for creation, diversion and closure of public paths.[^c-25afe4f1746ca88e865bba1569c47946]
 

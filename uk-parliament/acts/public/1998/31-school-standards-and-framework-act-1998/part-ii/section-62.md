@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 62. Local authority’s reserve power to prevent a breakdown of discipline.[^c-547c60611dff5f5dd718b81b3e136e87][^c-4ca1563fc1461cba6e5593d5d7c591cf][^c-5177265949adaa73e26402711f36dc2e]
 

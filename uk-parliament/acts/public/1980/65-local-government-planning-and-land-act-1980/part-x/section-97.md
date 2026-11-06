@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/65
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 97. Secretary of State’s power to require information.[^c-06afe59ca97abaa70e1c1a38877031a6][^c-d9d4ef8afddfb0a6dd29b774f4b16281][^c13874281]
 

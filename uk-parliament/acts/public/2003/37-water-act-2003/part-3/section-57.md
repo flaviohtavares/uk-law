@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2022-01-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 57. The Chief Inspector of Drinking Water and the Drinking Water Inspectorate[^c-1767401f1e4a379a5fb62b5bfe84a9f1]
 

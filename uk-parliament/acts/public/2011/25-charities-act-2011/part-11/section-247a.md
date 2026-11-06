@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 247A. Regulations about moratorium for certain CIOs[^c-828372f691e17b935e211e45a1f1c841]
 

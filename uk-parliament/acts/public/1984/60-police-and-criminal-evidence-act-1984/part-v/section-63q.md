@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63Q. Destruction of copies of section 63D material[^c-020f0dba6c7a5ab647a8af467d2e1d25][^c-b9dc42177f713e604efd305198f4239f]
 

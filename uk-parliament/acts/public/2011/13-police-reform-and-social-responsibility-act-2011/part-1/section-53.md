@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 53. Public awareness about elections: role of Electoral Commission[^c-eae5b12e8388d47d4cd2c05783264da8][^c-1317ab83fd35247630aeb7e9c7f67ca4]
 

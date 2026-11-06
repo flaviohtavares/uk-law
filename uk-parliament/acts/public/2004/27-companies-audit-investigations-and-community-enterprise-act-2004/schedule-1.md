@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 1 — New Schedule 7B to the Companies Act 1985[^c-2146ed9260cddc9bb6aeb61aff45b4e1]
 

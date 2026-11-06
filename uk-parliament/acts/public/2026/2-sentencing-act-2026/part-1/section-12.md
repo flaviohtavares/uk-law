@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Removal of requirement to specify maximum number of days[^c-63f62f0012cf33e43a4378b95a8569e4][^c-44e505f6d4d40018ac816d9b21d08a8e]
 

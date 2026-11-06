@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 72B. Power to request additional evidence in relation to absent signing applications where registration officer considers it necessary[^c-ef45cd1e42d46816a759c17f3c2d618d]
 

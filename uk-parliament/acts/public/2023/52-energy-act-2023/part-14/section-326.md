@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 326. Transfer schemes: taxation[^c-e2383abdaba74d29001b4180161a8c37]
 

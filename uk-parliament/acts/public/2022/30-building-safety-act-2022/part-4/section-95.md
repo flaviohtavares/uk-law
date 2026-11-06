@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 95. Duties on residents and owners[^c-fe0edc84ad366c601b02163f96ada4c4][^c-e11e9c5254a22e5f288b80ad36b28b2b]
 

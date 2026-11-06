@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 105CA. Conclusion about environmental impact of a project for constructing or improving a highway[^c-4da1fb64128d6c93404a2cdf5336c23d][^c13422031]
 

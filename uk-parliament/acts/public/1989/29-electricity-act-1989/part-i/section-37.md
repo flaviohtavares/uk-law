@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (62).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 37. Consent required for overhead lines.[^c4113711][^c4113721][^c4113731][^c-2c9ddd092a629cc1bda41ac6915fbfc3][^c4113701]
 

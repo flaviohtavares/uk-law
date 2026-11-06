@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 3. Spending on mental health[^c-6226fdccf683a2880f73fc9098d27080][^c-ecf309dafa45e4386337bf084d45f8a2]
 

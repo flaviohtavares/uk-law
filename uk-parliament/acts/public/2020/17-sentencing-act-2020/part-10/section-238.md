@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 238. Offender subject to more than one order: maximum overall term[^c-30d2403e101a66af76e7cf90d36f2111][^c-eca003c404d364f044cc7865c44652a6][^c-475138cb26403cfd0af0e345e7aac88f]
 

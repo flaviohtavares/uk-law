@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 35. School uniforms: limits on branded items[^c-6197fab773a34ecca1c984fb3455b16b][^c-57d49d797230d15b348e693ae306503a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 31A. Calculation of council tax requirement by authorities in England[^c-3059ed7020edb1e8f1377089ae94389c][^c-3c633e3c84625d299c5565f9648765ed][^c-1304ad51e0298e9c29d2496b54843766]
 

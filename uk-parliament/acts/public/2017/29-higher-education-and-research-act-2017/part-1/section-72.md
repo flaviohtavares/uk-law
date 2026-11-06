@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 72. Retention of fee related income[^c-6fd2a44c33baf00d226c676e117fb2e0][^c-8f6c2d00d9a92578c1cb2ee274c93b4d]
 

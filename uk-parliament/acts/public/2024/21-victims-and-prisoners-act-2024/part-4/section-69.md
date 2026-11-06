@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 69. Section 3 of the Human Rights Act 1998: life prisoners[^c-afcd407b55fcdabc0a86290d6bf355f6]
 

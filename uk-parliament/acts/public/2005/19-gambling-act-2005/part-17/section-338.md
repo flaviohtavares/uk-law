@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 338. Interim moratorium[^c-846d9ebca0b5927b8c86de4baaeb5cbc][^c-2ef50544269cb1766b7b626e34f696d8]
 

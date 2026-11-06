@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (71).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 76. Limitation of election expenses.[^c14492981][^c14492961][^c14492941][^c14492951][^c14493001][^c14492991][^c14492972][^c-0522e2fa742d2bc9bad6fc925dfa4d1c][^M_C_93b24a33-fcc1-465b-a54c-49416bc0aac8][^c-a74e98e474fb049a86157667748ff177][^c14479931]
 

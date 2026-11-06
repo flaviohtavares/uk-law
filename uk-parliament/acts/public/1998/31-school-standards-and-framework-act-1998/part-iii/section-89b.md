@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 89B. Co-ordination of admission arrangements[^c-bce747c857403a20f075f44561310e86][^c-c49d7ed1049e5c6936b5872546e931ab][^c-d982c640ef3e4a6fb406b5213b8dd1eb]
 

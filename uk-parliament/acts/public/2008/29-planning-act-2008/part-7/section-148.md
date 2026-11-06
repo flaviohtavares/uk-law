@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 148. Deemed consent under section 34 of the Coast Protection Act 1949[^c-cb4020f4dcaee1c3ac88396de211b242][^c-c8adb2751d6693f157d72cf12a5ced13]
 

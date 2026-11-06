@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 4C. Married person or civil partner with interim certificate: issue of full certificate (Scotland)[^c-437d545d67af51b16eaafe3af4651064][^c-468122cfbe324ad68b6dc8f1951b91fc][^c-46d8366cb9595bf218d0e4a55eaeda9b][^c-1d693a3df99f606a8968ca0190c8c3f9]
 

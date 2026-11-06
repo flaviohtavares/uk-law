@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 29. Duty to act with due care and prohibition on making EEE available on the market[^M_E_0048d09e-7efd-4772-d018-7517e3b6f8fb]
 

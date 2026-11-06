@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 55. Returning officers: expenditure[^c-baa3216f0b4be8cba491bbfc0eb8cebf][^c-e5a28d5d42db1ead4db90a97104ee0eb][^c-1317ab83fd35247630aeb7e9c7f67ca4][^c-1e7895024b1f340bcfaf9d1898a79806][^c-ba59aefc96fbd34defd60a9ad10dbbc6]
 

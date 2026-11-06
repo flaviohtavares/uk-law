@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 31. Ballot paper refusal list at parliamentary elections[^c-d4473f7857f115fac031168eb019f945]
 

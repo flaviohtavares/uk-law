@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 29. Release of prisoners after recall[^c-6138d7a94f971de3f16bacef0b7a5d75][^c-7703a340452e33998d245fdbd350e127]
 

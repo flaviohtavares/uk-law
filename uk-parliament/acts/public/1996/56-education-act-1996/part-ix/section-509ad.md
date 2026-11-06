@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 509AD. Local authorities in England: duty to have regard to religion or belief in exercise of travel functions[^c-f8e2513688da311031eea9f30e180ce9][^c-df82d42709314c7296748c08b3554faa]
 

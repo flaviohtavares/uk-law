@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 199. Exclusion of land from Mayoral development areas[^c-3375e98e1835a6eefd480721b74ed6ec][^c-f22ac3bd1689349ac407023d23167c73][^c-087a39ecf556bc7a042833c5f2e25236][^c-eada4f88f4769f792731d2fc31c590a2][^c-250b381cc6b3a829195738e959b9cac8][^c-3375e98e1835a6eefd480721b74ed6ec]
 

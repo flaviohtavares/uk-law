@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-08-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 25A. Exercise of court’s powers in favour of party to marriage on divorce or nullity of marriage order.[^c8895981][^c-57bd8c39385fcc60f1fd2b7b5dd12783]
 

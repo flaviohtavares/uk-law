@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 106. Financial penalties: maximum amounts[^c-566d927cb8a523cd52722b52b6f2a219]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. Sale of tobacco etc[^c-dbee61247c89cf72aa72f6c411c6a96c][^c-17e02511a48df23f876378c6a0a00df7]
 

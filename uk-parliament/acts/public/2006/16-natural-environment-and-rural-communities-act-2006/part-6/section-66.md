@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 66. Restriction on creation of new public rights of way[^c-6a3945dac800498992786f3d16fa4286][^c-20d6b4b2b0bc3b6dba1103da7756b715]
 

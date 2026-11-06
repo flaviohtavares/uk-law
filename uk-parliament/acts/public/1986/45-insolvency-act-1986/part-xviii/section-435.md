@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 435. Meaning of “associate”.[^c15586151][^c18970941][^c-fadd2a8670adf4a22a3876dc18c5f156][^c-9037a71bf4f7ea392a0e34ae4a529849]
 

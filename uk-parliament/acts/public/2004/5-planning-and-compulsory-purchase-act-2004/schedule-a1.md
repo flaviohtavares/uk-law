@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE A1 — Default powers exercisable by Mayor of London , combined authority , combined county authority or county council[^c-32e5545318e17060cfdbaf55832aa78d][^c-3e5f1753a7d7b1e6056c397c2b5778e1][^c-b6bee7eb27b570dc71bf1064884c969f]
 

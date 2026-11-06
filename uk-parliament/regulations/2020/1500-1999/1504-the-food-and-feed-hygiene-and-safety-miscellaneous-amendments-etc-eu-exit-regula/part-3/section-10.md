@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 10. Amendment of the General Food Law (Amendment etc.) (EU Exit) Regulations 2019[^c-b24ed15f34399d631309696b3ecf0e34]
 

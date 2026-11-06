@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 190. Power to require prospects of planning permission to be ignored[^c-68c7d49373fe33e3cef1e4fed947f547][^c-7b917e5356c17576458a77d60f94c6ec][^c-cc75d0ad5d9c3ca770e7c1f7b9469233]
 

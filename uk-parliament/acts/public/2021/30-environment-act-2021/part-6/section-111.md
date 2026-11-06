@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 111. Wildlife conservation: licences[^c-21d8c5b5087cbd3eb61f1d89cd90f8fa][^c-dc85b2743428329f30b0f1daf457507c]
 

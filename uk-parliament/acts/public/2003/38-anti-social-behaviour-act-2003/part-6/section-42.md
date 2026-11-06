@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 42. Dealing with noise at night[^c-291c01c715e38287df11b54b2482a866][^c-f97cd4e18989b77168b193e68f4afff0]
 

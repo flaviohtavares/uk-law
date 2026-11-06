@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (34).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 173. Warrant authorising use of force to enter and survey land[^c-0dfabc749e296cd04d64a3eded4e88b9][^c-57bf9165e8b843a538bc781c2253b60a][^c-ae6b30dc9d7249c063735b2dbc323654]
 

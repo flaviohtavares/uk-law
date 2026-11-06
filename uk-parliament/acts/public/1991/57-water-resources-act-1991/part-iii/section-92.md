@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 92. Requirements to take precautions against pollution.[^c18733511][^c18733521][^c-45b2ab576a9621c2eb842702773a81d4][^c-bd8892699e35944f9f42b910f40a688d]
 

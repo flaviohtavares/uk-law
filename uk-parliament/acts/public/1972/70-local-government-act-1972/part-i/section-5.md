@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England.
 
 ## 5. Vice-chairman.[^c19884651][^c19884641][^c-de8c13f3ee79ce9dfa997f53b3b93e0b][^c-7552807bed78b77cab310def501ef3a0][^c-fc89aba8303067f185c36b809a48c44f][^c-244b05677be08e576147e6e3f4a29090][^c-97144210d33748cb78dd669c110f425f][^c-143d757a623709d31587f6d5e2538a32][^c-2fb389a5f3bda5cd63d727ca3ca27253][^c-2155dbcdcdb0e06c2f311934f04fdf7b][^c-b8b672e57075ca65876f83fc50f40020]
 

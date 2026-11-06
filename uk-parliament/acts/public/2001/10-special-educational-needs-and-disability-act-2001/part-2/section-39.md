@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2021-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2001/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 39. Application to the Isles of Scilly[^c-6f95c713f63563eda7f54e73803c69c3]
 

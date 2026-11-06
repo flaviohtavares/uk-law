@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 54. Oversight and support of NHS trusts[^c-3d8086d3db26f19a6b4d3b30e0362f9e][^c-2a8f5a5e0040c20e957a8a56912c4c61]
 

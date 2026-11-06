@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 63. Powers in respect of persons[^c-d1f8ca2a17df0dc20cfed38464b80549]
 

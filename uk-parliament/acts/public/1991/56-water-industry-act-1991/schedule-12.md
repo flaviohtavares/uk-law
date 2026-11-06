@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 12 — COMPENSATION ETC. IN RESPECT OF PIPE-LAYING AND OTHER WORKS POWERS[^c-ad3fc2a81ba24f7eacff05a763256c93]
 

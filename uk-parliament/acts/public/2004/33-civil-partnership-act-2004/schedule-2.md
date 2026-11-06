@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 2 — Civil partnerships of persons under 18: England and Wales[^c-ed2be695222de51395907486cd83978f]
 

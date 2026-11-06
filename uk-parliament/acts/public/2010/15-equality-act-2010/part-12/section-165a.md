@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 165A. Disabled passengers: assistance to identify and find vehicle[^c-a72dafc6f97556a0f8584c8704e13cf2]
 

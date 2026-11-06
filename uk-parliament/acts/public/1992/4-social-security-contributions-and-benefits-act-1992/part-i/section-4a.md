@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (139).** Text as at 2026-07-08. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 4A. Earnings of workers supplied by service companies etc.[^M_C_3f65d154-5ee3-4fcf-defb-7ac6222f12cc][^M_C_4cdc78e9-531b-4b85-db2d-087bfb73e952][^M_F_435c275e-6a88-4ad0-c4df-6e9d3e502549]
 

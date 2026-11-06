@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 53. Schools with pre-1998 arrangements for selection by ability or aptitude[^c-410b298f57fc2e535bee56198db697ee][^c-a196a82bf9c57922878ac7d270cef738]
 

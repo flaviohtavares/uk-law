@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 25C. Consequences of not complying with an enforcement notice[^c-795424931d4e9b3de8e12dea12860f0d][^c-73d8702e2869f22ad0a708effff725cc]
 

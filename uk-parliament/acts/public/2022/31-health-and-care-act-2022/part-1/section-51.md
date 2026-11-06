@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 51. Licensing of NHS trusts[^c-c1cd054a1e3a82802cc3ca5b2e98ae84][^c-ffc1b0402053d4131350b2dc8c9ede66]
 

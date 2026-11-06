@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14. Preparation of consolidated accounts for providers[^c-7fc9d69f0713f7bdce9eed9d4148ccf6][^c-ee4e2869d8798008392eba116b3d4fec]
 

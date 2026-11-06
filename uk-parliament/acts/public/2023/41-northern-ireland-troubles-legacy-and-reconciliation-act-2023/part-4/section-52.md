@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-05-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 52. Academic research[^c-3c943b60fb5058206f8bc0e91540f976][^c-9f66abec5575a1ef3f82a1bde3e3d3d5]
 

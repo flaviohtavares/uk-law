@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## 24. Placing on the market of compost or digestion residues for use on agricultural land[^c-13ecd4358e524f8217ce73ac3012eeac]
 

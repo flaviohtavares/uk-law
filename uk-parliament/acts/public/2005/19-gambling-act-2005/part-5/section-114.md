@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 114. Lapse[^c-c859b47ec4114b84b00786d3baa47124][^c-f9552b28c20cf7181d2970a8b4f0003f][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-5489149c4e9873ffd4814e39118d2317][^c-e1f6e585bac667309e250f830e864ec8][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-e1f6e585bac667309e250f830e864ec8]
 

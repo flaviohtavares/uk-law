@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 43. Termination of disqualification under section 34 or 42[^c-1d2eb6d32c6e080a0dd452b961903ad5][^c-5b5b9464e2982b26c28f9a5b92f85177]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 174. Disapplication and modification of earlier transitional provision[^c-b74578f802086802ba7a2fa74d7f4a2d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 43. Possession of pesticides harmful to wildlife[^c-eff336f5656a2d27067bb919277da987]
 

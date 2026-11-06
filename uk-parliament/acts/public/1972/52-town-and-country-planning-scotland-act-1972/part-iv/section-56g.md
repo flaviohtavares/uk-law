@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 56G. Deemed hazardous substances consent by virtue of authorisation of government department.[^c14921151][^c14921141]
 

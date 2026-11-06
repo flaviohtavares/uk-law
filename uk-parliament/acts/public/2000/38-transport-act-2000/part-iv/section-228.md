@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 228. Extension of functions.[^c-86e53089f68bc1894f39d1a9e9bc4974][^c-86e53089f68bc1894f39d1a9e9bc4974]
 

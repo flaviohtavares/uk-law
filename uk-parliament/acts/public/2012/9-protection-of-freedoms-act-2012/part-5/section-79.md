@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 79. Restriction on information provided to certain persons[^M_C_94b59b3f-94ef-4ae1-8dd0-9d7a9b08129a][^c-024bac72edc08a9845fed4178830b139][^c-580f78e87e0fe84e470c41c8ac9657b2]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 48. Fees for applications for harbour orders[^c-be548a1b50bccbc5af69c75f00f8e8b1][^c-716dcdcd23737c4a49a7ce7f7dac5661]
 

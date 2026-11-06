@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-17. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 78. Local authority meetings[^M_C_56e7ce83-1a0c-4a3a-d699-dcb699b0c75e][^c-5721fd4e19a6aa7a1701ae4a5b3a6b1c][^c-51f2cc99f7fb0dab54c274fd98f12eb6][^c-22a7393ad47552e91a30babe0addd657][^c-65ea7ee1549f809813e3b4d550723656]
 

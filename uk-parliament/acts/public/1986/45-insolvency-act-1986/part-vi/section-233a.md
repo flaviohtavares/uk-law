@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 233A. Further protection of essential supplies[^c-413607b4d3ebed1838d6742db94f054a][^c-225f395e19614ba8696b36e38d0a8c50][^c-02f08ee12d62f45e8fc28e5e2eeee692][^c-71417d6eab03f1cf1d383a06efb730ed][^c-f9f9c959e106405c8c60766fe84a2d7e][^c-c35d8a3801392437e867a6c13a0d30ba][^c-788371096f8da5425d0cd572175725cd][^c-d337fadf2c894e59dad1a36f8d3f02b7][^c-127bd333c3b48e6ed50fe398ed0a22f6][^c-02f08ee12d62f45e8fc28e5e2eeee692][^c-71417d6eab03f1cf1d383a06efb730ed][^c-788371096f8da5425d0cd572175725cd]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (46).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 10 — Repeals[^c-cea87dd6f8c24798b09d2961a671e3ec][^c-346cb8ebf5f1e0c7663737b827527e9b][^c-bd2ae48e056d2a1b97f439a1fd56dc59][^c-66c6e3a51eb9a21fe4580d84a9332c5c][^c-f93736980d736f1f136b8cec4d6ae1c9][^c-878e53a5a72e5ae06a452a6810530c35][^c-b3e3e04c708bd5c62c62d71ad056e0ba]
 

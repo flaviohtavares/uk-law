@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 188. ‘No-scheme’ principle: minor amendments[^c-4f4b2d244718759c02beb32bfb544994][^c-fcd2ee1aa5f9949a553a8110ac619afe]
 

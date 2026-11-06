@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 174. Release (winding up by the court).[^c15573581][^c-2a7d263dcfbe5ad80bf0e7b27e3ff624][^c-9764c593168a5590126245232b7d4301]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-12-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. Appointment of strategic highways companies[^c22564471][^c-68b3e7a161709dad6c4a2d5af89e9c96]
 

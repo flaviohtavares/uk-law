@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/61
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. Recognition of legal services bodies and of sole solicitors’ practices[^c2574231][^c2574241][^c20427711][^c-218a411350d63934b1ea886d18da1117]
 

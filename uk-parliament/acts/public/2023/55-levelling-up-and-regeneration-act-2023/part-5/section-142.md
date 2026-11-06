@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 142. Power to permit community land auction arrangements[^c-b7bec12f2750030e3fa110b2d826a85d]
 

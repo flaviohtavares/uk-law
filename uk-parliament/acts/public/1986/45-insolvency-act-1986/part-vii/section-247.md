@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 247. “Insolvency” and “go into liquidation”.[^c15576211][^c-192d6b766599e59ab5c9241cca3e2fa9][^c-2f8b93e2177b6a894a07839054a92bb7][^c-546a59be341c4e857a496d164b9eaec5]
 

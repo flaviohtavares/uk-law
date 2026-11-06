@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 88. Power to repeal or amend sections 85 to 87.[^c-787a50d4a9e472d944e1a9de5e2c13c6]
 

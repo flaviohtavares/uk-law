@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 115. Local highway authorities in England to consult before felling street trees[^c-caf6ee49006df2c3e51a52dcef65b689][^c-68cd70f4cbe9fbd92d77788ac867eb6c]
 

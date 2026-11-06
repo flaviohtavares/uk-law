@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 18A. Extension of time limit to facilitate conciliation before institution of proceedings[^c-64890672dc01bd7ea24af3870523cfb5][^c-2ced951c7a522817e3851a3140fe42db][^c-db8dc0a73566146315104d63353b4896]
 

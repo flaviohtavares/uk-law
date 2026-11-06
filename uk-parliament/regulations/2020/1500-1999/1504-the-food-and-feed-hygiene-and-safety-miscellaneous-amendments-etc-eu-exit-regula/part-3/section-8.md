@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 8. Amendment of the Contaminants in Food (Amendment) (EU Exit) Regulations 2019[^c-c52c120ed9560422be075cc8fd148246]
 

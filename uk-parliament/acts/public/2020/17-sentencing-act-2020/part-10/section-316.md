@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 316. Appeals where previous convictions set aside[^c-311f34dd6031b293bbf3f18e0397cd86][^c-f6a7e0dc6fcd7928f8776a99edc07f1f]
 

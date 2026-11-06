@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 240ZA. Time remanded in custody to count as time served: terms of imprisonment or detention and detention and training orders[^c-95e5e4f59b6ae8a22d3c5512a9ccc6ed][^c-ad9c2bc53516bdc69645a8f71e932e46][^c-155c0f69a8116c840c0366b45e57112f][^c-46bd9d291b668f346c84a324d76c0a16]
 

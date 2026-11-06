@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 69. SEN information report[^c-6b6f9aadc873020df785b1f3d6b47e6b][^c-ef02ff675f1ac899e28b739c66f70c3f]
 

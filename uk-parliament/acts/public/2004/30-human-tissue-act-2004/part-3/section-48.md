@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 48. Powers of inspection, entry, search and seizure[^c-f105d0e472cd902aefb9a8e417902d87][^c-ce03e2a68495e75264118216a474ee94][^c-335d71dbe806fb8d8390b3049b463f41][^c-d4c8735040e05e39d0c20cc6481e189c]
 

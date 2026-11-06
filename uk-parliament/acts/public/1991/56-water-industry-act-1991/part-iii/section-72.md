@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 72. Contamination of water sources.[^c13218461][^c-4ca5f0937922819ee65adaae5a1530b2][^c-1f0e510161ce6b5cdfef5c9c51723629]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 107. Information to be provided by the Secretary of State[^c-7b819f3d3df2db79c60058f8a0674bd4][^c-3e3367d063e45aa4930571a0951c6f0d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 68. Challenging the award: serious irregularity.[^c833522][^c2085244][^c2085664][^c2085776][^c2086240][^c-e2794f02425194c94dfaff3c83d592f4]
 

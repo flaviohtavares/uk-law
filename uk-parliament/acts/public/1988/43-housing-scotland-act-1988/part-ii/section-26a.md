@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/43
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 26A. Discriminatory terms relating to children or benefits status[^c-619f6d83fdd2bf4fa60a515934c0843a]
 

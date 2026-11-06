@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (171).** Text as at 2026-09-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 7A. Evidence and procedure in cases of serious physical harm: Northern Ireland[^M_F_205de13b-1a62-42c6-d25f-c631058ef144]
 

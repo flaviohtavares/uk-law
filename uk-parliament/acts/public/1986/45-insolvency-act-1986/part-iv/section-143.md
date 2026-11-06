@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 143. General functions in winding up by the court.[^c15573021][^c20429531][^c-98c16e27fbf0df0ebe96c31b14c79972][^c-46ffeef87f99bd83ddade091ccba67e7][^c-19a0dbd549ca6815d6c057f3c4163f52]
 

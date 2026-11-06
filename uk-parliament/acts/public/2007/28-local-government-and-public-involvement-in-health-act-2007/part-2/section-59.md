@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 59. Change of name of electoral area[^c-1b124ba43676f5d4e5113bfa1d971d09][^c-57c75d7563d6352ae53b97f0e30bec6c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 21. Compensation to be assessed with regard to effect of first five years of access.[^c-77fdb88ae8e9f276f0476bfaf71aaf04]
 

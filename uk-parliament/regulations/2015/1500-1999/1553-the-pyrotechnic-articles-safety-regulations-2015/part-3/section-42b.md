@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 42B. Register of UK notified bodies[^c-3f085a388c54770061aab1a6539724d1]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-03-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 54. Partial defence to murder: loss of control[^c-79c41c53f334c430ca38462febfc50b3][^c-b5a1891e104f0ba1f4150fd5e6c7a488]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## (not yet in force: 171B). (not yet in force: Scaffolding, building materials and excavations: charge determined by reference to duration of occupation of highway)[^c18852791]
 

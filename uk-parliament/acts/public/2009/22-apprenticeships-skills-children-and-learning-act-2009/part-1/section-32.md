@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32. Meaning of “apprenticeship agreement”[^c-1ec70a4217d090c7d3261f388d7828a2][^c-786485ac120fbbdfcd22329c0013f929][^c-86e3546cc5697f54eb7036d249310bac]
 

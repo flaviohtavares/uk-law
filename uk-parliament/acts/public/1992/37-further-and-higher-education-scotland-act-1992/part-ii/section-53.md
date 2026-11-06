@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-02-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 53. Inspection of accounts.[^c-4a3546094d75ca9b2e9fc3533b6fa0f4]
 

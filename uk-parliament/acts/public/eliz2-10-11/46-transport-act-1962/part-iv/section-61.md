@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-10-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 61. Amendment of enactments relating to inland waterways.
 

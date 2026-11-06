@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7. Offence of smoking in smoke-free place[^c16418401][^c-78cd649765e8ad00c0a890e791c418a1][^c-7dc953b8c70db6bbc03d863db6452bec]
 

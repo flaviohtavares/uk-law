@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. Assault of retail worker: duty to make criminal behaviour order[^c-8f80245b96ffca917a07278f244a2f57]
 

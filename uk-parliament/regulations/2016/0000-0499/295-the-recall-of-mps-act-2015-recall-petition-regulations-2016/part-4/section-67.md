@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 67. Additional provision concerning the requirement that an application for absent signing must be signed by the applicant: England and Wales and Scotland[^c-3a15f2018c4e31732a296347bb6767e8]
 

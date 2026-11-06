@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 88. Codes of management practice: extension to estate managers[^c-98123e6c2000fef9a8f074bc15a960df]
 

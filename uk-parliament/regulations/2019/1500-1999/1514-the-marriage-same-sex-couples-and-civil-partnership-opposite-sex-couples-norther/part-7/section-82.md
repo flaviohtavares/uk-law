@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 82. Judicial Pensions (Requisite Benefits) Order (Northern Ireland) 1988[^c-533fc63f70a6fd5362d452c74bbf8939]
 

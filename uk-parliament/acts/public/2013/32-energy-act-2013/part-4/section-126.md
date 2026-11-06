@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 126. Application of the Pipe-lines Act 1962[^c-9d73f72e51d7001320fcd6a7f4790935]
 

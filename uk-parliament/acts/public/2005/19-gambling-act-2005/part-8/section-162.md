@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 162. Requirement for hearing[^c-1eb0a4f28c0552032859026d471ffe29][^c-7663d1c1d9402c664daffb5f3569d952][^c-4814658b8131bbb717079cdd98aade73][^c-742c0a129ccdcfff17b6aafbae4e6c12]
 

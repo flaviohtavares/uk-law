@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 101. Redress schemes: voluntary jurisdiction[^c-2ca9c4521eb5903845d89aac872d617e]
 

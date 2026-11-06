@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-03-27.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 13B. Revising the number of UK ROCs to be produced by a designated electricity supplier for the 2017/18 and 2018/19 obligation periods[^c-b6f7e86c2ff53d9ba0f5ed9ebf46d3d2]
 

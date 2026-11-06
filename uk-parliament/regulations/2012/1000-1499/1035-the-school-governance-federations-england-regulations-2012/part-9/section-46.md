@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2017-05-01.
 >
-> Extent: England, Wales.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 *Extent: E+W+S+N.I.*
 

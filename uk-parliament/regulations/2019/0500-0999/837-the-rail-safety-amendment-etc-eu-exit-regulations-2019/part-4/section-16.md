@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 16. Amendments to Commission Implementing Regulation (EU) No 402/2013 on the common safety method for risk evaluation and assessment and repealing Regulation [(EC) No 352/2009](https://www.legislation.gov.uk/eur/2009/352)[^c-5b3c6a678b799991a674564a8ed23f8a]
 

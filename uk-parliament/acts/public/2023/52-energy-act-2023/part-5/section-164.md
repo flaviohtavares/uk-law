@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 164. Duty to have regard to particular matters[^c-e39f84948b63f0b19913f3ecfac93342][^c-2b2e7e61285e4c1ba62d3a24209ef949]
 

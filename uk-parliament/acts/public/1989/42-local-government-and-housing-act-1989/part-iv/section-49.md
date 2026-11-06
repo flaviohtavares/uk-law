@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (36).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/42
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 49. Initial and subsequent cost of credit arrangements.[^M_F_12afef5c-42de-4c0d-8f7d-8264d71562e0][^c-27bdfede45c13d5f748cf0e4beead1f8]
 

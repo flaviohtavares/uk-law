@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1597
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 19A. Register of approved bodies[^M_E_aef51da8-e547-4ec7-b194-d27ead5a66f4][^c-ae481369d14e3895ffee39ec1cb954e8]
 

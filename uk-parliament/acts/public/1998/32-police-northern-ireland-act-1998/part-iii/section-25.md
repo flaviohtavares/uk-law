@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 25. Regulations for Police Service of Northern Ireland.[^c1371612][^c1371613][^c-af192b68202dbbf54196e9cafe38511b][^c1371614]
 

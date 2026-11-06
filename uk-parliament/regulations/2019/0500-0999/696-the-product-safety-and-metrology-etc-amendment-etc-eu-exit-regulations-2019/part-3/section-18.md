@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 18. Amendment of the Toys (Safety) Regulations 2011[^c-5bc67312d78adb0f656c9817cf3bf87e]
 

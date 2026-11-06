@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 163. Style and title of liquidators.[^c15573171][^c-d45f2461bc4f2367130727f9a7ab8f9a][^c-063fbd4cd4021ad5d0cc8eebd0b16dfa]
 

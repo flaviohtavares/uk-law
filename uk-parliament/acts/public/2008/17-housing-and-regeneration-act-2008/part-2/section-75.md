@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 75. Leaving the social housing stock: local authority disposal with consent[^c-f789a15fe11d87533de86fdc4bbccc8e][^c-76d006250c602ac53873f86f1ba03b63][^c-72afa45f61a7f31467595bd95cf1702f]
 

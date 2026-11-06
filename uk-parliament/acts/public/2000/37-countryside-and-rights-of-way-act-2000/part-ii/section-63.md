@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-03-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63. Enforcement of duty to prevent obstructions.[^c-7f1d93fddb655eca50013c9a21d9f746][^c-a9ccc99543232a17a01c5a45611cc789]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (403).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 4B — Fixed penalties for certain offences under Part 3[^c-dc8cbfe4e25a012ecc68108b7ce4b017][^c-ba14de49cdcfd63a7d488cacf6847d1c]
 

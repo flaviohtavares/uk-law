@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 65. Breach, revocation and amendment of supervision orders.[^c-93db78df548a28a1742f412c112c0a15]
 

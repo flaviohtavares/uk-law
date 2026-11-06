@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. Live link bail[^c-21e822327b5f75007c000c314d6101c6][^c-cee4f47f46a0718395226bde9cb117e1][^c-fd8c742945212429c4434a19f0629993][^c-89f248fcb851c663a1dc1d906bf9d652]
 

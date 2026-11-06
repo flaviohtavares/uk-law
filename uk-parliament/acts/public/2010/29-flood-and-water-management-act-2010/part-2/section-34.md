@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-12-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/29
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 34. Special administration[^c-a9e2b8ecc6a0f8909bdd0359cf804ed0][^c-19df6909cc02f4889e452ced7e56b69d][^c-b6ce2663f808e944821b0a4682f005ce][^c-f52076c23ef11bd6f2844ed8dceb321c]
 

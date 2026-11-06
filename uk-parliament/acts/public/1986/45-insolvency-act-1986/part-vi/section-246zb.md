@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 246ZB. Wrongful trading: administration[^c-45747bd3a2f867979bd970317a8228a4][^c-866dc8f8db0b241adc3c0647fa33842d][^c-ef339195c16f0ad1c33fa908ee5e0cfa][^c-675ac0706b01dc1a16f21b5bf1ed3f7e][^c-23b0407c483fde68966eb9eeffaf743e][^c-0f068e5d6226320d4aeec444b480e296][^c-e06d97917dfbc77360d0ca4913ed0ca5]
 

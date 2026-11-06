@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (70).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/49
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## SCHEDULE 3 — Priority in Bankruptcy, etc[^c-1010f18331c1d17bf1fb4755f54a53aa][^c-4bcba3d65c0e16402a0fadbb2d712419][^c-cadbaf8bccce185cfce4c38d63a3a5cb][^c-ced6192d46582c9ed8bfcbd7344ec9d9]
 

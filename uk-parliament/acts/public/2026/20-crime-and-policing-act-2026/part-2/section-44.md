@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 44. Application of Firearms Acts to sound moderators etc[^c-235efbb86b30355bf57d6e6dc88f5182][^c-fc743cdcb41445db138fd3511d002377]
 

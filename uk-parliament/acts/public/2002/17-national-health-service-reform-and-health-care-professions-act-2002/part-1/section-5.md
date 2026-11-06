@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2024-12-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5. Local Representative Committees[^c-389b2d9a0b92eb70452bdb9392c8ad55]
 

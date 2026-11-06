@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 87A. Register of waste land, enforcement and stop notices.[^c14923811][^c14923821][^c14923801]
 

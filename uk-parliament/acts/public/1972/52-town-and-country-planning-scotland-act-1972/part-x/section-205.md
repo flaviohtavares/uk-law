@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 205. Procedure in anticipation of planning permission, etc.[^c14932961][^c14932971][^c14932981][^c14932951]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. Power of Crown Court on committal for sentence of person under 18 under section 16, 16A, 17 or 19[^c-0b8e53ca43050d2a8f9c963a2413ee95][^c-4604fb2ed18a51b7f0c1e0c84558318d]
 

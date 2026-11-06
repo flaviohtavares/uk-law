@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 124. Board’s duty where there is a failure to comply with section 122[^c-341f8a8a80e1557008820c189ccede9e][^c-a7ed8489e179b987a8f0f27af89fb104][^c-8ae4f61b00045ebee33fee3b22100c82][^c-e1ed9637cd75c776b67c66b9c590a3c7][^c-a7ed8489e179b987a8f0f27af89fb104][^c-8ae4f61b00045ebee33fee3b22100c82]
 

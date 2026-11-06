@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 85. Provision of apprenticeship training etc for persons within section 83 or 83A[^c-df8da47c913cf3bd29bfb53a98941657][^c-f03eba0770e7abbcb6c31255c3e4d396]
 

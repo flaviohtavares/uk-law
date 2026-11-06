@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 278. General vesting declarations.[^c14946971][^c14946981][^c14946991][^c14946961]
 

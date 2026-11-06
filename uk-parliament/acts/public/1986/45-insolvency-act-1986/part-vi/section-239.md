@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 239. Preferences (England and Wales).[^c15575711][^c15575721][^c18981501][^c20434461][^c20434481][^c-cc04c5f6aa14c929db00b0282e6240d5][^c-03e331bc6f241ea57d7ac53d42e5c76c][^c-c09e4b4064547a6f1813de7d4ebfd329][^c-ecead37ea00d223831709685f8f569ef][^c-788371096f8da5425d0cd572175725cd][^c-cc5204a107018c42ba632e0bf792c8fc][^c-788371096f8da5425d0cd572175725cd]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (154).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland, Northern Ireland.
 
 ## 104 (Extent: S) (affected by repeal, see note) (Extent: E+W) (affected by repeal, see note). Sexual offences prevention orders: applications and grounds (Extent: E+W) (affected by repeal, see note)[^c-0184ee8f54877911405cbb5091bdb487][^c-8216d299001d1851e1b7db26cb0e3690][^c-b126c6c6d2bc3809d43e6b360550c50f][^c-12f011d2c77e11f02549c20ede30da60][^c-df99c325224174918305e50de88d7c70][^c-8216d299001d1851e1b7db26cb0e3690]
 

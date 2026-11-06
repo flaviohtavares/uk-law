@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 188. Transfer[^c-c919add8e5c88db87c331ec631470d10][^c-1b3fe8611b8ec3d7a4d4d90e9336ccbb]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 328. Priority of debts.[^c15579961][^c18976401][^M_C_4407be8c-1bb8-4c3b-9703-753f3db9a1da][^c-734cbdf87d67ae01f0dc2e02214ee9cf]
 

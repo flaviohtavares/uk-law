@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2022-02-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 10 — Restriction on Winding-Up Petitions: Great Britain[^c-4e4feb4bf65476512c139e62c1964626]
 

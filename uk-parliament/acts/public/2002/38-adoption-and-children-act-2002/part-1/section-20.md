@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 20. Advance consent to adoption[^c-a502ae3b9bf09d3074cc01aa48eab374][^c-c5e58f90023a0970fe38004c24a35bef]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 32. Calculation of budget requirement by authorities in Wales.[^M_C_5856f7ea-f56f-4848-ce74-637c5b84f2be][^c-1529574ace6ef21196ad20443ca018b7][^c-1304ad51e0298e9c29d2496b54843766][^c-fbff27956b139a8c99794826e2f0905d][^c-76467721274efd0a9bb5b840a40591db][^c-bdf2d44ab298fd7452964195dd5a65b7][^c-95acfda7a680ff54b5f9235ad28cd557][^c-5ffccb525ea0df6980562c28422830b3][^c-a06f48bacadf935988dbf13ae0454c88][^c-1304ad51e0298e9c29d2496b54843766][^c-a532d8d3fbb89adc3a41ab2851d87bc5]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 159. Making of application[^c-62eba578c18c2d0b50a37b9eba4d6c76][^c-48d158b988a2a3e1dc9299d8bce8b605][^c-fe2112cbfbd5eef2ee67ebbfdab8fb3e][^c-2400d032e90cd4917ba55c392bc5305c]
 

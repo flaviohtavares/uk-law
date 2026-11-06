@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 67. Transitional arrangements[^c-8b2b0be8de1a9df7dd0ba09ed77c5965][^c-0e3dab98c22236e5291fcca6f57a20da]
 

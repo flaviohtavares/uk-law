@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 237C. Power to require name and address in connection with fixed penalty[^c22561671][^c-95f94b9df0f840dd9a42a42b2e6ffb5c][^c-e2fadc10ae9456d21a466def51af691c][^c19657821]
 

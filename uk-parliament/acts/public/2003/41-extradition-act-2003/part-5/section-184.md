@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 184. Grant of free legal aid: Northern Ireland[^c-ce6322bb244106bdbdfe6baedf2ee5f4][^c2087262]
 

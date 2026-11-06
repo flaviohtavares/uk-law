@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## SCHEDULE 15 — General vesting declarations[^c950535][^c-74190781c375151d3c8ec3b3dd943977][^c-9c1e738fe9b99609d7011a09a974b2b0][^c-9da496ba85b1839b4df29c9f4484061d][^c-f98e2b9d2eb1767d07b6643148fa3f10][^c-8757f945b904fd1a1d02e6ef39e7f47f][^c-16c9dac7c14a80ea107ac296f46ca908][^c-963f1f53b0ac6f81ded21815dc983f7c][^c-8b8bae594281ce7d979e92212d9b663e][^c-f301d365f3ec7cb49db736193934b1fa][^c-27a34ef0dc535c88e5044abdea68b3f6][^c-193f0963fe2d255be14a83d229b90499]
 

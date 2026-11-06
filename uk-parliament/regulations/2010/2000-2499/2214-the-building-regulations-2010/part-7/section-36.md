@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2214
 >
-> Extent: England, Wales.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 36. Water efficiency of new dwellings[^M_E_67e8b45b-1e5f-4c5b-bbb0-6b85cd4db1e5][^c-53db4b5fec6962d863cba79099834baa]
 

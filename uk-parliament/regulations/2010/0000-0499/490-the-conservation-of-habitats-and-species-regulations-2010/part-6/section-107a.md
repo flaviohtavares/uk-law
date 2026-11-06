@@ -13,6 +13,8 @@ summary: ''
 # The Conservation of Habitats and Species Regulations 2010, section 107A
 
 > This provision is no longer in force.
+>
+> Extent: England, Wales, Scotland.
 
 ## 107A. Marine policy statement[^c-fd903ae7a6e0c6e869ce0b45a2cbf79e]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (25).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/24
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 33. Attendance in connection with jobseeker's allowance: sanctions[^c-1621e25370a6fa45772000719b01fa48][^c-000935f9d8b028311b998a54634afa12]
 

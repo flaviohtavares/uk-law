@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 20. Parenting orders in cases of exclusion or potential exclusion from school[^M_I_1147a4d3-f357-415d-bea7-ad2fbbf237d8][^M_I_c00043f9-5d21-4362-e3e3-d0f86703b9b4][^c-14f7718865bb9001b94dde3a9930c984]
 

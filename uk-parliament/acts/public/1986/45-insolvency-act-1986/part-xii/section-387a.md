@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 387A. Financial institutions and their non-preferential debts[^c-7f6d8699b93a6b2a5e483c71ef9cab8f][^c-7f3653fad643fb4a857a9c97597b6021][^M_C_016f798f-fe88-4c28-ae97-6ad92d13e8a5]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 137. Effect of planning permission etc. on enforcement or breach of condition notice.[^c950148][^c-525ea2a5bf0d39daff4aa1bbfa7caff8][^c-78450d798892cc62dc783a4a71f66b22]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 20. Offences in connection with licences: Wales[^c-de0fc913a3e096fd86166d42fbe6b8fd]
 

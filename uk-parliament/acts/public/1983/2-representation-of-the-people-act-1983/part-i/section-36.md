@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (71).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 36. Local elections in England ....[^c14483821][^M_C_878dcdbc-6460-4f35-9ea3-c4847774f9b2][^c14479931][^c-28406dfd161d7d86e7613d7410c518a3]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-18.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 88. Additional power of entry.[^M_F_7005fe93-7d62-4e33-8cf6-49054b046ec8]
 

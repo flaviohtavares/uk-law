@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 42. Power to amend licence conditions etc: procedure[^c-428af92430e59fd31b4a04f7caa7113a]
 

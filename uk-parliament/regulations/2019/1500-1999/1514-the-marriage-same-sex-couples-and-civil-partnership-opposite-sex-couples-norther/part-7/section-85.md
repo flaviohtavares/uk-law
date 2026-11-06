@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 85. Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995[^c-505d79737d611a829c9f31f0b8c2b57f]
 

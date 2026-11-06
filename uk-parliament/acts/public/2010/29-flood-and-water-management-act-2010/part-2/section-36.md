@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-12-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/29
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 36. Water use: temporary bans[^c-b07ddc0ece166a6b3e162ce06ec493ff][^c-2a37d0085c88d295dde7bbfc178fcc18]
 

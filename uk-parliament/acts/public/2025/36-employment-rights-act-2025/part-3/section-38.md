@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 38. Pay and conditions of school support staff in England[^c-f2d6ccc3892cf17f0c9335e465c0ad9f]
 

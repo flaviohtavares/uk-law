@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 159. Interpretation: land and rights over land[^c-992426783814e643c9af58d8ce209c7d][^c-9687380f51bc8670f4809cefb0bfa7d8][^c-198f237df7d7b9a24ccbd7d7289b677c]
 

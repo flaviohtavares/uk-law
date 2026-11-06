@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2025-08-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/24
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63. Heritage planning regulation[^c2181329][^c-24810ed767c0db4c05055904a4d24a64][^c-e8a4d63cc403487b85940e99702037b8][^c-e748def1475a61855797dc0f934f264e]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 35. Authorities (affected by repeal, see note) monitoring (affected by repeal, see note) reports (affected by repeal, see note)[^c-984cabd170505e5966e8a32b2896b95f][^c-f11bffc8569cef4f6297414615a586c2][^c-66b206efe3e504a200801217f5a84a3a][^c-6be378129974a2a57e7adef87a181361][^c-66b206efe3e504a200801217f5a84a3a][^c-66b206efe3e504a200801217f5a84a3a][^c-66b206efe3e504a200801217f5a84a3a]
 

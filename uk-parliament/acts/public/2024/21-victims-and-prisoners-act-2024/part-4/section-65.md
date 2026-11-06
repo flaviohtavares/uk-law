@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-09-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 65. Assessing etc risks posed by controlling or coercive offenders[^c-77c7f9208fa6704908aa81d6385e7f46][^c-8ab9210f26446e8489f4e7cc56c8a09f]
 

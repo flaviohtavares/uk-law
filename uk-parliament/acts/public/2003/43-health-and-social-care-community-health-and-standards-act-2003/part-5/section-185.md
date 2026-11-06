@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 185. Replacement of the Welfare Food Schemes: Great Britain[^c552151][^c-37b98eaf2c8869d9d0cc766c4b37db2f][^c-05eb7711fb1d5f071766c7ba762101ef]
 

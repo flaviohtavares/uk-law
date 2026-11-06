@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2019-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1967/86
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 43. Ploughing of public rights of way.[^c-2ef5efc6198ab2b9a183d6771b49e9d3]
 

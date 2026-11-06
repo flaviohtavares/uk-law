@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 44. Powers of fire-fighters etc in an emergency etc[^c-a0dbc1778ada32ba53ce38350c7e0b17][^c-e7ae8226a971531e06d640d9e7e28cde][^c-727bc367e4df639f9eb247d985b93420]
 

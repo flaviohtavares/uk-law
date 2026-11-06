@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (62).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 36. Consent required for construction etc. of generating stations.[^c4113651][^c4113661][^c4113671][^c-6c27dcc59a6433ffd35ebb67ef60ffac][^c-3a75f62f11b69a02652da32bfff6d769][^c-56a292a0d45c4bd91d661f40e468f9e4][^c-6ad84dbb596a4cbcb5fd4ce5e7cba31d][^c-93c0f9870db94f9b7e02386a1d01bff3][^c-8e64dcbf376ba06e19ffc70e1246e3a3]
 

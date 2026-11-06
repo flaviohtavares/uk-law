@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1152
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 19. Importers' duty to ensure that regulated non-automatic weighing instruments are accompanied by relevant documentation.[^M_E_3a4afa7c-3827-4adc-f807-47f7065640a3]
 

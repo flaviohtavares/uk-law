@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 308. Former right to buy and other flats: service charge loans[^c-90f0d681ea5dbdb8d0debe4c060b2c40][^c-19862ff30c5af2535a8d8e15d91ad8ca]
 

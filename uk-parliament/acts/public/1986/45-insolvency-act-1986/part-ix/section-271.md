@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 271. Proceedings on creditor’s petition.[^M_C_bfdc7398-79c5-42d7-85bc-e70a9bafb983][^M_C_16e70038-1abf-460b-e13a-c9ceb3c4e4d6]
 

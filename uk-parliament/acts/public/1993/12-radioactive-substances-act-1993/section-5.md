@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2023-12-20. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 5. Appointment of inspectors by Minister of Agriculture, Fisheries and Food.[^c426677]
 

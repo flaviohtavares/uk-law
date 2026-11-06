@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 6. Consultation with APA and body representing chief officers of police[^c-178d5c3b24968233bb5d4a8b6599b438][^c-305a4be8cf06ee244f87024854ee8eb0]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16. Provision of information etc. to the Secretary of State.[^c-5a7be3349f6f3e92efa55ada9774411d]
 

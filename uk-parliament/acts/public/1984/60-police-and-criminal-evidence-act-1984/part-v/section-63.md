@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63. Other samples.[^c11326851][^c17841731][^c19278811][^c-e0a9bf345bc0b03a0bc127a695e54a9e][^c11326841]
 

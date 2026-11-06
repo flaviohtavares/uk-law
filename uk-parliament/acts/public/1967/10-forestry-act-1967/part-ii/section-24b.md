@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1967/10
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 24B. Restocking orders after conviction under section 24 in England[^c-a642cf9e5ac1539b1ee19847c2a8869d]
 

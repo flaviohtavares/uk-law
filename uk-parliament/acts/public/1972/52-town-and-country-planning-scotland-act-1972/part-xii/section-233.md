@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 233. Proceedings for questioning validity of other orders, decisions and directions.[^c14936121][^c14936131]
 

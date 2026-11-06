@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 64. Other provision to be made by regulations[^c-46a65de227106f4e9bca8f09d6f9ec57][^c-ae7629992b02d22ac7175d4d6102fb5b]
 

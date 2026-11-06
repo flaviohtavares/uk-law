@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 64B. Reserve power in relation to fund-raising regulators[^c-cacf9ff1abad4e6a7696079f4469d2f6]
 

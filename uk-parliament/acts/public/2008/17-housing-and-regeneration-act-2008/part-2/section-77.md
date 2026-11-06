@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 77. Housing stock under Housing Act 1996[^c-c7e123121c8e0a8079296fcf1db4ce6c][^c-291a91e52ecdb1d948e793c0dd6af74c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 276. Power of local authority to sell certain materials.[^c611727][^c611728][^c611729][^c611730][^c-d773a782e806b4fd3f363616694ab76d][^c-6e6384ec533e4689d0b881cd535424c2][^c-b7674d9006c1deadf0943cdb1ea69d51][^c611726]
 

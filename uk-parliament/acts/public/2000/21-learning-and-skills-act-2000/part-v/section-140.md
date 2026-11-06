@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 140. Assessments relating to learning difficulties: Wales[^c13165451][^c-6a232a2c65ae75ccb11451fb24cd1a69][^c-4f6bcd11093b58282313ff42cfa92680]
 

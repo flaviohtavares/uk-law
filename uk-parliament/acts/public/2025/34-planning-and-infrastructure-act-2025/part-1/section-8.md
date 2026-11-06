@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8. Applications for development consent: local impact reports and representations[^c-2efc5dd38613d1e1f6554025dc539976][^c-57367ee19e1f3e850a14e4f2f14a363e]
 

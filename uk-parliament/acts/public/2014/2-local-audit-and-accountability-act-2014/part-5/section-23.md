@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (173).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 23. Offences relating to section 22[^c-74965aad9bb04672f4380bb8d61ad141][^c-507eabe4e4bdc409908ab00f6c19ca01]
 

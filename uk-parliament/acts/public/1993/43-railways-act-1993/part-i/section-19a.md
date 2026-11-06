@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 19A. Review of access charges by the Office of Rail and Road.[^c14100081][^c-54524fb66aa8959d9b5379f30789b05c]
 

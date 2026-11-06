@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 431. Summary proceedings.[^c15585901][^c15585911][^c19788881][^c20441511][^c20441531][^c20465321][^c21428871][^c21430801][^c-e3873c4c36c6dac6110948e14d08b2a6][^c-44f9dc2e9d1d7a0c0e3cebff6654838c][^c-bfc7b250e711cd40a8bc42e32a85f356][^c-6e7fb90b3a01b97a8fc69c0f44db7e41][^c-b9fc45edd07b42af177a62eb10797eae][^c-da7426c29a6fde4e57f9a916914b0285][^c-521783948523cfdbd5c9a9882ff6608c][^c-c395569db64c15e7dbedb8727be3c211][^c-8c5f2aa7356dd4fe3979cebba7a8b371][^c-37048a56a2a50192ab3de15126647c9f][^c-a7848c3bafc5d35da6b5261027f41706]
 

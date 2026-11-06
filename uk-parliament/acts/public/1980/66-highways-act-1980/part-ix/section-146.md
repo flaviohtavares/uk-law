@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 146. Duty to maintain stiles etc. on footpaths , bridleways and restricted byways.[^c18589931][^M_F_ff6161e7-cfc4-494b-feaa-476b0b9a6e00]
 

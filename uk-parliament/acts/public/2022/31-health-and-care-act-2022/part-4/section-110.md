@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 110. Investigation of incidents with safety implications[^c-514a82f8797552706197899644f463a4][^c-f290a23db873dd9782aa4db4afe3ffe9]
 

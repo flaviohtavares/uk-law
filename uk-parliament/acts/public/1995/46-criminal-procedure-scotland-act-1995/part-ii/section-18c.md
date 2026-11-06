@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 18C. Section 18B: extension of retention period where relevant offer relates to certain sexual or violent offences[^c-5088cc5493addf13b2c3e3b8213e6f6a]
 

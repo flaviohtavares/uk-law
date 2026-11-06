@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 94. Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^c-7d71b80a4ec8836dd4aeaa24295c0065]
 

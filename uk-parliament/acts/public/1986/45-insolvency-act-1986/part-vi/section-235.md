@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 235. Duty to co-operate with office-holder.[^c15575622][^c20434071][^c20434091][^c-7fb9bcb932b91b6f93fbeb1f33ca8144][^c-413607b4d3ebed1838d6742db94f054a][^c-225f395e19614ba8696b36e38d0a8c50][^c-788371096f8da5425d0cd572175725cd][^c-2b4d1e500d69587390ddaf2a498c0715][^M_C_efe4d67f-b77c-41af-9cad-0c81eadbf3e5][^c-cfbc6f0a38a26b29158675d22c1240f8][^c-d337fadf2c894e59dad1a36f8d3f02b7][^c-788371096f8da5425d0cd572175725cd]
 

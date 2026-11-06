@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 135. Authorisation of other works disturbing footpath , bridleway or restricted byway.[^c18589031][^c13425701][^M_F_243f4217-9118-4756-81f0-a3b3ac68feb9]
 

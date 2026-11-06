@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (93).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/41
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 45. Unoccupied hereditaments: liability and reliefs.[^c13067581][^c-1a987430cbe4685ddb2a0ceda0e533e3][^c-1e63e519b093f61a661e906e036c6a20][^c-7d08b9e7e26395888b4bddec7de1949c][^c-a3ee76c8b21e28d2da3993afcac69dc6][^c13067571][^c-c4cacdf31ae7a648d38d5a591ed50769]
 

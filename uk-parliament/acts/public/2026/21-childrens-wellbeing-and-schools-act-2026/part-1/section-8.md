@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8. Local offer for care leavers[^c-f11ea8b3766cccccdfbb46d35713c696][^c-ae42f876aea50376eb7700d2b552bd38]
 

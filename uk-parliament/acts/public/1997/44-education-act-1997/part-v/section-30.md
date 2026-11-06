@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 30. Functions of the National Assembly for Wales in relation to relevant qualifications[^c-77086ae36afc5cc7000648aaff9778a7][^c-95ccc01ef4320a93b6ee7de31e44a31d][^c-32da99f61e50219d50b433e4a86f6d30]
 

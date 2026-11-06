@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 8. Road traffic accidents[^c-4cbcde6ccf6469e46e6c4d9664022b9c][^c-a73f0cdd6054dfca2c326956ee212c0e]
 

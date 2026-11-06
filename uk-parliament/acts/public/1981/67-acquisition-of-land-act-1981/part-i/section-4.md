@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4. Assessment of compensation.[^c3309701][^c3309711][^c3309721][^c3309731][^c3309741][^c4448651][^c-5babcc3069b845d02646ecbbf9ad0913][^c-41e9476de8d55924fd897b6738324415][^c-a6b7569363c7a4c3b72548d3e90b1cec]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2022-05-17. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 48. Samples etc. from persons convicted of sexual and violent offences.
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 57. Variation and discharge of CCE prevention orders[^c-f01d86bebaaeb71cb8f4d16847c080eb]
 

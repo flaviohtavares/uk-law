@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 10 — Benefit Fraud Inspectorate: transfer schemes[^c-2aeba7134a7bffc6ce24abe234c9e791]
 

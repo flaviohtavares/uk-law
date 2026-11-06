@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 115. Persons with special educational needs[^c-43b4e36c2dbaa8df1e689f77ed4d0bc1][^c-c2d4d8aaab5a41b5d2fd4338208f34ec][^c-5849ff39cde66b1149caa10702fdfb1c][^c-23d39bc7835d47914b71d19d0fc4a5a8][^c-700c3587d5dbaf45f5635e7b94432d55][^c-c9eec10733c909f463050e30d6f3cf97][^c-4a787db912ae02390088d5109b61b2f7][^c-c742f223bddaaf7507645505ea0f914b][^c-493896d3f328657120fbc5f953a28b98][^c-f27857e259188abb58ff92018d56e8b3][^c-4188b78e0a4d0480d275ff58f7a806c8][^c-d4fd2ac0fc1d1b3679d695031649e79e][^c-5e522b2b6bcb8ccae3d31e2c6e4bd8db][^c-21f3efd89716ae1cf21f9277940548cb][^c-366659c3078f486b9e94d93d520cd1a4][^c-0fb099be9e531cd649f9877fc48483e8][^c-9a1ca82a77f357f3a7c3def564a3b3ac][^c-277f1a7726b333e8e6f3832aa2ff7e63]
 

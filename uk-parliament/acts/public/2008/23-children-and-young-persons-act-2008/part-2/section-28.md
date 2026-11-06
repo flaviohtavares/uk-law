@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/23
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 28. Appeals etc. in relation to notices under section 22B of the 2000 Act[^c-5c29f4f1c0c44da237d82f719085c4e8][^c-1a42db08604335e3ffa6fc3e69ae56ec]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 440. Amendment of order at request of parent: child without EHC plan or statement of special educational needs (affected by repeal, see note) , or an individual development plan which names a school.[^c-4e78d6c110a291ed4a58b45778e6ceee][^c-4e6156ff575c3811eaf9cc7bf398977d]
 

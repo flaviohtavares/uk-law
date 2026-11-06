@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 41. Restriction on evidence or questions about complainant’s sexual history.[^c9546161][^c-94e5ef3f7688d192ebdcd0a3f2e5859e]
 

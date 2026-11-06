@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 65A. Inspection of vehicles[^c-ac285829be477b1e9fe0d2ce60376c10][^c-405dc9698c1ba4871638fc8977c1eecf][^c-ec0568d727615d2ea9a2119920a3da94][^c-d42289ccff855dd5ef0e9620509ee2cc][^c-19928bb8ce5a6c0df21bb5699ad2542a][^c-25ae19589cb66ec0addf86e05d0db486][^c10346581]
 

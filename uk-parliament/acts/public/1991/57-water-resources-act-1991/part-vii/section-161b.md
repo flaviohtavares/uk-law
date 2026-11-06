@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 161B. Grant of, and compensation for, rights of entry etc.[^c18738031][^c-1dcfa889751a9a398c1111b44b20cab6][^c-cec42d995312504c1a5575ce84628cac][^c-813cdca26a7fb211d3394456486bf364]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 81. Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^c-50e9f3bbf0e989aa755f6ecb3a3b530c]
 

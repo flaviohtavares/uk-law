@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 26. Interpretation of Part 1[^c-cd056d70d1b1af40ad8e4b3fa3680c2c]
 

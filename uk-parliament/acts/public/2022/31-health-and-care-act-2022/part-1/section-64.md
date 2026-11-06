@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 64. NHS foundation trusts: joint exercise of functions[^c-67dd48fdfd957ee1fdebc05e4de10fc1][^c-01773146263144f541331ad407d1fedf]
 

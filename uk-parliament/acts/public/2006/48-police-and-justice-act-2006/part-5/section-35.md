@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 35. Unauthorised access to computer material[^c-6cabd0c5843f587a1b28ca6efa5ad5be][^c-7f78c2bbbdc61498c4e90939d98597d2]
 

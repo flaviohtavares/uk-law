@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 23 — Live links in criminal proceedings[^M_F_b6e241e8-0188-4204-c9bf-43ab5d5b1665]
 

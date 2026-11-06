@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-09-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 59A. Constables serving with National Crime Agency[^c-370411cea830ad0cd762dfd6198f4063][^c-0601754a42baf963a40c072fd6c65b68]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-04-26.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 68. Jurisdiction of sheriff[^c-d46d61a66941504d6e508523de791869]
 

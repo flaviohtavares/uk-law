@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-22.
 >
-> Extent: England, Wales.
+> Extent: Scotland.
 
 ## 52. Terms in insurance contracts relating to children or benefits status[^c-83306044e0cded2b45b452706199108b][^c-97eeddb592be68dd1e0e7c4efdbb011c]
 

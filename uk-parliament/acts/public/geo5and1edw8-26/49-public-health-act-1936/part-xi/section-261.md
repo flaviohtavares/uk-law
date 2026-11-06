@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 261. Provision for obtaining order for cleansing offensive ditches lying near to, or forming, boundary of district.[^c611665][^c-448b99a8c5fd47454f74b1d27e8711c2][^c-5be86d0ad1efc28f9369fa433dbbb5c1]
 

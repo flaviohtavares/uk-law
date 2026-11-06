@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 53E. Registration of marriage where documentation lost or destroyed[^c-c3312bff7659759277fecfeb795938a1][^c-db5ca8d522361c2dd12489899f74c068]
 

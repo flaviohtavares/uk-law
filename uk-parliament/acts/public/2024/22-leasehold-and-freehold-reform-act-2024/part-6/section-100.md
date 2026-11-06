@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 100. Leasehold and estate management: redress schemes[^c-fd7fe7083f1d7a1cc2964df31596cc1f]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 50. Payments in respect of advisory bodies[^c-2f2f5defb0781e83941ead9592aa775f][^c-edbb10ef0c7cc6359531c02fea6c29bf]
 

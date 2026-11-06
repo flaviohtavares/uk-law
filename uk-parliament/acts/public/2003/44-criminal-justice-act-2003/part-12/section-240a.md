@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 240A. Time remanded on bail to count towards time served: terms of imprisonment or detention and detention and training orders[^c-ad9c2bc53516bdc69645a8f71e932e46][^c-155c0f69a8116c840c0366b45e57112f][^c-a07733c1eeea17915031ca97d36745a9][^c-6f5d39d0d84df65d27d85927f65b15d1][^c20116651][^c-ad9c2bc53516bdc69645a8f71e932e46][^c-155c0f69a8116c840c0366b45e57112f][^c-fbee156598d3c0773b6be873e8e5930e][^c-3c1090e240aa5dfe636d77b6549ff66d]
 

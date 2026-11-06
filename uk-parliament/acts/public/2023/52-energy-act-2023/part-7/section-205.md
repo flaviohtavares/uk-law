@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 205. Licence required for operation of multi-purpose interconnector[^c-80ef71b4e6ddca6af8e25b2a31b9551b]
 

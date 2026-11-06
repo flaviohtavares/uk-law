@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19G. Section 19F: interpretation[^c-4e04277b53d3dc94104038d30bf74f79]
 

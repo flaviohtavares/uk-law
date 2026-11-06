@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 29. Amount of the grant for fees for a course at a private institution[^c-cffd2a59a6d9484badaf029d5fc2160a]
 

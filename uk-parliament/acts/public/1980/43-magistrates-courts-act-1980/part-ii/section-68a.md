@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 68A. Power of the magistrates’ court to order disclosure of documents, inspection of property etc. in family proceedings[^c-7e494e8b4cf852d6cd59ff095a8e848f]
 

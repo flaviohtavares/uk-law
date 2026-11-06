@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21. Amendment to the Police and Justice Act 2006[^c-2fd1fcda6aa0361c6910240d9d3f8960][^c-1b968792f2e64a5625ddda9faa9056a0]
 

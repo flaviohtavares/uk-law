@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (110).** Text as at 2022-03-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 41D. Power to accept part payment of arrears in full and final satisfaction[^M_C_8aa97dd8-16da-41bd-d5df-a8fdca53407f][^c-4e220e46f023cb3fc07036bbe3ee0dc9]
 

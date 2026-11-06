@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/23
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 29. Notification of matters relating to persons carrying on or managing children's homes etc.[^c-97a34d283efb1395976644f46c3bfe6f][^c-b993806d3690e18226b2a3f794b33268][^c-9f1980512d9aa9e19f4ebcb41f85d134][^c-0711a6413757d1f188076d51f031d5ca]
 

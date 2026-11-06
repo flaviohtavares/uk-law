@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36. Duty to protect institutional autonomy[^c-262080357a2013bedc53cc396db6d949][^c-7152dd36b7f32607512befcee236fb9f][^c-257463fb4bf4018539a4e9c352ecaefc]
 

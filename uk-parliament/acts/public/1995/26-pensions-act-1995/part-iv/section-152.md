@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 152. Extension of scope of right to cash equivalent.[^c-86dc1845bedfb77975ab01e517176014][^c-9f221d4cc6eb1cae6285dde0acf3a42f]
 

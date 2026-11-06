@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 375B. Evidence overseas: restrictions on use[^c-66e2ff0a0e91c840199a4cc223b26886][^c-19c38efc9ba673f59a6920dca45bd65d]
 

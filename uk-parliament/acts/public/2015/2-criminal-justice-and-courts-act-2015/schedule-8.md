@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 8 — Disclosing , or threatening to disclose, private sexual photographs or films: providers of information society services[^c-b3f4304e273a8ca4a25789c719fb1d11]
 

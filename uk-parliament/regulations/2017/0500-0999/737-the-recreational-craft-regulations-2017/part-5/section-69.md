@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2017/737
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 69. Enforcement action in respect of products that are not in conformity and which present a risk[^M_E_8pwha4ld-a2h0-05cw-ws7h-65ba25d1855cf][^c-2b6b7720fe56341dd1c6c7ad705cc2a5]
 

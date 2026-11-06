@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21. Reports on international environmental protection legislation[^c-86be3dc29f2092d171fbe6b7d79c61b8][^c-3e3a696dabc977b91eda8cd562effc10]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 143. Application of CLA receipts[^c-8838ba052b803c5013bc432fedd9fd38]
 

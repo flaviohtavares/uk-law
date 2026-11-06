@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 5. Contrary provision to Schedule 1 and consequential modification of enactments etc. as a result[^c-b104416d9cfc35621454c21834bc97a9]
 

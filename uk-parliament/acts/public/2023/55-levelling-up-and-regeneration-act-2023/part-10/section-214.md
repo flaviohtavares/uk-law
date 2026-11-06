@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 214. Further provision about letting notices[^c-ed662d9e39102c0efd49da3757be07f7][^c-927487b1363d273cb1dced0dbf45c187][^c-90394c674da860cf5ce3065503199d36]
 

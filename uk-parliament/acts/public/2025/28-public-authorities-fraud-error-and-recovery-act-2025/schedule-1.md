@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## Schedule 1 — Fraud against public authorities: Police and Criminal Evidence Act 1984 powers
 

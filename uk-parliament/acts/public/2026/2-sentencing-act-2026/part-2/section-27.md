@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27. Licence conditions[^c-8360a91642e1f13f11bed68ace3d0f5a][^c-a11b96be65cff59ee5d273fa9b868c9b]
 

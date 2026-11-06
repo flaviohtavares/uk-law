@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-23. See https://www.legislation.gov.uk/changes/affected/ukpga/1964/40
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 42B. Directions as to performance of delegated functions[^c-531a64df4552cc166c26882af66c73d6]
 

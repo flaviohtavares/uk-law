@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28. Information to be given on arrest.[^c-e07a0e0bf25938517d0cd00e1e0f5c21][^c-76782500e6c97702b4978b216daa0867][^c-dcd88f3b627694234f56f91699da736f][^c-bfebb26f2008a278f50819c3443059af][^c-196ee51a064f638c6df6be950a4f21a8][^c-b5ae94650a01662c1e26c37503b99f3b][^c-5dcf0ba710253fef5ce73790712dba9d][^c11320451]
 

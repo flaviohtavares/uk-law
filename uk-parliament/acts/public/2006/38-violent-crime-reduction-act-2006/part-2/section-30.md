@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2021-07-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 30. Minimum sentences for certain firearms offences[^c-e59a806e6c3b99ce5c6c29500af66a66][^c-b0f0a56d1d0456a271359425fcf9dd42]
 

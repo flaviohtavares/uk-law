@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 181. Threatening communications offence[^c-b61d15f199acb73bae3bd07d0c424c1e][^c-ee184d37cf419d1271832b39d982aecd]
 

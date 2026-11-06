@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 74. Amendment of the Town and Country Planning (Section 62A Applications) (Procedure and Consequential Amendments) Order 2013
 

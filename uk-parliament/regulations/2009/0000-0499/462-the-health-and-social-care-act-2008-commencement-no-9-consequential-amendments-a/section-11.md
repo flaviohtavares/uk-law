@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 11. Provision for continuity in the exercise of functions[^c-55147157fbca211e2d20de79cc28ffb3]
 

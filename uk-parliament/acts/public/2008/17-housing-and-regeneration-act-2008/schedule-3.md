@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 3 — Main powers in relation to land acquired ...[^c-b7bb82e5d20841cace60ec73f1136df0][^c-d718925c6f4aec5119793ea4320ef200][^c-9dfcfa96f5c8aad0163ddaf5bb9f07f7][^c-681042f814721d4a8963b23f442af8d7][^c-b9e0e62414cf6187be05c27d19852ae9][^c-c91923f67a0343a62e48083bea0e6192][^c-24590cf87e25b39fbd1bf744382e3fc6][^c-fd561baf7319f24c8bac1a9e8c81925f][^c-de500512fe62e09a86b522a30f066e48][^c-3f85a422a536735ec331f45f9d456dba][^c-b295e31dc7a4ed32196fbb9dbbeb9efd][^c-1d82d9b2e331aa204280fcb017d1907b][^c-9e2c9b374b0497335d44bf7fa0e45423][^M_F_b8fca913-d417-4ee5-932b-0f7c38ee3934][^c-b00a4825986fd53f2f96b2351f86256e]
 

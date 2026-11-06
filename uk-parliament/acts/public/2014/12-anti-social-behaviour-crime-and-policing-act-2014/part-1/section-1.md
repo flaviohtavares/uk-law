@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. Power to grant youth injunctions[^c-d8f2302ef2c49976c7eaa85684e653b2][^c-7415db9afa1d3f0a221c77a42ee3a6bb]
 

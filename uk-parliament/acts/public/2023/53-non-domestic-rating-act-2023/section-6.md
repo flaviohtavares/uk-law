@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2025-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/53
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6. Transitional relief[^c-bc83f2799b454239edf1f214165704e7]
 

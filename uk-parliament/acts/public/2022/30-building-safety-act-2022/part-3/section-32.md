@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32. Building control authorities[^c-24a00752d70f753fa367297c347f680c][^c-5e52e879f13e5e324c01f027e8886847][^c-00df2855290f863a672effa9667cdf86]
 

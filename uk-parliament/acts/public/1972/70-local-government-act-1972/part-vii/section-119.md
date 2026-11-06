@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 119. Payments due to deceased officers.[^c15107541][^c15107551][^c15107561][^c18858441][^c18891481][^c-b493f4fc7b029edf19ff3e63c1677d63][^c-7a0647b70ccaeacb11c3f25ea548ce63]
 

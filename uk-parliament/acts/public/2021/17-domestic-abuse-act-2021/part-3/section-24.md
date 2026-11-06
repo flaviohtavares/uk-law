@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 24. Matters to be considered before giving a notice[^c-3531f53ddd16bb5b877d96f9879e979b][^c-32b22071b7c1c1f638662ef9b839ebac][^c-b89dcffa041a237c38f8e90337cfbe02][^c-0a3ecbf32df09809d8e3baccd394a051]
 

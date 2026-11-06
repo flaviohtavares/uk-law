@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 30. Cases where adult expresses preference for particular accommodation[^c-247334ed9bdfb3039c6bcedc769a785e][^c-e45f3f687c830964d5b04054e24242c2][^c-b5233cd91c08d092b8a21506059579ea][^c-4a62f516d0fe4d3070d9d19880c2ff17][^c-b5233cd91c08d092b8a21506059579ea][^c-4a62f516d0fe4d3070d9d19880c2ff17]
 

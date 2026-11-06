@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland; England, Wales, Scotland (the versions of this text differ in extent).
 
 ## 9. EU declaration of conformity and CE marking[^M_E_a1b90305-80c4-4594-89be-d7a60d93b5de]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 18. Role of integrated care boards[^c-b7ed56d65af09a1dda49616b83f063de][^c-734d46017dde61850215350cef669664]
 

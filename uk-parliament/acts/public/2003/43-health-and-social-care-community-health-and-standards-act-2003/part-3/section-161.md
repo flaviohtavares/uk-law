@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 161. Use of information held by the Secretary of State or the Scottish Ministers etc.[^c-99bb5809c4b0432d1ee3a8e489fd4690][^c-b2bee97e5a2eedabc86b8b26730a1b0d]
 

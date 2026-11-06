@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-02-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 1 — The Scottish Further Education Funding Council[^c-b51b7ae0781dadb18ae437d44a29bffe]
 

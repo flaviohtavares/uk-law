@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 56. Right to have someone informed when arrested.[^c11324321][^c11324331][^c18893671][^c18893741][^c18895631][^c19560121][^c-08ba919fec8817a94643b4c1b99bc826][^c-9c9e425627d797910ee44d24b49b867d][^c-eeca9c279474aaa9402b7c6fe53c5a98]
 

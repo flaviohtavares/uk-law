@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 56F. References to regional planning authority and Secretary of State and appeals.[^c14921051][^c14921041]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (186).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 107A. Statutory sick pay and statutory maternity pay: breach of regulations[^c-5b051925e48aea73ef50e7d4b432727f][^c-18082f5455c3c56b97c8d95c3d371db2]
 

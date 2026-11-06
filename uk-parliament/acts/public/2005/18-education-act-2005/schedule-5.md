@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 5 — Sixth forms requiring significant improvement[^c-ea04b0593e8cda4f30a2fc49f386e7ad]
 

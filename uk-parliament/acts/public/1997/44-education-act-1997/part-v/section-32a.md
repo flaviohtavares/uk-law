@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32A. Power of Welsh Ministers to give directions[^c-8b1f1ba3fac04efdbdb334dcdbb003a7][^c-f42f69c820a84659302acb9f8627165c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 176. Financial assistance for the ISOP[^c-39b8a1fc9e74cd3413ea8f7f4b7b9c18][^c-d0dedb54b6a045eb8f77f7091aea6da3]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 23. Powers of the Pensions Regulator[^c24458991][^c-0eb499534537c0c1cb97fbb51b979d04]
 

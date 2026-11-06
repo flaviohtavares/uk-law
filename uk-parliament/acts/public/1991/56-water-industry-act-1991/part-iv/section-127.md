@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 127. Review by the appropriate agency of consents relating to special category effluent.[^M_F_33983520-5b86-4ab2-e8cb-e745a037a88f][^c-6ce56d90116a0426acf8b0c031fd1ea2]
 

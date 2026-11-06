@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (46).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6. Regulated activity providers[^c-618e968f3eb5a8a2980a5be1a7c47db5][^c-6cf1984119125e4927d0f759249849bb][^c-74540a859fc4a82ac908182659715ae2]
 

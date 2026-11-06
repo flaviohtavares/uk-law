@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-02-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4. Guidance as to operation of public benefit requirement[^c-1924fc71efc216b88a7aaa8a2aa5af5f]
 

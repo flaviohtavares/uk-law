@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 71. Waste regulation: amendment of Northern Ireland Order[^c-f046f9bf22fe944885a4b6d9ee3cd78f][^c-debb5b30f59e210298a142b917562789]
 

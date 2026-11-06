@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 311. Minimum sentence for certain offences involving firearms that are prohibited weapons[^c-6831d7139019e1e77db9302632f7b0f5][^c-e45d7f5e7cc7f4282e3a5e07e427fa3e][^c-a2e9c9aad27884f5fdfbbcb3da566f41]
 

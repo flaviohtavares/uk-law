@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 176. Equipment etc.[^c14882161][^c-9fc396beb13033ce8495f221e4813ed8][^M_C_0b742d14-fbb1-4963-c45a-43dafb7669b1]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 83. Up-dating certificates[^M_C_0374adfe-71e4-4d6b-8dee-4bc3eda4edb5][^c-5ff45b91bd06d105344bd66bb5fbaf36][^c-8a84a05b0165fb5d45982d65c2afd5de][^c-ac822c2310a9d58cb3cf4085d4e52ffe]
 

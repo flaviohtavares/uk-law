@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 43. Buildings registered under section 41: appointment of authorised persons[^c-f2321670af92114fb9ab0850eb85fd80]
 

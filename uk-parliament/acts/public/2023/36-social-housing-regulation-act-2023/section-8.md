@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8. Designation[^c-1a0ad9b6910314bed33d19ace60bb118][^c-c670c0082ce1a1e1f782e233af7fe92a]
 

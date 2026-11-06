@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1979/46
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 9FA. Enforcement by the Scottish Ministers[^c-57e6a828e138695471d17b5d54cbe51e][^c-c6b8474c40bc014f12b13fe95b0e62aa]
 

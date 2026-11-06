@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 146. Tribunal Procedure Rules[^c-8964271973acba110b0e6f2330da5437][^c-155116b7063f04f5289ee8610811f48d]
 

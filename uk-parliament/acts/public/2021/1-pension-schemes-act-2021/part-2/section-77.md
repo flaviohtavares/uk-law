@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 77. List of authorised schemes[^c24480861][^c-7b301ea6c307bd0863b552be8934262f]
 

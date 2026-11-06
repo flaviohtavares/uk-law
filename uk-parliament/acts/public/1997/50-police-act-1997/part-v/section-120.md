@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/50
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 120 (Extent: S) (affected by repeal, see note). Registered persons.[^M_E_8078fa24-d073-47f5-ad6c-abc8102a73b2][^M_I_4c1711e6-4151-4641-aa8a-17d84db33289][^c-18291a6dd88b7ac8a1b42216c7a67f7e]
 

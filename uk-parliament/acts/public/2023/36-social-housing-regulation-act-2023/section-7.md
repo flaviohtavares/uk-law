@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7. Registration criteria[^c-1a015f6f1701ddbb82b9802b61fbcefb][^c-e3376f4eb96af25aecaac4c20976de3c]
 

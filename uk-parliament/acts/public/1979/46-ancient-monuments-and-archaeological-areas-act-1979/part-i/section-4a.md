@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1979/46
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 4A. Modification and revocation of scheduled monument consent by Scottish Ministers[^c-cff2598aff07a1e257e04479c06d2401]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 7 — Pension compensation provisions[^c-f30a9dc256c2c0c452386182ef895b4b][^c-be1a4922d2b506cee8e6f84dd7be94cc][^c-e56d941d9eac7b0eaef64fe74ce3db51][^c-3e5126ae6bd6f63daf93f7eedc1204c3][^c-1d5b096a2484abbfb848ffc27f962ced][^c-cb08127de617b92d8f84f3654878c0cc][^c-7b2e86180de1d8c4eaf39b8daaf9d17f][^c-37a07a9115e0fc9ac4d40e60c80d191e][^c-10fb5814d218156a0f1aa9a9132812de][^M_C_fe45837e-e381-4646-d755-efe9ec90f3b0][^c-438255542a75284372faaf7eeb86fdd2]
 

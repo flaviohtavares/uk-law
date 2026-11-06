@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 118. Consent required for discharge of trade effluent into public sewer.[^c-9bdc82ace87e07cfbb7287bddf15361d][^c-e23d85b722f4246bac7b0f46fa2c1ca7][^c-5674eb152b99a46b5ae3445405e7fa1d][^c-3515bd8b20147474063d43e28cd42955][^c-7ac351b2f945dee18d1e5cde6aa81596][^c-8443c6bd671fadd7bc669cc2e9360d1d][^c-726c409e62ab4ad5323789465077cc06][^c-c7981e09607e5d936e6d3d74b5a2f106]
 

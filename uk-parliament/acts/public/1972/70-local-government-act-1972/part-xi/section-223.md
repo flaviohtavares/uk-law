@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 223. Appearance of local authorities in legal proceedings.[^c15119491][^c15119501][^c15119511][^c18866841][^c18886411][^c19655661][^c-dd4d144b112db32587c87e25b322a04d][^c-765a1b5c4e9ae7e212dfc1d66ba2f39d][^c-268ed5f5fc01f9388b226337275b9536][^c-9b87618271f77c12eb9c52ca217e8b03][^c-b75fbc54cbcffaa6c2f38fae27bfe987][^c-57c2bd3aa8c6f399f33462bcf3052753]
 

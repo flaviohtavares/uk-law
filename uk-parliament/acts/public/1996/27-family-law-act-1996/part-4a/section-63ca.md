@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63CA. Offence of breaching order[^c-7963673c0c8b0924bdcf246d34963712][^c21018951]
 

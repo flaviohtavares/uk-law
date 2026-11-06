@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2007-04-01.
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 5 — PROVISIONS SUBSTITUTED IN THE EDUCATION ACT 1962[^c990844][^c990845]
 

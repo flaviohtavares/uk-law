@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 161. Liability of officers of body corporate etc[^c-db304795ea29b60ab4ff96d1469be5d9][^c-49201b188ef8d2c4c82ceea3c8fb40ce]
 

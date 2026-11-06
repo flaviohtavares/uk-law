@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 58. Application to exercise rights conferred by this Part and offer to sell.[^c-28c3b5517268fcb9c30c974d639c6f19]
 

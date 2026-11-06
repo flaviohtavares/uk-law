@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 35. Supply of UK safety data sheet[^M_E_31485cc9-f679-43a6-f9e6-907fd7324dd7][^c-19182876a1889615793f699c09c962c0]
 

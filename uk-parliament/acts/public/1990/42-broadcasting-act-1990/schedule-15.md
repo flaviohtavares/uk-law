@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 15 — Application of 1959 Act to Television and Sound Programmes
 

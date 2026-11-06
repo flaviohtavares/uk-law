@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 242. Gratuitous alienations (Scotland).[^c15575911][^c15575921][^c15575931][^c20434711][^c20434761][^c-00d9d84038f1a622f330ddf631700186][^c-5bd91b6a7fa081573451bbb9865e9ee3][^c-0926faf3c2b07e579f54e662272a9ad1][^c-788371096f8da5425d0cd572175725cd][^c-52a34836c1c703debd8c32c70b8b4178][^c-788371096f8da5425d0cd572175725cd]
 

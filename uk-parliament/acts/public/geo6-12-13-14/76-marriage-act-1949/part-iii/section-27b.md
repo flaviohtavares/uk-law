@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27B. Provisions relating to section 1(3) marriages.[^c6281331][^c-c898f7a5800b3f42e0c6454cec446a45]
 

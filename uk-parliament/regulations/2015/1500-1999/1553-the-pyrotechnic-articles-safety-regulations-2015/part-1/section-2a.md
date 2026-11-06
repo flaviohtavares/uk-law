@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 2A. Interpretation: designated standard[^c-fab9bde8f5d03a449d4da33a52c53287]
 

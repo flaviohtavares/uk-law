@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Meaning of “completing a Welsh apprenticeship”[^c-15cacea20adcfd65f81af11a888a940d][^c-86e3546cc5697f54eb7036d249310bac]
 

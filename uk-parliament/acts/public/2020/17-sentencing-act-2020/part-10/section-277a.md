@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 277A. Presumption of suspended sentence order: person aged 21 or over[^c-b7d7e9a2be62048b0f876da41d2601ae][^c-2a2e39622bf12ec6b576dae11ea832aa]
 

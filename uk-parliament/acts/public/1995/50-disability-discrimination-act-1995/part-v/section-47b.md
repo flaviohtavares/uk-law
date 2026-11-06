@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## (not yet in force: 47B). (not yet in force: Rail vehicle accessibility compliance certificates: supplementary)[^c22810161][^c20485931]
 

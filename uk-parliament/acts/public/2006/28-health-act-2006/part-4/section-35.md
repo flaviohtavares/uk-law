@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 35. Applications for provision of pharmaceutical services[^c-0ebea74de21982c8c057213ff0a2c976][^c-1d61dfcb20cc8fdad95a9e08645b076a]
 

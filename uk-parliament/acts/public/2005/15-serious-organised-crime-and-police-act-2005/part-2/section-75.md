@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 75 (Extent: E+W) (affected by repeal, see note). Proceedings under section 74: exclusion of public[^c-eeb6de619655af21b65b9a5dcf8625b1][^c-e7e34ab8d29da54b984f1f5149e1265c]
 

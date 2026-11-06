@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 188. Deserters and absentees without leave surrendering to police.[^c-59ffb32af2a360de73a4044367c7a4fe]
 

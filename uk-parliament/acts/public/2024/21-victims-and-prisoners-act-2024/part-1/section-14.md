@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14. Strategy for collaboration in exercise of victim support functions[^c-6dd36e6b0194e213498936c15856912c]
 

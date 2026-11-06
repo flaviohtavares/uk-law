@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 246C. Creditors' ability to opt out of receiving certain notices[^c-1e3fbed7a681c2b73fb150b1bfa6b1dd][^c-2c4cd8aea93916585b290f8e104ec375][^c-8fba849871c77e6ca9d09a87fb95e2c9][^c-8153fe12f0f9907116b17e71aa15358b][^c-788371096f8da5425d0cd572175725cd]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 336ZB (affected by repeal, see note). Appeals from the (affected by repeal, see note) ... Tribunal to the Upper Tribunal (affected by repeal, see note)[^c-0c6e6402fa9f2326392aeb56172366c7][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-e6a92664861afb68c5f9c4c440801fe3][^c-44c659fdf3ae27bfa95ab072d6157d41]
 

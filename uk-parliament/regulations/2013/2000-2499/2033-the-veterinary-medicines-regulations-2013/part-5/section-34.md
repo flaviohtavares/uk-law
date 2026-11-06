@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-05-17.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 34. Powers of entry[^M_E_c2ae0713-59f0-4e81-e4a0-ab7de506b4dc]
 

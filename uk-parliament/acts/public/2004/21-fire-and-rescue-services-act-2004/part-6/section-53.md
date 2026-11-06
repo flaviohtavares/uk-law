@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 53. Amendments[^c-242135e20bc47b80c71f5bb24027f075][^c-a20da599db3ba875ccf08a2175f4101a]
 

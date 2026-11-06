@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-06-16. See https://www.legislation.gov.uk/changes/affected/eur/2013/1303
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Northern Ireland; Scotland; Wales (the versions of this text differ in extent).
 
 ## Article 65. Eligibility[^M_E_128669fa-609a-41f8-c955-1b3166a43522]
 

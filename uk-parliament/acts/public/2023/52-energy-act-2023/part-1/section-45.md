@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 45. Conduct of administration, transfer schemes etc[^c-2fa6152e9e882bda3aaf4821fcb743ed]
 

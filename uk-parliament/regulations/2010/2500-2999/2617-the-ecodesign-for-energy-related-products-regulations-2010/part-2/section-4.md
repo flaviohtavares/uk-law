@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 4. Conformity assessments, declarations of conformity and the UK marking[^M_E_804437ac-2075-40ec-d6f8-4b6c7dae26a2][^c-a777e94be0c329e4b9eb8c6956bced4e]
 

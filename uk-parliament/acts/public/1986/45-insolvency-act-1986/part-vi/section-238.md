@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 238. Transactions at an undervalue (England and Wales).[^c15575681][^c15575691][^c18981481][^c20434381][^c20434411][^c-c1c9b49939d44fb1a73256602fcbbc51][^c-03e331bc6f241ea57d7ac53d42e5c76c][^c-c09e4b4064547a6f1813de7d4ebfd329][^c-98d71a57812a2274781ee1f39a66f1c3][^c-788371096f8da5425d0cd572175725cd][^c-cc5204a107018c42ba632e0bf792c8fc][^c-788371096f8da5425d0cd572175725cd]
 

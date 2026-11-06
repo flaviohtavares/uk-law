@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 80. Income Support (General) Regulations (Northern Ireland) 1987[^c-09b56902c8b6dc22c0cb7cd50adf0c7b]
 

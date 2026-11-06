@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 394. Rules relating to community orders and suspended sentence orders etc[^c-64de2699a10d56b3b6f7314aba008f0d][^c-09443881e8b31bdaf472eecea10b30cd][^c-c89fd98b07ea37feb688b3e2684f595e][^c-ef468a3969eec5d958d24b6e71fa7e6d][^c-82674ee52ab2c22b37d3b7fe77055155][^c-64e8f7411632d032ba04398b63a8d7a2]
 

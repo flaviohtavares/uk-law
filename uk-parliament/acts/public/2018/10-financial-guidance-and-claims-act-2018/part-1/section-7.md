@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 7. Debt respite scheme: regulations[^c-b0a1f4217dbe83db21099feb1b3ef1fc]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 69. Jobseekers (Northern Ireland) Order 1995[^c-b0e5643e2dd0cb8cb939068d01ee675b]
 

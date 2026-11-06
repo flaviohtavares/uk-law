@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 134. Fatal Accidents (Northern Ireland) Order 1977[^c-955f5a3e634995649e619c4921eadfc0]
 

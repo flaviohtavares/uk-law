@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Dispensations from section 31(4)[^c-33d8e30b7c4504221b9ee158dbfbd931][^c-a13ee788db79fd8c1c496244015ac708][^c-f8b55749b2b22275431cf99c4735770a]
 

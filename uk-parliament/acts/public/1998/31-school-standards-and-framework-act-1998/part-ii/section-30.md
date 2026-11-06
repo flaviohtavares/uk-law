@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Wales.
 
 ## 30. Notice by governing body to discontinue foundation or voluntary school in England.[^c-a29b0fd7d55065a41df37a62e52857c6][^c-1313af107c667d53f8249677b0ab70f7][^c-2574afcb8d3595b05ad3c5d519540b41]
 

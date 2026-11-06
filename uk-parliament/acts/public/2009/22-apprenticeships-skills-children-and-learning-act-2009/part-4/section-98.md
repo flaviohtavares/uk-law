@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 98. Power to amend apprenticeship offer[^c-89f99a74fc0011218d87d31333fbb9a4]
 

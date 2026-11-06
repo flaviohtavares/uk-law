@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 80. Requests to other member States: England and Wales[^c-8da05c3c20f79fb0ead341048044cdb3]
 

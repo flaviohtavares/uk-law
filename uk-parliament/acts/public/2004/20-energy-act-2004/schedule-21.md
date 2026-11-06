@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-09-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 21 — Energy transfer schemes[^c-ecaca5650fbffebbaf63c48200ffc31e][^c-24b2184f5621e2c3a6518e2aa04cb131][^c-5aa6751b1bcfef8c84e949a48738e00d][^c-99ac38333f0e1d1c1ce992133526230b][^c-40591093fc683a16f03fc9135903c110][^c-806dbcd914d26f5698fc4ce4b1ae9f20][^c-51218c29b67160a17e18e97c97bd8a62][^c-6ddb0355bc9b727a66e8c3c11c59e3c7]
 

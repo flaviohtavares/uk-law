@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE B1 — ADMINISTRATION[^c-d1f6cd3e667c61161626d49e1528a740][^c-a8f7c8a7abc67163286d8517a08061b7][^M_C_32f9a93e-6029-4898-ca68-b4e66ddfcff3][^c-4c0afa2c806fb7e35b014f535b2b2b7c][^c-5de83754079654dbdae23d3ff066d97c][^c-91f4333bb20bc298b0eb39273563fd2c][^c-cbb68fdab1100085fc461a26c7729b41][^c-a28392076f32470421b2de4a542daa7a][^c-46ca7ca26b37ec66b98b25a46d47e0cc][^c-cae454ace63a65365cdf05c40115cac8][^c-100522855db59b6446d31f51bb240304][^c-99c282429b2c3efaa37ef138779828e7][^c-c11f122f2f25a314e05ca163a07275ee][^c15587611]
 

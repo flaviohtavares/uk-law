@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28. Police and crime panels outside London[^c-9355fc067001b3201f4ff0e2c17f4ec6][^c-a5de39de27b537c3f137cfc181782e13][^c-ea72d7ebed23025e4393d1a3dc41b755][^c-0a806eeca31a1376576747fc4422322a]
 

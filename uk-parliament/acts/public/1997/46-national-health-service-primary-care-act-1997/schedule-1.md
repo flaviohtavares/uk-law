@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 1 — Preferential Treatment on Transferring to Medical Lists[^c-ff6f113c9be37e4099b2b861a30f0159]
 

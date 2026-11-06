@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 69. Appointment of additional persons to exercise investigatory powers[^c-400b65aa95657c2389f5e37b7606f356]
 

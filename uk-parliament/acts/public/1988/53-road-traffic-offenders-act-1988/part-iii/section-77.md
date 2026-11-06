@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (91).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/53
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 77. Endorsement of counterparts where penalty paid.[^c-bdd7829ba5fb0310cd72fa0af1c5bbf9][^c-5ea7a96ddbdc22a581450f08c439ea71]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2024-12-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Commission for Health Improvement: inspections and investigations[^c-4ee34d9b40a9df9530ffa3ed1af08ac2]
 

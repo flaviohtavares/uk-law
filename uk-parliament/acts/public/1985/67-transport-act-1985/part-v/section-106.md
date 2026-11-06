@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (54).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 106. Grants for transport facilities and services.[^c19483111][^c-b22ae4ca9f85f09e94a8ee980aaec982][^c-eba55380aaf2978907d4dc59f5bdd55a][^c-f6d860022828ed22fa340cdf9233d94a][^c-eba55380aaf2978907d4dc59f5bdd55a]
 

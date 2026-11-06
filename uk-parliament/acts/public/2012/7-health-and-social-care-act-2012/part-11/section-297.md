@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 297. Relationships between the health services[^c-49fd7e15e8dac5d54457d50f03ea7f7b][^c-3a807450bfacbffd1085b96907800aff]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 74. Liability as contributories of present and past members.[^c-d42c95f368c806f53e80c7334bd5b6c3][^c-734401bc46edce2194ae369a591e2eb7][^c-03caff2bb12bf9923001b29c18763f48][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

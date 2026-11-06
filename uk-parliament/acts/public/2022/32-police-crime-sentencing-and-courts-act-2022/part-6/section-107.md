@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 107. Application of Police and Criminal Evidence Act 1984[^c-28e8420ed606a3143028bfbf7932fca0]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Amendment of the Genetically Modified Food (England) Regulations 2004[^c-3819baa99f2cc7fdf37d7f1f1c9ab3a9]
 

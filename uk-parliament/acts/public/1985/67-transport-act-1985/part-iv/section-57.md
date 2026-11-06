@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (54).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 57. Areas, Authorities and Executives.[^c-cf88b4f7085512c2446c4376b137e07c][^c-27890099608df53aa49f7782fbd18013][^c-27890099608df53aa49f7782fbd18013][^c-45310180da02813b2b1d2791937531d5]
 

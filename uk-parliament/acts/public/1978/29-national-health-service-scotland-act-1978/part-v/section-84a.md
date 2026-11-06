@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2026-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 84A. Power to raise money, etc., by appeals, collections, etc.[^c14169831][^c-759b3b4c36c4a9417c6c18e09dba4adc][^c14169811][^c14169821]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2021-07-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. Power to search further education students for weapons[^c-5ef519a4604fb2b063542a48c500576f][^c-28ab226e8871a09b8becb3379c0f95f6]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 53. Regulations as to standard and provision of equipment.[^c-851891b84a3a285242b4d87ce92d59e1][^c-20f421ed0625115d5bfa6ab9d6973ac5]
 

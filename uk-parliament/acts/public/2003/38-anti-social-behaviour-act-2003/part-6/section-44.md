@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 44. Meaning of relevant offence[^c-5582943d33277979f9ee84409ad655af][^c-2c0a33bd462bc4f3231e9f78d4c4572d]
 

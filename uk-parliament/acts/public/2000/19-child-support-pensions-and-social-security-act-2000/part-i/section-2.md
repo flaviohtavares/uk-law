@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (25).** Text as at 2016-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 2. Applications under section 4 of the Child Support Act 1991.[^c21443931]
 

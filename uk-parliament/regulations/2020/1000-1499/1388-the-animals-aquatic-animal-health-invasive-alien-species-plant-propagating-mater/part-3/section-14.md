@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 14. Commission Implementing [Decision 2014/709/EU](https://www.legislation.gov.uk/european/decision/2014/0709)[^c-8bb33f97a033660359488e1d67c19b11]
 

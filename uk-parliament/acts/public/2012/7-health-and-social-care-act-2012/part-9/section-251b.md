@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 251B. Duty to share information[^c-5a90fa159747bda209430c86eb70e6bf][^c-134a54eef445c150cf8d9da96f3bd08c]
 

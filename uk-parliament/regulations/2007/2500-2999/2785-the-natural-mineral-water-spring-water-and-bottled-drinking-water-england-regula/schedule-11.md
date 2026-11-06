@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 11 — MINIMUM FREQUENCIES FOR SAMPLING AND ANALYSIS OF SPRING WATER AND BOTTLED DRINKING WATER[^c-49324454f0be6b488784b0b4e2adc517]
 

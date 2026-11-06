@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-05-17.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 2. Definition of “veterinary medicinal product”, interpretation and scope[^M_E_52b6bdb9-6a2b-4345-a6b0-dfd13ec854d1]
 

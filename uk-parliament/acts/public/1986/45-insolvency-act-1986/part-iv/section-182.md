@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 182. Powers of court (leaseholds).[^c20432231][^c20432251][^c-2480efc7eee691a1987cb4f42a7a4b16][^c-437967eedac5d8ef8fd18f0bd891ae4c][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

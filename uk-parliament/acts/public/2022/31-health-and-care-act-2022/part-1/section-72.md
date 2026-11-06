@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 72. References to functions: treatment of delegation arrangements etc[^c-0d7eabd3c4b0f8c772ca6f627bac4740][^c-49c1a6bf87d9777ce71be9b73431c628]
 

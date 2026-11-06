@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 23D. Collaboration agreements: accountability[^c-0a484dd46d77de1090776766308edb39][^c-0d80583ecb11921312f235e3b9a88fc9]
 

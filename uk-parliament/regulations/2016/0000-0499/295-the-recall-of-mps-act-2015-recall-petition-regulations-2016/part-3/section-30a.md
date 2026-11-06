@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 30A. Refusal to deliver signing sheet: England and Wales and Scotland[^c-89dfe48f3b5d34f49cfa549765591f29]
 

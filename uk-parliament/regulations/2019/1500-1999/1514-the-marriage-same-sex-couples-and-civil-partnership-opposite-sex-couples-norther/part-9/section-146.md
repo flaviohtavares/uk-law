@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 146. Charities Act (Northern Ireland) 2008[^c-36c5ac161f21018186a320d34fbdc51a]
 

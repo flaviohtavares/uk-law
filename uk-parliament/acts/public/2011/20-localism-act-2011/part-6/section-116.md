@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 116. Neighbourhood planning[^c2116523][^c-ede2162486f56cf59aa2977934be8aca][^c-6a6b310ae29b03883f639e350d3943ff][^c-39002bb0a35281fe27030de0e1892aab][^c-042f7f358fdff585d04779fcfb219dbc]
 

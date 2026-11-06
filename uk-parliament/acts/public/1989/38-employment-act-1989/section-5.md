@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2018-01-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 5. Exemption for discrimination in connection with certain educational appointments.[^c-7be528fdb39ae51e678f410530daa377]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 71. Challenge or appeal: effect of order of court.[^c833526][^c2085247][^c2085679][^c2085780][^c2086253][^c-237c8db002454e602678ddeb957922d0]
 

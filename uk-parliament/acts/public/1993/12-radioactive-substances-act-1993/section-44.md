@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2023-12-20. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 44 (Extent: E+W) (affected by repeal, see note). Regulations and orders: Great Britain.[^c-2ac21809531a4a9862c2925061ff3f57][^c-be99045f66d431b485bf80fe6e743ddf]
 

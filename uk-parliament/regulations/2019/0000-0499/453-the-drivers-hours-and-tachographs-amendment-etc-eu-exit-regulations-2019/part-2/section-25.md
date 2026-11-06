@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 25. Fixed Penalty Order 2000[^c-d29b10c3c3be6b38b4756b6c7ea2f1a6]
 

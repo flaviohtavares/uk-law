@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 181. Mandatory training on learning disability and autism[^c-9e52ee10924825ab72aaf4bc647cfa60][^c-0a5cadfee6bb3a33a2a1a0a8942832d5]
 

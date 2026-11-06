@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 30. Urgent procedure for cancellation[^c1942175][^c-e886cfb1770e15a10d8e664185e0d3d6][^c-ba5c75bf52211cba34295504f4671bbc]
 

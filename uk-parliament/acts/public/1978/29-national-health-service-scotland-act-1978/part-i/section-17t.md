@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## (not yet in force: 17T). (not yet in force: Payments by Health Boards under pharmaceutical care services contracts)[^c20973211]
 

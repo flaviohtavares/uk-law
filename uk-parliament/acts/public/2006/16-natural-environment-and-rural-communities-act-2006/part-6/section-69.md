@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 69. Presumed dedication and applications under section 53(5) of the 1981 Act[^c-67faaf1ab681887e1f8730446e5e5e4d][^c-353ceaf23f4afb5011002022201d913e]
 

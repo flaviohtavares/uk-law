@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 199. Recordable offences[^M_I_c4b1bc31-4297-4571-8e6c-379f07b22ce8]
 

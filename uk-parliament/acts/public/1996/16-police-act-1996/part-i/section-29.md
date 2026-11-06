@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 29. Attestation of constables.[^c-fb7221dfdf933385afa63183e7b8bdca][^c-17f550d09c0c4ee3484924de544395fd][^c-d3f42f8177776f10402985d54ded48a0]
 

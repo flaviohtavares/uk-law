@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 37. Continuity option 2: resolving triggering event[^c24459141][^c-80c6a38042a60953226cd9a69abf932d]
 

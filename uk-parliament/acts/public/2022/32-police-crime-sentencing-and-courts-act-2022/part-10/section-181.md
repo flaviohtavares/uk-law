@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 181. Effect of conviction for breach of Scottish order etc[^c-795bee79bc9fd2c6252eaaa0324b1ccc][^c-c3bfa1a3debc09228a617f393fbebafe]
 

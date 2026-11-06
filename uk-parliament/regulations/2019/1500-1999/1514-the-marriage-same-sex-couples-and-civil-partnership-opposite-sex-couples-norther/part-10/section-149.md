@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 149. Extension to Northern Ireland of amendments made in consequence of the introduction of same-sex marriage in England and Wales[^c-86e453706d5ad000db69ff82466e04a3]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 152. Individual Learning Accounts Regulations (Northern Ireland) 2000[^c-c64c650e22c18923331ff43a551eff1e]
 

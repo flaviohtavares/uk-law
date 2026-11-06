@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-10-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 50. †Port charges and conditions at harbours.[^c-22953f81e0f430c071c8c11169c68e71][^c4793101]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2013-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 57. Penalty for second conviction of assault on constable.[^c10848821]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2025-06-25. See https://www.legislation.gov.uk/changes/affected/asp/2006/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 41A. Investigations under supervision of Lord Advocate or procurator fiscal[^c-148e1f449ac5f16da47ac64b85ea6eca]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 45. Buildings having defective closets capable of repair.[^c-6c07b11950ff057526c163209e3fb530][^c-f19937083b5ad9c26d7369864a7b432a][^c-c66923f48f458fe8a4a1df42cb827edd][^c-9e1ca6c834010b593ac54f45d1aa3dbb][^c-13fe44f7208f8bb877cd6eabda5d3dd2][^c611446]
 

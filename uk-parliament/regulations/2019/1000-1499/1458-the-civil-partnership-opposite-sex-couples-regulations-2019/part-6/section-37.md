@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. Limitation of right to convert civil partnership into marriage to same-sex couples[^c-90b665de3d6dee8d0e393697e0ccbbda]
 

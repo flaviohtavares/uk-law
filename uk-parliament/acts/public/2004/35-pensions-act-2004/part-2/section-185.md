@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 185. Fraud compensation payments[^c-88fad4ae34937583bf4bf9ce034552e5][^c-9f7630100fb0bee3a3dbda1545f54369][^c-85813573544152d94d8068f5d8d11a27][^c-abcbce285dc97269ef46a40a35c967fc][^M_I_9c85416a-4ac5-4744-eb18-838e713444f7][^c-9f7630100fb0bee3a3dbda1545f54369]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 115. Accountability of officers.[^c15107241][^c15107251][^c15107261][^c15107271][^c18858391][^c18891421][^c20521021][^c-8fafe89064f4c009f1abc0056e24a654][^c-3e83b912a5f155e780da0c32c9063c8e][^c-5155991ff79838925123cf4a61407ff0]
 

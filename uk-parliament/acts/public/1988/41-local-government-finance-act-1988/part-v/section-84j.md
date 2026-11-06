@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (93).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/41
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 84J. calculation of grant payable to receiving authorities[^c-8ffdd5ddbec94679ae26e02a834cc2c9][^c-f30e0be8042ee7b0528fb9726a5c1d7c]
 

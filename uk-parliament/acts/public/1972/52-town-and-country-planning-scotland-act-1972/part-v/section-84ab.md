@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 84AB. Variation and withdrawal of enforcement notices.[^c14922841][^c14922861]
 

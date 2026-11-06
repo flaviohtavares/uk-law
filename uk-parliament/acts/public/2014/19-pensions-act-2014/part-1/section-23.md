@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 23. Amendments[^c-23d5e15a3d571ae33152af92461e986f][^c-aa8c8dd61a20179fad32ccdb170c97e7][^c-2b374d76e7db3d15b2fd558a55fdd953][^c-b3fd9558b9d7a1d2dc87125fc6c354a6]
 

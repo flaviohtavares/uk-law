@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 162. International healthcare arrangements[^c-6fe69e46ad156a15c7f2798a98d73485][^c-6cf2c803b5daf8cbb56dee94a0744d9a]
 

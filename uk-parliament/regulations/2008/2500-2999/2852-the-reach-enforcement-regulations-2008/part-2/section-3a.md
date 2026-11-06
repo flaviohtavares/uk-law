@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 3A. Enforcement: relevant nuclear sites[^c-312f0acb84edab06402a04355b2a8568]
 

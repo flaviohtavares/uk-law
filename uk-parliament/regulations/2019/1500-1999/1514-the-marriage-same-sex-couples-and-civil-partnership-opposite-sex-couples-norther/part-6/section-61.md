@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 61. Social Security Pensions (Northern Ireland) Order 1975[^c-f604b08a741d13054228d22790f89679]
 

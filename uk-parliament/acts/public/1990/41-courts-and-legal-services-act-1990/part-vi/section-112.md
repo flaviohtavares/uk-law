@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 112. Costs against legal representatives in magistrates’ courts.[^c12477811]
 

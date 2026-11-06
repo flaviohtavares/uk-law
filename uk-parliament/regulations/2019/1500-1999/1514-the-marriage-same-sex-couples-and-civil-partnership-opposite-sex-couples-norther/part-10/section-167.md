@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 167. General Register Office (Fees) Order (Northern Ireland) 2016[^c-9b6fe7791b22327cb3c311193bd70e57]
 

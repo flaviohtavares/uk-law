@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 55. Scottish domestic energy efficiency regulations[^c-9ea57ad269ea9c49eea91ab3832a5cbc]
 

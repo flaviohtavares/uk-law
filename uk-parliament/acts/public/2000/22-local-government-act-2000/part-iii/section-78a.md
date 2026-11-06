@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 78A. Decisions of First-tier Tribunal[^c-460207f0c64a2a69bb56fc0ba8b85e82][^c-366f9ebaec7c3ae9e21a848d59283342]
 

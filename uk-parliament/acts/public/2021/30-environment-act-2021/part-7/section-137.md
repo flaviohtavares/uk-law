@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 137. Crown application[^c-3dc98108b525380b4d1f876db3a76a04][^c-bb983b8b314caab7778e05cf5af54333]
 

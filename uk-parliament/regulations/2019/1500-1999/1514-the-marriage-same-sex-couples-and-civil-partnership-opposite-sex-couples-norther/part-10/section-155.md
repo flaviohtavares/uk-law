@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 155. Employment Equality (Sexual Orientation) Regulations (Northern Ireland) 2003[^c-c7dbfcdb84ae4897fb1e9cc99c0b6058]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 15A. CMA's power to veto modifications following report.[^c18902041][^c14099031][^c-34f65939edec8e7b66d199632f5b788e]
 

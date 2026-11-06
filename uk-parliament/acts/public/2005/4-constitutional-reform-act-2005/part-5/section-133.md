@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 133. Removal from most senior judicial offices[^c-eece6579c6ee3d8baa7e3a401b9baade]
 

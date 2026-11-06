@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: Wales.
 
 ## 25B. Title of civic chair[^c-f0aabea95bf5dd6612811047c3ddc0f6]
 

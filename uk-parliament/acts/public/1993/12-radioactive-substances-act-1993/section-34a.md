@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2023-12-20. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 34A (Extent: E+W) (affected by repeal, see note). Offences of making false or misleading statements or false entries.[^c-2ac21809531a4a9862c2925061ff3f57][^c-9c993cdc337f0974eebd9a6a4a5034ee][^c426982]
 

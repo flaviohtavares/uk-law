@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland, Northern Ireland (the versions of this text differ in extent).
 
 ## 22. Failure to fix, and obscuration of, marks and signs.[^c8885411]
 

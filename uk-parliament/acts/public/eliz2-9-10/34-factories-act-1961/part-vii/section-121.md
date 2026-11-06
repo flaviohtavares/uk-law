@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2016-07-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 121. Tenement factories—other provisions.[^c-bde7f1b8c4750a92a2f2a678d9c464e3]
 

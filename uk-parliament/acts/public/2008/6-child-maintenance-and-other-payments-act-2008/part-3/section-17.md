@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2023-09-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 17. Power to regulate supersession[^c2172030][^c-0c63bace9462ed4b22bbf212a8c66914][^c-b67cc7ba2c5d32db28d3bcaba357b065]
 

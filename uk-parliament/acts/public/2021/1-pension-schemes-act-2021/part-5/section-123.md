@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 123. Funding of defined benefit schemes[^c-8c8b4123250edbef88bbd5a464d03894]
 

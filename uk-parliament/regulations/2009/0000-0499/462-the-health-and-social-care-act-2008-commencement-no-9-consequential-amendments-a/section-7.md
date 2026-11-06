@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7. Suspension of the offence of carrying on a regulated activity while unregistered[^c-e52c221ce2e949d05bf39d4e4cd3ef91]
 

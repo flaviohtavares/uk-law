@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 301. Shared ownership leases: protection for certain leases[^c-1eec8663518d264b7aea46fe64453e48][^c-23f815e2356b9ae31904f4b2a1105cdb]
 

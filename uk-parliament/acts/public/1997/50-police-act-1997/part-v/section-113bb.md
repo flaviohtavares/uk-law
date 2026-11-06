@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/50
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 113BB. Suitability information relating to vulnerable adults[^c-e24a860acd32d1361977f124ca2895a6][^c-1142c7b56c60cd00906682058d3a0c2e][^c-e8d8af7461d70dee39938021e21698c8]
 

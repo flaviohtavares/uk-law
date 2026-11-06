@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-04-28.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Marriage according to religious rites: no compulsion to solemnize etc[^c-633fb19efb053a6da21761866ee2ccef]
 

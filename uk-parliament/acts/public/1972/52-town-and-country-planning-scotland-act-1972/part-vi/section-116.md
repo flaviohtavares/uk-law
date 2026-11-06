@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 116. Management etc. of listed buildings acquired by. . . planning authority or Secretary of State.[^c14926421]
 

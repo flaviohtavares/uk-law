@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 172. Pre-13th January 2020 will is not revoked by recognition of existing overseas relationship[^c-8f8443f067254174506510dc4bc465a4]
 

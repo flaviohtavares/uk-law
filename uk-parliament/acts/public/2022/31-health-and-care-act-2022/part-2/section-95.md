@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 95. Information standards[^c-37fa6275462f2d9210852cd193dcd258][^c-c95ba6b10d24e00c51140c203cdb0cdc]
 

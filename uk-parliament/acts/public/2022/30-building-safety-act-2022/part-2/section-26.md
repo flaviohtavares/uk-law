@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 26. Right of appeal: requirement for review before appeal[^c-480f75101c82ed917b83280228108983][^c-414fd9d9edc5b24243bf553c62208d29]
 

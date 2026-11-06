@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 187. Selection of code manager[^c-1cb2c118fd34fae0f0d666f218b9eea8][^c-490dcd280cb9c4f64958b0cf72be02c3]
 

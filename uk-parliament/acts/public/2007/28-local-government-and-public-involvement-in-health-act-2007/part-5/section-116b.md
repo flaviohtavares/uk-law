@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 116B. Duty to have regard to assessments and strategies[^c-04a176078785b44c2893b9f8016d06c2][^c-28589a53e83dbfa6c180d2a3b8283a04][^c-9025a5fb39c61e0babc49fff632a3847][^c-f9b8c7b2d42fab3854a1daf7679a42c4][^c-60fad46a16377026bdb77070107e3842][^c-eaba81f3661018bb15e72f9a8dd471b6]
 

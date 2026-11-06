@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 14 — Further provision about the expenditure of Primary Care Trusts[^c-2a408b69b7b2b8f700bf01ac3989d00f]
 

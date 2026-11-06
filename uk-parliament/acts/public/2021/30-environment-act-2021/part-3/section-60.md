@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 60. Hazardous waste: England and Wales[^c-918545fe2cac8c1d05b40f23ac448b32][^c-21d436bba9fa45cffd0c3add03181434][^c-c485928a6e90877629f639329cd672fc]
 

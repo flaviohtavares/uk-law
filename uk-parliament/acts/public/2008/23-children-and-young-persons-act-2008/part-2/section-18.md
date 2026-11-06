@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/23
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 18. Visits to children in long-term care[^c-474af98834fac3950ab70ed34e30ad4e][^c-6c2d3468439de5ec21eb41c9ef80a7ce]
 

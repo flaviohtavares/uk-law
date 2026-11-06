@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2022-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 15. Payments to recognised fund-holding practices.[^c1358317][^c1358318][^c1358319]
 

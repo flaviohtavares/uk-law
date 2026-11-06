@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 25. Acquisition by Secretary of State of land for public access.[^c-77fdb88ae8e9f276f0476bfaf71aaf04]
 

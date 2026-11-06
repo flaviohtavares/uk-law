@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 120. Voluntary provision of information etc[^c-f0c6dda2026534381b8315120134b615][^c-6c6e9e3923f926251947840e436a3f43]
 

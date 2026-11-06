@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 6 — Public service delivery: specified persons for the purposes of sections 38 and 39[^c-840e6909868a8469797d4af4270a073a]
 

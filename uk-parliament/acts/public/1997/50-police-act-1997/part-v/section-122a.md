@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/50
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 122A (Extent: E+W) (affected by repeal, see note) (Extent: E+W). Delegation of functions of Secretary of State (Extent: E+W) (affected by repeal, see note) (Extent: E+W)[^c-3b521337e48b95cb2409cbf2450bcd56][^c-889b5b65d625ce4ef3e2f46cb1a80efb][^c-412eaa46d7bdc819c07f531be16f6985][^c-889b5b65d625ce4ef3e2f46cb1a80efb]
 

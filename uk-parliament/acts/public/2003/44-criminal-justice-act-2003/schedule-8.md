@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 8 — Breach, revocation or amendment of community order[^c-35f8c0f4d5132b5b707a90835b1a06d0]
 

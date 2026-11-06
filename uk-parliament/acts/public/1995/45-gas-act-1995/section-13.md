@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 13. Duty of Authority to advise etc.[^M_F_cf1f490e-3e4f-43f8-869c-4562810483d7]
 

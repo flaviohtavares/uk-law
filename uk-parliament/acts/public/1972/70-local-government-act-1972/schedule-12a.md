@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 12A — ACCESS TO INFORMATION: EXEMPT INFORMATION[^c19925051][^c19920751][^c-b3ddd94e462f3e9705499b1413bd5969][^c-46aa3ca2d3dec1a5668fc2f33094a927][^c-8c626c6840bbacccf994dd70b36c512a][^c18895951]
 

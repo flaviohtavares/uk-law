@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 14 — Persons to whom copies of requirements to be provided in particular cases[^c-e85e599fc6c2f6ffb89b9a06079a83de]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 53. Extension of regulation to fixed service charges[^c-a5d83847f1fb6e8a36ee3a0fac954096]
 

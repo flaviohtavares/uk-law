@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 39. Costs of enfranchisement and extension under the LRHUDA 1993[^c-460030630cf4fd3802f58876e5927f83]
 

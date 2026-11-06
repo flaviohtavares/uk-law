@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 59. Statutory references to persons entitled to guaranteed minimum pensions application to widowers, widows of female earners and surviving civil partners[^c-4b375d2a5886a59f1fca5446026831fa][^c-68e55bda65fa15fd62a55ae3cbc8322d][^c-8710d5296b9d698f1c0ae4b06ebfa3d7]
 

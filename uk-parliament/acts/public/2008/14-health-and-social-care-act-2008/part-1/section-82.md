@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 82. Failure by the Commission or Healthwatch England in discharge of functions[^c-32ac1883e03852d7ab2fd2f71371ffe0][^c-39ff856c6f8a760aba71859652d7d10e]
 

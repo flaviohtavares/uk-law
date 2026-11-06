@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Witnesses eligible for assistance on grounds of fear or distress about testifying.[^c9545701][^c-500e71f94673c4f381cd59baa7692fb5]
 

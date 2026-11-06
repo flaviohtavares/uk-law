@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1979/46
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 12. Power to place ancient monument under guardianship.[^c250838][^c-c2ec74edbbc532a3921b29a32070b43e][^c-ba45a667a141c3d80d457d15c385b649]
 

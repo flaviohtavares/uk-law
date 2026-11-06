@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2014-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/11
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. Meaning of “the consolidating Acts”, “the repealed enactments”, etc.
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 177. Cross-sectoral funding[^c-a82f8ba9f5d223937c38e0ee83f30127][^c-5001ecd33a43ed42ec542a8db186ea0c]
 

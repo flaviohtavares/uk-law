@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 2 — Arbitration or Third Party Determination of Rent: Provisions Supplementary to Section 12[^c-66acf21ad0f16349685d8e72782525da]
 

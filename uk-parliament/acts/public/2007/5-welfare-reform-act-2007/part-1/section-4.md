@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 4. Amount of income-related allowance[^c-aa58e5532683b2e3e4168fdc6726f1ff][^c-a930b4f5a9da12f15855a11f7d9602d0]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/43
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 41. Power of Secretary of State to repeal sections 33 and 58 of Rent (Scotland) Act 1984 and to reduce phasing progressively.
 

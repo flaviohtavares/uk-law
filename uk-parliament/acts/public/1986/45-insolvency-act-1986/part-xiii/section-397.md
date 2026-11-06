@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 397. Action of Tribunal on reference.[^c-e2cb3465ee0bdce71c4df30a9682cd87]
 

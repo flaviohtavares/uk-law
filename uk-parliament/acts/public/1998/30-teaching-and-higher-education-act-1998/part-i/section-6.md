@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6. Disciplinary powers of Council in relation to registered teachers.[^c-3006d573236b28f3024c127eaf6cf603]
 

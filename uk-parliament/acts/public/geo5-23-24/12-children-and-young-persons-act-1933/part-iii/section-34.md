@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5/23-24/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 34. Attendance at court of parent of child or young person charged with an offence, &c.[^c6083681][^c6083691][^c-bd59ebc347647c92c30f848a47e2dd33][^c6083671]
 

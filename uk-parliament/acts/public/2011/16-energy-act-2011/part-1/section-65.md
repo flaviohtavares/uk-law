@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 65. Crown application: Chapter 3[^c-2b59a5fb50ec67e150d6032bcd9d96ad]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 22. Intervention by Secretary of State[^c-f359ac5f45a6535ab4c6269dbc238d51][^c-4d8e688970cb30b0d762535d8273b24b]
 

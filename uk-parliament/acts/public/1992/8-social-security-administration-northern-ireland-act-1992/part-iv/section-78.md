@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 78. Recovery of sums equivalent to benefit from compensation payments in respect of accidents, injuries and diseases.
 

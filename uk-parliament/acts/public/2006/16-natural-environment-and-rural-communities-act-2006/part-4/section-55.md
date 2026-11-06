@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 55. Offences in connection with SSSIs[^c-65930e7079f9036ff8bde46c1d45ba92]
 

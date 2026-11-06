@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/50
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 21A. Compliance with prescribed legal requirements (affected by repeal, see note)[^c-d244525997e5004539b5b99bca1a3a0f][^c-fc20bf788fddf36d09dbf266cb7b193f][^c-fc20bf788fddf36d09dbf266cb7b193f]
 

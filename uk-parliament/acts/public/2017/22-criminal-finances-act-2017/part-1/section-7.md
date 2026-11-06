@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 7. Disclosure orders: England and Wales and Northern Ireland[^c-6da30d0d1957be76ce67538410fe6e5e][^c-045608cb21d46078ef3d66ee40946b1f][^c22725121]
 

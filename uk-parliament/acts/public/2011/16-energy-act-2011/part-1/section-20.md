@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 20. Power to modify energy supply licences to make provision as to consumer protection[^c-4fd4f835504b209bce1bcc99d0f8fff1]
 

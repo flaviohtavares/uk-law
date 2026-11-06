@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 42. Orders with respect to licences[^c-ececf1e7efd3a21ed7fc922e37479378][^c-ba9f1d787f90538028c44697f98be45e][^c-5b945c50b24e0f53f1d607c6ab857ebc][^c-c28ef05a28d10bb7300fbf81f6a2faad][^c-6340327c55d1c9d99fa24fd3cd92a9da][^c-8cf85667661c64c6b268808b5ad98afe]
 

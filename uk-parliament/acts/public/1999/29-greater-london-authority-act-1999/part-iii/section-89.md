@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-08-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 89. Additional calculations: special item for part of Greater London.[^c12801511][^c12801521][^c12801531][^c-67b6093e25a617104f6120ef8f90ef07][^c-8547c341c22d195d2f1a11bda91d1b2a][^c-e15e946f35d91921ceca5817654926db][^c-bca1d69811d3db9683f27a6a4b9aad15][^c-c1081256f809c06d2dec939d88d5a67e][^c-ee02e23bad7befc94a4d47da89739b10][^c-bd8fb3b0654c7c088f33d8eb8b35bbe9][^c-4c23fbc3ac8fabfe0acfeddbc564bf44][^c-fbd415bc3d7a808b8165d6319ebb1947]
 

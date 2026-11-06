@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31. Guarantees: repayment by further education body etc[^c-502a4fda35eaa85c09b3a20b8d2caf43]
 

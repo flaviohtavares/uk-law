@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 74. Guidance about joint appointments[^c-811437673c416911c97f79acd6f41416][^c-36c1d3292d7f57a1621f74c8e9a37a79]
 

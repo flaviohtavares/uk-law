@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (20).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 1084. Records relating to companies that have been dissolved etc[^c-38db5be2d351c19a3a387ee53dc29484][^c-c7138a4716d3175d337e70ad16963564][^c-fe5ef8d36cc31be6f964f271be6bbbad][^c-595bf52aa27775b68612e1b2dbc79806]
 

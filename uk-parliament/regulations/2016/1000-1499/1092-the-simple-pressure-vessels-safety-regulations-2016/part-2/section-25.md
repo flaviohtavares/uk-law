@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1092
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 25. Duty of importer to take action in respect of vessels placed on the market which are considered not to be in conformity[^M_E_b8bc0b06-02ba-4be0-9f0e-d09b806a9a4e]
 

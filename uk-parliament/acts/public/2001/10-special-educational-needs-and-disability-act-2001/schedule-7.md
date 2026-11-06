@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 7 — AMENDMENTS TO THE DISABILITY RIGHTS COMMISSION ACT 1999[^c-982fee4f1ec328aaf5ef8736962de42d]
 

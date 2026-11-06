@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 129. Applications and notifications for the purposes of section 128[^c-a7ed8489e179b987a8f0f27af89fb104][^c-8ae4f61b00045ebee33fee3b22100c82][^c-a964ec6cdf5c65b0aaba22d6e2b2d2de][^c-a7ed8489e179b987a8f0f27af89fb104][^c-8ae4f61b00045ebee33fee3b22100c82]
 

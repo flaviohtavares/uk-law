@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19. Extension of time for bringing discrimination proceedings[^c-e69068de2708e795f3786980f2df6d38][^c-db3cc9e89b4a0646d6b4cda9f2248690]
 

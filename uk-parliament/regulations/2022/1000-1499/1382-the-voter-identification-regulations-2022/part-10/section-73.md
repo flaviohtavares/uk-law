@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 73. Amendment of regulation 19 (equipment at petition signing place)[^c-39b4f6c65f23b3b4fb3dfe0be96d60d4]
 

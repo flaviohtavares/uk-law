@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-03-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 48. Restricted byway rights.[^c-7c6c27a0770161c467576ea16ad975d4][^c-ea110548e1cea80a3a6186ce0937704a]
 

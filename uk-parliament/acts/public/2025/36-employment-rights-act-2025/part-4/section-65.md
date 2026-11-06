@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 65. Facilities for equality representatives[^c-4d774c856267a6029886099ee205b836][^c-621d1e176e6516cc59c576758adc4ee0][^c-2764b18aa9864b873b5ce056a657d3ce]
 

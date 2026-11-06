@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 46. Procedure on reference to a Planning Inquiry Commission.[^c14919001][^c14919011][^c14918991]
 

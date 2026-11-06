@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 69. Local authority and strategic authority economic assessments[^c-9dccec1194897e9cdfdbb4870225f9da][^c-997642ab5a206bf7fb4827984e59ecc1][^c-897a4fed9bd0b86953b125a8df5246af][^c-50e33e76ee58d7cfd72875d85d9dee97][^c-544cdd6de01d33ed8a2d02b784bb8ad0][^c-a7032356a069e69e7be9d61caffcf1a4][^c-6555002c03f03832889caa6b5ee5b912][^c-6e18252be5ceaee44dfd310e2e193e76][^c-11369306a48d5df29a450c437829e529][^c-85c35d0100e961c615f8350bbda0303c][^c-032d05aed53d1fb2431d55ea28f1f799][^c-488d5f56f9a5c17d649f850601d48b57][^c-f9a307397d0eb370a03f3f42471b6259][^c-e16f80e8aac2753a84261c081707edf5][^c-a406f14b779b04932c4b69458dc25266][^c-9d833bb5f0b7576091f37345c6cd4faa][^c-8a9636df8cc90185cf914aac831eb09b][^c-b8b03d7b546b19558c7d4e0e2d83c067][^c-eb1ebd9aa0f67dd01ca2b20b32a463b5][^c-f0e557d9bd9d0e39fa52bb68a6fecef2][^c-dcdeec245c677f5e54764e3ca27c600b]
 

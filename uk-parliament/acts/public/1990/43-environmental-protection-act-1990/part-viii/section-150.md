@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (25).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 150. Delivery of stray dogs to . . . local authority officer.[^c13748411][^M_E_e86405e1-36ab-493f-9d96-318b911d3bd8][^c18996351]
 

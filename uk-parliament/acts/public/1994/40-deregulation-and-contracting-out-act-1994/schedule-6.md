@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## SCHEDULE 6 — Striking Off of Non-trading Private Companies: Northern Ireland[^c-ed7da1633a6e2c7c3d7da1b26bc467f7]
 

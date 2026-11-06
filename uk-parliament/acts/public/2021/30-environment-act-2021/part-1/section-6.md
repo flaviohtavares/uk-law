@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6. Environmental targets: reporting duties[^c-f8e362ef6c091f70678d4899d67053f2][^c-d41a917d3ce8d4a05e0ed85afe6879eb]
 

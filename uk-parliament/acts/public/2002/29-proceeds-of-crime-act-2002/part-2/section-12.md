@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Interest on unpaid sums[^c-a1141508023a41ea0aff780c72162888][^c-a3889e161e736d1b5e0be99edde6119b][^c-bc59da76f74a5e9debfbda22fd326c18][^c-3d7ba393ae21e97ddae20aa0045f32a9][^c-5cadc0151211909ec1e7c6355c0c18d3][^c-cdc38fc7a7f8860afeb2cd1c2587b49c][^c-a3889e161e736d1b5e0be99edde6119b][^c-bc59da76f74a5e9debfbda22fd326c18][^c-3d7ba393ae21e97ddae20aa0045f32a9][^c-cdc38fc7a7f8860afeb2cd1c2587b49c][^c-8b3589310fa0371c2adc8c407d26c7d3]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Overview of Chapter[^c-38cba6b0ea53b9f6c044cb2900dbbe44]
 

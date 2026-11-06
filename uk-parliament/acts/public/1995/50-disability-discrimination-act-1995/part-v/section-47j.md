@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## (not yet in force: 47J). (not yet in force: Penalties under sections 47D to 47H: amount, due date and recovery)[^c22810611][^c20485971]
 

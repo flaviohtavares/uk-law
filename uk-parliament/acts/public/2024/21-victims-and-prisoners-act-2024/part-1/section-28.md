@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-09-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28. Information relating to victims[^c-b429b3afe2a3b6466222a95d2cdfeb68][^c-8b28dc0cc756cf7ef5286fee72f41d27]
 

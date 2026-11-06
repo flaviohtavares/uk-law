@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 34. Notification of Charity Commission of exercise of enforcement powers[^c-9a498438789fa37d78c759502d558631][^c-7a29d3bc163cb577af671437f0e259a0]
 

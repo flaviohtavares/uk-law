@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 415. Channel Islands, Isle of Man and British overseas territories[^c-16a2d8a9a811f0b0ed99dbb27946ed9e][^c-bc02f2193397226659b73f3999a341bd]
 

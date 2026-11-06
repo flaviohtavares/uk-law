@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (25).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/24
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 56. Registration of births[^c-d78d3b59b87884f9295bc6ef1b6c2cb2][^c-3b9c222b2778b3cfaa1f6442bed60795]
 

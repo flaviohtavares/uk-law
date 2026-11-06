@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 17 — Amendments relating to land compensation in Scotland[^c15666611]
 

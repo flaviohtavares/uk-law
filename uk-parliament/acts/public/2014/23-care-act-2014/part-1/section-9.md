@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. Assessment of an adult's needs for care and support[^c-3b56527f68ae63c1f589f73c5243d12c][^c-b5233cd91c08d092b8a21506059579ea][^c-4a62f516d0fe4d3070d9d19880c2ff17][^c-b5233cd91c08d092b8a21506059579ea][^c-4a62f516d0fe4d3070d9d19880c2ff17]
 

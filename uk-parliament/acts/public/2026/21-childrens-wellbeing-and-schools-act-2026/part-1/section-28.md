@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28. Employment of children in England and Wales[^c-fd0869b1b2c18293f2f7639aa4ee1840]
 

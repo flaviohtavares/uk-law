@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## SCHEDULE 19 — Grounds for refusal to enforce financial penalties[^c-91bf38231b8d67590381ab6cecc5983a]
 

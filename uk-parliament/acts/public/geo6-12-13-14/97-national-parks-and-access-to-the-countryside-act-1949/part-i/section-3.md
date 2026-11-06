@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 3. Power of Minister to give directions to the Council.[^c-9c433fed91dad2efe8840eecd87137b7][^c-9c433fed91dad2efe8840eecd87137b7]
 

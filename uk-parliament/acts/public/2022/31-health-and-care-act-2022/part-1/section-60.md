@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 60. Financial objectives for NHS trusts[^c-6e3c2650ef44d3bcd5d0eb5b9978e6e0][^c-0826b03f6216ad61e4a645cb03254882]
 

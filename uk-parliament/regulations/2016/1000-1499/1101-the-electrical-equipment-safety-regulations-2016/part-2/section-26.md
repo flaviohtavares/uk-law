@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 26. Requirements which must be satisfied before a distributor makes electrical equipment available on the market[^M_E_5e859bf5-3c67-4dfd-9bb8-7e2ae5859090]
 

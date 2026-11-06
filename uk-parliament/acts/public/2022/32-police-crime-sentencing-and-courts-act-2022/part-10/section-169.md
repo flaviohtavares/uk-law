@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 169. Offences outside the United Kingdom: notification requirements[^c-a601f38a841eee34d9267ecb080610ff][^c-8ddcf26d912810fa6ec8f823852cc09c]
 

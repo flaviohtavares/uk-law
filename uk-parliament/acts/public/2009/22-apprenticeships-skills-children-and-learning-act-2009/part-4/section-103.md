@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 103. Means tests[^c-347d88d656dacde3aa2c0420584a3c35][^c-37e396fc0a701169eb0e236a4305d14a][^c-c31417139ebb1b38a519d47dbbfc278a][^c-426dcd7a289ab982373463c4416f22b5][^c-772201b5b384bc70856554eca9d0e84b][^c-23e3030b0d2438281fdc1afc33b7875e][^c-20cf32967388db7cee328da6ee8ed358][^c-49d6ee3b73862e003afa499a17a579df][^c-b5eb82b2af0f7eb83f85a90d3c77bb1c][^c-336bfa0662cceb82b499bbab2e4cbe0a][^c-ff72818a037ed6e13c48e322ecb5e5bd][^c-3c638edbdfd8fcfd541cc403eea1fac6][^c-b1a79fd9b474effe75a4250f64a499ec][^c-7e117fe8e3647cb3440515abd33d8c4e][^c-3324fbb00d156b57c23d8f1c91f890b9][^c-d4c935ed4d01d7e45bb4b340f5fcdbef][^c-c909f72e3420b1e5965f0b5927638f12]
 

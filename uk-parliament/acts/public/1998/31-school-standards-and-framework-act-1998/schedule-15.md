@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 15 — Suspension of financial delegation[^c-bae7279cc93f7e60b56363155e3956c4][^c-b42d8c5a97694b466aa03cd403b0a69c][^c-888d40fe0cd3cd03d96ed66b6ba9892b]
 

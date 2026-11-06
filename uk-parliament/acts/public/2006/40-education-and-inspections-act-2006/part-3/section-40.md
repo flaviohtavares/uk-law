@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 40. Code for school admissions[^c-fd67adb9e7e6bcd66bbfac35c351cd0f][^c-7973fbd2b15e9e9dd1da844805b44343]
 

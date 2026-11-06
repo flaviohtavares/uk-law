@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 2 — Registration of Old Mining Permissions[^c-45183191166f6ae8cd6f9c2bb76fbd19]
 

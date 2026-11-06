@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 273. Protection from personal liability[^c-e7a5f52fe643593bccf639818e0d4fee]
 

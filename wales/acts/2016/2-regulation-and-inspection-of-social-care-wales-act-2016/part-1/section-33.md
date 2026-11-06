@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/anaw/2016/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Inspections , investigations and inspectors[^c-6c9177350dc51efb65fc6a1fd1cfad47][^c-e9bf2f847c417d7eb3adef2b35940aab]
 

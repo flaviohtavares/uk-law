@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2016-05-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 45. Recruitment arrangements: other ranks.[^c1055558][^c-6d9a106ba2fe2ed2f1f59d913ea2d74d][^c-f1c320bc157c19c0b9981a54d1b05437][^c-7863e5ac18615841ae38ec9cd08b8280]
 

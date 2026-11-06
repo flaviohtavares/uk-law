@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 96. Legal Aid, Sentencing and Punishment of Offenders Act 2012[^c-8adbe942025ea6260a3442f24cc72087][^c-b5845d4cba8c45bc1841c0606e69b6de]
 

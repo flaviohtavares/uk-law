@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 13. Notice for purpose of getting information.[^c-ce07114f8a41d85b469a1fccdaa6e69b]
 

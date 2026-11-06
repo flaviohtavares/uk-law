@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (91).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/53
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 34B. Certificates of completion of courses.[^c-e559d6749d9475623cf7769d3e47bcea][^c-b394bdfe1e72c2148f117298cbf2db88]
 

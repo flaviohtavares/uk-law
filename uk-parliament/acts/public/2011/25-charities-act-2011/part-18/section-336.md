@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 336. Enforcement of orders of Commission[^c-5a50144db4af77f0e71589c0ebb69454][^c-514d84b2542f9f48afdd58df08fc1bb9]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. local authority to promote fulfilment of duty imposed by section 2[^c-df39b6ca03e591e79d36cca707000fec][^c-a459af0ab8f96a70eb728998b1cb0abb][^c-b6c15b78f3aca38c76a1e3e2f6ba8e5d][^c-a91bde3b495b39eaf177405b3dae6f02][^c-bf1f953f4d436d3e8886a9f9ade06d9f][^c-86e7055a43926240341460a1a7a524f8][^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]
 

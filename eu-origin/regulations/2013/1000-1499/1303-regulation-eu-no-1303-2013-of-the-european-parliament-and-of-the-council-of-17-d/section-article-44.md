@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-06-16. See https://www.legislation.gov.uk/changes/affected/eur/2013/1303
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Wales.
 
 ## Article 44. Re-use of resources attributable to the support from the ESI Funds until the end of the eligibility period (affected by repeal, see note)Re-use of resources attributable to the support for rural development[^c000001][^c-a5aa1bf5c44367cb577ede66300be953]
 

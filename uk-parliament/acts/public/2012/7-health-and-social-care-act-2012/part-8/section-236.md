@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 236. Advice or guidance to the Secretary of State or NHS England[^c-f2a33ef0c1a24c617d96f5cfdf89bce6][^c-4ac8b5388a6f0260afcfc5940980db47]
 

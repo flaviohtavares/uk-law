@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Regulations to promote welfare[^c-ef01f42c17d1b4e8c7b636c877a0fc27][^c-98eaeeb7859a709dfbd639c503d100d5]
 

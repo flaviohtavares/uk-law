@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 186A. Remuneration etc for work already carried out[^c-cb95f7b92599c0b18656fe9364f616b8]
 

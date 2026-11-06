@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 144. Employment (Northern Ireland) Order 2002[^c-45195b02149ff8acdc95fbe39a38d83a]
 

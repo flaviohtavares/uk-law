@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 122. Functions of rent officers in connection with universal credit, housing benefit and rent allowance subsidy.[^c-9df4e1aa5f4fa94a88bb47ef65211433]
 

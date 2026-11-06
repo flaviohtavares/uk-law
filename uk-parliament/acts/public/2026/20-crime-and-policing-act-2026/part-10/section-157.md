@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 157. Offence of concealing identity at protests[^c-d725bdb346d67b1331b6035adc37eae1][^c-a7f0e9068dc9f2bd27d122321889f174]
 

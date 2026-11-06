@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 13 — Provisions Supplementing and Interpreting Sections 324 to 328[^c17431431][^c19496781]
 

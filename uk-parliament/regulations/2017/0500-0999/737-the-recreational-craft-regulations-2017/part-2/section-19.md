@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2017/737
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 19. Requirements that must be satisfied before an importer places a product on the market[^c-31773bf701104100bba0a6d3fb74646e][^M_E_bcb6b616-28fe-48d4-85ef-28e30791a9aa]
 

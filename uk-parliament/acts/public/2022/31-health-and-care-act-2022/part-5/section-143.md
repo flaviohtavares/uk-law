@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 143. Virginity testing offences in Scotland: penalties and supplementary[^c-a9ecb001621f08ce0cb9efb426422f21][^c-5e8f6d084ed6f911b3b7e87e187ba6ac]
 

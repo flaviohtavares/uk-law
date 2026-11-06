@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 79. Educational endowments etc. to which Part VI of the Education (Scotland) Act 1962 applies.[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 

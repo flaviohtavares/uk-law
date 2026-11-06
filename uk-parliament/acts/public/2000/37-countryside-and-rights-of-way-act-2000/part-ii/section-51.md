@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-03-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 51. Amendments relating to definitive maps and statements and restricted byways.[^c-8a96443a0a05ff7e7e8aec173ddff1dd][^c-e792973f1e3b8b17705ee5b609492909][^c-8c6ed97d2130ecbd22ae1b11721d4c87][^c-d068f690f9e1ad00a09778483e6e4cd6][^c-3ab3a08db719ad571133d39a18c221a8][^c-ed80dee3b460572090702d51e2e1efab]
 

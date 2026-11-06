@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2023-12-26. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo6/12-13-14/97
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 11A. Duty of certain bodies and persons in relation to the purposes for which National Parks are designated.[^c641823][^c-c347217ae572dc5619be5cc5b9aed7ff]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2022-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 13. “Qualifying offence”[^c-43e837e6f64eacc52b6f83ec8e34a621][^c-00c753f8a2948508c3b24540c5579e11]
 

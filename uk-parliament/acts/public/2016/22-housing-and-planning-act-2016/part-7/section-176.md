@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (34).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 176. Right to compensation after entry on or survey of land[^c-163ee6aeacede2ab8db4a6eb49fe6aa2][^c-cb9efd4c22044bc729d497609757bb4d][^c-a8e126316de69527e5f7372a8ec86e00]
 

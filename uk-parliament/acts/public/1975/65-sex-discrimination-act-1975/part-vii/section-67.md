@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 67. Issue of non-discrimination notice.[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 

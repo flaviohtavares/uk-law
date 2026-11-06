@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 56. Academies: power to secure performance of proprietor’s duties[^c-0d422b2994fe2e7f57cf7c2c2c836be8]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 32. Negotiating bodies[^c-078d7293aba068fd61180276a454991d][^c-180cfe80d3ede992c8139e14e31b8f32]
 

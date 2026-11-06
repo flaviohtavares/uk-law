@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 28 — The London Fire and Emergency Planning Authority[^M_F_bb2d7751-d6e2-4cc5-ffe9-aaf8fea0e035]
 

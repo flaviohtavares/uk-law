@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7. Arrangements for collection of victims’ feedback[^c-5d42e08b5edc5816bb4d5461bafa69d7]
 

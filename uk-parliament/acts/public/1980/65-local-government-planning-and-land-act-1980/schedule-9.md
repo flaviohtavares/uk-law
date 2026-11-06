@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 9 — Domestic Rate Relief Grant[^c-0a94334303cdb6d86804dad83f004f2e]
 

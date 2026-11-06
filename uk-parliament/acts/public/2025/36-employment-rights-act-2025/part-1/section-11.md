@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 11. Statutory sick pay in Great Britain: lower earnings limit etc[^c-368a7523d7281d5853f10afc66beacfa][^c-e259e1e8c5590001d85c9a500866f199]
 

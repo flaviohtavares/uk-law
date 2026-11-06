@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 11. Reviewing code compliance: Secretary of State and Attorney General[^c-0f563f166146c49b72e945215a47dfd2]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63L. Remand: medical examination and report[^c21018951]
 

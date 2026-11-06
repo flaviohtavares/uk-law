@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 245. Avoidance of certain floating charges.[^c15576091][^c18964431][^c20434951][^c20434971][^c20465031][^c-017ea651cb91d239f1ca662264f98fba][^c-a4054bd5e0ab11d79998a632c1284e6f][^c-788371096f8da5425d0cd572175725cd][^c-e2ba49394fde9bfebcb55a46e2c9fff3][^c-246476754ca44421984330df908841d9][^c-788371096f8da5425d0cd572175725cd]
 

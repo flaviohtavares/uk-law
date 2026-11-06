@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (50).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/7
 >
-> Extent: England, Wales.
+> Extent: Wales.
 
 ## 33ZA. Collaborative working between Local Commissioners and other Commissioners[^c-e1adfeecff7c916d30593966bc4f7486]
 

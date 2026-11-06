@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 11. Requirement to register.[^c12426141][^c21089661][^c21089741][^c-3ac203bcba4fb48e41bd47c421fbe9fa][^c-3f8a04b8207ce7f19da6e83581fe4e62][^c-d77bd552f5be121d7908693a9cc5a175]
 

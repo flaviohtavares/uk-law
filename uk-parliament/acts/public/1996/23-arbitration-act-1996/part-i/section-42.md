@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 42. Enforcement of peremptory orders of tribunal or emergency arbitrator.[^c833510][^c833511][^c833512][^c-e07723e6fc7b2310b32694f6094b85c5]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 64. Functions of adjudicator in relation to admission numbers[^c-2b043e90468f3094e8e6ac56de790934]
 

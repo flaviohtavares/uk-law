@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (29).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1982/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland; Scotland (the versions of this text differ in extent).
 
 ## 48. Power of Secretary of State to stop up and divert highways etc. in interests of civil aviation.[^c2538371][^c2538381][^c2538361]
 

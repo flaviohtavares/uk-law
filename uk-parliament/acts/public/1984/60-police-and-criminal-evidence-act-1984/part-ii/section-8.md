@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8. Power of justice of the peace to authorise entry and search of premises.[^c11314581][^c11314591][^c-fc1e31a4f9358d046e169fb17a3040b4][^c-11968bf7e01bdb5ec67f5799e697c093][^c-224791b62b0b82d03daa2f1cf637190f][^c-82407bbd88ab935f2162575efc44398b][^c-a2130d74432b04eef57ab4a6c3e53e78][^c-80f40b5919fb28c6d848d48b23d5106c]
 

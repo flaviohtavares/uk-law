@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 50. Power to modify licence conditions etc to facilitate investment in electricity generation
 

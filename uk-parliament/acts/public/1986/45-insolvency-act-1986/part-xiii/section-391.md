@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 391. Recognised professional bodies[^c-29ee3e41a4dc165dced7cfe69b51e3c7][^c-c4efe5a5e6a1327f40ee89f6b7bc8a8b][^c-27f6a4b363f4fc9f98dc9f53993285e5][^c-67e84b3fde1253471739882cade02486][^c-53e23e5032b55114129bfd4243322aef][^M_C_fd18029d-b6d5-42f3-c4dd-ae4e89d96d1d][^M_C_9b5b9b06-ee6c-43d8-e572-501b22fbcf82]
 

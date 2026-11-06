@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 253. NHS England data functions: general[^c-11398a9184b0d95e54e879bda88db27c][^c-0819067be8e55304cd03992354d5b8d0]
 

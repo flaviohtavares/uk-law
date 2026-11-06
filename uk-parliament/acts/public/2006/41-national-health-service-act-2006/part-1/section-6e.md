@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6E. Regulations as to the exercise of functions by NHS England or integrated care boards[^c-bfb6150e043ed2d6ca0b283775bb687e][^c-c26379f595629655ada8a57e0d3d2bfd][^c-4bdae1bd388e8748ea1a0db807b48061]
 

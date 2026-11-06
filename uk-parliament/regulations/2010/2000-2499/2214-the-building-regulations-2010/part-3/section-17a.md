@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2214
 >
-> Extent: England, Wales.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 17A. Certificate for building occupied before work is completed[^M_E_9fcffa94-faf1-4724-d7eb-6e1baf666e28][^c-780fb01fa1323fd43d83b3fef94341ce]
 

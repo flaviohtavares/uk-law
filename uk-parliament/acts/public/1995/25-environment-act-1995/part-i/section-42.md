@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 42. Approval of charging schemes.[^c14537221][^c-6eccfb52f8bf5e045522f9b23d41a237][^c-56358267eb65bbf6c6ea327981a011e2][^c-01ed2d0b2425011348fc0e890cf8c2cd]
 

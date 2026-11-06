@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. Acquisition of land[^c-b00700e721c3d6f64a74cb580548137e][^c-7cb564ac5a9fce6f8aa741a281b44204][^c-62d5bc7e7e0bd6b322e86323c65c043f][^c-a0c293adfb3e99d9ff0c4ccbc7f12b8f][^c-fa0b44a64fe16363c410b82f3840d8fb][^c-63f9404e33252178185dc2ee93b9c843][^c-56f30b92434ddf6d820ab31baf1969fb][^c-80b1e132b81d6be099d44dd616dfa053][^c-361a89d9a9ffc202affaf2d9e6b26785][^c-2d221f56c0d40611ffadb6e424fc9eec][^c-6a8339de29a5dac5657b7afb030213cf][^c-0e4d96dc0374496a7778106c1ac85da6][^c-f8fe409d41f7e136737b068484d8f4aa][^c-cb9161416000981239a68ee9659fcf90][^c-a74d91d20260b13376db219998cbc548][^c-b473cad868dfc5e1b004231e22893571][^c-5128e5a985963348231ffc6b4705878e][^c-96396265e555cef2018631befff89943][^c-c4e8158af0841c8a243df83312f08196][^c-9633c46034fd28aaa6dc73b2f7602e41][^c-4b7e64ac437c7d6ba3ab98113c4de111][^c-2a91ca5c7b3af245caf592d9d7b10948][^c-b1d941c25664f02551a849232e2e5897][^c-ea1f31b5be91bfea15f9035a70d6afae][^c-ff0b924e4bae6fe99e2f212f70344bcc][^c-56f30b92434ddf6d820ab31baf1969fb][^c-361a89d9a9ffc202affaf2d9e6b26785][^c-6a8339de29a5dac5657b7afb030213cf][^c-cb9161416000981239a68ee9659fcf90]
 

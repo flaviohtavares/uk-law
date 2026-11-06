@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-05-19. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5. Advice.[^c-659e7678d6b5b3a28a078bfc53d4f788][^c-aa12fa68024eb22fdde96acb6f61f1cf][^c-cb2b71a090447daa65233548f56c15b2]
 

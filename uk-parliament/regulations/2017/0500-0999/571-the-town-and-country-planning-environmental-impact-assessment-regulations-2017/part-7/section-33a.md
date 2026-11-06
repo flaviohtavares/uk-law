@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33A. Other orders made by a local planning authority[^c-dcfebf30fac10b6f777a6ce82e65f0c5]
 

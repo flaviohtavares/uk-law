@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 85. Reserve powers of the Secretary of State or SEPA.[^c-075a866e29f47d33ab16ce6a6debf35f][^c-d50de57412693f7377cd5cf529d3c67e][^c-d50de57412693f7377cd5cf529d3c67e]
 

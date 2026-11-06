@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 118. Qualifying pensions dashboard service[^c24494151][^c-c1bbb5667f92c0940aaef198260e4d37]
 

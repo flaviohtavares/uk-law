@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (105).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 66. Power to apply certain provisions to widowers.[^c-97c1a9056b3a515ccbcec2551a77bbfd][^c-036c31ef7347b27efbfd0fe3c8cdd455]
 

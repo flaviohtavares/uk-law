@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 61. Sentencing guidelines: extended sentences , serious terrorism sentences and life sentences[^c-299f54d7c40480e845dbf564c755362d][^c-2ba169502ae27017f34ff59d6974c092]
 

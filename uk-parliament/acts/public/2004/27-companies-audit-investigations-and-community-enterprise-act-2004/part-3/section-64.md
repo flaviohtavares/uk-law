@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 64. Repeals and revocations[^c-ee02f46e99a085b56336f9361811d679][^c-0c5e81fc9e8ca3b335b5f2f042e829e9][^c-2ff4219363463e3f3598e4e80086735b][^c-beced146a5d6b31b53ac3929ccf59e62]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 80. Sale of vaping or nicotine products to under 18s[^c-db771f0c67a50c7a7b0361af8df55b37][^c-0a8040563dc9baabaf009be22ef37c85]
 

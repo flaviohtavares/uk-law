@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (25).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/24
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 29. Exemption from jobseeking conditions for victims of domestic violence[^c-5c1a39aaf8446f7edf4b09ddb07469e8][^c-057f50a7ce567c73e65e2bfbe43e20aa]
 

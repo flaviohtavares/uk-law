@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Duty to participate in education or training[^c-42fcb4740e64437617ab54b7f2c9e7af][^c-a4ee96420a522d72010d15a38ae23cbb]
 

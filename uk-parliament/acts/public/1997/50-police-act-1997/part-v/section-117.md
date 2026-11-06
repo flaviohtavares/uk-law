@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/50
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 117 (Extent: S) (affected by repeal, see note). Disputes about accuracy of certificates (affected by repeal, see note) certificates and up-date information.[^M_I_2f4589cb-2059-4f8b-ba12-8ed71b815e3f][^c-789986f6487ce34de976ef536ee71154][^c-18291a6dd88b7ac8a1b42216c7a67f7e][^c-3469d27293e925123ce69d1c210d4322]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 113. Habitats Regulations: power to amend Part 6[^c-fa26dee023e22d395c0bf0065816df1a][^c-7039af3b6174b5d57daaae0ab0ed8ad3]
 

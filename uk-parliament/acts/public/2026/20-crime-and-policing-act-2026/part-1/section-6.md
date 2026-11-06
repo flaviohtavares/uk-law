@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6. Reviews of responses to complaints about anti-social behaviour[^c-fd542a6e9068ef9e40ac8c798ead440f]
 

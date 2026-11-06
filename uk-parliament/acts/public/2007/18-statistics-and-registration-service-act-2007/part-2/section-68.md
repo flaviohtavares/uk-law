@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 68. Establishment of Registrar General as corporation sole[^c-228ff4be290e675b5b4812658fa2c093]
 

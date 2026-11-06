@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-17. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 48. Powers to act for the protection of public health: Northern Ireland[^M_F_5977ba9d-b511-4bc1-f0b9-c6c49cbad536]
 

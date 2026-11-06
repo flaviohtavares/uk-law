@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-03-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 57. Creation, stopping up and diversion of highways.[^c1057058][^c-dc937cb45f07e9c88fb1472ce4fb2e0d][^c-ae4c0e0ae0c130a10bbd516bcabfc2bc][^c-36bc083a3252aac42d68e9e6244c12fc][^c-78286078519e41533aa0137c29a05699][^c-2d273026e8222450734b2c1712091939][^c-6e9ec97a2bd58f11d1e33e8b6e1f93cb][^c-900ea635b4c316fb55583dd331ef62b8][^c-09aad3c9cfc6ca33af893ee61c364dde]
 

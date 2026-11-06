@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 200. Police officers.[^c16979741][^c20891551][^c-b71b7d762b2861fc1a7c562f7956dd82][^c-5113a2874718ceddee4d85be52bdc4a6]
 

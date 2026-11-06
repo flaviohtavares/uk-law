@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 314. Ineligible persons from abroad: statutory disregards[^c-c05f880ed98c83ded0c3371163c90e2c][^c-ca996967f2bd6f920c7de408a15a8fcf][^c-9fd35f492d9cac79e09c0367144b98e7]
 

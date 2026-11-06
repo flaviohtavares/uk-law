@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 408C. Restriction on exercise of certain powers conferred on officers of Revenue and Customs[^M_F_a4f214f4-5366-496e-9473-cf2da1a19b65]
 

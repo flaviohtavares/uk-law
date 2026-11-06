@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 54. Delegation of planning decisions in England[^c-9a3da0a84d4e1cdce456f763d76ba3a6][^c-4c2f3d733afb586adc5c668dcc27147e]
 

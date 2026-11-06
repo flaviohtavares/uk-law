@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (36).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/42
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 52. Transitional credit arrangements.[^M_F_12afef5c-42de-4c0d-8f7d-8264d71562e0][^c-215821776470c5562c14991869f86fcd]
 

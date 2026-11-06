@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-22.
 >
-> Extent: England, Wales.
+> Extent: England, Wales, Scotland.
 
 ## 143. Power of Secretary of State to make consequential provision[^c-3c10ae3ade039a320a7b0b444885954b]
 

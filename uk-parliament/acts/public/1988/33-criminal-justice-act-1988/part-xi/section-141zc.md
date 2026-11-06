@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## (not yet in force: 141ZC) (Extent: N.I.) (affected by repeal, see note). (not yet in force: Prohibition on importation of offensive weapons: exceptions) (Extent: N.I.) (affected by repeal, see note)[^c20680041][^c12795561][^c-1bb6df0d22dde4f08d1c81de7d079e3c][^c-09cc1c3982c7b7b568ead291bf60af35][^c-1bb6df0d22dde4f08d1c81de7d079e3c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 78. Agreement between Secretary of State and designated body[^c-e1c12619024eb0f704ea361a034ea436]
 

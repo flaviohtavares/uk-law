@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 66. Social Security Contributions and Benefits (Northern Ireland) Act 1992[^c-8017f77558b5ef66d9ccce63c1786d60]
 

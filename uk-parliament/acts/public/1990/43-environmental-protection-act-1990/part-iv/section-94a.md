@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 94A. Fixed penalty notices relating to sections 92C and 94[^c-1a727bef6409719faf8515daebcc9472]
 

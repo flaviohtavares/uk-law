@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 124. Appeal by proprietor against decision of Secretary of State to deregister[^c-82bdf008174c54a33ca531db1dc438bf][^c-36a7dcc7c4dac3b1fbd9cb0afe6e5d5a]
 

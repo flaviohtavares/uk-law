@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. Determination of certain applications by Secretary of State or Welsh Ministers[^c-29e2e60f8364bde64f2937f7ea9ea25e][^c-d29535fda3bf8c00a76db01628178640][^c-e77ca492d03ceecdcd824fd7c688dc00][^c-976c1f1eeb5badef16b4b5d56a912c50]
 

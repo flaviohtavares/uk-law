@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 40. Local development orders[^c-7faf536f4e78496b68de127abaff383e][^c-3bc1ab4e626fdcfa3c5c72a7c4fae0ac][^c-0f8f340a44e4f60d4ef06db55220fc41]
 

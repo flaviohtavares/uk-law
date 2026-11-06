@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 246B. Use of websites[^c-18df2b52075a3fbb24f9ec168f8b9771][^c-70caf8a5f91f02d5c97c3d3059e45d46][^c-fdf7230aeb23385449da1be127d4b008][^c-c3a9e17e88a9f557bfa34a804760a78c][^c-788371096f8da5425d0cd572175725cd][^c-8fba849871c77e6ca9d09a87fb95e2c9][^c21415971][^c-788371096f8da5425d0cd572175725cd]
 

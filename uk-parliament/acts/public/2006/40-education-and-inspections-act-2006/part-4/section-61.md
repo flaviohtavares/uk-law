@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 61. School requiring significant improvement[^c-c1c8af8afff9907893021e1222b2a009][^c-35b0f56cbb62fe12690dceb0d4e89f75]
 

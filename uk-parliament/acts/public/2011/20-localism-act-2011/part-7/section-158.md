@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 158. Secure and assured tenancies: transfer of tenancy[^c-bfec1bb70e923cf75016dfa7a9eaca03][^c-672c2f5618037023b472e67b976c7527][^c-2577431d23608d772be612d27ad06ab8]
 

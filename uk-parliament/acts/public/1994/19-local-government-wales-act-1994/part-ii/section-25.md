@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 25. Provision of services by one new principal council for another.[^c10519361][^c10519371][^c10519381]
 

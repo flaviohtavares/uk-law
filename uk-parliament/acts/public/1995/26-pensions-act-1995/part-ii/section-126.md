@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 126. Equalisation of pensionable age and of entitlement to certain benefits and increase in pensionable age.[^c-c797847cafd49d3b246bfe77bc54b18d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 138. Extinguishment of rights, and removal of apparatus, of statutory undertakers etc.[^c-cdb49fcb80d171cf85b245c9e9c2acb9]
 

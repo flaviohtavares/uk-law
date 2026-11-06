@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 29. Indemnities: repayment by further education bodies etc[^c-3a6020c4aaf94cd309f92f963a64fa78]
 

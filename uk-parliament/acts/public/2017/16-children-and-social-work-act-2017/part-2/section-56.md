@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 56. Oversight by the Professional Standards Authority for Health and Social Care[^c-63673b80aa6942093e94d1d8026cf753][^c-a06c3dc2b2eb49597f5f6835301c082c][^c-e025137a5694472e875cf7cde137b070]
 

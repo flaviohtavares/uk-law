@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 7A — Higher education corporations in Wales established on or after the appointed day: instruments of government made by Privy Council[^c12685191][^c-dcc37ad9e2c37afa33ec637e093462b6]
 

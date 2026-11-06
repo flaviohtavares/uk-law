@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2007-03-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 32. Medical lists and vacancies: England and Wales.[^c-de77f8c56048f21ea8c3483efc08acdc]
 

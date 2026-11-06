@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-06-28.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 21. Eel baskets etc.[^c-1437d91cc0d65573005e598f6df316ce]
 

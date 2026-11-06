@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 215. Referral of questions of law[^c-ea251ff41c2943b58fb89523a7c44418][^c-f00781d8345587e5a37f108a50bb7674]
 

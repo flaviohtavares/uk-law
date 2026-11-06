@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-01-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1968/49
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 28. Burial or cremation of the dead.[^c-0bf8f3b3cafaa22321af61e931c671c5]
 

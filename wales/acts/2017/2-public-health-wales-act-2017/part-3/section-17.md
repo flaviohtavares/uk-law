@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (47).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/anaw/2017/2
 >
-> Extent: England, Wales.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## 17. Signs: smoke-free premises[^c-2158cda674bba53000e80239f2f10aed][^c-039a23f875761209c6317ba55064ced7]
 

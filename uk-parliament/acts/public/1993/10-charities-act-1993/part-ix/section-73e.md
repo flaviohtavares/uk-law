@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 73E. Court's power to grant relief to apply to all auditors etc. of charities which are not companies[^c-c19229d866e13afe36d39b34d22ef788]
 

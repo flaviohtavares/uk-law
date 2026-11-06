@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 78. Time limit on validity of notice to treat.[^c15660631][^c15660641][^c-13d6d958786920c13882e14fcd988955][^c-8ae2e3bac2d5c884b53348b05d178347][^c-213c323426dc1ca57ff365c5aaa2d9f1][^c-503edb65e4c2f3e19d9d04c554202ecf][^c-7e0bb915eaafb048685203c1eb08688f]
 

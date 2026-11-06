@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 74. Restriction on expenditure on promoting Bills[^c-e0c79cfce72b975572647c47aea945a7][^c-958dc2170a1d3b76e144d80ee1ed115c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 28. Restrictions on disclosure of information.[^c18894031][^c18894041][^c7810051][^c7810061][^c18894051][^c18894061][^c7810091][^c7809922][^c18581172][^c18930861][^c19678121][^c20459471][^c20955011][^c20954521][^c20955461][^c-0fe72d9a6077d9cfd7b83aac041509d3][^c-dc242bc46b7f2eeb7b6b308de78bf435][^c-bcd2a7213982d322744a5ee18f3e9064][^c-61af3d0fef48fd4f2eca1f7d1ad490ea][^c-66a1f1072f7b26345e42d105a896132a][^c-c543e3f5dbf7d436748f23406c431b33][^c-4871700ce426829441a14f098b43202d][^c-92de69a433578ed643ba191af46e63e2][^c-241ca6584a5c0105241ffa860e67cf4c][^c-bf17d5b86ba5da1e3c27c13462069427][^c-8bdddd9a7824f1126fa684e3938b1c84][^c-0277d4a3c615f4416bf54ae2f7d35e57][^c-f4e58bbdcb6f535805bfd3991e401152][^c-cbbb0c5a7af8fed0183b6e69d7693a30]
 

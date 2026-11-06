@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 249. “Connected” with a company.[^c15576241][^c18970801][^c18979591][^c19937131][^c19937951][^c19938001][^c20458931][^c-2c7dcf63df12a49ee4ff7b3ae7f530e1][^c-30fd44fe3fe101969e409cfa525dae55][^c-ab06d267d262da9d20d11e21387c4249][^c-285acf5bab96c25d0a8db48040739e86][^c-a7d232e7252f4dd28c814044c5fba54b][^c-98799bec1de66f9e356992cf714fe9f9]
 

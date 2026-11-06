@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. General power of competence[^c-b5bb953cdd82f1b2f3193a7bd666bfbb][^c-4889ce742e508d1bd38b87ce80c90654][^c-e683511fbfe46b5b8be6bdcb763570b1][^c-db91fb557201a9871e03d329da0acf91][^c-18ecec1cc9dd26dad72a9b89fc6358ca][^c-9c095b03924940f810b751e9179b8438][^c-3df3012f6f5cd63f2f3f4744c760e079][^c-788e64e38f9dc20aa6c3b89a69e4b35c][^c-583998d71abc2d087dc1d8444043c4fd][^c-f671de67f074d34856963b8f738d99a3][^c-d7b4c794fea170646a8bae001f2ffc15][^c-24e5cec4d02418d976fe8f53513c59cc][^c-5fc3d88acc2e17a0a69d0a001d6c2e79][^c-bab1f3f13021acfb70704f7fcdf4af55][^c-ccc359d53bc8a73f52355078ca5396ab][^c-3502a64042a7f75065ec9c620541d1a8][^c-930d2ab797e13a974f86b26b9a78f6fa][^c-a5a1ca0bfb39ac5ed3e603f81170e6a6][^c-08c7ec565afea4806ac23d4f7fe4c491][^M_F_ed52bc34-b5bf-4ad2-ba05-4c8f4ee980b9]
 

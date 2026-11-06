@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2016-07-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 170. Power of county court or sheriff to apportion expenses.[^c-5cb5001ec5ae1c6ba6a58641a20b86f5]
 

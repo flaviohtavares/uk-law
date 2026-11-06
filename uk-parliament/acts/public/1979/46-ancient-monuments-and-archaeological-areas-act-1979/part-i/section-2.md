@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1979/46
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 2. Control of works affecting scheduled monuments.[^M_E_dd407ace-d100-4fd2-ccdb-2ffe2b9b4ec4][^c250792][^c-bc7e1d841963632f9e352e84ab3c0fab][^c-6de78c25fb1cfa9030b1e03b48a549ac][^c-b80e8ecd1a2a0c00220a1cd68c539319]
 

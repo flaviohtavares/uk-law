@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2214
 >
-> Extent: England, Wales.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 47. Contravention of certain regulations not to be an offence[^M_E_e2dd6e39-7721-4377-bc2c-9f3c00f73ec3][^c-c6cbf39f65959136cd913499bb31ff61]
 

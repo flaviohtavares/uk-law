@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 261. Other dissemination of information[^c-f7c518f10b0afbc66df27e1436ca94f0][^c-15f76a582be5f9711683064608f4bda9][^c2191360]
 

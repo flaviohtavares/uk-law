@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (46).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 1. Independent Safeguarding Authority[^c-69b3794cb76f96f8612b772afd605ca7][^c-864484211466a4b8a9dedafcf6cf9718][^c-d16abf59754e8a430e46ada0f1358b25]
 

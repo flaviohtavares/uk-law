@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2016-07-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 117. Exemptions from provisions regulating hours of employment.[^c-67ca0b210f19ee47459d129b96b2ab9f]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-10-01.
 >
-> Extent: England, Wales.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 1A — CONDITIONS FOR TREATMENT OF NATURAL MINERAL WATER AND SPRING WATER WITH ACTIVATED ALUMINA TO REMOVE FLUORIDE[^c-247cf000b8c78794225b2c71bd19f6cf]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 42. Power to change amount of fixed penalties: Wales[^c-c90a43fb62691f4d2d949a662e6b8637][^c-345cac91f899c568b8814a5914895e47]
 

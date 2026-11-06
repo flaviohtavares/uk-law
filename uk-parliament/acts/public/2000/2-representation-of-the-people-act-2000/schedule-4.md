@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2024-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 4 — Absent voting in Great Britain[^c9550051][^c20076241][^c20076431][^c20076671][^c20086241][^c20086261][^c-284fd7b984b442d511e2b6f682a5f0fc][^c-143b352551e52b89c47e54491bab15c3][^c-746764d81bce81777d3e01fc2adc27aa]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (110).** Text as at 2022-03-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 41A. Penalty payments.[^c-c779506ccb6ccf15fb4e7f23593d74aa][^c-9f02f341808ed2cf5653de0b15895468][^c-9e3db4d7621361699d3f799d68a4d555]
 

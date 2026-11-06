@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 225. Interim statements[^c-b91a96c4d39acc8e7b8a2b76fa773493][^c-bd0063dfceadd2053d0440b4578b5034]
 

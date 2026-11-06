@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 292. Suspended sentence order: exercise of power to impose requirements[^c-5ad80b3e219ef67cba3de873eb95a509][^c-c05f83c27a72882022daf2f61adb0ea4]
 

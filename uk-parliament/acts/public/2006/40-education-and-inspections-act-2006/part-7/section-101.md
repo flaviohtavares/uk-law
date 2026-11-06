@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 101. Duty of local authority in relation to excluded pupils[^c-a2808951475c59c43325571e36927c5d][^c-0ea7acc4831332590d0c9da4689eca3c]
 

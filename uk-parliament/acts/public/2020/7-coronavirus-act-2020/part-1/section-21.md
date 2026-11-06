@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-17. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 21. Modifications of requirements regarding medical certificates for cremations: Northern Ireland[^c-bcdaacc3c2559a3930fda83860163c1e][^M_C_1af54c04-b450-45c4-efed-411afe9a0578]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 75. Access to register of energy performance certificates etc: Scotland[^c-758a77f8f0a25c0a7eee82afb86ea5a3]
 

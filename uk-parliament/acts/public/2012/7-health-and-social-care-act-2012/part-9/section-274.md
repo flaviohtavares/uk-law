@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 274. Powers of Secretary of State or NHS England to give directions[^c-74e68631c1916bbc038b51d56720dc5b][^c2191366][^c-d3416040f13d9ef83d6cb51b675fd29c]
 

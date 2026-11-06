@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## (not yet in force: 47G). (not yet in force: Sections 47E and 47F: inspection of rail vehicles)[^c22810551][^c20485971]
 

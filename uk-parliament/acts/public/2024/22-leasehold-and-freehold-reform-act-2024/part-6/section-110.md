@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 110. Part 6: amendments to other Acts[^c-317ea4153bcb9c622128bb9a47402e24]
 

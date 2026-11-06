@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (34).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 126. Financial penalty as alternative to prosecution under Housing Act 2004[^c-a6fa3bd9448be0f3a8dd557803d9b287][^c-fdaaa461ac89c576c8770fad2d466563]
 

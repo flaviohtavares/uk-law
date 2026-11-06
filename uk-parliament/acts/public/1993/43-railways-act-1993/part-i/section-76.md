@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 76. General railway duties of Passengers’ Council .[^c14108791][^c14108801][^c18804401][^c-94956a5a6afe0b3b04a1650464db5165][^c-8fa21f537a1e4ba15a8e7b040b82fc41]
 

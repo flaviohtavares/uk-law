@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 227. Local Healthwatch organisations: annual reports[^c-2c8dc370b786fdfcb12267584f0761ff][^c-0e69cd4f7d79a2c5d94f17c3dd67f64c][^c-cd5c8d300c97f245dc539b1555e9598e]
 

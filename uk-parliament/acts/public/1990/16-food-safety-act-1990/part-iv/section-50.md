@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 50. Service of documents.[^c10205451][^c-462a5ae6fc88b121b7f54df8f61ca2b9][^c-6671141ef9f758c076cf9dc662447ef5][^c-e85c6b165cb4bf8a711284be4772d360][^c-d45140213f371c5f3c2245456e8cbded][^c-1cb30a68baba951c2990a0140ba9bab6][^c-a9cd57d8686ba4f76d0f2c1234b165bd][^c-bae02f9baedbc71b1de5a8ab926facc6][^c-b4f74f5baa703bdaad89a5b7366a4729][^c-71677158372774e9b5a3f64184c821ea][^c-4c8aedc6e75ebc5f7d3d28ed2f8bed63][^c-2ec5abec8e6e3a7ab0b75e91e5089387][^c-85b16f37aab6307edc1d29177ad3fe65][^c-88a3bb9172b8d1b2ac304e515b48fa74][^c-e5270ff96f2c256aaa7d613ceb67e9e2]
 

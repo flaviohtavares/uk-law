@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36. Unauthorised acts with intent to impair operation of computer, etc[^c-a0b4942e847c0dfd1e4b1c111d317410][^c-98769986dd692bc001ee39c756be831a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. Supplementary provisions relating to receiver and manager appointed for a charity.[^c-68d0b2d8dc2e8aed043db1d3ee2b8464]
 

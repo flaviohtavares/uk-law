@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (403).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 114. Notice of starting date of works.[^c14150281][^c14150291][^c-c76c2bc6168b87f48a977712f5ceb5d2][^c-cea7893757a281e0f6130387c8d36057]
 

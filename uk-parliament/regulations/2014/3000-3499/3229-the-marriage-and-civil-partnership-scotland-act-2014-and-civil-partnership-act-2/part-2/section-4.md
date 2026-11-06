@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 4. Meaning of marriage and related expressions: Scotland[^c-ac112a1e3963d5d044f78cc72f6a9284]
 

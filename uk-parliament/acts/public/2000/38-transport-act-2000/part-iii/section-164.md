@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 164. Local charging schemes.[^c14881981][^c-d9e25aded09239ae4c694679a81227f5][^M_C_a79a48df-780c-4556-c0e5-439b1df7dc1c]
 

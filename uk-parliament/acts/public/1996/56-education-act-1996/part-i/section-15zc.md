@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15ZC. Encouragement of education and training for persons over compulsory school age: England[^c-f750ed86a730f5f6e3b183aa60af7110][^c-0741f4d3573390172a13ace984e3af23][^c-049fa33e9558fc01b1f72f2e5e1ae919][^c-934636b03e3924db259f14fa53229f66][^c-5c970c1d79e81053efb6e087c254f9d8][^c-7089635342f3923a1365f5801be98f6e][^c-5c69c0859c9b75ccf5b04e3345fc5140][^c-c51d420311149ac2eaf103a780e87641][^c-d2e5d8c4d50f3bb6b641a1cb1d4fe198][^c-6b7c7187a9d4531321fad67137b18f30][^c-381914b229dcb1b70580b61d3a77c712]
 

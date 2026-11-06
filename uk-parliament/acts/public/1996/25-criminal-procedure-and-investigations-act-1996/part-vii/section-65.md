@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2025-10-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 65. Abolition of witness orders.[^c-24cb15b0aeec567062a57e2204e62939]
 

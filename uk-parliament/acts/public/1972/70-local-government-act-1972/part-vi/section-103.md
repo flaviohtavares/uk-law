@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 103. Expenses of joint committees.[^c19911691][^c19911651][^c15105691][^c18860091][^c18889691][^c20528731][^c-05106ba3aefe72c135496df136523c2d][^c-4a954e6abb73c2fc0030490aceec4318][^c-79d95eaf0146bae95acab1781bb680d2][^c-c29719cecec2a605218201f8d5d0c0bb][^c-63cd26864969a65472a2a31328d9e213][^c-66f2d907ca5c1d3648d8333e3a010c59][^c-7b89c2617c35362a09e1971f6b47f6f6][^c-17a196ec229ea41c1e41553c871c6f8f][^c-abd053d46d86d1be00285d6c55aee930][^c-2c8ead881cdf9ac0b498701b6dde5edf][^c-495f9c2b7edaff9eeedd8e6c42f9129e][^c-5815a57f2d933c2f9cd8b86b01089bf8][^c-3d07a0f58ff1a5399a86c66fab6ebca3][^c-5b3210e1a663cf5be7bcde7f40a1b594][^c-d1b99b7de178d24341492abafeeac553]
 

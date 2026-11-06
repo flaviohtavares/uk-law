@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 210. Power to require provision of information[^c-d69fe38f77202a140ac7777cad514409][^c-86022e5e4d32d179756914e6df2aa523]
 

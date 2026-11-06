@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63. Vacancy where acting commissioner acts for 6 months[^c-39d1da3d6ac90e7804b167f4a720bee7][^c-e8a20a1f5a3735454560223bd95644ab][^c-950ed698456d58c80a6e59b8d7257c63]
 

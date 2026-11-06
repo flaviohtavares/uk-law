@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 44. Transitional and savings provision for the Electricity Act 1989 in relation to modification of licence conditions, references to the Competition Commission and Competition Commission membership
 

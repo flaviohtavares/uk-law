@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 11L. Interpretation[^c-1d072767126e7dbff9fa895cdd851c57]
 

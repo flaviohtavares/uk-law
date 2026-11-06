@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 3. Requirements for the marking of aerosol dispensers[^M_E_12499708-1f9a-4b7e-a64e-2d895e10c955]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 56. Schemes divided into sections[^c24459351][^c-4a608cec462127885a3bc6a6ac284b35]
 

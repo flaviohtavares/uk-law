@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 42. Social housing leases: remedying hazards[^c-893f8e0bab8fc0f83a183ca54f8add03][^c-6997dfff0c160e62a5c711688c0c1734]
 

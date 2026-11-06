@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Limited liability partnerships[^c-c345cff917372dda1ca7f36fd64d0fff][^c-ac8af27077b56ec0a8b130b7d9abb9d8][^c-50145e38a2b46790397b347e336a9e24]
 

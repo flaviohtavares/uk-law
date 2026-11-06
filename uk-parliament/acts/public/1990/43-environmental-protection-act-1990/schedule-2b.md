@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (25).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 2B (Extent: E+W) (affected by repeal, see note) — Categories of waste (Extent: E+W) (affected by repeal, see note)[^c-2b48fb47f6185886b3c0b508e3cdc9b3][^c13752361][^c-2b48fb47f6185886b3c0b508e3cdc9b3]
 

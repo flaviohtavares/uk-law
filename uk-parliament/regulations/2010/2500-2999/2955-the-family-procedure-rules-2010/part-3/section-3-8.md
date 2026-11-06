@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2955
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 3.8. Circumstances in which the MIAM requirement does not apply (MIAM exemptions ...)[^c-e91d532a33b448779354909a88339e3e][^c-40617ae150fe6551879f0322f9533ec0]
 

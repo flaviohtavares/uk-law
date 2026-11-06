@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 3. Extension of marriage to same-sex couples[^c-2882e0b4a3b56478a12b9b8c15619b0a]
 

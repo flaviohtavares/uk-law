@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland; Scotland (the versions of this text differ in extent).
 
 ## 11B (Extent: N.I.). Change in gender of civil partner (Extent: N.I.)[^M_E_74ea5e2e-accd-498b-b75b-26337c6504c5][^c-af553a5f986ee99313df1213eb0d5818]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 68. Industrial action ballots: turnout threshold[^c-fe311256b32bd54096fa42413a3af86e]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (131).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 100AA. Code of practice on controlled expenditure: Scottish Parliament elections[^c-638611894d22945f4bfb4383aa96910b][^c-d64745044b90175975ecaac1c084bb8d]
 

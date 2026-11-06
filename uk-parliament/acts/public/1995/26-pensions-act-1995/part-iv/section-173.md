@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 173. General minor and consequential amendments.[^c-4add06eae7c1b2254f8924e9845a2768][^c-72cc849aec333b68a58e2ceb9418b89c][^c-336bc70db5d3aa27031289b7371c1ec5]
 

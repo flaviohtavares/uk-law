@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 142. Offence of aiding or abetting etc a person to carry out virginity testing: Scotland[^c-40407f537e24c2462c548fbc74e7f234][^c-3750b5d6d0a5b8e5b1a74824d3b1083f]
 

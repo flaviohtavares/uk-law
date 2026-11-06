@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (37).** Text as at 2026-06-17. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/64
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 9 — Additional Provisions as to the Commission[^c-37f1b2d839aa12cf535def28017f9dd1]
 

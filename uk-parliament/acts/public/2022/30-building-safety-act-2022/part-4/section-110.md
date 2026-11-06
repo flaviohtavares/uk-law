@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 110. Managers appointed under Part 2 of the Landlord and Tenant Act 1987[^c-bb7831988916563cec94c3851bec809f][^c-c19ea6da94476ce1cb047283db46d008]
 

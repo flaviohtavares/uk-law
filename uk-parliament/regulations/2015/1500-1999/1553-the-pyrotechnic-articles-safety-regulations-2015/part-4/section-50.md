@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 50. Register of approved bodies[^M_E_96382726-fc9e-43c1-9707-60a6b8a7f802][^c-dc440bbe671175c03761b7492e5b2754]
 

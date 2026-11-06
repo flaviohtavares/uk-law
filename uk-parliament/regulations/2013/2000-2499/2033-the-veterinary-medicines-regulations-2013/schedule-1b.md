@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-05-17.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 1B — Qualifying Northern Ireland good (QNIG) certificates[^c-f5b18440e08a3dcbbb1e764355bd0e79]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 55. Contribution notice where failure to comply with restoration order[^c-9b7ac7823f425c8aa2bbe589addd63cb][^c-7be46ffb9a215a307d7ecb0096bd7eff][^c-efa22510869d944425cfc4026fc01d05][^c-7be46ffb9a215a307d7ecb0096bd7eff]
 

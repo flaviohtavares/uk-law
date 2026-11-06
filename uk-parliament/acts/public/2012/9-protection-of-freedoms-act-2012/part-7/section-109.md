@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 109. Trafficking people for sexual exploitation[^c-e8e55432166359e699b3ce582185912e][^c-99bfb356af42e971c6f4a1927420a5ef]
 

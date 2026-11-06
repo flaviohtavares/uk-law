@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 356. Further provisions: civil recovery ... and exploitation proceeds investigations[^c-7893fe4040543a9e689561280e6b206b][^c-8cafd9363d854540064706ebdd7b2be4][^c-a17c23a08b0f9463db306fad62260c6e]
 

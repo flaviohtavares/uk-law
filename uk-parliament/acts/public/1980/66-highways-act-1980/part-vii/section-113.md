@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 113. Exercise by council of functions of Minister or a strategic highways company with respect to management or provision of picnic sites etc.[^c-ca73c0649c19952a3f1d320d2b3718d5]
 

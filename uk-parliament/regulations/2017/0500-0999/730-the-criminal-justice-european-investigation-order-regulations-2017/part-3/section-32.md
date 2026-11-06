@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 32. European investigation orders relating to HMRC matters[^c-c8a9b636ec948e661aadb0a68b3eb952]
 

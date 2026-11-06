@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 86. Chapter applies to examination by Panel or single appointed person[^c-fc6fc66e053fb49cc58ee95c6c9e3f33][^c-4d2aebc7a51e6f61ea48550c6fbab782]
 

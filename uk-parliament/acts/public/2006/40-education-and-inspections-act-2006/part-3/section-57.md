@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 57. School funding[^c-f952e01954a19d57ef18ecb9a8ac2693][^c-ba5c097b4ec2aee08f5e082de1c329f7][^c-c016a0fd9580f417fea606484f345ec3]
 

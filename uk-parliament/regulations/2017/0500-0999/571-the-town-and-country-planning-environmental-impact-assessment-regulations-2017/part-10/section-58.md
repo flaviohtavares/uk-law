@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 58. Development in England likely to have significant effects in an EEA State[^c-8135655ea584736b910c35fcb037e82b]
 

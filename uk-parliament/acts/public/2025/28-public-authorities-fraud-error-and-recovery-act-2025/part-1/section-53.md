@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 53. Amount of penalty relating to fraud[^c-461e1297584beecf7358c0d95ca3b11b][^c-f206c5aee263c88ee5b19b93e9e693f3]
 

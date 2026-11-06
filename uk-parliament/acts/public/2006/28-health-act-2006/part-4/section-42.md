@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 42. Payments in respect of optical appliances[^c-64d9519ed561b75d2c88c94344fb8006][^c-3be20bd0834c457779ef803f4e2566f2]
 

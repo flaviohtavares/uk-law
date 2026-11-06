@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-02-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 71. Power of National Assembly for Wales to give financial assistance to charitable, benevolent or philanthropic institutions[^c-a0a027c2b9100241b9fb6a9639620822]
 

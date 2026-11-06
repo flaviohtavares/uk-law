@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 234. Getting in the company’s property.[^c15575591][^c20460382][^c20433981][^c20434031][^c-d1376364b574efa19e6847779bd6b899][^c-413607b4d3ebed1838d6742db94f054a][^c-225f395e19614ba8696b36e38d0a8c50][^c-f3dd263ceb29a1229f5c2a3acf913bc2][^c-788371096f8da5425d0cd572175725cd][^c-5dfd91a24b87667e90e1192c8e81a926][^c-d337fadf2c894e59dad1a36f8d3f02b7][^c-788371096f8da5425d0cd572175725cd]
 

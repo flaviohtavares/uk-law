@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 89. New council: consequential recommendations[^c-30edf52cdb8ddff6040ec17a9e8835a7][^c-6338396b3add30799b98641f929db62f][^c-22a74f5773b8af0310fa28562209c548]
 

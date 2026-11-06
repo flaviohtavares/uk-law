@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 31. Consultation between Commissioner, the Parliamentary Commissioner and the Health Service Commissioner.
 

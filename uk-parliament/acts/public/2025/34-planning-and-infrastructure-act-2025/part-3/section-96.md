@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 96. Amendments relating to this Part[^c-3399fd439d4d3d16454e4754f6085af6][^c-a4b8a8b0dd1589ee63807e39a48e9c84]
 

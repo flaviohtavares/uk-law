@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 58. Secretary of State's power of direction[^c-f6b3f31c0076c3855810db02d6bba0b2]
 

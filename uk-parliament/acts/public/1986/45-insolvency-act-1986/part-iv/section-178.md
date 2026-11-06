@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 178. Power to disclaim onerous property.[^c15573641][^c18963971][^c20432001][^c20432041][^c-f841e41b2a0038c2bb611c01449be7ef][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-2ac1962798d7e221f14c1027ed9125c3][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

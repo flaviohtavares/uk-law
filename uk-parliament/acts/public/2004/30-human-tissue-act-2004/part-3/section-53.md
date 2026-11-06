@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 53. “Relevant material”[^c-1d71aedc2c7abb69155f8104fa490a5b][^c-6012477a26b18c4213e3cc1e39183e2a][^c-a7934449984b3018a31016b7effe7dac][^c-403a6273cded99713abce71e1ce1132c][^c-f9ecb0d3bb1f958e3187aa4ac5b94dd6][^c-f6e7ce7fe146d7e9d1eb9ec16a514efc]
 

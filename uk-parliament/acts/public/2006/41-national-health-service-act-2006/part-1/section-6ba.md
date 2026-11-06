@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6BA. Reimbursement of cost of services provided in another EEA state where expenditure incurred on or after 25 October 2013.[^c-496ae437c8c793e708d16d172f918b6d]
 

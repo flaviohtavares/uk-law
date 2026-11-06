@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2007-08-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 34. Commencement of maternity leave period.
 

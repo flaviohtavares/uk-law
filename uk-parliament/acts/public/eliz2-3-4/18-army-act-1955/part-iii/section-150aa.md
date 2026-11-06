@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 150AA. Enforcement of maintenance assessment by deductions from pay.[^c-59ffb32af2a360de73a4044367c7a4fe]
 

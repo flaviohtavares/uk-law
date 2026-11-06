@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2013/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 128. Repeals[^c-128aa0e237a3c1e6d81d5d2e7c1736f6]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 54. Searches of detained persons.[^c11323621][^c11323631][^c18894951][^c18894971][^c19553161][^c-779f9d93ffcd263d3c38521ac1406218][^c-ced2d2893282180c823a2fc51f2e174b]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 60. Decision on application[^c24459391][^c-31ce984a4c8eb663f73ee12dd8155b20]
 

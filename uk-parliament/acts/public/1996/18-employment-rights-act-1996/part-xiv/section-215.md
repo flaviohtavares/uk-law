@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 215. Employment abroad etc.[^c-021857c09bfca348de00157312468209][^c-1ea05877e335e92192e96a8d5eb26d2f][^c-99307445b30dd5592a3e60b5d8ffa0d1][^c-e8b4503cc39f98c52d86cf6f8d86e1a7][^c-8765a22d85ae2b200c6f288d49c338d2]
 

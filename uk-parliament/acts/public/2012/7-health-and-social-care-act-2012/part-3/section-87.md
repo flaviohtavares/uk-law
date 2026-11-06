@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 87. Grant or refusal of licence[^c-19bdb4d673ee3b167f41d5d85e1f51cb][^c-d4dbdf1db809a9ab09dbb56c44895aaf]
 

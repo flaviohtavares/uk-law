@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. Regulation of establishments and agencies.[^c12426281][^c21093901][^c-14621779f4315913a65613032c18669b][^c-d55a096d7c4e1782dfef286c8f4b8c2b]
 

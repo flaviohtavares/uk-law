@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 159. Regulation and Improvement Authority (Registration) Regulations (Northern Ireland) 2005[^c-58e96630f74ee76ccc9f37d23f4ccf7e]
 

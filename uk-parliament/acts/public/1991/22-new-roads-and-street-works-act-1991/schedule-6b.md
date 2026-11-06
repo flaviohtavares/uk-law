@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (403).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 6B — FIXED PENALTIES FOR CERTAIN OFFENCES UNDER PART 4[^M_C_4abde005-5174-4609-cc29-aea08e34dad8][^c-8ec82502659179393c4a0337084bb65b]
 

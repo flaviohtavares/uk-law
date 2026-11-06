@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 47. Prohibition on use of site in absence of approved programme[^c-ab502f39c6885ee9fefb2fd0b094ab5c]
 

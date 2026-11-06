@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 48. Breach of conditions other than accounts conditions: complaints and compliance orders.[^c-a836c105d67279cf22cc8595878ae2a3]
 

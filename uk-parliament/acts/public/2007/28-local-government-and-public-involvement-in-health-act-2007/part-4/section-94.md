@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 94. Recommendations to create parish councils[^c-08ad4b0d5486416f88929a874f4b59bc][^c-1ef9b49ef682be9751477ce5e06b8120][^c-19de6d487163622b4109b6b04355bd87]
 

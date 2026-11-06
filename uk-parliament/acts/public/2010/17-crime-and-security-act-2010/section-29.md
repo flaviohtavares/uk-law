@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2022-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 29. Breach of a domestic violence protection order[^M_I_8675be36-79c0-409f-95af-70437a765ef3][^M_I_05c5bec5-da0c-462f-a3ea-56afd03f2f0f][^c-bf7a3a3b4e2295aecf8685a53b7c6115][^c-346f0a8eecc48529b58bb0b770406450]
 

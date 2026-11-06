@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 25. Aggravated offence where death or serious injury occurs[^c-1e37786bacc1a607b750ca271cd5c888]
 

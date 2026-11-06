@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-05-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 50. The memorialisation strategy[^c-19fd5084edba162776fe34b00d5f84d4][^c-f4b3e6d285090bed38b5067ad8580e54]
 

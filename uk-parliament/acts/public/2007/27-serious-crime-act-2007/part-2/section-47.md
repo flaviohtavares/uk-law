@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (182).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 47. Proving an offence under this Part[^c-8702c01e83014f30a7bde513336b12d2][^c-8fac712985455041598b9ce15117ddd2][^c-8fac712985455041598b9ce15117ddd2]
 

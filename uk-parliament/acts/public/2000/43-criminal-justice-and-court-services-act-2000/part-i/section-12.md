@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Principal functions of the Service.[^c-a5ddf6e803f53e34b44681603da65b7e][^c-e960b5d3261382194bce45a1b463a575]
 

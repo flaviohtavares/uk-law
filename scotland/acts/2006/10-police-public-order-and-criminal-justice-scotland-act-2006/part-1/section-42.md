@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2025-06-25. See https://www.legislation.gov.uk/changes/affected/asp/2006/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 42. General functions of the Commissioner[^c-99d3fa191e562d2160bcf3e1997e1ce1]
 

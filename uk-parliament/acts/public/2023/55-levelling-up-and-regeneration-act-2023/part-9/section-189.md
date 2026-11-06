@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 189. Prospects of planning permission for alternative development[^c-fecbe94ae02b0932ed25fd51dd6185a9][^c-5382ba477a27b0511da0f59ca9182299]
 

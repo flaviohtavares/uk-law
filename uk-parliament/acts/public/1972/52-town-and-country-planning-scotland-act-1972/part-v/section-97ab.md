@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 97AB. Further provision as to rights of entry in relation to listed buildings.[^c14925101][^c14925101]
 

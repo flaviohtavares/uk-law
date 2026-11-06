@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 26 — The Metropolitan Police Authority: Schedule 2A to the Police Act 1996[^c-528fbf6da5358601d1501f4c0e21401c]
 

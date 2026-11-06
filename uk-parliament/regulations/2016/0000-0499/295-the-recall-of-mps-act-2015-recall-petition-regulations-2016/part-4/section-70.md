@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 70. Additional requirements for applications in respect of a particular petition: Northern Ireland[^c-a63be6b6870ca3b57820a8eadb968da5]
 

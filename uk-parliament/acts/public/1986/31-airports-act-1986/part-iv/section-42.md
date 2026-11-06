@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 42. Discretionary conditions: supplementary provisions.[^c-a836c105d67279cf22cc8595878ae2a3]
 

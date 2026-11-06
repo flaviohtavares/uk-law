@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 15. Amendment of the Supply of Machinery (Safety) Regulations 2008[^c-56bc00715dcc6bb1d0a31df697ce4c59]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (25).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 35A. Compensation where rights granted pursuant to section 35(4) or 38(9A).[^c19493481][^c-a474e28bdd10ac8326cd0d1f9b5c8098]
 

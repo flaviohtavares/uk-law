@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (57).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 85. Removal of limit on certain fines on conviction by magistrates' court[^c-324c31032b1c2717bcf343f15d125d1e][^c-d42f79daa6b13644edc28034e6dab327][^c-23762eef2a23e3970c01a370e3843b6e][^c-25771a75de51c4e00038b8f943c66e56][^c-fb2d8fc084be7c600cf84ecaa4c0de92][^M_C_196fcdda-cb3a-47b7-e46b-3767201473f1][^c-27223a7564b9f975b9b9b8f818e76e97][^c-8b5de748531a959bcf6e840bed013d6c][^c-181bd3cc2f6e5834aaa110ac88f43662][^c-181bd3cc2f6e5834aaa110ac88f43662][^M_C_ba13cad9-b1a6-4844-e611-91fc97212957]
 

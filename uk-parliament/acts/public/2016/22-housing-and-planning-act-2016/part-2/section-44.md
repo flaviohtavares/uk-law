@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (34).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 44. Amount of order: tenants[^c-8dc7ebfb1412022280094f34ccea6eef][^c-8e3c895bc9f0b3c14cfb708cabb13558]
 

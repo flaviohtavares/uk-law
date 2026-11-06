@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 149. CLA regulations: further provision and guidance[^c-41443638cd4914357db6fae4a7bdf099]
 

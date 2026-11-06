@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 4 — Minor and consequential amendments relating to SOCA[^c-64d4b8fa1797487413be8064a3dd38de]
 

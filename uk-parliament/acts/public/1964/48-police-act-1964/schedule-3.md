@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 3 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c11166041][^c11166051]
 

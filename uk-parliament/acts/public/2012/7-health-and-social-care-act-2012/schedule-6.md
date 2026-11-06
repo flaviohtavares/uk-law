@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 6 — Part 1: transitional provision[^c-857eca34ea2ee8bfa4a487b0f8d0e5db]
 

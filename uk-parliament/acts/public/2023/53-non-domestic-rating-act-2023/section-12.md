@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Sharing of information between billing authorities and HMRC[^c-421fe896b829d2bcbd616f0cbf7bda78]
 

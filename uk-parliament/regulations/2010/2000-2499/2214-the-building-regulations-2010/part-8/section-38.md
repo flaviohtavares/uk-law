@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2214
 >
-> Extent: England, Wales.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 38. Fire safety information[^M_E_80338db9-c1f0-4d1a-eed2-da88894202ed][^c-ee7360bb5b7794ae245c5a5609716857][^c-ed3b056aa689223df14bf08c82ab1804][^c-9b752d3bfb7d5ab3c6fb492d2e0a1e8f]
 

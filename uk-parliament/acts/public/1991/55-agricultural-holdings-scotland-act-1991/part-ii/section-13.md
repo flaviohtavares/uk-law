@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2021-02-28. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 13. Rent review[^M_X_0f0592d3-b112-4187-b8b3-17584b7bf4f3][^c-08e79596ae9a67e2ebc52e0cf9f25e0b]
 

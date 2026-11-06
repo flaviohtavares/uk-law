@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 164. Default powers of Secretary of State in relation to adult social care[^c-9bd8920fe4f889b41007754897f60dcf][^c-756f6be99a03b32ec0e7509be340fb20]
 

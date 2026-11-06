@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (91).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/53
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 54. Notices on-the-spot etc..[^c18163841][^c18163851][^c-9f8ce5dc4727d1af7fe84786ed26db42][^c-bbcfc44a5f602b05f382420599d4067d]
 

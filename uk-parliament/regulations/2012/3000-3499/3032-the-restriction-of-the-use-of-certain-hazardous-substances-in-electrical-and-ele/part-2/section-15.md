@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## 15. Duty to keep technical documentation and EU (Extent: E+W+S) (affected by repeal, see note) declaration of conformity[^c-cbc6f6624d1dec0452e5b843f8ea6aa4]
 

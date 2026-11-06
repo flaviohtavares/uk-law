@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (34).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 177. Offences in connection with powers to enter land[^c-0cb45fd274c08a6d3e208f76a45cde19][^c-6c008554d29cd6f345381c628503917a][^c-dbcbdf7e5e9623f4ab27bdb9766e8ef4]
 

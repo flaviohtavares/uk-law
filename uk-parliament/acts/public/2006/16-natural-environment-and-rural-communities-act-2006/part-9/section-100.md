@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 100. Byelaws relating to land drainage[^c-b3b5ef832e7f62f95f577bc005a61ed0]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 62. Pneumoconiosis, etc., (Workers’ Compensation) (Northern Ireland) Order 1979[^c-5d49068fd41470dce7fe8e71f7e7a312]
 

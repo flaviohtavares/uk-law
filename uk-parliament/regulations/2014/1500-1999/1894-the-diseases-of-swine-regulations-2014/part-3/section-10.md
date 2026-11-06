@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-29.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 10. Designating premises (other than premises in England) as infected premises when the presence of disease is confirmed[^c-9277298d0622fc8c57cfd7c67bdcb74a][^c-f1d95bc3c119f8f5fa768192063f227a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 14 — Abolition of NHS trusts in England: consequential amendments[^c-53b41fdb614a03ade705b6aedbcc7321]
 

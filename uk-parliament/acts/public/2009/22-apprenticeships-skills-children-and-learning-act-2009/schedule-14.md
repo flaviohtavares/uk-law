@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## Schedule 14 — Powers in relation to schools causing concern: Wales[^c-2f814c3a92409ef17ff736c3072fc0b0]
 

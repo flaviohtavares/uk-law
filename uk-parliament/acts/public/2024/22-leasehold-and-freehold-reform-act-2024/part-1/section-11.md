@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 11. Prescribed statements in new long leases[^c-27f49b86c33fcad37fce8a3b94b70fbc]
 

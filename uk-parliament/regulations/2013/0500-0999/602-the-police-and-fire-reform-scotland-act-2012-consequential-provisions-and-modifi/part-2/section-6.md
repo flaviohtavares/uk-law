@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2024-05-01. See https://www.legislation.gov.uk/changes/affected/uksi/2013/602
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 6. Assistance by Police Service of Scotland to British Transport Police Force[^c-4b629a82a4f66a44bd3b056b2943088c]
 

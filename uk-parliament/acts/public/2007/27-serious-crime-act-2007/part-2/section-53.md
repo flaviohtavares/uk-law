@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (182).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 53. Prosecution of offences triable by reason of Schedule 4[^c-42a81e21ffc10023abda5c9be5b18e8c][^c-8fac712985455041598b9ce15117ddd2][^c-8fac712985455041598b9ce15117ddd2]
 

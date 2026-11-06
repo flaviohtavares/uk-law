@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 15. Amendment of the Novel Food (Amendment) (EU Exit) Regulations 2019[^c-bdadaef9aff488be11a64722c7d43101]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2024-05-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 5 (affected by repeal, see note) — Breach, revocation and amendment of attendance centre orders (affected by repeal, see note)[^c-a9d1b1592e07a85e34e6355c1c1137a3][^c-a9d1b1592e07a85e34e6355c1c1137a3]
 

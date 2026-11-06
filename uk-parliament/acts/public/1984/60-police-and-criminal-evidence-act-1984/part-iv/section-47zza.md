@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 47ZZA. Duty to seek views of alleged victims on conditions of pre-charge bail[^c-3d7b62b0dba4bf3570564d2ace318ea1]
 

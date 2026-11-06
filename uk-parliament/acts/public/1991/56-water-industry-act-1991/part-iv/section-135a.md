@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 135A. Power of the appropriate agency to acquire information for the purpose of its functions in relation to special category effluent.[^c13220141][^c-7355fc8272f7b686e3d40b323fa5eebe]
 

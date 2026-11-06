@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## A2D10. Directions[^c-b1fbf2f7bfc97525b065baa13f2f3b05][^c-3d27cacfd7e6e701926945af0192e1a3][^c-241e6620f23257dccd5326b438436cbc]
 

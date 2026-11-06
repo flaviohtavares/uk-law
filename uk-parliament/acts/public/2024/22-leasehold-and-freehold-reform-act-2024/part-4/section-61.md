@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 61. Duty of landlords to publish administration charge schedules[^c-d906ce5d0924ea4d4a8a1da357c793df]
 

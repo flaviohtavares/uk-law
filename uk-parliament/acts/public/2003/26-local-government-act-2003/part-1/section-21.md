@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21. Accounting practices[^c-8b4a4d0b1ad070a0c3dfe70379ce6e53][^c-046b24aff5c4708ef2a01caa254b2ec6][^c-0b8e19d5075113e9c2ac2d689413fce8][^c-3ca1d0d91f872547d15fa41aecb81319]
 

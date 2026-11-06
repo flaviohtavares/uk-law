@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (192).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 116A. Local authority powers to prosecute other benefit fraud[^c-325dba21529d6c3dbb8b8e76a02524cd][^c-61598703256e8ea7a68a66b36618a3c6]
 

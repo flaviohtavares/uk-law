@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (139).** Text as at 2026-07-08. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 89. Earnings to include occupational and personal pensions etc. for purposes of provisions relating to increases of benefits in respect of ... adult dependants.[^c-07831c6c504f74f2693187db14f81c3d][^c-ab2833f0204560ad0c4369e53ba768e9]
 

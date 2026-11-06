@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-04-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/24
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 46. Withdrawal and replacement of, and appeals against, notices[^c-45bd9ed9994981811b33cbf352d576b6][^c-526fbd64c78b9240224f73d697c5608e]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-10-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 86. Application of Town and Country Planning Acts.[^c4801821][^c4801831][^c4801841][^c4801851][^c4801811]
 

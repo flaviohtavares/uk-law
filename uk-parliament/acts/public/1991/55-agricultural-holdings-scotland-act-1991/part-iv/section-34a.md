@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2021-02-28. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 34A. Amnesty under the Land Reform (Scotland) Act 2016[^M_C_13ef1b62-bd72-43f9-8e5a-fba102046d26][^c-377d13bfb7b5d9d0381bd293403297f6]
 

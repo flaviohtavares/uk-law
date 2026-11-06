@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 22. Search and seizure warrants: assault and obstruction offences[^c-4ff6819a872fa2097953c8397b927cdb][^c-e539fda3e0b494c79c4f7966e798bd97][^c-d84d68594df853a944298cbf32d959e2][^c22725251]
 

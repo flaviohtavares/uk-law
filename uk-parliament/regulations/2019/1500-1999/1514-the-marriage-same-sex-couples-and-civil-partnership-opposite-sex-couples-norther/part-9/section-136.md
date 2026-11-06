@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 136. Rent (Northern Ireland) Order 1978[^c-1969389fdb3362c51737e02102541cdd]
 

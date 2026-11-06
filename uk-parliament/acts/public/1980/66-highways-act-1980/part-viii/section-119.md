@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 119. Diversion of footpaths , bridleways and restricted byways.[^c13423821][^c13423831][^c13423841][^c18572401][^M_F_1c3808f3-99ad-4b5e-dc57-dbd1929113d9]
 

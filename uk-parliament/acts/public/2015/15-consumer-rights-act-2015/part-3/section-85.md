@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 85. Fees to which the duty applies[^c22520531][^c-a98addf56da35e8c0d74942159820a1d][^c-f134bee157b90fc4e21ce174906c8e40]
 

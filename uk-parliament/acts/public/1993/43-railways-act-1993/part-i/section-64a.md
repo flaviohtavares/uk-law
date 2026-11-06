@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 64A. Financial assistance by Scottish Ministers or Welsh Ministers[^c19014691][^c-4b223fdb9a4e8b509d16eef042b04eb4]
 

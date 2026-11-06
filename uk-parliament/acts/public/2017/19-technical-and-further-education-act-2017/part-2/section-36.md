@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36. Trust property held by sixth form college corporations[^c-2833363c656744cfc1087ebe854c831e]
 

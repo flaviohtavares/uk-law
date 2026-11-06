@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2001/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 82. Restriction on use and destruction of fingerprints and samples[^c-5c9e622c77190ee94fd8a8efa0962356]
 

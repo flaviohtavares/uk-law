@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 60. Social Security (Northern Ireland) Act 1975[^c-02fc3de4632572a43068969359640313]
 

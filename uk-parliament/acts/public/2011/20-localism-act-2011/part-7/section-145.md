@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 145. Allocation of housing accommodation[^c-9bc8f2061bd7a37f3b86f77086bf93e5][^c-ade7d0dd997c992bc60caea0384d8706]
 

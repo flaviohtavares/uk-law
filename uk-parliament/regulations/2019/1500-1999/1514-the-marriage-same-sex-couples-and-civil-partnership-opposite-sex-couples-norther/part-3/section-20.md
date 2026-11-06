@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 20. Prescribed forms relating to civil partnerships[^c-dd09c59abd879dbd10ff2c74eea6e987]
 

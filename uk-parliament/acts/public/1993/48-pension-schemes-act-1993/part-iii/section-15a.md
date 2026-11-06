@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (105).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 15A. Reduction of guaranteed minimum in consequence of pension debit.[^c-ba893e22fcd99f876c28e97581882998][^c-45cb7e7db85fa10b9b73e3c919b14a69][^c-69bcbf1d29d46155b4ecc9de682a2889][^c-4ae83fc5b34538bac3e9f788fc6c21c8][^c-f54d1b735468fc1f2fed6e4c2e50a3b5][^c-0c2a1110ab46945ea0d9a9ed572eee30][^c-cdf681df7239589c7f6bdc8b34dd0201][^c-f45e050c1e6a3d437b84e2d1df6bd5b0][^c-807b957d8d82f1c2a5ab809e56183ebb][^c-5253359bd2c81e11cdbd74f30f6a6268][^c-42666d44d700f64cf16e6d6ef2afe2ab][^c-ac2cf7e2062133c32bd3e92d8845faf0][^c-1ffaca745b1cde81f626271093cf238f][^c-4e53e9054bbc2caff99d407641a14753][^c-3d2f927ac5f7869e3d7ca4e6ed9f7548]
 

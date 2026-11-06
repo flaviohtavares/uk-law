@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 68. Regulations under the LTA 1985: procedure and appropriate authority[^c-3d5ca203061c1019ca83d00811c104c1]
 

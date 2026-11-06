@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland; Scotland (the versions of this text differ in extent).
 
 ## 76A. Foreign surveillance operations[^c20078151][^c19875771]
 

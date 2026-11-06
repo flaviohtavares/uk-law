@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 108. Duty to notify the Regulator of certain events[^c-ebb9fb8ec91b4f3ec2fe513b3f3c1f2b]
 

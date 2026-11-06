@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 3. Responsibility for animals[^c-da87c5f1a11d7d3f7505d270b0dc0876][^c-47d857d81a5dda73e7a6f81a99f7f806]
 

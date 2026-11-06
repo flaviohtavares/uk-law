@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 11. Local authority executives.[^c1427807][^c-b3eca01c9efc18d4933c19d87c5a31ca][^c-8763b55d445b59034f9b7c5e783dddb4][^c-b3eca01c9efc18d4933c19d87c5a31ca]
 

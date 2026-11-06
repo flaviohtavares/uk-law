@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 103. Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Referral Fees) Regulations 2013[^c-bc2143ff9e2fef038111f95ee5de9199][^c-a1286d2284bff66bb81068b500435a0a]
 

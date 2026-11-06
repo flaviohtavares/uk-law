@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 181. Regulations under Part 5[^c-e5db939d5eddb16f1467fa66dcbffc03]
 

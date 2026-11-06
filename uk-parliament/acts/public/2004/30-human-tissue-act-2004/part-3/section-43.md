@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 43. Preservation for transplantation[^c-d5e0eaa21a1b28818f402b75ce6a3bd5][^c-a193e6e72372e77f08fea6a7a81e35e5]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 267. Grounds of creditor’s petition.[^c15577231][^c15577241][^c15577251][^c15577261][^c21423251][^M_C_9a85b10a-b1e5-4da0-df6e-2c3fcd36c5dd]
 

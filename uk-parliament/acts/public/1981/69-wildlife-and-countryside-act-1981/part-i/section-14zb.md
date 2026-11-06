@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/69
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14ZB. Codes of practice in connection with species which are non-native or included in Schedule 9[^c19473681][^c-d31eb7ecabee0787fac67325e53b4d76]
 

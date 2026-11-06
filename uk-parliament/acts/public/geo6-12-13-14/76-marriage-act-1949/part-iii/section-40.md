@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 40. Forms of certificates to be furnished by Registrar General.[^c-a8092bb1fb1c82af2cc86bc4d5360367][^c-c898f7a5800b3f42e0c6454cec446a45]
 

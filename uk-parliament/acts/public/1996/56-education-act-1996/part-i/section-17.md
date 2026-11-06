@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Powers in respect of nursery schools .[^c-4357a13c8a0a0db7eb6e1ed918d4110e][^c-822e3f6c1eea726d3a572c7490b77200][^c-171589fb026ce22eb3f5c7976af0722b][^c-e8a72509bf12f2f303dbe71d9af3c3a6]
 

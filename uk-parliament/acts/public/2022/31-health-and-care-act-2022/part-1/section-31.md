@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31. Care Quality Commission reviews etc of integrated care system[^c-d1b1175579ed28d013c9c3ee2a0a1e6b][^c-def82dcd7a00f4131bda7af1ff85363b]
 

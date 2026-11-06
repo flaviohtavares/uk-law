@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Mortgages, trusts of land and settlements.[^c-92739a733f7efe1b34022f8c371597ed][^c-02b2d7d2de06a16b996c57e7d9315068][^c776100]
 

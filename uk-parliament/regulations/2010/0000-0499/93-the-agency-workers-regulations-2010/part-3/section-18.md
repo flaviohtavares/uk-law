@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 18. Complaints to employment tribunals etc[^c-229f14ba4cbc3bbc6edaa87582e5c9f5][^c-b57fa28c0418038fc55dfbf8a2b894d3]
 

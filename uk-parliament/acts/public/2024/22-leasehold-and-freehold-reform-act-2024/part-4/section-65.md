@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 65. Appointment of manager: power to vary or discharge orders[^c-769a71f4e3f15dc2ec589e3c87db9eb7]
 

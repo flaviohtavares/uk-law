@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2016-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 17. Charges for local authority services in England ....[^c-0616742a709cbd5335259d97795ccde8]
 

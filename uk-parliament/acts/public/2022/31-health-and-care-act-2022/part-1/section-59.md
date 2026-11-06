@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 59. Appointment of chair of NHS trusts[^c-36c22e33175f8184674bc730e6c29125][^c-58aec4aebb551fc6b1c825212ffa43be]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 8. Calculation of awards[^c-0dfb7b0d59def3187da03226cdffbfd0][^c-f0c316d9d1b0dfd0e226e5ef4e030922][^c-1ba6fb289da50d00a7c028a9261219b3][^c-68807f02f19ec494783bff1a753401a7][^c-f2e518bd8c9403907972b1f45e604d2c][^c-d98043516d33822ac155d4d9d5b7252c][^c-2e7b1e3521b75df0d86a8f5ec61c933f][^c-8558327c30d791b8d776a71f3d9d26ed][^c-6d189ea5116eaf528e6280f8e5812b32][^c-642106fae2221da729e75df2252ef9af][^c-50414255b7a39e8f2eb4250f4a3d1785][^c-26105f6a2369279cda7020b4fcbcb830][^c-78369b6910d366ab772b270f90ee4854][^c-267fc582d2de5d13720f2c3f1c17b798][^c-20eb6eb5707f5d300a46d084ff2d5275][^c-17e5f5adc29272b6ab6d2b6f1a1b5052][^c-87674ca8b9cafd4612b0d05edc9caffc][^c-03b6750be9dfa6ea354e9d30049eb099][^c-8b6809e77d7ab1b21e56f092f4352464][^c-efaadd0ed8e46945af3f1160390a9fb6][^c-f0c316d9d1b0dfd0e226e5ef4e030922]
 

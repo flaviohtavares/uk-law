@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2018-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 12 — Licensing of Public Entertainments in Greater London on and after 1st April 1965[^c-91d1fda05285e2beaaa2e62dfe465b6c]
 

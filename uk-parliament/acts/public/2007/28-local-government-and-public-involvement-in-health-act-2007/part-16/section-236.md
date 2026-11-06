@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 236. Exercise of functions by local councillors in England[^c-b6dbd652d019b08e7633081485736d0d][^c-4d84a9c220f411e14c8ffc225597d87c]
 

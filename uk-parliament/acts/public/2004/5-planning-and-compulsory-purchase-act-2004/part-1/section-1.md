@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 1. Regional Spatial Strategy[^c-95661c1f1df93953c323cfc6a88b9475][^c-704a9414c483b657794ba55c8c1ec374][^c-d18f4a38629d5a0bbfb932051d63dda6]
 

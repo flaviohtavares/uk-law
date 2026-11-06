@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-18.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 83. Minister’s power of direction.[^M_F_be5ff0ba-0713-4e17-ed4a-3873a8466498]
 

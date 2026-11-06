@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/54
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 72. Withdrawal of privilege against incrimination of self or spouse in certain proceedings.[^c12334161][^c12334171][^c20626101][^c20626151][^c12334151]
 

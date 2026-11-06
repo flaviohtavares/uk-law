@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 68 (Extent: W) (affected by repeal, see note). Transitional agreements as to property and finance.[^c-9a4337476fe3fbda2d2b4dc8b2b32488]
 

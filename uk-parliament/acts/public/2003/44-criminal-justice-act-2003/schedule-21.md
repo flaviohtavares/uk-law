@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 21 — Determination of minimum term in relation to mandatory life sentence[^c-ee2349d8e7acff4a056fabb20bdfb448]
 

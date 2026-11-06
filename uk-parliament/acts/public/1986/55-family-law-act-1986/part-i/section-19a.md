@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2022-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 19A. Jurisdiction in or in connection with matrimonial proceedings or civil partnership proceedings .[^c13384481][^c-e5bbfca3b4e5555837410358c27a4f88]
 

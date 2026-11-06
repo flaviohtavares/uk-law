@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-10-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1987/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 8. Power to modify Part I.[^c-3311a6800358c0eb5ab5cb22ed74a5a4]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 285. Service of notices, &c.[^c611753][^c-f1692b6df441ec66dd62ef18415543d1][^c-22eb93f7af2596fb370d99256bbf67cf][^c-49a1c9d609625b518b2d603abe9dbccc][^c-5db33b5ee2df45fc139fdec5d9a40f38][^c611752]
 

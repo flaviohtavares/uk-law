@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 53. NHS trusts: duties in relation to climate change[^c-2e2ea33206c4007b8822f411ad90073e][^c-beee943b785fa65816ca3503d51e92d1]
 

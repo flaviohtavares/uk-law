@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 147. Power to stay or sist winding up.[^c15573061][^c20429711][^c-39e049927860f736a3bccc0d12a7feee][^c-2898f7e195050285fd1d7678f205007a]
 

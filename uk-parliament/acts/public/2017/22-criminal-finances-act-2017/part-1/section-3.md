@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 3. External assistance[^c-d11756fe93065a9ae3c11a78546fd5f5][^c-e6152f3399a024e594bca5fcffca71c7][^c22725081]
 

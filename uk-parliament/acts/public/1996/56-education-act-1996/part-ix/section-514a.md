@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 514A. Provision of boarding accommodation for person for whom an EHC plan is maintained[^c-e2c04d84418316a76cd159a82356c2ab][^c-bec0faecb20309df655f991cded9dc80][^c-76dc1510398629fd64cd908ab46fce38][^c-63a57095a48f2a8d6c0d7a64f7f87362][^c-f3a152db856392dcd91f5c83892e56f1][^M_C_fda8e9fa-e61e-4e9d-8a07-e9562f56a575][^c-085bc936a9d23ebb8432de3139e18b77][^c-5ce9ccd95a6d52128482e2c8449e4d1d][^c-b6218518e5392c254a2e6f8058a98ab8]
 

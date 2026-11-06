@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 22. Supply, disclosure and use of record for the purposes of relevant elections, petitions and referendums[^c-a1c710c53dad4936df47c70762eb3cac]
 

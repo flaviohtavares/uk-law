@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 71. Section 3 of the Human Rights Act 1998: power to change release test[^c-f25a875566d2988c7cf1066d4b16787c]
 

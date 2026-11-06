@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 59. Enforcement action in respect of formal non-compliance[^M_E_72538723-b494-4089-ad13-8d1cd859de48]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 178. Regulations as to allowances.[^c19913871][^c19913861][^c15114501][^c20521291][^c-cbee53fa0dc134738427fed35e492651][^c-b54980bba66fe3f8f7e61af8b3074b56][^c-896d913145abfa8508c72d1b47204c08][^c-4277d89bd230c7c47bc71cf49ce27dc4][^c-8be4abc544560874d600612ab557415b][^c-de078fc33555d81d61225bf68a6dd0df][^c-426f78b2953a9100b8553e6b570c4ed2][^c-d7e85cd456cf6bb16d509dc98446a667][^c-e6ce7b09e9df21fc32485f5b435ed77a]
 

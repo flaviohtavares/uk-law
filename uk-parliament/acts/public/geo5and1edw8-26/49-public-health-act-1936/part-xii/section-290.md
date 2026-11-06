@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 290. Provisions as to appeals against, and the enforcement of, notices requiring execution of works.[^c611787][^c611788][^c-1264a8563b8d496031dd9c0370053155][^c-5cfd1b37155b508f13056b098ecfe473][^c-e578f0be81b921414b50e46606200681][^c611786]
 

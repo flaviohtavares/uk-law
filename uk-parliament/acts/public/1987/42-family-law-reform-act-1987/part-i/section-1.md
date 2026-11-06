@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2019-12-02.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. General principle.[^c1014230][^c1014231][^c-ed1170d3dc2cb941f276c14a4dde7a22][^c1014228][^c1014229]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 7. Power to request additional evidence where certain information is unavailable or where the registration officer considers it necessary[^c-67a3bb84cec3daa3ea3919bdb2369dab]
 

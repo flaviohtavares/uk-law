@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 165. Patient and Client Council (Membership and Procedure) Regulations (Northern Ireland) 2009[^c-4db280d8689646ce3cb38d00c06fdd34]
 

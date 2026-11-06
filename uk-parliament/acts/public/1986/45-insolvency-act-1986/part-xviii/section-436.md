@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 436. Expressions used generally.[^c15586351][^c15586361][^c15586371][^M_C_b465d696-5e32-4529-fe81-e38d85fb91aa][^c-cdd4f86c14f830ef2beafcec9cb3c4cd]
 

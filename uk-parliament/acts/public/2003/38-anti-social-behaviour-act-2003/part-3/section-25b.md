@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 25B. Parenting contracts in respect of anti-social behaviour: relevant housing providers[^c-cbf95ee6e27eb92b8b7e442abde9a6a0][^c-72ad3924f4cb20f3305374cca6b4a09c]
 

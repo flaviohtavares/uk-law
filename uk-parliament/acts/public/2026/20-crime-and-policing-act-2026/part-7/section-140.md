@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 140. Safeguarding vulnerable groups: regulated activity (Northern Ireland)[^c-b60ad6591b100ef9e0b0e2e9725c451e][^c-801ec679d0a6ffdfad58a0a74ddaf56b]
 

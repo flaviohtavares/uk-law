@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 328. Power of court to recommend licence conditions for adults sentenced to term of 12 months or more[^c-fa0e47a9bf85d1287712eba4a73e2f18][^c-4c7428fc54cbcf1c0255452821b9a010]
 

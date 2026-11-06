@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 49. Rooms over closets of certain types, or over ashpits, &c., not to be used as living, sleeping or workrooms.[^c-829d986c74deeeafae3e5c66a1e579eb][^c-9783c87329fee4bdbf28a2322d5fb653][^c-429b8679f979c0acb8cf894428f7e38e][^c-c6f678c3883d9858a117d053f4849ad7]
 

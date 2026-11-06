@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14. Codes of practice[^c-51915fa7dad3a3178eb3256545c1d14b][^c-6c011ec55e0953b45187229f0359298b]
 

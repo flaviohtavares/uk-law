@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2024-02-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1979/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 14F. Penalties for contravention of section 14E[^M_E_efca3f28-69d7-4a51-fc96-fe7a16f9bbdd][^c-9e4c7a0b2a64c433044f2b7817f9559a]
 

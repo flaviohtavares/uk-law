@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Provision of information to the Director General[^c2342841][^c20012661][^c-538d3c9c69a323365abec23daea3fe19][^c-6509241667c96cee7db799f0c028e3af][^c-d88dfb3b3b7a1829d9b3b1350b039857]
 

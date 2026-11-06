@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-12-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 81. Further advances in case of disposal on shared ownership lease.[^c-5e7490a55f4583adc9f7b7464152c394][^c-956242c7499c5bcf16000aeda20b6ace]
 

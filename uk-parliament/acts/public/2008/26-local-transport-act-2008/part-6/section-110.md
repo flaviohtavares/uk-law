@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 110. Abolition of requirement for confirmation of English schemes[^c-073ef26befe116d16b4d93905e2eaf26][^c-beb8607cebda962e7bf13157ea5ea335]
 

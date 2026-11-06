@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 188. Cautions given to persons having limited leave to enter or remain in UK[^c-77d79c3dd70ae527d60c92f67dfc1fdc][^c-7b261e70a5b487fb6baaefdc92151b0b]
 

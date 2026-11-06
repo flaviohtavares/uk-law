@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 59. Pay and conditions of Academy teachers[^c-41832a7a82d42a4f6da2430e7dc31e1c]
 

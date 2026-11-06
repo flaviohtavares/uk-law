@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 74. Discharge of liabilities by insurance, etc.[^M_C_e79467e0-bee3-4d4f-89c0-c1184806d586][^c-0e8e396129c691d83033676daaaf412b][^c-ae58cfba5b94e0917ce9e49cd1af4226]
 

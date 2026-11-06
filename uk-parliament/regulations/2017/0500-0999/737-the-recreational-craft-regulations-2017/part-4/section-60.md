@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2017/737
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 60. Notice of proposed restriction, suspension or withdrawal of approval[^M_E_fc3b7cfd-b430-4f8b-db07-b2802d8b9bff][^c-7537dfde85ab4442663edc660fa640ef]
 

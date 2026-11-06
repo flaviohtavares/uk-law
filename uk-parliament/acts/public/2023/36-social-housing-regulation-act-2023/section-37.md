@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. Leaving the social housing stock: end of lease[^c-ca5141ae3dfeedb2be9fdff9930c3d6c][^c-2e5d0d323648b592d35bbb12cabd8c5c]
 

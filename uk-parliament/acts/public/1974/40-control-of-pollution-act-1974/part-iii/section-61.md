@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 61. Prior consent for work on construction sites.[^c2455151][^c2455161][^c2455171][^c-031e5dd23158b31f1fbed37f2e9a0b30][^c-b6b496ad3e9f4ba44dd994a8d881f0f4][^c-75a1de3a39800ac2e6945759fdeaa616][^c-d0edef5cb37b94eeb11bde5a69d7376c]
 

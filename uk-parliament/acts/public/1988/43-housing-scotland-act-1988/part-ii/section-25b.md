@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/43
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 25B. Determination of rent by the First-tier Tribunal where section 25A applies[^c10515251][^c-82178c972d157de4f1eb5893fa88f0fe]
 

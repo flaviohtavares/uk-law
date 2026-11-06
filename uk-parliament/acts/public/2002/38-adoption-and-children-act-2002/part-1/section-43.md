@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 43. Reports where child placed by agency[^c-cee2f82d0e20c358cbd407123c81fd13][^c-17c29711445cf2d20a18175a01186ad2]
 

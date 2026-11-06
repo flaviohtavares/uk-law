@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 409. Jurisdiction of sheriff[^c-d821b9ae201c6c9afd48f051e0aaec34][^c-e48c48a43b7fd718ace2acb55bd23769][^c-bca8541d4050fcc82cca74ca36da009a][^c-4d75273bb17dd580cfbc0184c09e497e][^c-197bc7b8ac39fb8611d8c4ee77b1faee]
 

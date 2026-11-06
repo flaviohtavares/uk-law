@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 2A. Police authorities for metropolitan counties and Northumbria police area.[^c18758841]
 

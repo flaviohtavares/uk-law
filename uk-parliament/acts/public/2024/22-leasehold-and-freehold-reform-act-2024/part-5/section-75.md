@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 75. Limitation of estate management charges: consultation requirements[^c-fe10cf492c471ab7a67f1c8d163f1c1c]
 

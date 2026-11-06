@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-02-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 58A. Stamp duty land tax[^c-01fb2fa57df9a7e879e43d87d01ebfd4]
 

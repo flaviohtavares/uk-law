@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2017/737
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 28. Making available on the market[^c-abb316994a233eb3e4c37b042aecf2cb][^M_E_f7e0ad65-afcd-45f7-effa-4b9c8919cdb2]
 

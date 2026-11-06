@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1979/46
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 9ZD. Scheduled monument enforcement notice: supplementary provision[^c-dcb523fe4c2e55c4685480824de30a2e]
 

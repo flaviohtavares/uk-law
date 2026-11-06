@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 80. Disqualifications for election and holding office as member of a local authority in England.[^c15094521][^c15094531][^c15094511][^c-53e5125c94b9d2412d91de7a320d2534][^c-027a951dd358be08951c960b2c69c43b][^c-f2cb67322f07530203e2c6eb92d823bc][^c-9576afe44d5de510ca9d0f9aece90ea0]
 

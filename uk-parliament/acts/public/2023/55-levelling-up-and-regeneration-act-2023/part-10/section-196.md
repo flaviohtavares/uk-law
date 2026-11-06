@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 196. Restriction on letting while initial notice in force[^c-20face71d29612c0f6c7dfe84c039947][^c-3f04877fdd070ba7ed670ee3acdefdc4]
 

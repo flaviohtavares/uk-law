@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (173).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16. Resignation and removal of local auditor[^M_I_482b04ab-c12c-4c97-cb02-8c73eab3bfcd][^c-bb5ee13c259675e3c6d29c30828c670b]
 

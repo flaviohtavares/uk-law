@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 34. Power to charge[^c-ff42284eb902ed25d47b9b50d4d59edb][^c-751b8e3e41e878b7ce7f9bf2ae8c50b5][^c-af2bb86891d8dab39e67c11223417af0]
 

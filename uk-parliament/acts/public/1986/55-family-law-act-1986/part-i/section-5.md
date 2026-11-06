@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2022-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5. Power of court to refuse application or stay proceedings.
 

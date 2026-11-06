@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 103. Biodiversity reports[^c-6544e8cc14e435d0938ea5ca660d9b52][^c-14f05e28e0516dda0a94558ee6537f15]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-06-28.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 10. Power of appropriate agency to construct and alter fish passes.[^c-710cd9e31fa6d39e528f1e4366635655]
 

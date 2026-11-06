@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 62. Application of certain provisions of Part XII of Public Health Act 1936 and corresponding Scottish legislation.
 

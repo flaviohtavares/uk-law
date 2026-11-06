@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 77. Protection against dismissal for taking industrial action[^c-4840dd3a3c8e89a267eb89e94bf40900][^c-8595f5e3628cc42fd0d213a62ea5a4b4]
 

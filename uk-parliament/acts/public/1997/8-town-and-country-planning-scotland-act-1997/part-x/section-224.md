@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 224. Extinguishment of rights of statutory undertakers: preliminary notices.[^c-e3192e4b1c330d2668376c28173bd768][^c-00a870b3b0580e90d4cf8e2611015073][^c-8bcf0c8ac535f4dbd1284dfccb7b59ec][^c-37afaf9f9a5cc90fcf9378ddd1634b4c][^c-ee952069491a91ce2e8d4bb1544da1da][^c-338a5ae08f6cf29315facccef90d9c1d][^c-c199f05c0cc52a2ff22e443bf51dcad7][^c-d96814a67b185e1ef639e471cca386eb][^c-425de22e22af59b0621678146e28b587][^c-c5fc8479d7b4ddaf5f3fbc20757b524c][^c-49d39b196aa7a8cef119d6f914dbb791]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 70. Disqualification orders: appeals[^c-9aaf2f533ae5252b5a255abdaeb3e732][^c-394b755c6800b4e7ec03675a8784f469]
 

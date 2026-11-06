@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 97. Power to amend licence conditions: electricity[^c-2d92a0a38917eed1b2e46898e643097f]
 

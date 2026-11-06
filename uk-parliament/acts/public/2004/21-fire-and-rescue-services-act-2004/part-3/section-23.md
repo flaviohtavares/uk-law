@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 23. Intervention protocol[^c-a8a378f2c283a77783f65cb53a9bc29b][^c-37e5c4175a465882e4ab5d8c76dc5167]
 

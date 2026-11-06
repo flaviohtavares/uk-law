@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 4A. Power to provide for police and crime commissioner to be fire and rescue authority[^c-29847e52b0ee8ea06452df6bba33b2b0][^c-6718883ca6378e1b17c63b853d3e5b61][^c-f242ecf8df68d855c0253d02f46787b1][^c-3b23a37ed4b6ea7952afda0ddcbda688][^c-f455a5ec8458ad32a969552ec2e67dd3]
 

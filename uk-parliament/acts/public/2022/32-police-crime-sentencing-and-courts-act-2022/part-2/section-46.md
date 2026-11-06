@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. Arranging or facilitating commission of a child sex offence[^c-0619fd1a057599bee11968bf2385760a][^c-9290b7309c873d043691bffea6636b7a]
 

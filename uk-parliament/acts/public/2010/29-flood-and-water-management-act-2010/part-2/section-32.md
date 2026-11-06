@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-12-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/29
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 32. Sustainable drainage[^c-0d1c8502fd8f88ae803ea527c83e984c][^c-443d6337a7eee28d5fafa18f13a63629]
 

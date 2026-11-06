@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 61. Offences to which this Chapter applies[^c-97d52810eb62ac325f22e76ec0bdebc5][^c-d7c8e0206b0949691e7575f42410155b][^c-a8faaf61725f45aa0284914e8dc2ea99]
 

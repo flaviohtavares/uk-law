@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 24. Conformity with regional strategy (affected by repeal, see note)[^c-2fb652a200f478b03f0a9c76fc1846d2][^c-4161c52a23358d1e342948e1fe5f947b][^c-3d14b2ed5298c08d6607ea94f16014b6][^c-46ddb1987cc9d82ea3d1e5c918ac9618][^c-07706908100c93b746c4c61d6baa3458][^c-66b206efe3e504a200801217f5a84a3a][^c-66b206efe3e504a200801217f5a84a3a]
 

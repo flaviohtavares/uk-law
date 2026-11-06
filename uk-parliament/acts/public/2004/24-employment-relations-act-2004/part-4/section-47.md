@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-04-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/24
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 47. Enforcement officers for agricultural wages legislation[^c-964d15e7fe5568671f0052bcc26a34b0][^c-6882781773bdac715c0952ba0daefd28]
 

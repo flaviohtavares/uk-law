@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/29
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 125. Jurisdiction of the ombudsman scheme[^c-4872f61c2361d25dac0c973979d7f9e9][^c-8ae4a918e738e2f8e848172c4f73c013]
 

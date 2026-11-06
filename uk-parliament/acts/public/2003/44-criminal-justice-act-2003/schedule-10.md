@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 10 — Revocation or amendment of custody plus orders and amendment of intermittent custody orders[^c-a3711348b679f3c4787d96bc8d22ff00]
 

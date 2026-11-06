@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (110).** Text as at 2022-03-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 41C. Power to treat liability as satisfied[^M_C_150e7a88-e84e-4d20-d9dd-9d0be6d47445][^c-bb2300fc95c014f694f640db8a2df887]
 

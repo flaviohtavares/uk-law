@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 85. Supplementary provisions with respect to agreements[^c-bb0a424042b1ce30153001e2b975b257]
 

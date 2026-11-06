@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 184. Repeals[^c-4d17cb04f03ffcc4ff8e6cecf8266822][^c-0fdf38fea59b5435a57bc975be71db56][^c-861fd95f67f8e574e32486ee0f6c1f29][^c-026d1170e16cbae31d4666d9d4ca88f1][^c-4b019fec72bef0aad84f19ee3727a5d0][^c-a51d5f7eb44fae5d43f297442c10d365][^c-76214228bfcceefb76ac9efba2c16ecb][^c-5b3603e924a9a14a160872afc3e05f80][^c-e43799b371107575595e6c2da06904aa][^c-e250d60e285cce4686bf52b8d075ef78][^c-99b20e1e2491ceae5b3b30bcdda64417][^c-259adc02f239c0cead3c28538f095603][^c-854ee28c0877f31b8f61635db40502c8][^c-967054b76e810c9a4f832c94a019ab64][^c-fc6fa8c00dc5e9b603442110e8484d32][^c-8ef22df33cdbfc1c32bd643af0e27481][^c-d2064df470a36e1f4d3d07033b2a3cfd][^c-b0cfb94bbcfdccf5eb5af1bd57d55a0e][^c-7a345ee12e0b01afb61651dfad544403][^c17507901]
 

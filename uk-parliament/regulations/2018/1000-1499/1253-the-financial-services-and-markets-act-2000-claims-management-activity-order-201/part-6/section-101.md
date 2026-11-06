@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 101. Legal Services Act 2007 (Disclosure of Restricted Information) Order 2011[^c-49b888b6e2cd5233ee02dc5e4f128180][^c-631cebe7f8e70dca8ab30b9bd37bed72]
 

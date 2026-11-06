@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 95. Apprenticeship offer requirements[^c-89f99a74fc0011218d87d31333fbb9a4]
 

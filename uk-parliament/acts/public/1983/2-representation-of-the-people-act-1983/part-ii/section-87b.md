@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (71).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 87B. Scottish local government elections: duty of appropriate officer to forward returns and declarations to Electoral Commission[^c-a2ac07a433b1ce03b18249f849ee41e0][^c14479931]
 

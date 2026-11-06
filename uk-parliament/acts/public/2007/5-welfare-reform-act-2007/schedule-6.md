@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 6 — Schedule to be inserted in the Pneumoconiosis etc. (Workers' Compensation) Act 1979[^c-1151e34c8c17683e2fc190ceb7f69ee1][^c-64a2af1ff6440148d65e92c92f5e9483]
 

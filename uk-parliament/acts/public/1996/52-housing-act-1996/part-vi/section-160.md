@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 160. Cases where provisions about allocation do not apply.[^c13152591][^c-1c16b90062783699ffeb286f67deb3cd][^c-ca0bca967355ea196f92e5f5dfe138f1][^c-ca0bca967355ea196f92e5f5dfe138f1]
 

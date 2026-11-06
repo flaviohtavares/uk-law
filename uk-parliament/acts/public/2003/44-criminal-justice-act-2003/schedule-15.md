@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 15 — Specified offences for purposes of sections 244ZA and 325[^c-2d20ebe9d759d6c6ec1aee17ba635d0c][^c-2a1e70d9baddf8c10ff9a2d4192e583d]
 

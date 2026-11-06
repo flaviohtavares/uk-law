@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 331B. Power to alter sums specified in s.331A[^c-7bf507ca6cef725c401c11d008dae025]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 71. Power to extend 2010 Act to other products[^c-955f19dc4bd7dfa2c017769396fa4963][^c-8c0d954ceb15c7fa707d5a29681fee66]
 

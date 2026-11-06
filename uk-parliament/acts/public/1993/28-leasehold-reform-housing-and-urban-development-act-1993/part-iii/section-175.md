@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (453).** Text as at 2025-05-19. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 175. Power to appoint Agency as agent.[^c-a90d26abe3545b7cdb74fdb924afbfbb]
 

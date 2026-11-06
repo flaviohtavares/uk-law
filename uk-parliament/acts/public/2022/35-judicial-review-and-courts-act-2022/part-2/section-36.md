@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 36. Saving for existing procedural provisions[^c-24c1a17da32e0a12405a66ea78dbc765][^c-a429b1b3f700fa8b4b832491c454cc82]
 

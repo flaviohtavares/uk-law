@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/anaw/2016/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 85. Qualifications gained outside Wales – social workers[^c-bd914c1eb6bfca4c5e5cbe8e6944e2b9][^M_F_23cca0eb-50ce-4c06-ccab-a483e29d6ae9]
 

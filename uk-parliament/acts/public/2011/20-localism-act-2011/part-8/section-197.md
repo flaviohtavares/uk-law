@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 197. Designation of Mayoral development areas[^c2116544][^c-3375e98e1835a6eefd480721b74ed6ec][^c-ad269f505c73b3bacf8db4bcf56209be][^c-77ff67238a15df8cb0fd44f41c1af44e][^c-eada4f88f4769f792731d2fc31c590a2][^c-250b381cc6b3a829195738e959b9cac8][^c-3375e98e1835a6eefd480721b74ed6ec]
 

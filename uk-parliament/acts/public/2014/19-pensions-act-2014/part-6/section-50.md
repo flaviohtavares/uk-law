@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 50. Pension Protection Fund: increased compensation cap for long service[^c-f35a1ce50361e0d3015290c181029f86][^c-db7d59fe6bab50c14b0457c0a066b9c2]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 171. Limits on indebtedness[^c-87c7f631726f4149d692ee8646716c13][^c-0a91d9808f27ec7020140f7733eb94a7]
 

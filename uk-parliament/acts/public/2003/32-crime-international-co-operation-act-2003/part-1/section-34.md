@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 34. Offences[^c-7aa2558b8d9a9087d05c17bd8a65490d]
 

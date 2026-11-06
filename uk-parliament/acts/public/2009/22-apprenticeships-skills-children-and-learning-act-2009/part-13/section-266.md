@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 266. Repeals and revocations[^c-15261c47ad1e3f47e0b6e6e421a7ea98][^c-7f8f337e05f88396a87866417bc2b2d0][^c-d09967d2ec1a65921d1da55a8f5a6f61][^c-10ba4dad1e4aa8dd4eaece7489e4b2e3][^c-27efa80c52381dbe06ff4761df340baa]
 

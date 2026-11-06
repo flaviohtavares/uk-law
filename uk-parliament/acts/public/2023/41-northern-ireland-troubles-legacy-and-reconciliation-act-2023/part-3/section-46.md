@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-05-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 46. Interim custody orders: validity[^c-da89c695b5bd521a821641ebcf0db8dc]
 

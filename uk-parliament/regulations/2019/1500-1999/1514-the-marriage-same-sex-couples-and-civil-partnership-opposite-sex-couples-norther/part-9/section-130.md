@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 130. Housing on Farms Act (Northern Ireland) 1972[^c-73105e2b8684d59b67b03dcc64a658e9]
 

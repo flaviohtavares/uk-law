@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 66. Transfers on dissolution of NHS foundation trusts[^c-cc092c3cd2fb4fe5b4238e168aea094c][^c-96f7c4a8906ce7b8d48b8db007537860]
 

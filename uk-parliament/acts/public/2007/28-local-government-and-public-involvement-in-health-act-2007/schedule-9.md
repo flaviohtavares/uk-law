@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 9 — Consequential amendments relating to change of name of the Audit Commission[^c-84b0bd64fde5706790f23fc1c22797a6]
 

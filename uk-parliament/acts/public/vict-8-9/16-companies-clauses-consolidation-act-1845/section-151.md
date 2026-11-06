@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-03-25.
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 151. Distress not unlawful for want of form.[^c5582201]
 

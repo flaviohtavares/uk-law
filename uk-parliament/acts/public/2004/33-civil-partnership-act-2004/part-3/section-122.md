@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (29).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/33
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 122. Registration of dissolutions and declarators of nullity of civil partnerships[^c20568741][^c-9f1b123954625cf2f1d0cf1ffaa2c6a6]
 

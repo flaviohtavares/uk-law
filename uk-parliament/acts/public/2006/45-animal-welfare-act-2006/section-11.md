@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 11. Transfer of animals by way of sale or prize to persons under 16[^c-d0bc8f0facf5e45394986796345ac1dd][^c-04c694cc6c0b8e0790b9675507e54ca9]
 

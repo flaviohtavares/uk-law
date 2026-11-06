@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 54. Nuclear decommissioning: regulations and guidance[^c-d2b7ede086216b9890532df578e9a647]
 

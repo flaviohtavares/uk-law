@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-12-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/29
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 6. Other definitions[^c-e05b500d3e0e3bac259304efd2a9a014][^c-1d596b6801a2648318f005a20e144269]
 

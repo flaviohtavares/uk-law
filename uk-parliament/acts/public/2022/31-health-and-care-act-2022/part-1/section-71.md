@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 71. Joint working and delegation arrangements[^c-a72d72bf7dc9780d83a247cf31df929a][^c-d3101bec6b2b836c02b0d8e0fbb4b430]
 

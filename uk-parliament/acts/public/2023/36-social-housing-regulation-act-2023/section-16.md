@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16. Conversion of company into registered society: continuation of registration[^c-3a34227eb9b59a58f9de5b9c8a10f77e][^c-87a7e32c04e97762743976007a1e184d]
 

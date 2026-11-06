@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2214
 >
-> Extent: England, Wales.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 42. Mechanical ventilation air flow rate testing[^M_E_3383d08d-fe93-4c8f-fae7-1382545c547d][^c-f8e5d05ae781c4b3fb2046f9ed9cb90d][^c-fdc49e205be622c941570dcccdd4e081]
 

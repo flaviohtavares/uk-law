@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Meaning of “personal records”.[^c-ce606a7a01cc374e7dcc318de940c5dc][^c-3e00222a66e1fab6c03e732172720125][^c-e27fd0f7044ccbae1c2a8f2f1ca3f939]
 

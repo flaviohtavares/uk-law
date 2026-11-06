@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-29.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 194. Strategic litigation against public participation: requirement to make rules of court[^c-995c028fc3c6de72ccfe7653f7ce52fa][^c-cdb992228dc6b1a981fe6a6208856624]
 

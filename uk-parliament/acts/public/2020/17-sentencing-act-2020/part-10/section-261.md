@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 261. Detention in pursuance of extended sentence[^c-a4882f010de270eed2886d8080693ebf][^c-6fa9984c14696b47d261bb3dcbf04639]
 

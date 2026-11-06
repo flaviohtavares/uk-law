@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 313. Minimum sentence of 7 years for third class A drug trafficking offence[^c-23f47bb244285542b79c5cbe19e731b3][^c-fdb4631f20de0e48cc5dcb853bf200e7][^c-eb219fc055629d6456ea19677bb42ae4]
 

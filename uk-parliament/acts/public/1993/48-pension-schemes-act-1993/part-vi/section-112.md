@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (105).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 112. Restrictions on investment of scheme’s resources in employer-related assets.[^c-b03a966ca11eb9d26b2fe32fbe6478e3][^c-36c0be76be1b6fd5cec0810cc40b7b90]
 

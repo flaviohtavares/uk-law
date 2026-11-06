@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2017/737
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 16. Duty to take action in respect of product placed on the market which is considered not to be in conformity[^c-9df8ed70169337db40cbdbfa0f52c3d8][^M_E_98b34add-8378-4080-c165-692d9ad9e9b8]
 

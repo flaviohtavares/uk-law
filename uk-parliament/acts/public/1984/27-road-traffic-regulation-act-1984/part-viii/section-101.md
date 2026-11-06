@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/27
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 101. Ultimate disposal of vehicles abandoned and removeable under this Act.[^c19154541][^c13561931][^c18773051][^c18773511][^c-39201a7e717d4a5c868bfe0c03f6a375]
 

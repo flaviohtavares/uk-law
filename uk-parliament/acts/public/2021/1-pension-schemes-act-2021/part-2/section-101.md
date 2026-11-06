@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 101. Index of defined expressions[^c24493601][^c-769eacd83bedc82a02051228fc00d536]
 

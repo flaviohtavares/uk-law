@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-05-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 89. Procedural and administrative matters[^c-9aeef6ba72795a3536f2deba26cd2d11][^c-f334868924f8d17c1f22ad3a75535e07]
 

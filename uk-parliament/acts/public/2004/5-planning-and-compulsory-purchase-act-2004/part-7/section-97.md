@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 97. Old mining permissions: Scotland[^c-b215d34cb3ec8fc8cac5ef1c7b82fd15]
 

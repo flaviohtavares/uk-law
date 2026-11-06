@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1105
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 71. Enforcement action in respect of pressure equipment or assemblies which are not in conformity and which present a risk[^M_E_bcb86769-7b51-4726-914f-af17d9ba5d7f]
 

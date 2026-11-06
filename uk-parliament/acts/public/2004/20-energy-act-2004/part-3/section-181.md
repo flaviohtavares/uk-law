@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-09-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 181. Prepayment meters[^c-d9c7e2e0f30e0ebef947bf3c9e465673][^c-e3fbf9874d0e06ac672993772902d700]
 

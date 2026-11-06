@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (13).** Text as at 2026-02-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 47. Compensation in respect of planning decisions relating to spaceport safety etc: England and Wales and Scotland
 

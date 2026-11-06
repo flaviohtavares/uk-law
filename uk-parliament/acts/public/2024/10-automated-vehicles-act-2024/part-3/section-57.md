@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 57. Application of stopping powers etc[^c-818e57be8037ea4eb5ad4c9afa8e92ad]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1597
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 16. Designation and monitoring of UK notified bodies[^c-5c2c8b6f0b12658b6f84b0fd68b389e5][^M_E_d3c0960b-2117-4eea-f03e-dec3851d642a]
 

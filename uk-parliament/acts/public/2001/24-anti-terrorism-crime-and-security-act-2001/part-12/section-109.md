@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-04-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2001/24
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 109. Bribery and corruption committed outside the UK[^c-9f48f4d644d4bd8d5baeaf085f0fa163]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 27. Supplemental matters in connection with articles 25 and 26[^c-44845bc8703bf4e52045263f17d0cd1c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/42
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 14A. Compulsory acquisition: notice requirements[^c-1668b899735dbfa4d9e8b31d3d048232]
 

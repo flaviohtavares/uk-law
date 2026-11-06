@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 169ZA. Application of rules about notification of constitutional changes[^c-38298dff44880face4089e15cc6d3ddc][^c-2860e877450d39a905f3f6c5ffa5edd2]
 

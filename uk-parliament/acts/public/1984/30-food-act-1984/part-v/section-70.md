@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-18.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 70. Provision of cold storage.[^M_F_625bc3b1-7976-4625-a6f8-f68e3421c662]
 

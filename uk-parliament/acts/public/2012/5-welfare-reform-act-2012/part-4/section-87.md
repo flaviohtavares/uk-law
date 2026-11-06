@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 87. Prisoners and detainees[^c-2d75791c6ff6a4518af8f656bd422e77][^c-ee52b50085a5766f24ba2f767be4ee34][^c-70e7a397735d1b374550359ed79e88b2][^c-bbe0742860e273d1ba5f4b8553e94189]
 

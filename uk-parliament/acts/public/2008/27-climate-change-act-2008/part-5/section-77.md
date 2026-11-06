@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2023-12-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 77. Charges for single use carrier bags (Extent: N.I.) (affected by repeal, see note)carrier bags (Extent: N.I.)[^c-2c34b23b8118b1e8a2763ba07943ad2e]
 

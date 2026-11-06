@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 7. Powers to dispense with need for consent[^c-868fab059ec53c3b22552fb422d946ed][^c-db5cc8a1aa2b0e2e9f32518e54adf5a8]
 

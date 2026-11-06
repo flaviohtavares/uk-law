@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 3 — CONSEQUENTIAL MODIFICATIONS TO ENACTMENTS ETC. AS A RESULT OF CONTRARY PROVISION MADE BY SCHEDULE 2
 

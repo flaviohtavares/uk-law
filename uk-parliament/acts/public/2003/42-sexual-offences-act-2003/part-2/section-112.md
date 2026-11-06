@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (154).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland, Northern Ireland.
 
 ## 112 (Extent: E+W) (affected by repeal, see note). Sections 104 and 106 to 109: Scotland (Extent: E+W) (affected by repeal, see note)[^c-bf9b6031bb71e65ee6b4a32631a956bf][^c-8216d299001d1851e1b7db26cb0e3690][^c-8216d299001d1851e1b7db26cb0e3690]
 

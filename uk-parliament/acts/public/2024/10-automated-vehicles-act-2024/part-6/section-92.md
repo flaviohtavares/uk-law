@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 92. Application of roadside testing powers etc[^c-f85bc38ff3997163a16ecf7ac783c7d0]
 

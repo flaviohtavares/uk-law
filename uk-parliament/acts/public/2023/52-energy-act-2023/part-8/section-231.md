@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 231. Requests for information in connection with section 229 or 230[^c-d08af457c8d1e473be08036c605b84cf]
 

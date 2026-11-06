@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 45. Orders for production of documents: England and Wales and Northern Ireland[^c-1ad5c53a81f56c7aa2efa911cda9e2b4]
 

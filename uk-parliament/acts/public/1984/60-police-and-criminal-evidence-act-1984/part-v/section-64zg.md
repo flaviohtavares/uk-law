@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## (not yet in force: 64ZG). (not yet in force: Destruction of data relating to persons aged 16 or 17 not convicted: qualifying offences)[^c20929631]
 

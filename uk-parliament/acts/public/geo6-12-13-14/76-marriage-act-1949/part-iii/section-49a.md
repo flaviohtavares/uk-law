@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 49A. Void marriages: additional provision about same sex couples[^c-e1fec7626ff0827f4563765ad327283f]
 

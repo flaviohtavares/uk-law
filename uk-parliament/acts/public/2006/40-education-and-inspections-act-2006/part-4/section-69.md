@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 69. Power of Secretary of State to provide for governing body to consist of interim executive members[^c-c233ca5aadcfddcbbd233004a0e203a2][^c-9d5054656a7a811a617f49bbf1849e39]
 

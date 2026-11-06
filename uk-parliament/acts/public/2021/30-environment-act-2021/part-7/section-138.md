@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 138. Index of defined terms in Part 7[^c-82ef14292691e6c6cce4513f12144c44][^c-f5c2a920539eb6c90292c16a9ce490ca]
 

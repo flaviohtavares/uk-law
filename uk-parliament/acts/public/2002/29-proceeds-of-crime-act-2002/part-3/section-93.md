@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 93. Recoverable amount[^c-5d418a992fa1475e7b953125cc9ffbdb][^c-d59f6c2a9c42161ca1815c0c61d9e1f6][^c-d59f6c2a9c42161ca1815c0c61d9e1f6]
 

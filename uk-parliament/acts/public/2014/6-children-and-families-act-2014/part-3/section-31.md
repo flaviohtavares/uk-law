@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31. Co-operating in specific cases: local authority functions[^c-e55a59b54d21b0cd4a291360f942c582][^c-21b1eef2cefb424e3c5325b23de4c9f6]
 

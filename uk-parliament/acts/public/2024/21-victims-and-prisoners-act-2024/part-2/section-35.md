@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-09-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 35. Appointment of standing advocate[^c-a047f919f4dbcdf2534aa4ccea4c7a72][^c-17d1d8c2746c8c1d9a3b8bf60a362c94]
 

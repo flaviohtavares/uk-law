@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 173. General dental services: transitional[^c552141][^c-55e63a3a3de4b74cab3a0bab54804ef5][^c-341dea6567d56e391a5c44c922b5faf2]
 

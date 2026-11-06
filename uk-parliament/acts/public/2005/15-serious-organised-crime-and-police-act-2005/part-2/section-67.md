@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 67. Offences in connection with disclosure notices or search warrants[^c-481ec6fcd99b5e34221785d4047fa489][^c-d5f5c94b6d0b10202ae68c01f8d668a2][^c-a8faaf61725f45aa0284914e8dc2ea99]
 

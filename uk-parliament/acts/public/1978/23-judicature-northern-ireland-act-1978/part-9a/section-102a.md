@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 102A. Enabling the public to see and hear proceedings[^c-44bf9ef9a8c45dcc970b118aca12e7be]
 

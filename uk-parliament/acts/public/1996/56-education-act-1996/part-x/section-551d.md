@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 551D. Guidance in connection with breakfast club provision[^c-2fccb74de381c1fee73b219f1013b4e7]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 69 (Extent: W) (affected by repeal, see note). Variation and revocation of orders under Part IV, etc.[^c15091391][^c-c6b4233beee2b0fe04e07ee444d4dded]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Bus strategies no longer required[^c-47a679c7b335846fc49eba4de64d7870][^c-5346a2abd3031ee1a05a6789cf5ae7e5]
 

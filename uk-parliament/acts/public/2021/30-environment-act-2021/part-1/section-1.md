@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. Environmental targets[^c-55afd5a4177b0879dd15c39344beb22f][^c-f261d9a7cdd65cd733fe5a8b83aef4eb]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21. Commissioning hospital and other health services[^c-30259060e558980db5e7ab3ecfba83ec][^c-9695aeb2bba73caf563ebb09768a1a83]
 

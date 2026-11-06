@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 246. Admonition and absolute discharge.[^c-e0d09b53360887390012fbf3013c2a04][^c-020189589f75f07e8c8600a68af7b55a]
 

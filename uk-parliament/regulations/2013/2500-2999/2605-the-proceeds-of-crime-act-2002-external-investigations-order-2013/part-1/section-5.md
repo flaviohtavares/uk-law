@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-04-26.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 5. Offences of prejudicing external investigation[^c-852f5d4b9c2fa872727fed68bf3ee84c]
 

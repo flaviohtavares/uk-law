@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Duties when carrying out functions[^c-8b778667ba402118c0c23fc1b17a411c][^c-a92c423e16f2a91b79babc9f7fe7a446]
 

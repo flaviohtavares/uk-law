@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8. Permitted leases: certification by the appropriate tribunal[^c-90b3db8dbec10d0cbbfc632fb685415e]
 

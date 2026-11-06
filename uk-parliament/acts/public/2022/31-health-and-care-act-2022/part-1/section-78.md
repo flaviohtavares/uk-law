@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 78. Regulations as to patient choice[^c-f0d0460f61b6a4b5995d31958b6aca91][^c-19ffc9b44911fa90e458baacfb56871f]
 

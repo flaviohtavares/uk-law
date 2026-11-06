@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-06-28.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 38. Works below high water mark.[^c10050351][^c-337ad8ea5e20197760e229ec495bec25]
 

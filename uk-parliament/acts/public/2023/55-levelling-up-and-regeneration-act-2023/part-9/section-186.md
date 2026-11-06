@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 186. Agreement to vary vesting date[^c-8e8395ceb8e8b41099a7335c5b916bb6][^c-18d476ba3ce80aa77d5d8e96047b3a74]
 

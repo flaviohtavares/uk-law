@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-09-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 68. Extension of home detention curfew[^c-7f4f49d4af957747a1604a484c0a73cf][^c-f7b2af6f8035350585a86ad56937caed]
 

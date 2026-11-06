@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 73. Computation of time and timing of elections etc[^c-0f5edfb8dd5ca2a8118c5b94fbd915db][^c-549b8ed23f32aed0da470fe6c1cf71de]
 

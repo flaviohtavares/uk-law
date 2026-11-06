@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 123. Benefit of obligation of responsible body[^c-5cb93df4a4b2a9e0f37d691e7367f677][^c-b70a526d7a7f94dbf4a6d3ada131d278]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-09-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63. Licence conditions of life prisoners released following referral[^c-0b9d4c6a28c610c39f0e21948b3e383d][^c-188d0295c86e6d86037ca5eea3eb0c66]
 

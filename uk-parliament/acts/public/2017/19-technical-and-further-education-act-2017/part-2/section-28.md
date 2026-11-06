@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28. Indemnities where education administration order is made[^c-42e3c36686c00b30b8d31bf9667fc165]
 

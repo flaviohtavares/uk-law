@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 256E. Drug appointment requirements[^M_C_cfa2f360-d0ae-4760-e5ac-2a2fa206e12e][^M_C_c0e5c6e4-865e-416d-a7ee-96e08b33e073][^M_C_7fdfda18-091e-4960-bb83-d785260f27f6][^c-3d31e8d07da2e5686af794e69693652f][^c-ad9c2bc53516bdc69645a8f71e932e46][^c-155c0f69a8116c840c0366b45e57112f][^c-94eba56ac281d6526e0c1cca7aecec17][^c-ad9c2bc53516bdc69645a8f71e932e46][^c-155c0f69a8116c840c0366b45e57112f]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 35. Enforcement as fines[^c-94a1ab6887ba58bbb55ea4f191fc9aca][^c-a3889e161e736d1b5e0be99edde6119b][^c-bc59da76f74a5e9debfbda22fd326c18][^c-e1db80cd70d9051377771a99885220f8][^c-3d7ba393ae21e97ddae20aa0045f32a9][^c-cdc38fc7a7f8860afeb2cd1c2587b49c][^c-a3889e161e736d1b5e0be99edde6119b][^c-bc59da76f74a5e9debfbda22fd326c18][^c-3d7ba393ae21e97ddae20aa0045f32a9][^c-cdc38fc7a7f8860afeb2cd1c2587b49c][^c-998b83a9b870107c4acf082045827fc3]
 

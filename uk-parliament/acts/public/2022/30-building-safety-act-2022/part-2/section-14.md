@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14. FSO authorised persons: assistance etc to regulator[^c-119ebad0b41ed95677bcc0ab618b562a][^c-1c78fc3f1929b7daf7d9336e276cd3e2]
 

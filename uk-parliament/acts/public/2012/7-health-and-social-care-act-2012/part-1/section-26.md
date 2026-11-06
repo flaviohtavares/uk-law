@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 26. Clinical commissioning groups: general duties etc.[^c-cbbe8c3a9671031e7cc36c2e99ea4760][^c-fb8936321508dc7a0be121c1ad5a8653][^c-88df713c947df234cd9470ed1f8c1b89][^c2191281]
 

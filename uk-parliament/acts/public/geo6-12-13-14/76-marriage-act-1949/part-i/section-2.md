@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Marriages of persons under eighteen.[^c-1c3bdce29a0294ce6be59ccbfa55d834]
 

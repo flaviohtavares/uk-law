@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. Amendments to the Crime and Disorder Act 1998[^c-1fae9ddd18798000cfb57719bd934a5b][^c-5490b17cf2bb7baa4c03ca0086e3484e][^c-5a3f0bf1591370558386ac356a7d8d74]
 

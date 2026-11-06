@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 12 — Meetings and Proceedings of Local Authorities[^c19920831][^c15130971][^c15130981][^c15130991][^c-23381f9a05e26a001c7952a5999f8093][^c-9c01c55df22fcb4fcf7edf1c77c24111][^c-ddf8c794207d8e16cd060dc92339564e][^c-ba5bd8062a62fe2a9ad532c3f777420e][^M_C_eafa945b-6232-4b05-e97c-7df96a1ad8ae][^c-57069a77a60cbafe91d8dda7c787086f]
 

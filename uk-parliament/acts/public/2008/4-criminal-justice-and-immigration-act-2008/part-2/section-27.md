@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27. Application of section 35(1) of Criminal Justice Act 1991 to prisoners liable to removal from the UK[^c-9fe32b5b5201f24c369782a237b3cd56]
 

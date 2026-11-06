@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 73. Duty to keep premises fit for number of occupants.[^c-21363e12850c5046b3cfecb746d4564c]
 

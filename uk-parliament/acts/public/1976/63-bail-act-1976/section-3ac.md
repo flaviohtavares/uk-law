@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1976/63
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 3AC. Electronic monitoring: general provisions[^c-51a1d35c6b6de3907724ed922704332f][^c-92976a6884970fd9d1fb831c71e66122]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 160. Development without development consent[^c19535501][^c-7001c53bde05ff16861fb2e3fe597ac0][^c-7c352d36a2b2da77ef429b5e410cb5b7]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 33. Restriction on transplants involving a live donor[^c-e567369abd72b60a8aece91973dfee79][^c-a6c5e13a61fd591c61af2b97e901c7dd]
 

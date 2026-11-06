@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 38. Provisions about imprisonment or detention[^c-ed036ea88b50b1fbb585f1d1f2a3b049][^c-a3889e161e736d1b5e0be99edde6119b][^c-bc59da76f74a5e9debfbda22fd326c18][^c-225d6e01973da207276eef544433c335][^c-3d7ba393ae21e97ddae20aa0045f32a9][^c-cdc38fc7a7f8860afeb2cd1c2587b49c][^c-a3889e161e736d1b5e0be99edde6119b][^c-bc59da76f74a5e9debfbda22fd326c18][^c-3d7ba393ae21e97ddae20aa0045f32a9][^c-cdc38fc7a7f8860afeb2cd1c2587b49c]
 

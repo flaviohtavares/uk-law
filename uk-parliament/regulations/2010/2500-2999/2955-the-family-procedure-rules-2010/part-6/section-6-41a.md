@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2955
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6.41A. Time for serving an application for a matrimonial or civil partnership order out of the jurisdiction[^c-73bf3d58f659c17b7542c87b42c0c411]
 

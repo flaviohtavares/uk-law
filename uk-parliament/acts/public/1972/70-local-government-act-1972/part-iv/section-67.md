@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 67 (Extent: W) (affected by repeal, see note). Consequential and transitional arrangements relating to Part IV.[^c-e4a5cd0bc1848575c567a47272f04604]
 

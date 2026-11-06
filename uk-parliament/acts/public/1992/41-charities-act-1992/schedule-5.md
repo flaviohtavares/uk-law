@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 5 — AMENDMENTS OF REDUNDANT CHURCHES AND OTHER RELIGIOUS BUILDINGS ACT 1969[^c-c89b398c4d339c12eb7e247f4a4c2914]
 

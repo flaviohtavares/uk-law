@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 107. Procedure in relation to postal petition statements: personal identifier verification: England and Wales and Scotland[^c-191fbee288bea0aaa1556c4f6cb9f9fc]
 

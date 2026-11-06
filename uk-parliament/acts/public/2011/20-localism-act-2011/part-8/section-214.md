@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 214. Powers in relation to discretionary relief from non-domestic rates[^c-3375e98e1835a6eefd480721b74ed6ec][^c-3382a57fbdec688854f927d74920f708][^c-eada4f88f4769f792731d2fc31c590a2][^c-89fd41a7d85ec3d64eee9a501581c23a][^c-250b381cc6b3a829195738e959b9cac8][^c-3375e98e1835a6eefd480721b74ed6ec]
 

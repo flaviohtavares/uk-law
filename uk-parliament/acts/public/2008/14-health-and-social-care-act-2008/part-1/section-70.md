@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 70. Co-operation between the Commission and NHS England[^c-500ca4854eb2f6855450b253d0c94103][^c-88edba62c16ba09ca8adc33605ad1288]
 

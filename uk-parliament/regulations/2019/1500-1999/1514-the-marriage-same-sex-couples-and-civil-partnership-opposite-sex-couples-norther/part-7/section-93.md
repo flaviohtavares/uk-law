@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 93. Occupational Pension Schemes (Discharge of Liability) Regulations (Northern Ireland) 1997[^c-d5ccb7ffb4c9aacf79648142b85c3207]
 

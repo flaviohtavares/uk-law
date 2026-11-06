@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2024-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## SCHEDULE 3 — Registration: local elections in Northern Ireland
 

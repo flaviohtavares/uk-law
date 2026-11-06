@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 13. Reinforcement schemes[^c-0db9ccf1d781d8c980a90be05c70e45e][^c-0a04e554218f920774645449f762545f]
 

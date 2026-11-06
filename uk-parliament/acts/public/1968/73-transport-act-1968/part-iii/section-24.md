@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2024-05-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1968/73
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 24. Establishment and general duties of Bus Company and Scottish Group.[^M_F_d55301ca-b321-4fb8-9662-b8364f12bb8a][^c-38fbb6113cdd6c24b494220348c03532][^c15314511]
 

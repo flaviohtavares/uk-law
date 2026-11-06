@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. General qualifying conditions for grants for living and other costs[^c-cffd2a59a6d9484badaf029d5fc2160a]
 

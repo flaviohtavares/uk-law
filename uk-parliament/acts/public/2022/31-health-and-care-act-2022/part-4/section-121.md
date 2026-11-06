@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 121. Offences relating to investigations[^c-23ceadaf39aea644dfaded80389f0026][^c-02391e43bdd0675e62132dfbd373edaa]
 

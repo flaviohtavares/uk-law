@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-03-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 82. Public interest immunity[^c-11193d81cf5ee070c126a5f846d67305][^c-0f8e4b54b1a3746f94421f9f4eeb395c]
 

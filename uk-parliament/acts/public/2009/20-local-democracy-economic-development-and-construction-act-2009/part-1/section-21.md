@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21. Orders[^c-bbcf8ca1b7d2008ee1015b20b13e624d][^c-b2cec383d13ea332ca1705207bbfba56][^c-87b304cdbe20bf42ac4882949e925047]
 

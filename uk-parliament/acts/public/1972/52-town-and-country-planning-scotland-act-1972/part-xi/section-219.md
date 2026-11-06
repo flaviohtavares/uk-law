@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 219. Extinguishment of rights of way, and rights as to apparatus, of statutory undertakers.[^c14934391][^c14934401][^c14934411][^c14934421][^c14934431][^c14934441][^c14934451][^c14934461][^c14934381]
 

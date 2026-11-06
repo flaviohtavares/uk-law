@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 62. General power to investigate certain incidents[^c-defc08869ccdf4bd2774e4824a2fc899]
 

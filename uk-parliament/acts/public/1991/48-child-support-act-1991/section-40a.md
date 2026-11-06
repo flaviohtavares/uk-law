@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (110).** Text as at 2022-03-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 40A. Commitment to prison: Scotland.[^c-c779506ccb6ccf15fb4e7f23593d74aa][^c-4a5ab581afc356aabc80074e34f6f994][^c-6e5673ecb8b7d9314956f64da4c2f3af]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 262. Construction of sections 259 to 261A.[^c-97bd42eef03b8c6f615c1967375edf94][^c-feccb612f56e1eac3ab8ec3745568e71]
 

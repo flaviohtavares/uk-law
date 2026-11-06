@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-04-28.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6. Armed forces chapels[^c-0f86c199f10f3537611d5f67af9275c5][^c-1252196e87844e14ece07a0c8163fd08]
 

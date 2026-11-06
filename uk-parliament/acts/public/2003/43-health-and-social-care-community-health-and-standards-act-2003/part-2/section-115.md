@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 115. Complaints regulations: supplementary[^c552115][^c-4ff43f903d990c30bf483858b4a3ca34][^c-f9b7e4c4b5c8129b769d09e04edede69]
 

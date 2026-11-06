@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 396DA. Extension of period for making determination where interim freezing order has been made[^c-2d5f821ed6928d980466f69a5ed9be7e][^c-12fa3c3db09cc1fc5e8b6c9bc3499d12]
 

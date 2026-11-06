@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (45).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 2. The contribution-based conditions.[^c11296351][^c11296361][^c-7e50e9bdd87755f188c5dc9834d576de][^c-fca99ea302c278c1b1617a9ff2479e9b]
 

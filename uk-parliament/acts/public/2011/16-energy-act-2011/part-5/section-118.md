@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 118. Amendment and repeal of measures relating to home energy efficiency[^c-9ad961bf880818267578e8986c0df3ff]
 

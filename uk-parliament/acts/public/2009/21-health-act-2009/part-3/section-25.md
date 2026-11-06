@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 25. Pharmaceutical needs assessments[^M_I_87269a3a-e7ed-49de-8ed2-e5a2a418c302][^c-e5f778c4d9632c7807d42e27bc1bca41]
 

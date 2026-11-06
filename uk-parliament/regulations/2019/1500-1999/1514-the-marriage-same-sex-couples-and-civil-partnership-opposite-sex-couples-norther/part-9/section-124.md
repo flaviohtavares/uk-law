@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 124. Criminal Justice Act (Northern Ireland) 1945[^c-e0b382c9ecc2cdf838211791cd4e942c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 14. Expiry of powers conferred by sections 11 and 12
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 12. Conformity assessment procedure and drawing up of technical documentation[^M_E_507ae91c-1655-4517-b174-a276366a7530]
 

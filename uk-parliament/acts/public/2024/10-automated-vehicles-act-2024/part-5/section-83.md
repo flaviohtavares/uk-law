@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-05-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 83. Disapplication of taxi, private hire vehicle and bus legislation[^c-c11a754e4f8cb272cda1303a41e27588][^c-3b75efb1ec45abadd74411a9b28ab5fe]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 218. Acquisition of land of statutory undertakers.[^c14934341][^c14934351][^c14934361]
 

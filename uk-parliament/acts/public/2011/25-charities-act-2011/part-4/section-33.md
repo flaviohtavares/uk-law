@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Power to repeal provisions relating to excepted charities[^c-b3d11263c7517094c51fed742720ddec]
 

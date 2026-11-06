@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2015-03-06.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## 3. Revocation[^c-d597ddbd0edf425eaad52c7529908539]
 

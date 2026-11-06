@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 94. Procedure for decisions by the Secretary of State[^c-aa7b158f75f18999d50cff8eb471bc16][^c-10055670946d6469fa770d174d883ef6]
 

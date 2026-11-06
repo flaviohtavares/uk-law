@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 50. Sections 48 and 49: consequential amendments[^c-58293acb2520b8950b4cc95d5952f339][^c-f69fbbae55372ced8a35845b71d48191]
 

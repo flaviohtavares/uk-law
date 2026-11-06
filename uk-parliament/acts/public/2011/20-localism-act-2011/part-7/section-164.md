@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 164. Assured shorthold tenancies: notice requirements (affected by repeal, see note)[^c-15bf4e6528866440cd4b1597794f0bea][^c-2e14f6b8e52880c4b95e3932604e6985][^c-2e14f6b8e52880c4b95e3932604e6985]
 

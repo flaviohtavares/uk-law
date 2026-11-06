@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 84. Consideration of expression of interest: further provisions[^c-778cd1ee73a42d2fb8c1945f60930cf8][^c-e188daa4a883149d7448a4907ed50968][^c-c7389bad1e1d6699ffbc6c720fc2400c][^c-e188daa4a883149d7448a4907ed50968]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 81. Byelaws for the prevention of certain nuisances.[^c-d0640c1ec96ca57f579bf849297d023f][^c-9c3d61ad9747ecd1d27651025cee71db][^c-b57ed8f3b692c5bb92848b2f7e644423][^c-57545d88981984a1dd16da5c03b0efe4][^c-14d78d43b9d11cf1fb6b4c963525fb43][^c-46c1d8ad956b8f7fe640b529c101dca4][^c-2f4e231cdbd3ae325376be575cdbf8f9][^c611496]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 71. Exercise of Commission's concurrent jurisdiction: notice[^c-d10806cfebe20b6ce1fab58e5163b418]
 

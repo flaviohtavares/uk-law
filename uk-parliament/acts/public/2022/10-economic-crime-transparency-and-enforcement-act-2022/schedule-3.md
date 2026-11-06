@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 3 — Land ownership and transactions: England and Wales
 

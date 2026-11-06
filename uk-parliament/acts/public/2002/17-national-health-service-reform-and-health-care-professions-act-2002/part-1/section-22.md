@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2024-12-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. Abolition of Community Health Councils in England[^c836781][^c-8ea546ffbd6784b7243fad88c242c1a6]
 

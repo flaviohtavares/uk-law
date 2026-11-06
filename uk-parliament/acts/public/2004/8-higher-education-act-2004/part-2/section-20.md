@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 20. Exclusion of visitor’s jurisdiction in relation to student complaints[^c-cd24c0db60953adcdf62489505c3274d][^c-1d5139f5b59ee5ea2d991cca7c62a62c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32. Emergency remedial action[^c-34b8277992c2822cb171c85b1b4fd433][^c-398cd6d3b7f55bffb0bc824ed6e78e1b]
 

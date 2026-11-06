@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 24. Commissioning arrangements: conferral of discretions[^c-fedfb4ed26dcfd15bf97c6a0c9037c79][^c-a120bb73aa3ec00a1f3576997f634e5b]
 

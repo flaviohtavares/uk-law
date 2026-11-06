@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 13 — Consequential amendments relating to joint waste authorities[^c-8e882ee5e4fc62cdeb7642e814192458]
 

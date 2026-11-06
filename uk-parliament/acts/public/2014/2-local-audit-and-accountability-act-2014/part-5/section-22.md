@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (173).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. Auditors' right to documents and information[^c-1037b4ea80092d41ae3465d3834625e0][^c-507eabe4e4bdc409908ab00f6c19ca01]
 

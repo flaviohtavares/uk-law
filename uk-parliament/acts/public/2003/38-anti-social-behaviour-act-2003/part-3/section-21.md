@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 21. Parenting orders: supplemental[^M_I_f9ecc9f0-23ae-4a19-d543-08461f1de426][^M_I_89b3a18c-ca24-4c5e-d915-5540561279b8]
 

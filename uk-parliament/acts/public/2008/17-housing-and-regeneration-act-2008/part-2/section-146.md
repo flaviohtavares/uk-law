@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 146. Ending of moratorium[^c-39d191979f21c4f17c68d5ef8021d5fe][^c-6bce42b22b05350367b5b249725d8e2e]
 

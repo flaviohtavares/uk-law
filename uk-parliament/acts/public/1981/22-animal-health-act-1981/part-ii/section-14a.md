@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 14A. National contingency plan[^c-3e6615d2a4f9b01e0536227781a9fc2f][^c-44e88acb9c8c675302466dddfac9ad5c][^c-1834b99aa2b86640b657c7a481d218b4]
 

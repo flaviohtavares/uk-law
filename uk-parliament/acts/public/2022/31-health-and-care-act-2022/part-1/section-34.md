@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 34. Exercise by NHS England of new regulatory functions[^c-cc57237a3d4a89e4085feb3c31c13631][^c-a696bffc3866106cebbaf5fc3e452961]
 

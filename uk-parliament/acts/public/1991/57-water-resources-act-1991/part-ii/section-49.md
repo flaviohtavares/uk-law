@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 49. Succession to licences to abstract where person ceases to occupy the relevant land.[^c-7cfeee153fa528ea05cda24601fe41f0]
 

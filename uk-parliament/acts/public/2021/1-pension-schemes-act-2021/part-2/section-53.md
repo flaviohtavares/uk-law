@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 53. Qualifying benefits[^c24459321][^c-e29a760dd9d7d77923b723a48b38e0c9][^c-f68b62a417d4eea59565362eaf54cba5]
 

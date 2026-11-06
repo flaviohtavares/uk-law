@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2017-04-11.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 61. Purchase money and compensation how to be estimated.[^c5624521][^c5624531][^c5624541][^c-a1fdd3b2e8552695827fa31983ced41a][^c5624511]
 

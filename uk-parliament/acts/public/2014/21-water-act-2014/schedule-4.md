@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 4 — Sewerage undertakers' duties as regards sewerage licensees[^c-13e8c07921a0c93de9e3483a0e385071][^c-03751b469b632769496e2bbe1b0c350e][^c-d153f321169daabef89fcfcd5929838c][^c-e8c53fc5b539e7aa8eede56d831cb709][^c-0bb92b273516f288bf7c4ed9a2e44d70][^c-20855ee71ae09dd68a7edec3334f2252]
 

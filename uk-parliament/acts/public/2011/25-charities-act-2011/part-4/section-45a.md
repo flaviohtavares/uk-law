@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 45A. Power to delay registration following s. 42 direction[^c-db2b64f00609940615c3aff8bedddc85]
 

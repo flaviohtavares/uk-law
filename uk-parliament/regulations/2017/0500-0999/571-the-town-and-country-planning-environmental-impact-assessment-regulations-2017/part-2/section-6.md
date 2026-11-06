@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6. Requests for screening opinions of the relevant planning authority[^c-5dbf9195182a2f9a5e45ef2c603a9b01]
 

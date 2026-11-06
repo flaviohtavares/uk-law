@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 253. Sentence of detention passed on offender subject to detention and training order[^c-b4f155dbc640a374c84eacd9103a36a8][^c-88ddba786dc2305ca3cdcf351ff46646][^c-baf7d6f16f99e0c0300c5da3c17a0ada]
 

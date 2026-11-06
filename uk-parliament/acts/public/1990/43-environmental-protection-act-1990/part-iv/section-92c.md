@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 92C. Failure to comply with litter clearing notice[^c-1a727bef6409719faf8515daebcc9472]
 

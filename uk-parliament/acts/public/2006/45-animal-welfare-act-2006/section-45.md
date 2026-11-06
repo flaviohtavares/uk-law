@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 45. Orders for reimbursement of expenses: right of appeal for non-offenders[^c-65b29ca219457500a00cbae347ec4074][^c-687019f7d6d3543dc8e4f4546da8d951]
 

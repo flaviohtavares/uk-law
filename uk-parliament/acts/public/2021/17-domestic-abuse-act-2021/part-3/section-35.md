@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 35. Provision that may be made by orders[^c-41f17c0fca6dc0297fdd5081ba28dead][^c-8bd031773b364cae658c6931ca308e1e][^c-3a94e547150abcf5b0b7b58204417a23][^c-8b2129dd59b476e48821be351e31333f]
 

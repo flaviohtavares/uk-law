@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 64. Injuries arising before 5 July 1948[^c-e8d6c452b36f19cc0535c9176b15b369][^c-65247f91874939aad4ab06e535fad6d4]
 

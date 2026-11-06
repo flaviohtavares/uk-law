@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2A. Power to set standards for qualifying residential premises[^c-6177f7f86cf6614dbafc8a1f93c07cc7]
 

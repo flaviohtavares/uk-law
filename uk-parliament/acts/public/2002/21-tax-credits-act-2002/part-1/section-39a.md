@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2023-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 39A. Late appeals (affected by repeal, see note)[^c-6d2c87a647ef7b6376821835cf0c9358][^c-a2531265b08f7ca2190513c24c66a27e][^c-a2531265b08f7ca2190513c24c66a27e]
 

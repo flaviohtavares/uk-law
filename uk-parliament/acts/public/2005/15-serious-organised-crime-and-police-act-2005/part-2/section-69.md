@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 69. Manner in which disclosure notice may be given[^c-05fb2dd611f306edc090e0598b5660c2][^c-2b61d5efa17e13fc985dd1056260f2d2]
 

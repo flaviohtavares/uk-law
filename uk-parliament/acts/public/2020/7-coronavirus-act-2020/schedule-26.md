@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 26 — Live links in certain magistrates' court proceedings[^c-99999709bd02d9b81f00b1f1ab219307]
 

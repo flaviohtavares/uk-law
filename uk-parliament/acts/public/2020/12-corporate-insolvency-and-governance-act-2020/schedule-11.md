@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2022-02-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## SCHEDULE 11 — RESTRICTION ON WINDING-UP PETITIONS: NORTHERN IRELAND[^M_F_b49f92d0-9992-4160-d839-e51b6c67ecbd]
 

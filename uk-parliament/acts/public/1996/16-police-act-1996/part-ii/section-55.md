@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 55. Publication of reports.[^c-1f39cdb8cf14e3d85e5d6e3e8f8749e3][^c-7b2cca9c216f872d0ebfce74d98db39c][^c-096c89e8d7c34f0dca282bc8ef7abf11][^c-f31d60c748f499e5db57f914196da36f]
 

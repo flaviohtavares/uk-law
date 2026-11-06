@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 135. Declarations about obligations under conservation covenants[^c-67b0b88d92d6a7b6e45acb2107247428][^c-6c66e7139ceea8d89903095b7d668fed]
 

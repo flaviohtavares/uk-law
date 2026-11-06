@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 56. Co-ordination of exercise of functions by CAA and Director General of Fair Trading.[^c-a836c105d67279cf22cc8595878ae2a3]
 

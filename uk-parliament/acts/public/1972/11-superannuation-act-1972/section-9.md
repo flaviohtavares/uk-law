@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/11
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 9. Superannuation of teachers.[^c8518971][^c8518981]
 

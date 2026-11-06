@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 80. Documents in electronic form[^c-e20d1f4505233940afa2e8542c0ab844][^c-661b1f5b995b464eee2768746bcdc617]
 

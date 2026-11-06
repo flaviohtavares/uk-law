@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 38. One party resident in Northern Ireland.[^c-80b5e985b9dfba4f068b5eab685e0003]
 

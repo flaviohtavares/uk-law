@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 146. Allocation only to eligible and qualifying persons: England[^c-4a5849a4d629de117d7f77e693606c8f][^c-97ad0922990e4d69278c5130a6fbf8c0]
 

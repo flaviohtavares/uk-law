@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-05-17.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 4. Placing a veterinary medicinal product on the market[^M_E_12dd41d7-649f-494c-e077-35223270abc3]
 

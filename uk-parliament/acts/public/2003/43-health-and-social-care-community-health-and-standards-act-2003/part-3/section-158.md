@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 158. Appeal tribunals[^c552130][^c-8e44cfb5789de25b7204fd8aebadb15e][^c-084065332ad956e9b211424b77a2cff3]
 

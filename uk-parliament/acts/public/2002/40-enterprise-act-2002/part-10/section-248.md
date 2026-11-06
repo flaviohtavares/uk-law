@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-10-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 248. Replacement of Part II of Insolvency Act 1986[^c19221891][^c-576e599e020974fbcd0f063b4a9452ab][^c-eb4f14c4c5d9bfbd49f2f88bac188c4f][^c-d6e92d0a7ff44553ec58439396099ad0][^c-01fea774cec08af2effcef8788330c1d][^c-b5d2f378f1c0350d28fef7272bb18107][^c-42a640eef1d82cba76710db656ed0b66][^c-25a026eb89e3fb96b839ee39a08ccbd1][^c-d124d49c1d23554db754095dbad74657]
 

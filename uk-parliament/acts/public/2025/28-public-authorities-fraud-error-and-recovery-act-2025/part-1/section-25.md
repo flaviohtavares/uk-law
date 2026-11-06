@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 25. Insufficient funds[^c-e2ef72d84afa03e909beef22e3497e2b][^c-5830e2cd6e335a69902efdb68e63ad03]
 

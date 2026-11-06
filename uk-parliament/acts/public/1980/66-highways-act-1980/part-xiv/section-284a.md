@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 284A. Trunk roads: miscellaneous functions of Secretary of State and strategic highways company .[^c13431321][^c-64a374cc47f1bad39cd6c9578c2de6e4]
 

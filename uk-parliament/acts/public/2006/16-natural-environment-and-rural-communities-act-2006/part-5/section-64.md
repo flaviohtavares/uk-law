@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 64. Functions of Broads Authority and others in relation to the Broads[^c-572f406a97ccb8289b4d2f4e4b93d694]
 

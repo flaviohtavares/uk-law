@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 234. Enforcement of heat network zone requirements[^c-c6cb6a525067aa576de961ec7eefba32]
 

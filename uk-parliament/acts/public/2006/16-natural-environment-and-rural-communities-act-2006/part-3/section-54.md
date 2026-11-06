@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 54. Application of Part 1 of 1981 Act to Crown[^c-9573926dfbff381dcc8cac4b6e88050d]
 

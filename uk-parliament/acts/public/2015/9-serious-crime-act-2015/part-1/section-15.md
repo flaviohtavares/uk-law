@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 15. Restitution order and victim surcharge[^c-3390e6235c82bda88d170c61d95d0ce1][^c-e5ceab8c46d5f2926d9c0aab8a73ae0a]
 

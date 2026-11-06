@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 43. Power to deprive offender of property used, or intended for use, for purposes of crime.[^c11220081][^c11220091][^c11220101][^c11220111][^c11220071]
 

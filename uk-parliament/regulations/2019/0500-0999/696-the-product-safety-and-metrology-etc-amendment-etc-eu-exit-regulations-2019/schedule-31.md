@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 31 — Amendment of the Making Available on the Market and Supervision of Transfers of Explosives Regulations (Northern Ireland) 2016
 

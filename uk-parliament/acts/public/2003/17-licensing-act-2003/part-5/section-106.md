@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/17
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 106. Modification of standard temporary event notice following ... objection[^c-e7071b7284d4cce3f9b1ca0d3955197c][^c-f5d5b6db5745afe03026b37d6cf65c7b]
 

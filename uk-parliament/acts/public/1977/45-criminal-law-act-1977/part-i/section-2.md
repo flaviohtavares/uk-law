@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2020-12-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1977/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Exemptions from liability for conspiracy.[^c-b277512f451086792d5289cda0e2fc39][^c-11484bf47692baac6fb3b55f0646758d][^c4763941]
 

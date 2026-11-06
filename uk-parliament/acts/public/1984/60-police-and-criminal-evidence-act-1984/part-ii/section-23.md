@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 23. Meaning of “premises” etc.[^c-2ace9d2b3bdcbb127c1e9b05e8416b77][^c-451210b39928c21c0f6a237f9407653a][^c-24cc59714766dc9a5225c3524dc2631e]
 

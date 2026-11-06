@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 173. Requirements for existing overseas relationship to be recognised as civil partnership[^c-58fd42857daca113d132beb1ecd63121]
 

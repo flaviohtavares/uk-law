@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 128A. Advice etc from charity trustees, officers and employees[^c-53d849d37b8641673b3177f338f1a6b3]
 

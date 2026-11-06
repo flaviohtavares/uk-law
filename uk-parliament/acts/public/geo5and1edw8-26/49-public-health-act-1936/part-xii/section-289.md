@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 289. Power to require occupier to permit works to be executed by owner.[^c611783][^c611784][^c611785][^c-71d8dfd565280c533af04dcca9cd2a06][^c-963b2ac98017300b4732cfb4c6678a46][^c-ac288c5d7511aa64bd59193de7a8b976][^c-f1deddd5024eb2426af271a5ea409abf][^c-1b0a40552820b81862c81cf460352cf4][^c-10adeed27f32d0490be92bb07bd3bb31][^c-17b59e937b60a51579d07c124b5ad9bd][^c611782]
 

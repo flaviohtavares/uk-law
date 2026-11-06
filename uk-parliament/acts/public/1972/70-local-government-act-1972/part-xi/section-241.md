@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 241. Power to apply provisions of Act to joint boards, etc.[^c15125601][^c-c7cbb7eaec342e2f1080e2bfca146f0f]
 

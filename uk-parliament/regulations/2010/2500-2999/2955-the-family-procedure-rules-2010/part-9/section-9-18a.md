@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2955
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9.18A. Request for change of procedure[^c-ca2adc81528854dd42f7fb9bb398ad2c][^c-2cf475476e2d5268ae2979267a03157f]
 

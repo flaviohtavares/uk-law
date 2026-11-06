@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-18.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 74. Duty to enforce.[^M_F_bb0ab0d3-f101-4e87-9b2b-8939f5182536][^c1022469]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 35. Duties of trustees in connection with registration[^c-a9726ac97b594f56c13bb862d296b213]
 

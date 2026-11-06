@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 8. Registration officer’s right to inspect certain records[^c-c62b970e0da4c7f07a1d2725fbdf97eb]
 

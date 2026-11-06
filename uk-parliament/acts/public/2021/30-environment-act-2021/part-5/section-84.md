@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 84. Report on elimination of discharges from storm overflows[^c-ec8ab86e021e9d62a17a571abddd4c63]
 

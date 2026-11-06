@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. Considerations applying to the exercise of powers[^c-864872687a2ad4d0072679fdd1c66fa8][^c-6e8b5ebfed90f0778277e4056c27ee2f]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 2. Green deal plans: supplementary[^c-cf1cf32c7ce0193aaafea99303c112c4][^c-7dc0cc36d8ceac908bb0fba506321476]
 

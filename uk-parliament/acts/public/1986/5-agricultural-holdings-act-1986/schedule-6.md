@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 6 — Eligibility to Apply For New Tenancy Under Part IV of this Act[^c-b672e46b75bd8e9d7ff09d14edfdf3d7]
 

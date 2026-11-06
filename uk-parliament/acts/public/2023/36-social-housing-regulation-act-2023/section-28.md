@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28. Surveys[^c-5ddb5c3562287ac34b3370b00a78c5e6][^c-c4371c2d25f5b24a72b7ea1e2429b22b]
 

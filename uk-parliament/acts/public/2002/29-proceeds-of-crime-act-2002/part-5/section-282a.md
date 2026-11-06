@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland, NI.
 
 ## 282A. Scope of powers[^c-fdf35c5a9f4df1069e97923f5bc573b5][^c-64f9d8ab3e7165d5ab315682d775e333]
 

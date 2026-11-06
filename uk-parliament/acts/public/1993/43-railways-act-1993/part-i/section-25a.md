@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 25A. Prohibition on franchise extensions and new franchises[^c-2aa17050f96086a29dc874686766a931]
 

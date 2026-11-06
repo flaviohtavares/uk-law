@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 26. General duty on specified authorities[^c-827394312efcb42b73833c107240b9ef][^c-1d28f3e253b1d7d70638077c77971f9e]
 

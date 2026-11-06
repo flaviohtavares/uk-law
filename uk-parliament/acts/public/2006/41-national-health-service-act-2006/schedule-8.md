@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 8 — Independent Regulator of NHS foundation Trusts[^c-537ac30bd549e32e55dc53c3c57b19fc]
 

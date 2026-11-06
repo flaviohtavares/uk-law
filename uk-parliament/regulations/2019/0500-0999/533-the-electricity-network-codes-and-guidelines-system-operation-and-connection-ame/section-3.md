@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 3. Amendments to the Electricity Transmission System Operation Regulation[^c-a81d1c5aedc4f69bcae681a6fb9856c6]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 204. Power to contract for tenancy[^c-8e6cf9652a5f73b033a75d039f147b2a][^c-acd548cface15a41dd09a4a0b98d38bf]
 

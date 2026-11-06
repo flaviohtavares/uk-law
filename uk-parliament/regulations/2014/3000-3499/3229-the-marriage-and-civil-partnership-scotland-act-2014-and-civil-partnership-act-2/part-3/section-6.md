@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 6. Treatment of Scottish same sex marriage in Northern Ireland[^c-4b56a29a2a554aa6a2b6aa815aec0b56]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 29. Applications where domestic abuse protection notice has been given[^c-63e39f0a408adc80b30ea6a712fe8edc][^c-f964640fc3131a3c040e6b972ae8dce9][^c-8aa16f0f83385de1db2071808f1a1b8d][^c-165b78aa8928cbd9a979d9a0e3ed5177]
 

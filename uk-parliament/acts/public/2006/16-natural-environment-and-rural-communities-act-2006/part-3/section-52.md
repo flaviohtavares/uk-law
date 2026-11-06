@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 52. Enforcement powers in connection with wildlife[^c-1f3ce5c60fb38d5aa2ecfb754a1e71e0]
 

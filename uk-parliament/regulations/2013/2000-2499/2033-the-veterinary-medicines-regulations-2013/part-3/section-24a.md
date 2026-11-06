@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-05-17.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland.
 
 ## 24A. Reporting of sales and usage data in relation to antibiotics[^c-100e7b25148470f79ed2587de5efe2ed]
 

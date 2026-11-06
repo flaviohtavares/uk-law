@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5. Powers to provide housing or other land[^c-d360d2c09ea012efe92144139175494f][^c-1d76be164fcaaf5484041864e4afe6d5][^c-8830e88a678ed5a7834b4f04b8e060af][^c-6ef53df34bc6c9c265512a8ad2a688c9][^c-096f6d34d7fe036dfbb958371e145ada][^c-a8e3b19c9d401a9b91a0699ec83d0f8a][^c-56f30b92434ddf6d820ab31baf1969fb][^c-329d5780d87dd471447cc6431cdf2c49][^c-361a89d9a9ffc202affaf2d9e6b26785][^c-1a6ab86a37a42e1b0ec44bb6eb35ca3d][^c-6a8339de29a5dac5657b7afb030213cf][^c-5715a44b7b686c9c5afd400d822cd78f][^c-cb9161416000981239a68ee9659fcf90][^c-e9610584ee153ae965b2c7831e0de006][^c-b473cad868dfc5e1b004231e22893571][^c-757887b664d3c1663ede1abe2e98c3fe][^c-96396265e555cef2018631befff89943][^c-17d3d0e57f5f674f7cc28db3a179cd64][^c-40a032ccda6a881406ab1782ab2a0bfe][^c-c4e8158af0841c8a243df83312f08196][^c-01a8f9087d9543cbee340b85095ec22e][^c-4b7e64ac437c7d6ba3ab98113c4de111][^c-2a91ca5c7b3af245caf592d9d7b10948][^c-b57bdf8b3e95ff0977606932ed24a186][^c-e081553be5a404906c2cb0b4b5d29de1][^c-56f30b92434ddf6d820ab31baf1969fb][^c-361a89d9a9ffc202affaf2d9e6b26785][^c-6a8339de29a5dac5657b7afb030213cf][^c-cb9161416000981239a68ee9659fcf90]
 

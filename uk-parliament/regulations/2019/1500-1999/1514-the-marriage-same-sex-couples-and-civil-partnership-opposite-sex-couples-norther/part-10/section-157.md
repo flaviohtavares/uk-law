@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 157. Regulation and Improvement Authority (Appointments and Procedure) Regulations (Northern Ireland) 2004[^c-0ed2e64181958d141dbff5c85605955b]
 

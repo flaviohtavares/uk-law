@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 132A. Appeals where proposed variation considered exempt[^c-0b6272af9255d324e5d2d5bee19279c2][^c-c05adb8597f2acc398b3fefbd54794ff][^c-eff8e6eccae20f46a12ca9e627d37ecd]
 

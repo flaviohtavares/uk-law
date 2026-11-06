@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2018/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 189. Duty to review provision for representation of data subjects[^c-ab59fd7803f594dabdae198bc7ee59b2]
 

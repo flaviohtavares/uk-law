@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 30. Directions for public safety purposes[^c-a8026a869b4069b26c20fe67d5a99396][^c-5d3aba4b4aa40e1a537a8b75bc717e83]
 

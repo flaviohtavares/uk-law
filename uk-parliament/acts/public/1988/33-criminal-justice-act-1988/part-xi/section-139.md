@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (43).** Text as at 2026-07-08. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/33
 >
-> Extent: England, Wales.
+> Extent: England, Wales; Northern Ireland (the versions of this text differ in extent).
 
 ## 139. Offence of having article with blade or point in public place.[^c20404461][^c-29e3d02bfb280e7e5f8d14e6f521f23b]
 

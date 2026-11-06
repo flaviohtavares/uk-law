@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 115E. Execution of works and use of objects etc. by persons other than councils.[^c13423191][^M_C_10c498e3-fd2c-466b-9c79-c7fa728f7cc1][^M_C_8f49a0b8-1266-4c10-da15-26821f11edf7][^M_C_d20f5128-b874-41ae-f957-8fcfbb10d173]
 

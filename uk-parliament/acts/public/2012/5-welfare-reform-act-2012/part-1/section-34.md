@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 34. Universal credit and state pension credit[^c-f0c316d9d1b0dfd0e226e5ef4e030922]
 

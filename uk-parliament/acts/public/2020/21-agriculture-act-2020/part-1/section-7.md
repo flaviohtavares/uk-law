@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2024-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7. Meaning of “basic payment scheme” and other expressions in Chapter 2[^c24386011]
 

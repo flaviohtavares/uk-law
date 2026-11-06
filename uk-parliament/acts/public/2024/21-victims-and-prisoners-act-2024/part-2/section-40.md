@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-09-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 40. Role of advocates under Part 1 of the Coroners and Justice Act 2009[^c-dd6e8ab570a417e4d2c9b011ac468a9a][^c-b717283079ba4a6b1d25b7ec85c00924][^c-9a12d5c3a2d1cba3cce5704a944c0d4c]
 

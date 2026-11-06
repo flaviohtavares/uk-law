@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (24).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 123. Disclosure of information to the Northern Ireland Judicial Appointments Commission[^c18896041][^c-e94e3ae99535e7973fc69b1fc21f6148]
 

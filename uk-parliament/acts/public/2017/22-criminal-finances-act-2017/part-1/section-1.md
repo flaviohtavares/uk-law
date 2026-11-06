@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 1. Unexplained wealth orders: England and Wales and Northern Ireland[^c-f1d9f20e5dcdb78a6ed9d04bc5055f39][^c-9f18fdc3aed8504779d897cfaa9e2957][^c22725061]
 

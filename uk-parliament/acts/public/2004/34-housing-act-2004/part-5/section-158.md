@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 158. Duty to ensure authenticity of documents in other situations[^c-c5a387f094be3db3ab8006c673ef8e8c]
 

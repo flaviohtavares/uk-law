@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 88. Learning aims for persons aged 19 or over: payment of tuition fees[^c-5ce4a2234d31e1ba23172f885aee3ca5][^c-8d75de6ce615bbb7396ec5165e81e6de][^c-240021fffb10cbd0e53b03a4e5aaafdc][^c-2b869a91d6ddf91889952804559ecdec][^c-d2487d82591812c48ed1e74dc1a99a6b][^c-da9510f3f03b4e18ad302cf49eb50957][^c-8027b93bf4faf9264d95c787da0a447e][^c-c9612c070c67b048e3740a27c0138eba][^c-d859ec9b2a09c755366e3a74528df589][^c-032e202c4236e3e19dc57b1fc22ef1c3][^c-6289539b9c8011045fea975ad4d4dda2][^c-3e6659e17051ea1a64901a77de94d831][^c-b3e5fe8cd5525a4417df9c4a2c0b8636][^c-b065bc8dfb9b412fb39d0605d34a8eb7][^c-713beb8a4fe8d2000fea6bf297f76383][^c-1850feb126404889f858167cd1c273b6][^c-caeba315edac65e2000955bc82b3e3d1][^c-48ce4bce9df50d927297faac8e432a70][^c-8819dcbbda01afae7edaee892bedd006][^c-8dbe541f62e2f10c155c74dc54201134][^c-3cffad5e3b8dccab627b8b41d6017327][^c-5889b6b4686af7cb589765cadbff3a47][^c-4cce010270b60df1a22642017b86a5ec][^c-855fc4c808623cc4eadc15ac3dc4eb29][^c-aec22b4d42fd7f4a1c247e675863722e][^c-4553bce74db4b446136e90d90fd45de2][^M_C_213110b7-cb23-4e75-eca6-4363e646cff4][^M_C_71a18bb8-d155-4319-a144-7357733dde12][^M_C_f4f893ca-4ff8-4117-e9fd-3ecb2327db7c][^M_C_26277e1a-d18f-434e-d7a0-1a0766e081b5]
 

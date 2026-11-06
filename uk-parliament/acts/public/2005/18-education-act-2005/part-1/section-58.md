@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 58. Inspection of computer records[^c19266141][^c19258641][^c19222861][^c19222841][^c19222761][^c19222651][^c-fc44e34d3b5ac4a426ae36549d264248][^c-d4f63a0a39668972c810e7ed32921be0][^c-7390c4ee1032c679e611c9b5775bf82d][^c-e1f388310ccf5e85770cc92ded808161]
 

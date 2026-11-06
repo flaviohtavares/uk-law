@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 70. Restriction on promotion of Bills for changing local government areas, etc.[^c15091671][^c15091681][^c15091691][^c-8768b12e3da7ac5474879ae4305a3f47]
 

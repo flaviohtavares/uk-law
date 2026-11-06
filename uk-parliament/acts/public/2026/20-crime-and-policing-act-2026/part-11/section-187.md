@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 187. Removal of notification conditions[^c-52b428fc759de35cb38104c9708cd530]
 

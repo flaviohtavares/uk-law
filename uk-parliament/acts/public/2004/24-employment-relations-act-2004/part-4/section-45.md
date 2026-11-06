@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-04-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/24
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 45. Enforcement notices[^c-60e5a9b36f00ca88a26e9f67d5ff2b2b][^c-396b62ecff70f05adce8b597fc19dc43]
 

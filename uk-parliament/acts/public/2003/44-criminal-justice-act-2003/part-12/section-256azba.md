@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 256AZBA. Referral of release decisions to High Court[^c-ee282ba7335c6b827db47ca5768f3caa][^c-fac7b55327d5e52792874c4b00691571]
 

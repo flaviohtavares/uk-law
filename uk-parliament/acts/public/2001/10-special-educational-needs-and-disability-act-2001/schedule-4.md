@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2021-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2001/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 4 — RESPONSIBLE BODIES FOR EDUCATIONAL INSTITUTIONS[^c-6058ce5fa3243e6fd176f59544683c2d]
 

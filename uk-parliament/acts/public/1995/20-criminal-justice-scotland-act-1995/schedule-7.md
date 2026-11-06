@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 1997-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## SCHEDULE 7 — Repeals[^c1524090]
 

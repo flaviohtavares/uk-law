@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2021-02-28. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 10A. Assignation of tenancy[^c-967eece6b65cad0d35ad4dff6ae0b749][^c-53d681bfc6e4d9bce3fdf56a93362cee]
 

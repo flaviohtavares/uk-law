@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 252. Consultation with the Care Quality Commission[^c-4d94b2a9b20a096e656c0ccbd4d167f9][^c-73bb6363ce1a4312aa0ec58155b8655f][^c-91317b60ec81390ba54fa6226b86f3ec]
 

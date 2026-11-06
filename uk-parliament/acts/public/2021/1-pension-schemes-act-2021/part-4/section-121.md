@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 121. Information from personal and stakeholder pension schemes[^c24494181][^c-0079b938a38881ed48b745f7817299d3]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 232. Validity of office-holder’s acts.[^c15574921][^c20433891][^c-11ae28cb805d62df79a9506ab417e765][^c-1833ba36373f3ae0946a06692da15a40]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2023-05-03. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/72
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 55. The national Metrological Co-ordinating Unit[^c-4936a5226e9c15bba9964148b6278a5d][^c-23db52b76a0515218ea52892030c535e]
 

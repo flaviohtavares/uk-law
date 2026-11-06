@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 17. Policy statement on environmental principles[^c-83087e4449ae84e1eb780f00b3ed47e9][^c-0c70bf9bd48924c5b0726facd9dd5de0]
 

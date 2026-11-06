@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (25).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 59ZB. Powers to require removal of waste unlawfully kept or disposed of: England and Wales[^c-bc65007e51aa76b772e7f299e2ea5257]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 13B. References under section 13: application of Enterprise Act 2002[^c18901291][^M_F_0794bbba-16fa-4184-8fc8-bc4bcc03ce24]
 

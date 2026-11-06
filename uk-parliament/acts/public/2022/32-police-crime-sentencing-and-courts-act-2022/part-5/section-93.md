@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 93. Removal of requirement to surrender licence where fixed penalty notice[^c-f7551476ca40a5b75140333e7673813c][^c-da0b63112260adc0ab69e3cb3d6ef02d]
 

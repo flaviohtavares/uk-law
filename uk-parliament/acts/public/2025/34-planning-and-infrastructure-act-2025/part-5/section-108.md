@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 108. General vesting declarations: expedited procedure[^c-ef156ffd4c8d502ae64149596c0accc2][^c-45eaa619bde7de206331a17fc00c4679][^c-cffda76a42853cf46617d2c06e7b4ab4]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 110. Indexation of periodic compensation for pre-1997 service: Northern Ireland[^c-a178bbdd344c6d486a8362656e531c1e]
 

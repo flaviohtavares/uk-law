@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 235. Penalties[^c-5ea0ae7e0dcc1c4566feea51ca8eb0b1]
 

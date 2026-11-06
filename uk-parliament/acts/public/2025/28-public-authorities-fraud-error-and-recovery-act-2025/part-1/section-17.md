@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 17. Direct deduction orders[^c-b7f1645dfc555b56150188fd21254375][^c-9efee59295f1ab20f7f9bfbb8b16b0b7]
 

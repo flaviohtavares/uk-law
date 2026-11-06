@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 91. Approval of implementation strategy[^c24481161][^c-0a97dcd6255dcfdfae4a6813adbedc51]
 

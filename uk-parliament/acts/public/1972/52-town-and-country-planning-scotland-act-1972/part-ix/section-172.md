@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 172. Action by Secretary of State in relation to purchase notice.[^c14929191][^c14929201][^c14929211][^c14929181]
 

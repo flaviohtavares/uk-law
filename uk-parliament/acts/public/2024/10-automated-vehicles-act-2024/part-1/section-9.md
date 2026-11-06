@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 9. Further provision about variation, suspension and withdrawal[^c-cfdc0400bb25760ecbd577250ce9a43f]
 

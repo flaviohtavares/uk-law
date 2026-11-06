@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Meaning of “housing-related anti-social conduct”[^c-067dc5026dd5235190069ff73fd3cebc][^c-15080d69b2a58fcb46dcd8996b829f67]
 

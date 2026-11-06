@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## (not yet in force: 41C). (not yet in force: Breach of requirement as to speed assessment equipment detection devices)[^c-700dc55eb20fcbac8de34348ad2bfa98][^c19271991]
 

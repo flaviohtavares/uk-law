@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-10.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 48A (Extent: E+W) (affected by repeal, see note). Directions as regards plans and projects (Extent: E+W) (affected by repeal, see note)[^c-0613bd3ae2896757daab6abeb2de6ef0][^c-2dd38f22e3f0e7272da0337fa848725f][^c-2dd38f22e3f0e7272da0337fa848725f]
 

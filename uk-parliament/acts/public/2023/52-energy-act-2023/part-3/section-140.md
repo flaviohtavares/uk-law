@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 140. Conditions of gas transporter licences for conveyance of hydrogen[^c-f8d5b3ca7b0ff84b29e4f2b8d969bb88]
 

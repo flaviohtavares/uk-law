@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 75. Social Security (Benefit) (Married Women and Widows Special Provisions) (Northern Ireland) Regulations 1975[^c-52c0cb0ac62403e1eb416f7492302707]
 

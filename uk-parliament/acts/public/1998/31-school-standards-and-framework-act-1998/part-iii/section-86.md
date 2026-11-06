@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 86. Parental preferences.[^c14009701][^c-5783c4857228ff760c10540e745e3e23][^c-835855aef15ad6d73c3fd9584849869f][^c-bff7f2c9c77b5b89942e21d79151d9c7][^c-05c1e2266555480096f47ac206370e97][^c-dacc4705237642df06ed65f01aaf2f1d][^c-581b3ca8e0045e8cb9a8e691a1e0199a]
 

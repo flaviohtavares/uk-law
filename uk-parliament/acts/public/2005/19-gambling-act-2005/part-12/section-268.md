@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 268. Miners' welfare institute[^c-90ce64830ef181c8989fd20c23316598][^c-2efb90cb4b11a8b8fcdcdcb4f35429f0]
 

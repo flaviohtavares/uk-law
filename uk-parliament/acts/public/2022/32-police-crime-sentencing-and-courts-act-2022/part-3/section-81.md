@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 81. Repeal of the Vagrancy Act 1824 etc[^c-cbe2f041e0791d774ca1dc08e7269362][^c-03c25f417ea4741cb62b678a0bb65396]
 

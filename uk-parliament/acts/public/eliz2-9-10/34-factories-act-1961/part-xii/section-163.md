@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2016-07-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 163. Owner of machine liable in certain cases instead of occupier.[^c-f04e106b82a1329f4050852600e23e66]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2022-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 59. Provisions relating to the Attorney-General.[^c13387751][^c-bf6b67cbc053ddb67c8e582d11e37e38][^c-e474e20b5770651c1b3f9ab381ba59a5]
 

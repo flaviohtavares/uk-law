@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 44. Delivery of documents to the registration officer: England and Wales and Northern Ireland[^c-374b1c7fe2e1bd417b8973d94106c140]
 

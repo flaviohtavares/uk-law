@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-05-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/14
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 39. Quality contracts schemes in connection with service modifications[^c-239e6dde6c9f0e753fe109f450a88843]
 

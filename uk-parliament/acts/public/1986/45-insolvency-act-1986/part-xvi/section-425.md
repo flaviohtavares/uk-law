@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 425. Provision which may be made by order under s. 423.[^c15584941][^c20441201][^c20441221][^c-e832b5baf6e91cf974c32483c9d56fd5]
 

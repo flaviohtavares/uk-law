@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 21 (Extent: E+W) (affected by repeal, see note). Power ... to exempt certain fireplaces.[^c-994953bf38659969bbd8142e491d2af1][^c-c8c05608f7312c0f0a82404bc6497b31]
 

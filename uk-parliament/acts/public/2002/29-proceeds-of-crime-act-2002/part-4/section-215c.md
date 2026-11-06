@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 215C. Sections 215ZA to 215B: appeals[^c-e4545b132ff0452df2b0e0c4785731dc][^c-8798b1156d58a217c0fe3b9ab009b659]
 

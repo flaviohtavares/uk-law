@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-03-27.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 63. Circumstances in which ROCs must not be issued in respect of electricity generated from solid or gaseous biomass
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 42. Information relating to certain benefits[^c-a3a2f4ade7e5e791f5aa5e9708fad001][^c-7a8e1631e4df4aea6981ce645882476a]
 

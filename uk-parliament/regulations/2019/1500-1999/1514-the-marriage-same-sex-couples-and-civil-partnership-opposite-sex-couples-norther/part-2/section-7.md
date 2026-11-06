@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 7. Interpretation of existing legislation: references to marriage, couples and married persons[^c-a9bacbf0ffc290de9003b4f2342a6624]
 

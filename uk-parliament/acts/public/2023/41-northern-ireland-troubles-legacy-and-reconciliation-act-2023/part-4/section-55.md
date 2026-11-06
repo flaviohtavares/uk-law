@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-05-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 55. The advisory forum[^c-b9ca9f31d5c32200726b291c5265c460][^c-dd5df725f1d50e204097b77f58f2f5cc]
 

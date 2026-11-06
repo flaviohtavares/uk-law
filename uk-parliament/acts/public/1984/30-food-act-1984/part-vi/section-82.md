@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-18.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 82. Sampling powers of Minister’s inspectors.[^M_F_1804be22-fb6e-4f16-8e80-06d922f2f136]
 

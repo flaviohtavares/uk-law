@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14. Notice and consultation requirements[^c-67d5c432656f84fd528b571e5d79dfa2][^c-0e3a85f492b5d9ebf8d3bd8dc3e34eb8]
 

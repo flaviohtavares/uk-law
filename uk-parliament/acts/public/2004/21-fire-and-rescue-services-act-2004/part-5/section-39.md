@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 39. Supply of water by water undertakers[^c-205b92e698c848f987bed7a7c214663f][^c-5fe26540f0f03c8e0ff4dbc9e87c5d96]
 

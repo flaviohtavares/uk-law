@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 158. Foyle Area (Control of Drift and Draft Net Fishing) Regulations 2004[^c-840078fad97c6a7ddcbe4737b5c8fae7]
 

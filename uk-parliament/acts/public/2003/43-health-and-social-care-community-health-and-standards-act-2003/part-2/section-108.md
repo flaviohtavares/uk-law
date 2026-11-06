@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 108. Information and inspection[^c-1db08dc2915bfbaba6f27bf8fe0e836f][^c-4203f89222d4dbec791c983b7ae660ba]
 

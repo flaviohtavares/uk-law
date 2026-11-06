@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 71. Duty to monitor financial thresholds[^c-85257804bfa6e701b9f00525d5ebcff5]
 

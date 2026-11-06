@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 60. Pre-commencement consultation[^c-c956dbbe8519d7e2c7397a03fad0f2d3]
 

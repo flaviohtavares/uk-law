@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 34. Injunctions to prevent gang-related violence and drug-dealing activity[^c-17859b886227a5cfbe8346399203ac68][^c-011dbe5122fa4af74177b8c212dc123f]
 

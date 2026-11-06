@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14Z17. Circumstances in which powers in sections 14Z18 and 14Z19 apply[^c-d504964dfc83cb183dafe3faf00dd2f6]
 

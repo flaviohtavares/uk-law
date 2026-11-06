@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 20. Extension of powers of seizure to computerised information.[^c11315361][^c16921021][^c18904101][^c18904171][^c18904201][^c-9a1ab069ee8c4b769d0dd27ed40616c8][^c-8684bfeaae42c75fa000dae70a6a3d59][^c-bc19e85baacaa69a4ddd5ca9961a1bdb][^c-c7d1b979d5a60e4c97c9c7296c0e5362][^c-39951c5cc074ffc14c53d5a5af8089e7][^c-f5a04b0fe0365aacb28f9018868d4f0a][^c-5473719ba15003f31adeb50e40ef1cc8][^c-5cc724ff3fb94f337e68756ba102a81a][^c-354c497032dc4597a0199732eebf4150][^c11315351]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 64. Searches of indexes kept by superintendent registrars.[^c-41eb71b097b8fcfa3316aa757cc75850]
 

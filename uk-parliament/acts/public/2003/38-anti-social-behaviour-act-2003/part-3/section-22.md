@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 22. Parenting orders: appeals[^c-b68e56bdcda7746f92d5fa58bb80815c][^c-671cdfdfd83072ee4e7b5f87a6f786cc]
 

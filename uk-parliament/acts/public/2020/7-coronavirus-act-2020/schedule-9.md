@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 9 — Mental health: Scotland[^c-38470844f1128d0793cd9c78e25f8d16]
 

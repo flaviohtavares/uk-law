@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (32).** Text as at 2025-06-19. See https://www.legislation.gov.uk/changes/affected/eur/2013/1306
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland, Northern Ireland; Wales; England (the versions of this text differ in extent).
 
 ## Article 112. Threshold[^M_E_b7e00c4c-55b2-470f-af22-3cda0f2f8c7d]
 

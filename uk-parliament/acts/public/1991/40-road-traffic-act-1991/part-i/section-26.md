@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2024-11-28. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 26. Amendment of Schedule 2 to the Road Traffic Offenders Act 1988.[^c10858551]
 

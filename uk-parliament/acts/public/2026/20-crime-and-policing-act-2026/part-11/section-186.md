@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 186. Removal of power to continue detention[^c-38fe7c5d6f3ee1861785cb06c028fff8]
 

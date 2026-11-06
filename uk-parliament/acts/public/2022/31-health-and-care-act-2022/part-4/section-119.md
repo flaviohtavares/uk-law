@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 119. Powers to require information etc[^c-bb7a51767d30b68a6033d7c300c1c815][^c-c5adfd8018eb49e18025ecde145a00b2]
 

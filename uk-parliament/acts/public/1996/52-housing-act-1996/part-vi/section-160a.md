@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 160A. Allocation only to eligible persons: Wales[^c-1e23f85ffb579786002b2ab6358f9162][^c13152671][^c-72f667f54172d80bce67d2e681613e1e]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2012-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14. Accounts and records.[^c11276591][^c-fc0c14dd7a00d098bb5f7c3015f6524a][^c-68fdf019cc28852608ae2fc649d3fc25][^c-6e66edca234f60166923c1f9527dfa4c][^c-667d543f51aafddf8b5251f668696919][^c-c33b3e17d72d53b3cebcb2144d1c6160][^c-bc57933b06c1b9511e4bf94a9544bd3d][^c-5a7be3349f6f3e92efa55ada9774411d]
 

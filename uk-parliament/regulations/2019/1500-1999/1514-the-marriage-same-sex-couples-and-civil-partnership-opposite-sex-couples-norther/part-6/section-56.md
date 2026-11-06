@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 56. District Judges (Magistrates’ Courts) Pensions Act (Northern Ireland) 1960[^c-934bbb2ace6902beba7b64ee30d931e5]
 

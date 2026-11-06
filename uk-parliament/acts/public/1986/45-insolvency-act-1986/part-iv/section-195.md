@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 195. Court's powers to ascertain wishes of creditors or contributories.[^c20432911][^c-a3a0322e4d68edcca40d494d65ffcb31][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-1791239d26b7eef459a2eb30e0d15566]
 

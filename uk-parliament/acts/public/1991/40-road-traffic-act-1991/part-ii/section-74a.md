@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2024-11-28. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 74A. Additional parking charges: reserve powers of Secretary of State.[^c-0cfd96a016002a9dcfca09f4685b11b4][^c10860181][^c10860171]
 

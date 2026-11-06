@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 11. Updating information produced under section 8[^c-0c758a80b7f7f65c8d97f9e93b80c799][^c-53a46576181fa00baf6c59abfb0009e0]
 

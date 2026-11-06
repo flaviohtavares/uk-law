@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1153
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 47. Form and contents of ... declaration of conformity etc.[^M_E_15286a74-cc57-4d25-c2c0-12125cb4bfa8][^c-1680fc5e3194e6d85afe4d4f1c8231d7]
 

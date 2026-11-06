@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 391C. Meaning of “regulatory functions” and “regulatory objectives”[^c-27f6a4b363f4fc9f98dc9f53993285e5][^c-fbeb2bef3b697d518f279cd857abcca7][^c-4229792e01f12e36042fdbc81460df82][^c-67e84b3fde1253471739882cade02486][^c-53e23e5032b55114129bfd4243322aef][^c-29ee3e41a4dc165dced7cfe69b51e3c7][^c-9047e00d22cb90485ed01619b37fdd4d][^c-27f6a4b363f4fc9f98dc9f53993285e5][^c-67e84b3fde1253471739882cade02486][^c-53e23e5032b55114129bfd4243322aef]
 

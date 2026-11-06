@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 138. Involvement of local representatives[^c-41688c22bab00ff705ff55dbd0525c73][^c-f8bd53466da7ad75dc7e7613aa0d6d51]
 

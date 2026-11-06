@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/50
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 81. Consent required for certain subsequent disposals.[^c-9ded0c13dd5c946ba57874af1251a6a1][^c12871571][^c-d8cf9e8f9baef24714a97dddc6e28294]
 

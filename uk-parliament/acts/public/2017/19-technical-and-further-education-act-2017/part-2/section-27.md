@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27. Grants and loans where education administration order is made[^c-a7b26264950af3f73db394e7a40e561a]
 

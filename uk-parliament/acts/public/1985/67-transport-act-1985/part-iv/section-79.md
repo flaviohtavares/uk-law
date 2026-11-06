@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (54).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 79. Financial backing for establishment and operations of public transport companies.[^c-27890099608df53aa49f7782fbd18013][^c-79d3b86daee2c7e6e57cc4d150318e6e][^c-27890099608df53aa49f7782fbd18013]
 

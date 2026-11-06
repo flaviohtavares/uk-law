@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 68. Procedure for dealing with complaints[^c-70060f51822cb51970ca86604446090b][^c-6962e792a1b2485ead0a5a33036c86c7]
 

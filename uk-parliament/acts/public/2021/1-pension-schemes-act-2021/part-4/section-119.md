@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 119. Information from occupational pension schemes[^c24494161][^c-65437718427c9fc953fd02e78a248d94]
 

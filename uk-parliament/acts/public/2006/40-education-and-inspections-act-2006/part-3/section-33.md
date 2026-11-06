@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Requirements as to foundations[^c-b4f6c4cf8814b139f9115d7a530ba40f][^c-aa439f00e64f75c1fd5eb0f895f883ff]
 

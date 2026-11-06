@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 101. Permitted selection: pupil banding.[^c14010071][^c14010081][^c14010091][^c-60e95bdaf9b5798dfdb8df8fec1dd15c][^c-223f1250bb6dec65c5346804720b2148]
 

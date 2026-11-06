@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 45. Penalty receipts[^c-3f185e71c041d660980932b0ec80d0d6][^c-26b09d716110df7f7709ec3c61c29e8b]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-03-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 26. Consideration of applications made under section 25. (affected by repeal, see note)[^c-3f1b49c28eeac0f3bb4d9e6dc4176f7d][^c-905edce24ec3c785c063bed4edf284af][^c-905edce24ec3c785c063bed4edf284af]
 

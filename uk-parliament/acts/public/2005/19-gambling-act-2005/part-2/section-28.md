@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 28. Investigation and prosecution of offences[^c-f09a039cf7ce5cf7dc2aaa343184ef7d][^c-a7a815e6e15e87602869270b436efb34]
 

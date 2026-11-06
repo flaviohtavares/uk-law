@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 60A. Sections 59 and 60: special provision for the Scottish Police Services Authority and the Scottish Crime and Drug Enforcement Agency[^c-89b4f0d686290240cf64205bdb0ef3c2]
 

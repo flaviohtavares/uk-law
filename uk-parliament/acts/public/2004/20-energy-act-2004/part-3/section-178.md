@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-09-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 178. Duty to have regard to best regulatory practice[^c-4801f6112544f158c290d72cd03147c0][^c-e3fbf9874d0e06ac672993772902d700]
 

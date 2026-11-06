@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 166. Repeals[^c-4d83be30d4bff83e71bd918c2db77056][^c-f639154c5a737adcf03ac79e4c551216][^c-ed4b82519f7b092cd5544c2159a2d1aa][^c-40ffb8a01a5938246120c95df12fd8e4][^c-861ce2ddb880a19f384d36d436d89a83][^c-1d35ffa47aa70a080812816560213824][^c-1e4de9cb807055f3e7dae45f9841a647][^c-c0db94bfafa2f47b4bb6a5971e9956cc][^c-81f07503f87235df01fe04d363ffa329][^c-4391b97c34fe3b3d1818a9139f15686c][^c-6fe4122390f205e1486140db3dd5d6a2][^c-5a9b75051e6f3354754789b1ec9c35f7][^c-f077fccf49c943d4d62333c1e290ba3e][^c-d8d0041655cedccf11919eb07277ef9a][^c-8291137f6e8ca2ee3df8646f435a9741][^c-ea04676fd9c7072eb5fa477e40152365]
 

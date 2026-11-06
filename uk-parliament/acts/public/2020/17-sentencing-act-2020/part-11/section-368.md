@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 368. Parenting order where parent or guardian of offender fails to attend meetings of youth offender panel[^c-61039ba3525eb155fda3a31344ec43e5]
 

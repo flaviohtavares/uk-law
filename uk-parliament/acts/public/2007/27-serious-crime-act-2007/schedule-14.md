@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (182).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## SCHEDULE 14 — Repeals and revocations[^c-16f06105870947bc655717d4b7020cec][^c-b8a12a5f4dd6b9970912e04ffa27feef][^c-e05ca6f56195a460aaa372a0b20a973b]
 

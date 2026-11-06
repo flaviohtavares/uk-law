@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 30. Power of local authority to prosecute offences[^c-6be53699ba16eb6616f75e46e80cc609][^c-9d53801a5ebef865b6b731ec1e6e5cd2]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 64. Penalties and criminal proceedings or convictions[^c-6abc52470e109774fbb4a0f24b03ce15][^c-bb603548e1bed6440a655704f5390e14]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 185. Remuneration of charity trustees or trustees etc. providing goods or services to charity[^c-3ce661ba5950b4e2594b9619a14d61d8][^c-fb2522f434734573788bede301403771][^c-08c0a2813017e1c21c12067c4649a6af]
 

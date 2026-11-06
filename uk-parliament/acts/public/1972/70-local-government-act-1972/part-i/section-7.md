@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England.
 
 ## 7. Elections of councillors.[^c15088341][^c-601eef09fd1bb8fb1cc53354f4e96ab1][^c-6bc8be4d29756dd02c1b198424c02a42]
 

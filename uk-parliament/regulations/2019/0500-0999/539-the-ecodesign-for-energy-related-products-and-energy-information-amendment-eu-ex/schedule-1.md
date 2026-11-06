@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 1 — AMENDMENTS TO THE ECODESIGN FOR ENERGY-RELATED PRODUCTS REGULATIONS 2010
 

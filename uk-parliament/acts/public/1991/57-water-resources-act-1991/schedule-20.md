@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 20 — Supplemental Provisions with respect to Powers of Entry[^c-a20c789ab30b0a305f068294145a9b87][^c-75a15e78250d0b19601c8fe3f2d02159][^c-2fd669b6f1647c52effd3272961a9f81][^c-e8ecda8a798eff2d9e1c2b8f0aa302b9][^c-d79acc2f866165ab1bad821e073c3bc6][^c-5b2e0c410a063466ef48884dd3bde8f0]
 

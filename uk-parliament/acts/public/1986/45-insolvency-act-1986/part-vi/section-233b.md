@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 233B. Protection of supplies of goods and services[^c-d337fadf2c894e59dad1a36f8d3f02b7][^c-23f5038e72092521da138a6f9b14b597][^c-788371096f8da5425d0cd572175725cd][^M_C_452d9257-f633-4280-b318-fda4040c66b2][^M_C_56248e53-5673-4c3f-a042-8b480b914688]
 

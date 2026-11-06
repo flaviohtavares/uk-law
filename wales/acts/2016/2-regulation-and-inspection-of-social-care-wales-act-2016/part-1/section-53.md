@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/anaw/2016/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 53. Offences by bodies corporate[^c-b376ac578203bc8c374b4312946d2a91][^c-05ec5ba269f6f6fe3408f0b4709792c0][^c-5113d2bd2ea0420f002fc889365947d8][^c-520dcc606f0ee4e43bfa315a6aab66d5][^c-dd7f525ca3f43b97e25ca404ab24067f][^c-310cdbecf57c7bf6c8a79051f243d377][^c-c0196bdefba2acf739bcc461cced6c52][^c-5113d2bd2ea0420f002fc889365947d8][^c-520dcc606f0ee4e43bfa315a6aab66d5][^c-dd7f525ca3f43b97e25ca404ab24067f][^c-c0196bdefba2acf739bcc461cced6c52]
 

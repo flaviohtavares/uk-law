@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. “Revenue account”[^c-2196ed4a6f9ffa84a21ef2a4f6ddd43b][^c-dbb856930a1b68ec37d8b2d1e3e7fcbf][^c-42618041b7db4159ba640f8c7a3c0c7a][^c-47b1652efe0b2cb6e9daaf01e412eadf][^c-389ba122a33b60aa5652e4f09d7edf7d]
 

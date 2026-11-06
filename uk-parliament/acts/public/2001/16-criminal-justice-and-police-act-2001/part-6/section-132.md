@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2001/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 132. Monitoring of compliance with conditions of non-secure remand[^c-fdc0af707b8d15901a07fcaaeb2b2f46]
 

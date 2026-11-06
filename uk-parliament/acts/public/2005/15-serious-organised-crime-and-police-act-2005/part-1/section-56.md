@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 56. Application of discrimination legislation to SOCA seconded staff[^c-567a175e7bd02cef0a7584b6ad1081e0]
 

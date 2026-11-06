@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1969/54
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 23. Remands and committals to local authority accommodation.[^c-6b5df978da8f607ccef408043da88bb0][^c8353581][^M_C_93b2358f-e1d3-40bf-9986-ff1a270c40fb]
 

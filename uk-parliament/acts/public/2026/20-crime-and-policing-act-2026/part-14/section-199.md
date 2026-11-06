@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 199. Duty of IOPC Director General to give victims right to request review[^c-03022d89de8ddba4da47255e0749323b][^c-40aace5c39b028f9ad5ccd69cdbdd01f]
 

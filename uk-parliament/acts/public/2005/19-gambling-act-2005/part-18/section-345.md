@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 345. Forfeiture[^c-4f7b622129723aedeb9da77f6bf0eb1e][^c-e72a2594949a32aa6a43092006f1061a]
 

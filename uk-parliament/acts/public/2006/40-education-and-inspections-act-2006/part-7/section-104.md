@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 104. Notice to parent relating to excluded pupil[^c-004e7bb6203a91cf998c859113bd222e][^c-230bb6f90ff609a4353fc286570f008b]
 

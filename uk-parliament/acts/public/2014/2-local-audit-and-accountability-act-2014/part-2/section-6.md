@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (173).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6. Meaning of “category 2 authority”[^c-05179c9b0125e927a65ab3af0ce8aaf8][^c-fe0319aa3158ac1e778714ff55bb1433][^c-e1f561c39c22f4219e3c13c062e98085]
 

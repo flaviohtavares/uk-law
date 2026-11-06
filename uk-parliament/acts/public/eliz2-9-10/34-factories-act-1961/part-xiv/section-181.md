@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2016-07-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 181. Substitution of corresponding provisions for certain provisions of Factory and Workshop Act 1901.[^c-921d94809b22f4480695a118c98d6fcd]
 

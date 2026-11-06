@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (46).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 57. Damages[^c-e7f08ba72fcfc5fe2844b216d528eaea][^c-32ea6967c68b183f7818a8bd4bcc6b24]
 

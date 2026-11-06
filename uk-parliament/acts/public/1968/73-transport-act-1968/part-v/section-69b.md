@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 69B. Objection to, or refusal or modification of, applications for operators’ licences on environmental grounds.[^c15322951]
 

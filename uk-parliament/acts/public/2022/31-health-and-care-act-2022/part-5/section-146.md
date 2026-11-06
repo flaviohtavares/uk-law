@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 146. Offence of aiding or abetting etc a person to carry out virginity testing: Northern Ireland[^c-bff767647908d25017b7bf92d691f7af][^c-527b4c2fdb3f511516db882564b1bf08]
 

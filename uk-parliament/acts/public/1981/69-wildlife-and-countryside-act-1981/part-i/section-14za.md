@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/69
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14ZA. Sale etc. of certain animals and plants included in Schedule 9[^c19473661][^c-ea9e1e96a7b3e0ae1db5b20ce7a3a59d]
 

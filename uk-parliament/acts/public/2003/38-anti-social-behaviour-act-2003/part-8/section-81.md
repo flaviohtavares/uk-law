@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 81. Power to make further provision about documents in electronic form[^c-35fb1257e082c373b81ca0aeaf684581][^c-da8ab5a0090f66211a5a71b2c06886b2]
 

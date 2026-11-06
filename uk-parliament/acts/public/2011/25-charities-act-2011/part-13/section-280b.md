@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 280B. S. 280A: supplementary provision[^c-8d5128527baf9f9f2ebd5639d42af403]
 

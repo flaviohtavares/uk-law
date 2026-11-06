@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4. Power to disapply requirement for development consent[^c-fa9bfc8c9e1b859006d9b5d0f20ac583][^c-84ff3364398be6af2578f89554923281]
 

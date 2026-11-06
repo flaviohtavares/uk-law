@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2011/1881
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 44. Issue and content of Type examination certificate, and refusal and appeal against refusal to issue certificate[^M_E_d267ee4d-282b-4939-ac9e-8cdc54f43a21][^c-47ac16defebdc8402c1bae8136707685]
 

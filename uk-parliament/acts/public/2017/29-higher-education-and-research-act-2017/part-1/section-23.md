@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 23. Assessing the quality of, and the standards applied to, higher education[^c-5bb2694864fe3152c69d6d400187c6b0][^c-b76c1dc6f70eacf0f6ea6144d5e8acd9]
 

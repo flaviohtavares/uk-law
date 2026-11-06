@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. Duty to have regard to post-examination neighbourhood development plan[^c-6f9a9abbeed2d77d474e4e0a84781135][^c-83f8da2474b6b7e0eaf5dcc0f78530fa]
 

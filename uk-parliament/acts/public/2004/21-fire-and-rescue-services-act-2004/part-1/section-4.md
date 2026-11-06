@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 4. Combined authorities under the Fire Services Act 1947[^c-fd5387862c90802659e74af98da351ed][^c-0456967f28d02eb9430a0492e50878a6]
 

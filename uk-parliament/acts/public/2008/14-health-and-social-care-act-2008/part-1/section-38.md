@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 38. Provision of copies of registers[^c1942177][^c-775fed991372f02d0bdb1f2d28765cf5][^c-1e11af1cf39d68cc0dc00334943e4e45]
 

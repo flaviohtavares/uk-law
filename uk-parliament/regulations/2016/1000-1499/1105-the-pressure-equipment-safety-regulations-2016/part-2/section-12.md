@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1105
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 12. Duty to keep technical documentation and ... declaration of conformity[^M_E_5dc11127-c013-4288-91f5-2f9a01528e73][^c-67edaeea32e3b1b86e8025eab79d1b6c]
 

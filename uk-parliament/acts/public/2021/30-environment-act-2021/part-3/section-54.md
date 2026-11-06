@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 54. Deposit schemes[^c-b8999ef7995b18f50085751e0fb9c20c][^c-a5011bf5665ace4d701d2c7a47641a91]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 115. Jobseeker’s Allowance Regulations (Northern Ireland) 2016[^c-de5548b4c4299a0577ae3574287e8922]
 

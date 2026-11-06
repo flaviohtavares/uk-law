@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 58. Superannuation (Amendment) Act (Northern Ireland) 1966[^c-61579ee580c4bb34e8af72491cd0d929]
 

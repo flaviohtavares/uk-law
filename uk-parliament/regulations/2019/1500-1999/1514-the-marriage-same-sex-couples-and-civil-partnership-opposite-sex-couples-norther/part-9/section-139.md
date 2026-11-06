@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 139. Judgments Enforcement (Northern Ireland) Order 1981[^c-10d62a8a615f94487b97895a48d267a2]
 

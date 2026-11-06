@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1969/54
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Northern Ireland (the versions of this text differ in extent).
 
 ## 25. Transfers between England or Wales and Northern Ireland.[^c-5bd791c609bc2d6f33a524bfb834717a][^c8355151][^c8355161]
 

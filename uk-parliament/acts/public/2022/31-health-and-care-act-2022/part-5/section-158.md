@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 158. Offence of aiding or abetting etc a person to carry out hymenoplasty: Northern Ireland[^c-061358af61001afef3ec2ea1e8889b68][^c-5772595442d424a6e114a6127d5f40c8]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 244. Duty to release prisoners not subject to special provision for release[^c19069591][^c-3ad5aa8d78ba17800a2fb76fa1b0d9df][^c-ad9c2bc53516bdc69645a8f71e932e46][^c-155c0f69a8116c840c0366b45e57112f][^c-1685a02ce653a5293667f4152e268d38][^c-5549d7a1efe3245b08b1a9eb9b263946]
 

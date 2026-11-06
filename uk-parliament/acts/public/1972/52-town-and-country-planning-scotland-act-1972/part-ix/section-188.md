@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 188. Effect on powers of compulsory acquisition of counter-notice disclaiming intention to acquire.[^c14930701][^c14930691]
 

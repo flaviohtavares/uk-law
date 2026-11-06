@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 466. Alteration of floating charges.[^c17417451][^M_C_77a3ad4c-2cac-4de0-f7f2-03c0721d841a]
 

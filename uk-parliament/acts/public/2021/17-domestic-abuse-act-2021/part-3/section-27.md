@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27. Meaning of “domestic abuse protection order”[^c-51ecea6020d8e7f493dcf7a4af8b8eb0][^c-d1459d9c611ff4e587fa159b43b29986][^c-a2c55742e7284900a1708564e97aeca4][^c-47eec9b3719363a7604aa8423f3f0947]
 

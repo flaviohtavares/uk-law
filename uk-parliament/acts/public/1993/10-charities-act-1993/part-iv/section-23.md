@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 23. Divestment in the case of land subject to Reverter of Sites Act 1987.[^c-c19229d866e13afe36d39b34d22ef788]
 

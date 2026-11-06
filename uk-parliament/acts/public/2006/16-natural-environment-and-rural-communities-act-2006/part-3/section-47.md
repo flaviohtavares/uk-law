@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 47. Protection for nests of certain birds which re-use their nests[^c-50191a71f486225aa9ce108fafed2086]
 

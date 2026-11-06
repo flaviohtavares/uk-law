@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4. Hours for solemnization of marriages.[^c-4e286aa0deb3ff5d828239fa3ca609be]
 

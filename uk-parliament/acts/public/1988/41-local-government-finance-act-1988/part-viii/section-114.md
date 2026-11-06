@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (93).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/41
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 114. Functions of responsible officer as regards reports.[^c13074391][^c-2b957be4b388fd2210ddbc0fc97979b2][^c-610281a5a3a94de9e395476a9ff9ab23][^c-02fd9c80f30a5c4140b4a4f7a9dc3b6c][^c-c6903e0963bc2725c0cbe1f80ea42548][^c-25ef4d7269e1f5a6fc5dc45c02b5ef80][^c-94e93cb0eecaada3c72598f44c91bb48][^c-bfa783e39d8d550000aa950df746827e][^c-25663c6a6f8d9f041e5eb079d571cff3][^c-1ec4bac8c8ed40b1961b53835e952cfa][^c-73f476b82de519610a9c124a8e4d8dc9][^c-9463060c77111798761389a85b190713][^c-912a983ea95698b7bfaba135a90ccd3b][^c-7d33a8e2f03a0f1ca5be8b416232f945][^c-da3d3f0728e01066ce6a5c8408496150][^c-f2ed969f98ec5428a8f6dd5203cd500d][^c-bde3f8fa71c1f1404590733fdbc5b103][^c-0abfac01470298e973664d6690727c48][^c-01af09affccd27a029853363590c4bc9][^c-0c472e7d67e0b4e664ebdaa53696f07a]
 

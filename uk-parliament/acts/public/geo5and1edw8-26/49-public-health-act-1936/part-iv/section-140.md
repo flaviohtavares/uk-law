@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 140. Power to close, or restrict use of water from, polluted source of supply.[^c611557][^c611558][^c-69c21379e7917b8e817aa80fccc46a2f][^c-f5000ac6f93763ec8a533a9d4f3679bf][^c-5d49b893923f4fdb6fcd16282be0be1a][^c-7673e4bbed4792b07e74081b5f232320][^c-9f3b316255994e4c8cbfb2bec2ac7245][^c-a75c8beb194d04c24528ffc02a415443][^c-7eddf7cdfb699f38284ad199a9c54018][^c-0e03bd3541c94f47f155572b024ea4d1][^c-0528587ea20aabd678468ede1beb21bf]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 133. Power to make provision for reconsideration and setting aside of Parole Board decisions[^c-4674d72c2f8d1562ef2777c4666e610a][^c-b6486523982451a3a270079384fd9a90]
 

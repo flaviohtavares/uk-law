@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-04-26.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 46M. Arrestment of property affected by interim freezing order[^c-2355b71b3721684dc0d044569e2c3763]
 

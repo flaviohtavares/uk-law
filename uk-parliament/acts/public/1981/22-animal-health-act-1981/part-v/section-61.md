@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 61. Powers of arrest as to rabies. (affected by repeal, see note) Powers of entry and search in relation to rabies offences[^c-a5c7ecfb78850ae3f88bb9fcce0966ed]
 

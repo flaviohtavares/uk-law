@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (71).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## Schedule 6A — List of countries for purposes of section 203A[^c-2e02eecc79be0b1dd1ee91c2dcd8cc1b][^c-fb436d1cbd4380b246a295f2c5ecd3df][^c-a819ec67b80d30a805dd6aa29eb5d51a]
 

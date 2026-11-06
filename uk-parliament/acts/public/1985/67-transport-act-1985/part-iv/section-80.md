@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (54).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 80. Duty of Integrated Transport Authority or Passenger Transport Authority not to inhibit competition.[^c-27890099608df53aa49f7782fbd18013][^c-e51fdfaa01a65e0933d0cdb7bc3709de][^c-27890099608df53aa49f7782fbd18013][^c-85e9dbaf6bccec3517c9d942c05fd2c7]
 

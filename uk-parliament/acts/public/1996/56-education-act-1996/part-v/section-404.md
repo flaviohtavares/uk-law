@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 404. Sex education: statements of policy.[^c-9ea19d63ce4bdaf21d17b7d363cc0a07][^c-d0d961a285dfcb6cd53d4be9c28711c9][^c-02d3c2d8c32ee14798d3005491b197f7]
 

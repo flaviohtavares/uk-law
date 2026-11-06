@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 121. Modification of incorporated enactments for purposes of Part VI.[^c14926861][^c14926871][^c14926851]
 

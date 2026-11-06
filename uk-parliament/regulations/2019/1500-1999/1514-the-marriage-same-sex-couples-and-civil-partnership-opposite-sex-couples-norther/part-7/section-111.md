@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 111. Pension Protection Fund (Pension Compensation Sharing and Attachment on Divorce etc.) Regulations (Northern Ireland) 2011[^c-8d2de5576d4b305a2161417d92457429]
 

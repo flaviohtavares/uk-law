@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-16.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 21ZB. Payment of arrears of benefit by instalments[^c-42cb128578d404d617f3143d62a29a8c]
 

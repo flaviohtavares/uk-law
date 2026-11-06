@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 332. Duty of (affected by repeal, see note) Local Health Board (affected by repeal, see note) or National Health Service trust to notify parent (affected by repeal, see note) etc. (affected by repeal, see note)[^c-44c659fdf3ae27bfa95ab072d6157d41][^c-a26091f02a6f098b8797ebca0f491930][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-442675bbd548991389bf350f37a7b9d4][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-44c659fdf3ae27bfa95ab072d6157d41]
 

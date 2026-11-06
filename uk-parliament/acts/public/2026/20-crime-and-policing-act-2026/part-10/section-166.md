@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 166. Powers of senior officers to impose conditions on protests[^c-66f98f687e7747653c9ac6d3223b3b39][^c-dc2ce8a59ca563007bf17b770fbfc9dc]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 83. Power of OGA to give a notice under section 82(11) on own initiative[^c-ac3afb3ae42995106e087f3f4b8251b3][^c-b4d2556915f24ea80d777e8ab3d42f0d][^c-3d9355bb10f39f8d38ccfffb946fabdb]
 

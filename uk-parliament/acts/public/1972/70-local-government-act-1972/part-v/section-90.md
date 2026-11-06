@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 90. Term of office of persons filling casual vacancies.[^c15096431][^c15096441][^c-fe80ba9eec17fcf69dabc06f04dc3a08][^c-5a37d998d036901a96137356204b1653][^c-e3f07d9eccf075d63bd36d76cc792d30][^c-1551ddf38c187376cac27b875c328132][^c-5a0b3fba4c43364fb4776cd4586ee41e]
 

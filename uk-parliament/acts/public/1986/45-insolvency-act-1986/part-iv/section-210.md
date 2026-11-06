@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 210. Material omissions from statement relating to company’s affairs.[^c15573961][^c20433461][^c-193d23aedac1ca7a27837cacfcce584c][^c-aa1721d66543a103223e8586e049dce1][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-27c740bc34b14db40a2e339d730c551d][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

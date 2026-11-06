@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 136. Power to validate contraventions of section 135[^c-66acba3d14f5499b269c4889d45ba52b][^c-a7ed8489e179b987a8f0f27af89fb104][^c-8ae4f61b00045ebee33fee3b22100c82][^c-2494977fdf7a9ffce3130b2d8686d3a9][^c-a7ed8489e179b987a8f0f27af89fb104][^c-8ae4f61b00045ebee33fee3b22100c82]
 

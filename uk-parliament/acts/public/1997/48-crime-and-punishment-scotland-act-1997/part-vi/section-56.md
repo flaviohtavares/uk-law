@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2022-05-17. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 56. Powers of the court on remand or committal of children and young persons.
 

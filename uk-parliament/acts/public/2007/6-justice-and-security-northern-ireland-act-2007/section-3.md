@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2023-06-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 3. Preliminary inquiry[^c-be6c73f739a1ae42a32c9760c64fd1d7][^c-003cb78ef249d9fc4c99edbf82d94de4]
 

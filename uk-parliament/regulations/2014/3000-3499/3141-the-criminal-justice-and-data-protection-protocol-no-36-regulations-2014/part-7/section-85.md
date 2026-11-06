@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 85. Requests from other member States for monitoring supervision measures[^c-ac19f1ee218df2753ef1da13163ef763]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 102. Compulsory acquisition of land in connection with development and for other planning purposes.[^c14925771][^c14925761]
 

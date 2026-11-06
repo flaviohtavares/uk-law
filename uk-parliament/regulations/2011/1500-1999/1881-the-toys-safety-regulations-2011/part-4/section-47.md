@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2011/1881
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 47. Instructions to approved bodies in relation to Type examination certificates[^M_E_7a491953-7dc2-4993-a17e-f99153e6e152][^c-5978c78677a8fe34e72c299ec59eaf7c][^c-a9815b0b961b1b03a822abd3acf66e49]
 

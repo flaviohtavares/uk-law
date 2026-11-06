@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 329A. Review or assessment of educational needs at request of responsible body (affected by repeal, see note)[^c19120791][^c-a26091f02a6f098b8797ebca0f491930][^c-80df082308f18fb22a0666fc5b9cb1e3][^c15247371][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-a26091f02a6f098b8797ebca0f491930][^c-44c659fdf3ae27bfa95ab072d6157d41]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 4 — Repeals[^c-95090a346f8259c2ba548f6b8ffbcf50][^c-9510b7a0913bed223291581c788df225][^c-f30de890c1d27a504e62fac9d6cf3688][^c-6d053e182ec9fd59e8f6a20fc29329d0]
 

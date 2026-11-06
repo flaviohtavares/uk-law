@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63. Accounts, reports and forward plans[^c-ee1f4eac52f7f37b4a17f8531d6465b2][^c-a04c5af568333317d2a8736ca3bc9f63]
 

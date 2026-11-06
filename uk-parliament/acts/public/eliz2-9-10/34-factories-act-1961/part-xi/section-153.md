@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2016-07-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 153. Provisions as to county and district councils.[^c-573b86a1f895380cd2929339cb0749a7]
 

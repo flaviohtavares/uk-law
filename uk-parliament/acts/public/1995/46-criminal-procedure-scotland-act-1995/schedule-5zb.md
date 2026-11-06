@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 5ZB — Offences specified for the purpose of section 205ZC (sentence with fixed licence period)[^c-5bb2295066e4310256fb858deef8c6d6][^c-e92a74398890c9ba8e3cda9ef7d42500]
 

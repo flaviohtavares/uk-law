@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 72. Local community safety partnerships[^c-ab2e04c25c1d200ec7a7ed102a7b7c1a]
 

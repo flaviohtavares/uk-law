@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 194. Standards relating to economic matters[^c-0aa0ff9755cc6709a91b38b2c8866e66][^c-abc98b57cfefcd0324f8db3e69ec1204]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 35. Death of registered person.[^c12426431][^c21097291][^c-a2fdec861f29e8a6bf138bd46adab60c][^c-94e5c7fb318787895503f512aa5a16bb][^c-8fea573be3638368fba80de3945c693b]
 

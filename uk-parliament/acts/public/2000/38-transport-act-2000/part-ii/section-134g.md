@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 134G. Guidance[^c-926b818f80b9729b35c156e0b3bb59e3][^c-2850519bb6ef94e31a825d5132bc4dc8][^c-c05adb8597f2acc398b3fefbd54794ff][^c-e31b873c69e07bc52340dd07efdc0caf]
 

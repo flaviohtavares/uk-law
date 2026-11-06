@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 265. Creditor's petition: debtors against whom the court may make a bankruptcy order.[^c15577181][^M_C_32489c55-763f-44eb-84ba-88e396f21005][^c-9862f9d3b7a97ed19b5a5ecce763f8ef][^c-14ec49f9c1e2ff4bd76af50d267c4e9d]
 

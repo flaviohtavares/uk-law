@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 119. Reference of matter by councillor to overview and scrutiny committee[^c-7b3275c2cc02d5c6c0eaa6280876464d][^c-e651957be1323b10eb73f74b5252cd2d]
 

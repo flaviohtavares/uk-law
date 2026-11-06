@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 37. Payment of surplus to employer.[^c-7fc3ade432157bfc759b866df29d8ed7][^c-c6425ee5b74b7b0df0f91550a4ade863][^c-042d9f9eabfaa391df651faa40039c2a][^c-6e3c86d244924671205f4fe279e2e624][^c-780bd3e8547de65ce4c11e0ffb6e86ee][^c-bd3da318473688b4e0cef666927511bd][^c-47e4585b7a042870b6baaedd180a7811][^c-440a7fecd1998630693a4a0287f93f03][^c-cbf35ba0bbd14b6af786e37a4bf0d3bd]
 

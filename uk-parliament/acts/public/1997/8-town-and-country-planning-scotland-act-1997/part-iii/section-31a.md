@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 31A. Planning permission in respect of operation of marine fish farm[^c-9dcc3957053ce16019032608c35c1684][^c-df058b895d0ba48f4d58fed9637cea43]
 

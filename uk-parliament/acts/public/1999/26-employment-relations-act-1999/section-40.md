@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 40. Dismissal of school staff.[^c-c4544bf2c6e7d2ef7af1465274d7332d]
 

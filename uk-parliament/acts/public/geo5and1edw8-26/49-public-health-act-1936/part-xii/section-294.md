@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 294. Limitation of liability of certain owners.[^c611806][^c611807][^c611808][^c611809][^c-5a8e912458d13b762608ffa402ac882c][^c-097648bbac44a9575b22cdd6999b9744][^c-7b2207fa990a43cd83b82fb5d8ad1f1f][^c-7108a749455c2369ab7a3b7a7c0e21f5][^c-981d887569796fe34cece7f06b779f81][^c611805]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Administrator appointments by creditors etc[^c-a4f86058f35cead9c7d6fe87b37e1f6b]
 

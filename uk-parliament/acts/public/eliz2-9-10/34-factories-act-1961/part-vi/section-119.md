@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2016-07-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 119. Power of inspector to require certificate of fitness for work.[^c-306271280163b2818c5066d72076940b]
 

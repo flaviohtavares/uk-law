@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 12. Duty to take action in respect of electrical equipment placed on the market which is considered not to be in conformity[^M_E_d8d9e9e6-7e10-4922-da9c-0ec42b9d21f7]
 

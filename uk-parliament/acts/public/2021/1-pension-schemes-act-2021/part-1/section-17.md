@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 17. Continuity strategy requirement[^c24458221][^c-591f9337c05b7e709d1a90b986bdbe2a]
 

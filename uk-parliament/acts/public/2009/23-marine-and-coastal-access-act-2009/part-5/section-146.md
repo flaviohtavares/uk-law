@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 146. Consequential and transitional provision[^c2007921][^c-7c73faacfeae52fd9a540f818b7bee68][^c-abb0f2511ea32c491cef7fe18a3d9d06][^c-abb0f2511ea32c491cef7fe18a3d9d06]
 

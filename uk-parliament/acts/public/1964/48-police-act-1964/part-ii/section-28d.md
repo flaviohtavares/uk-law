@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 28D. Power to give directions to police authorities after adverse reports.[^c11163891][^c11163901]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 128. Financial penalty deposits: powers of vehicle examiners in Scotland[^c-6d42cda24b03f8c396eeb6f5ec6b6d7b]
 

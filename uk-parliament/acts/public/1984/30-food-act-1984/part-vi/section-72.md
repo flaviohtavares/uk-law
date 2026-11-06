@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-18.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 72. Local authorities for purposes of this Act.[^M_F_81d352c9-d2ba-460c-bba0-5d17534055f6]
 

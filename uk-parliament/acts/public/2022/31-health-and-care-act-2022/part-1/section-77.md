@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 77. The NHS payment scheme[^c-15585f8c6178bdf88f9f56fba48e5799][^c-1ceb17434ffabfa6cd0db3c507ae2f6a][^c-48a98eadb7fcc5e33aac9979cc87a0af]
 

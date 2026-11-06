@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (93).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/41
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 115A. Duties of Mayor of London and London Assembly as regards reports.[^c-2b957be4b388fd2210ddbc0fc97979b2][^c-610281a5a3a94de9e395476a9ff9ab23][^c-25ef4d7269e1f5a6fc5dc45c02b5ef80][^c-94e93cb0eecaada3c72598f44c91bb48][^c-bfa783e39d8d550000aa950df746827e][^c-25663c6a6f8d9f041e5eb079d571cff3][^c-1ec4bac8c8ed40b1961b53835e952cfa][^c13074661]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 81. Amendment of regulation 37 (procedure on close of petition)[^c-57a32f9149d5060d5edbdf7b80fbec35]
 

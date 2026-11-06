@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 40. Delivery of crossbows: Northern Ireland[^c-7c50252592b74fcde44f3433aa7f0f66]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 31. Dissolution of joint committee (affected by repeal, see note)[^c-46812a7bd43f3dfc26e0b9c3f3dc9df9][^c-97ed7e820ddfd27150f5b35d80e30394][^c-66b206efe3e504a200801217f5a84a3a][^c-66b206efe3e504a200801217f5a84a3a]
 

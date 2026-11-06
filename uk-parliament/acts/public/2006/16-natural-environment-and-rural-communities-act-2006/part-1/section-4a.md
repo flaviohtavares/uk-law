@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4A. Supplementary provision[^c-d8225ca1dca0d1157c9f35aa595ce07f]
 

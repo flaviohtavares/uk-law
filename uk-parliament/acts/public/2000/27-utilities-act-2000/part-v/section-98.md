@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/27
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## 98. Help for disadvantaged groups of gas customers.[^c-7ecaedc117a8f8bcf9d5507012ac97a1]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-03-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14. Offence of displaying on access land notices deterring public use.[^c-f8c892029e11a4a436627bf7b808ec40][^c-9c24604f08b1de628d99e4376879767e]
 

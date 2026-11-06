@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 74A. Transitional provision in relation to EU Exit[^c-b3a4c48a8aa4d324672377909a7707f9]
 

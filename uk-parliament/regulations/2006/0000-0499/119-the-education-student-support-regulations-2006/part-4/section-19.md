@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19. Standard entitlement of new system students on end-on courses and certain degree courses[^c-cffd2a59a6d9484badaf029d5fc2160a]
 

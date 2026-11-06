@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 75A. Ordinary adoption leave[^c-c527fb54b1726bf94b0ce4253ba54f4a][^c-5b35f906b0356197fd08d1530aef81a0][^c16407471][^c16328681]
 

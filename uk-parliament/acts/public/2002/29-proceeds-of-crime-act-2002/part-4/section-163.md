@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 163. Effect of order on court’s other powers[^c-da72392500b737a3f098182891702aa5][^c-e3634034bab4be7cd4cb838ceea63874][^c-e3634034bab4be7cd4cb838ceea63874][^c-8f36befb1a0a729f39ff83a5746a9374][^c-c17adb1df6d097eff0772533ee9e24f5]
 

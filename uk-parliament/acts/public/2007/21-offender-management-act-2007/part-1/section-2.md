@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Responsibility for ensuring the provision of probation services[^c-cdd8f1877731ff9408b29a8fe90e5ca9][^c-cc1944cbd7f834e8e2eecf303fdff303][^c-2b031d5d28720dd1338c1750c4145f09]
 

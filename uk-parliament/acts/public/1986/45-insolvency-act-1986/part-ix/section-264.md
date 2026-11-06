@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 264. Who may present a bankruptcy petition.[^c15577101][^c15577111][^M_C_e2dd006c-ab4f-40d2-9865-150b64024169][^M_C_5ca5fe90-4f5b-4f76-a387-94c44a32ad98]
 

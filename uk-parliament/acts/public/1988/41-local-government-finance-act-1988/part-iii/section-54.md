@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (93).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/41
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 54. Central rating: liability and reliefs.[^c-fa1a2226859ed8a4430e8eb77c52b354][^c-01a51e628842397163f3b0ad072e46e3][^c13068491][^c-a0e24137201ecfa5adbc071e2ba86531]
 

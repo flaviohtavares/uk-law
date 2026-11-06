@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2022-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21. Pensions payable to judicial officers etc. by local authorities in England and Wales.
 

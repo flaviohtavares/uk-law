@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 18. Commission's general purpose[^c-9d3ecc9523cacaafb2ebb6555303d3eb][^c-d195a2afd9b6c5a649b2231d18857cc3]
 

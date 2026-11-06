@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 24. Notice etc. of applications to owners and agricultural tenants.[^c14915221][^c14915231][^c14915211]
 

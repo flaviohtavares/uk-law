@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2016-07-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## FIFTH SCHEDULES — Provisions of the Factory and Workshop Act 1901 applicable in London and Scotland only . . .[^c14259351][^c14259361]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4. Duty to identify children not receiving education[^c-00a8d1cc955cbd3170f8c247226ac2a3][^c-3717189f32056df8d30e395843cd751a]
 

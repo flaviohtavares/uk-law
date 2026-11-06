@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 138. Effect of scheme.[^c14881141][^c-2850519bb6ef94e31a825d5132bc4dc8][^c-c05adb8597f2acc398b3fefbd54794ff]
 

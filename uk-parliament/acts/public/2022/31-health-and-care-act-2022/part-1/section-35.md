@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 35. Modification of standard licence conditions[^c-0eb6350968ae4d8f28bf8b4aee70527d][^c-8fb1a84ad277152f7b0a9499333d4764]
 

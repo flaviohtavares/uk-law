@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (79).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 44. References to First-tier Tribunal or Upper Tribunal[^c-76592dddff115b1d00df3f5a5150c20a][^c-3543cc80fc5537a9bdec3484a679fc9c][^c-ea58d86f150e464342b1b22ae8cb30e8][^c-76c8d26be708e4539154633f88eb79bf][^c-45e2706d409c8dff57f2a70f5a6e8bc7][^c21655351]
 

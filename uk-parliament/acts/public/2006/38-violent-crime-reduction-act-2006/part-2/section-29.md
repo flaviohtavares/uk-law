@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2021-07-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 29. Penalties etc. for offence under s. 28[^c-f9395baa97ec1f2f273d655031da079d][^c-ea4d52482532c48a718b15f08429c382]
 

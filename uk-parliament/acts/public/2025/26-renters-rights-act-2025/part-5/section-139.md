@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-22.
 >
-> Extent: England, Wales.
+> Extent: England, Wales, Scotland.
 
 ## 139. Application to Parliament[^c-ddc196e145d08867412c70a64d55ad34]
 

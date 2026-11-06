@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 215. Smart meters: extension of time for exercise of powers[^c-eb59bff198fe984d97638e4fa5fa3627]
 

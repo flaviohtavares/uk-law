@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 178. Early medical termination of pregnancy[^c-faf61433cc2b04c0837bca27813c4bf0][^c-1a08e536ab60e6556bb299946e20242c]
 

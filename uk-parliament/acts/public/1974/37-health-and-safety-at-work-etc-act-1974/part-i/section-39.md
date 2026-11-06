@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 39. Prosecutions by inspectors.[^c18895491][^c7812381][^c7812391][^c7812401][^c7812411][^c7812421][^c18895511][^c18595021][^c19678551][^c20459571][^c20461961][^c20955121][^c20954781][^c20955671][^c-0fe72d9a6077d9cfd7b83aac041509d3][^c-1042df548d92686831b8d5ea87d283dc][^c-af065517f7c09749b7fba44f7592a251][^c-41b156a53449b4ee62b2055a8c7761f8][^c-5a84a469a92beb4e09cb27a782fea20d][^c-bacfb4a51a31437c8222f6c9a4a8e9d4][^c-ea6bea5aa286ebb3cc7cd8ca62a7d14c][^c-035982209783d07fc96f7b11c8d2f945][^c-e0920e399cf476e9a96f728f0988387a][^c-69e5f273eecee9a293eb402fd81df4de][^c-225e14afa777b1cb5802e51a6fa33a86][^c-0f774f17490bb853cd60946dc8ec4efa][^c-273dde53ddd8a6541dcf44f79ace6dc5][^c-1168795264cee8fec22e9c491ab47548][^c-c6fb01955100a2e91fe39b67d4d1fa15][^c-ed5ac995a5c099a559aa91f5b2244cfd][^c-08ab178bc178514afdc81b0ddd157add][^c-7a5733ff74e25da4093b4e841effdb6f][^c-da2c457585a399b6ab8a55c69e42069b][^c-e42099514746ae0087ac44a94db66d30]
 

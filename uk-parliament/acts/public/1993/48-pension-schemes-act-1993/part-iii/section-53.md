@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (105).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 53. Supervision: former contracted-out schemes.[^c-36c0be76be1b6fd5cec0810cc40b7b90][^c-5b59c67d84c98c01e07124d7b1234362]
 

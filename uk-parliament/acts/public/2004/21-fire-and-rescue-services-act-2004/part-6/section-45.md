@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 45. Obtaining information and investigating fires[^c-ecddf089ab7b1624510853938cfc5efc][^c-7169edc6e5c5d6042710fe8257296000][^c-ccc0044537dc79e7532506532e820288]
 

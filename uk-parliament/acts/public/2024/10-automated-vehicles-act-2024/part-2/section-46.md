@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 46. Meaning of “user-in-charge”[^c-989dd8a8f6ce76f6cb53f29cae477180]
 

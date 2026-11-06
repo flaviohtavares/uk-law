@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (261).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 87. Drivers of motor vehicles to have driving licences.[^c13978791][^c13978801][^c13978811][^c19130701][^c-070c115c5370cbc47f436eed31c22ce2]
 

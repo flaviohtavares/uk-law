@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 106. Independent inspectorates[^c-432675cfd91e295760d4d0a8f62f412e][^c-0afbd7c126e431cd6f3f65c25cdbb959]
 

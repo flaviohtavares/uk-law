@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 163. Functions of Qualifications and Curriculum Authority in Northern Ireland in relation to vocational qualifications[^c-9bd077f0d2e0bc7c78cc1d5bdaaf4e38]
 

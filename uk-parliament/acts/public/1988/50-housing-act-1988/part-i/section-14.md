@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/50
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 14. Determination of open-market rent by tribunal.[^c-ade4c9df26615156ada67b368b756f52][^c-2ec48c5fea40afaa87d507960c3c7d84]
 

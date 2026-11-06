@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (13).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/3
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 80. Extension of powers under sections 135 and 136 of the Mental Health Act 1983[^c22719161][^c-8e2f886044bdca24641a57be0e8990a3]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 86. Procedural requirements relating to decision under regulation 85(4)[^c-ac19f1ee218df2753ef1da13163ef763]
 

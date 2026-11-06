@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 176. General medical services: transitional[^c552146][^c-837e7d0ecb09b6ca3f7d02e96b95e226][^c-48f9cba92f2e5d97a8f96f8a73fada0b]
 

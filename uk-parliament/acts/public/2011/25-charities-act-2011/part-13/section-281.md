@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 281. Power of ... charities to spend capital: general[^c-c89a893fbe5b33f11dbba759c7e69428]
 

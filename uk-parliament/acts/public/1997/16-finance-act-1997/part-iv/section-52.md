@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 52. Enforcement by diligence.[^c-4ffc4ddbb893c153cf740a127a7b08a4]
 

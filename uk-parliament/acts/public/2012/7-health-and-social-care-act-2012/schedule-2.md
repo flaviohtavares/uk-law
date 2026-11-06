@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 2 — Clinical commissioning groups[^c2191375][^c-85b96d66e030cd8ac059d65ee7d39d35][^c-4493134d8f81617b87cb9fe9ae3a8fcb]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-10.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 114. Amendment of the Annexes to the Directives[^c-cc32a5b873bd5e57926dad5605e38883]
 

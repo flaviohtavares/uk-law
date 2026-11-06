@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2026-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 2A. Duty of Health Board, Special Health Board , the Agency and HIS to promote health improvement[^c20957791][^c-7b8feca8d08d3ac5eaf43f326d65e295]
 

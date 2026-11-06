@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-03-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 20. Codes of conduct and other information.[^c-62b198205928715b9201b88a6f012298][^c-e771778bfb8a4bb42e1dc877ef3dc84f]
 

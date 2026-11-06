@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Planning Act 2008: legal challenges[^c-5e2ad42b7f90f4a711a0a1c19adbb4e3][^c-212bf6eb5a855ba7072854afd7e1bf1c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 118. Stopping up of footpaths , bridleways and restricted byways.[^c13423641][^c13423651][^c13423661][^c18588981][^M_F_f119bc3b-0063-4ea6-c959-574e55b898c4]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 4 — Rights exercisable by surveyor appointed by tenants’ association[^c-279f11781c6ffe768057cd7d2b11aad8][^c-e417f5589c904a267bc5995ddf912b0f]
 

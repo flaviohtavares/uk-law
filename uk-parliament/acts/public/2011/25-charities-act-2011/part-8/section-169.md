@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 169. Annual returns by registered charities[^c-a1bc223abf562f1a89e22d5429ab8de3]
 

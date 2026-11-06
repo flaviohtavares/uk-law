@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE A2 — DECISIONS ON REVIEWS BY PERSON APPOINTED BY WELSH MINISTERS[^c-78337d27316ef2c213e2d2d96e79fa6d]
 

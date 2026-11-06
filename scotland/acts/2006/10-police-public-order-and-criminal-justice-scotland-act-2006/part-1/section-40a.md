@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2025-06-25. See https://www.legislation.gov.uk/changes/affected/asp/2006/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 40A. Arrangements for handling relevant complaints and investigation of whistleblowing complaints[^c-2065a37140436b639012b33a48466cbb][^c-fe4504892f3e5ef306c7b59e560213ce]
 

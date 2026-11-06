@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 58. “Relevant employer”[^c-88784b5da7bc80ce240a85d43548c8a0][^c-45d2616f3869b1db7f2760aba32ce7cf]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 62A. Slaughter: power of entry[^c-ffb0f8bc83690a00155489f2cef97afe][^c-4e0ae1ca8e302ce63a71403f1e9fb194][^c-429dd5823abf340586d4353644a7355f][^c-d397dc16dac73dd6d65346554427995c][^c-66cb1d15bcc373191e8fc8cd4254b48f][^c-c84f172c1e54bbe1ad820e0b4e2f90cc][^c10346451]
 

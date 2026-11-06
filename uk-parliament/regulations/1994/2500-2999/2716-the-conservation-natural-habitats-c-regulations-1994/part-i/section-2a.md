@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-10.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 2A (Extent: E+W) (affected by repeal, see note). Interpretation: the Directives (Extent: E+W) (affected by repeal, see note)[^c-85698affdea67d511ac1a9f0c9af2173][^c-2dd38f22e3f0e7272da0337fa848725f][^c-2dd38f22e3f0e7272da0337fa848725f]
 

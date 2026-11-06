@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 102. Accused’s response to statement of information[^c-ffe464f16a0b7c6cd0cd8f1ac184ae5a][^c-d59f6c2a9c42161ca1815c0c61d9e1f6][^c-d59f6c2a9c42161ca1815c0c61d9e1f6]
 

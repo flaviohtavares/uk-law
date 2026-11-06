@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2026-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 12IM. Reporting on staffing[^c-bb7d01cded0297b8a5c329ba49114858][^c-b45a9dfc6780252e081c3e48bdaf09d8][^c-472691e146cf13f51fe060855c61e330][^c-06ed72f91de332e26f1a8f2d0c451b6a][^c-579c923316e143a968d434aa55ba11ee]
 

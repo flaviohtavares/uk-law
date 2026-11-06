@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/50
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 113B (Extent: S) (affected by repeal, see note). Enhanced criminal record certificates[^c-e37cd2731cc4d003fdff8e0bc2173e84][^M_E_fbc9b0f5-d7fe-40d7-cbfc-55d25271e91e][^c-18291a6dd88b7ac8a1b42216c7a67f7e][^c-537f1cfef743da40a0ea29a8029de155]
 

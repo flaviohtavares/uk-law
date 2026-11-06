@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1597
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 18. Functions of approved bodies[^M_E_5c7a31a8-2868-48b2-9ca9-d3dd34f09f6d][^c-03c521b98a6d5cb836f415dab7d69a0e]
 

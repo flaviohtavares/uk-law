@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 76. Transfer rights[^c24480851][^c-c6d5261c9a0e6a6d373445a134d3998e]
 

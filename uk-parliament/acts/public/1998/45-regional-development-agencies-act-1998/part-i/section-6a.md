@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2012-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6A. Delegation of functions to the Mayor of London and the London Development Agency.[^c-6b4e21042d52009937c8a370bcc57d1d]
 

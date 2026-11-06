@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 21. Regulations relating to information: parliamentary control[^c-49b723a1a25ca05999a576fc163bdc4f]
 

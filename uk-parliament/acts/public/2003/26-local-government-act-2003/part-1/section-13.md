@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Security for money borrowed etc[^c-dd14f9e41e8c397da7b9e4b8d1085ce1][^c-343c5d6962f68d194dd4fcdc227cffbb]
 

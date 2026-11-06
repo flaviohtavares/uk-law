@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 26. Remission by Crown Court to youth court or other magistrates’ court: custody or bail, and appeals[^c-3415cdd80f1f67f85d975de22debcc0b][^c-048a4a76c03c86623a7826b98f17b7f9]
 

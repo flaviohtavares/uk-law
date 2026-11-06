@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 49. Plans certificates[^c-d61fae5e7fd2acca6a549aacdf40afff][^c-014c6fdd69720bc129634585475b9caa][^c-f63208d7e81f58dac9eb6936e5c48373][^c-43a8c4b1c80ba37069d61cf50639a3c1]
 

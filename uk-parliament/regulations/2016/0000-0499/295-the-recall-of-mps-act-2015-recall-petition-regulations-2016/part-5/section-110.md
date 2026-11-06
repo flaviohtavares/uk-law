@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 110. Lists of rejected postal petition documents: England and Wales and Scotland[^c-c813065df68480fb0c75c695263c30be][^c-9f74a3b2692e090bea274d38402c6361]
 

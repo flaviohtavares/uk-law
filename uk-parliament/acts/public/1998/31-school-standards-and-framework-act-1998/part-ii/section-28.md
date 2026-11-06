@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28. Proposals for establishment or alteration of community, foundation or voluntary school in Wales.[^c-43d4563f20c710bc80d340efcacdc378][^c-bed7181b17039a756b9f90b4f9c53093]
 

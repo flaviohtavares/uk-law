@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 137. Scope of modification powers under section 136[^c-bfa84b2cb8f8d39ac489822ad8067f5e]
 

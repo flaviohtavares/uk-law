@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 187. Common standards for compulsory purchase data[^c-8dca5666bb6ef2cab8a20c79195664c6][^c-d76e8dd63a9b98a7f733cea9d5bb743b]
 

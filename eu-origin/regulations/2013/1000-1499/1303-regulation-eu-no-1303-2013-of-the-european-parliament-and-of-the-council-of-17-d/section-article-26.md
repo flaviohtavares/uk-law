@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-06-16. See https://www.legislation.gov.uk/changes/affected/eur/2013/1303
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland; Scotland (the versions of this text differ in extent).
 
 ## Article 26 (Extent: W) (affected by repeal, see note). Preparation of programmes (Extent: W) (affected by repeal, see note)[^c-89dc04f895112ad63c0e89827e8679a9][^c-45f0588b8a671a076579a96026205fe8][^c-9202ae8b3b1d89c905a530aad59f19a91][^c-45f0588b8a671a076579a96026205fe8]
 

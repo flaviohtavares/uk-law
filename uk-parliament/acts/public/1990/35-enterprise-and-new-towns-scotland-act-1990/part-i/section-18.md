@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2017-04-01.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 18. Prohibition on discrimination in provision of certain facilities or services.[^c-5449c22b82aeae21a801caaf66069aa9]
 

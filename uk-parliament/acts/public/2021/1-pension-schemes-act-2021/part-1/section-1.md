@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 1. Collective money purchase benefits and schemes[^c24458061][^c-7ec1d36e0ccbafb10be82719604dda54]
 

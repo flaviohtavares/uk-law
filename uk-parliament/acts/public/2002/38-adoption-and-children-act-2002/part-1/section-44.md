@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 44. Notice of intention to adopt[^c-d47d5d7284443f5ac707c27bd898547b][^c-9723f90b5b75d498f73935d38fe5b8c8][^c-38638d4bca79edb770c46021e9fe0522]
 

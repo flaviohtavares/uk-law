@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 258. Form of protection[^c-9d6532bc52668a99934660cfcf2151a5][^c-37b00f998aed38022d9b4ff1fb276827][^c-abb395844c0413c096f8177464d08e7d][^c-2368d8795cc41f13c690d28dc6f37bfe][^c-c4808db994c0451af18e599709edca17][^c-833ce31333ec76ff2f55f113dfe69a89]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 52. Charges in respect of certain discharges in England and Wales.[^c-1d8f4d8c24ff430272e7923d0a3cc11b][^c18907411]
 

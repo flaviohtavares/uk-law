@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 118. Suspension[^c-686736a3e053c5407e01289ed8b52b12][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-c9eb6008395a70b774ec6043718c2440][^c-e1f6e585bac667309e250f830e864ec8][^c-6f38c74899ff41de2712996093bbf6d8][^c-900a658546e2a9307c8a62e02f7f9b16][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-e1f6e585bac667309e250f830e864ec8]
 

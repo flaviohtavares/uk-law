@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 66. Communication requirement[^c24480741][^c-d9f3ed549e219b65438f0844d2c59643]
 

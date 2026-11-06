@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 40. Emergency supply by water undertaker[^c-e616c0417f6de6932b5e6bae81df5f55][^c-ab9778edc3dba890b21d0a9db4751fbe]
 

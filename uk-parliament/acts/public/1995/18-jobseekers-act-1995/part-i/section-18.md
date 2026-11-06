@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (45).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; England, Wales, Scotland, Northern Ireland (the versions of this text differ in extent).
 
 ## 18. Recovery of overpayments.[^c22729701]
 

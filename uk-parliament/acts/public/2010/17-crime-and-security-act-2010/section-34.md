@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2022-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 34. Grant of injunction: minimum age[^c-46b448920842051eb9877d6842c96667][^c-8c1532f93caafb6c54f96fd43a6752d3]
 

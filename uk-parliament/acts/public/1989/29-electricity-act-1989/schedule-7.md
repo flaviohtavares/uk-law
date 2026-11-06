@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (62).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 7 — Use etc. of Electricity Meters[^c4121221][^c-8d76577a6ef87cf4ace2b1ab2dd4f569][^c-787821ee0fca16299afcf1fd580cd7c1][^c-bb833cb16b41123c7aca990c5a9e5145]
 

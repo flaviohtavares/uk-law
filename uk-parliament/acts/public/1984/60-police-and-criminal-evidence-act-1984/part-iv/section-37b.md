@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37B. Consultation with the Director of Public Prosecutions[^c18955591][^c-8c8a240f70147d45021e321dcf6cfab0][^c18955401][^c20447581]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## 11. Access to catering waste and other animal by-products[^c-13ecd4358e524f8217ce73ac3012eeac]
 

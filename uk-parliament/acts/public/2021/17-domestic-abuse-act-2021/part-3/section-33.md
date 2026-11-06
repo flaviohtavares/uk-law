@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Matters to be considered before making an order[^c-e6b31dbab95687b93e715455b0c3cdaa][^c-65cda2c65752260d84847f28e8a03194][^c-34b732cccbb85b036517387c4212b8a6][^c-eaa80bf49105ade603f1b7411fd57c06]
 

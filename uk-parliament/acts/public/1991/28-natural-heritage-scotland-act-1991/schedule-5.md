@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-11-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/28
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## SCHEDULE 5 — Provisions as to applications for, making, coming into operation, and validity of, control orders[^c-c2138c8c4a57e16ca6367cb8eeab964f]
 

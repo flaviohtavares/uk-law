@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. Limit on financial commitments of London Regional Transport group.[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 

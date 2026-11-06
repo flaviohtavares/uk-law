@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 100BA. Access to agenda and connected reports: principal councils in Wales[^c-351990584ce588a327d8449bf6653d8b][^c-27faf253ab5efb3d4d9d8174eb30a3e9]
 

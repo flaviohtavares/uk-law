@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 23. Provision that may be made by notices[^c-03a7299d761282dfe9cf2a61c03d04fd][^c-f72601905c7705485ad158b38f2fd2ae][^c-f5ae2871369aabd5005dda7a32e399b0][^c-75447a27e7afe9c078e11a00c70242b4]
 

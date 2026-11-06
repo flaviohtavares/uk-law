@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## Schedule 10 — Discharge consents[^c-0abce2dd348c8ab63eabb034aa73bcc8]
 

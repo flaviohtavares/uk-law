@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Local authorities and fire and rescue authorities: assistance etc to regulator[^c-ea5201df06747c7efd300787d3fc5d8d][^c-8dffcc9fca3587d60e30946f5932cb9b]
 

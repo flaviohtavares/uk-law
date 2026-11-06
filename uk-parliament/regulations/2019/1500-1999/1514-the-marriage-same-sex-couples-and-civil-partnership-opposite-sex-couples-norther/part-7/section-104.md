@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 104. Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005[^c-c7da19ed6d97684d3e48d4bc1ec041f3]
 

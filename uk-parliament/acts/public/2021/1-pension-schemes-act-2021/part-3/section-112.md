@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 112. Fixed penalty notices and escalating penalty notices[^c-34f9b05434ab81ada886b346d9a23d2d][^c-f0603d20e97b4e2f8e1598258510cd4d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2023-08-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 127. General offences[^c-43f61c2542e81d20b739fdc323643ae0][^c-c00030d11d5197eca33925aa5dabe68a][^c-43f61c2542e81d20b739fdc323643ae0]
 

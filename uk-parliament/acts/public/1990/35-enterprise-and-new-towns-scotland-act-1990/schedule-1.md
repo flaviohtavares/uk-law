@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2017-04-01.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## SCHEDULE 1 — Constitution and Proceedings etc. of Scottish Enterprise and Highlands and Islands Enterprise
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 67A. Meaning of “associated”: supplementary[^c-d77d479a46258b7251b1f770def21b75]
 

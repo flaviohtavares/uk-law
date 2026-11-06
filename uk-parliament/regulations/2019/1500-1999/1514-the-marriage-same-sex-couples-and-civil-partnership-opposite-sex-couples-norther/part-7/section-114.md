@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 114. Welfare Supplementary Payment Regulations (Northern Ireland) 2016[^c-089f8b7146f0cdbdc0ddd85d8cff8297]
 

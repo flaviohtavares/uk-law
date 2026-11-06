@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Privilege in relation to law of defamation[^c-01ddd7d74ad577bf74101edf1ceb85e4][^c-17aa4ff64d434eccb0c2cab1656cc983]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 28. Inspectors[^c-376889cda6ebf23b1e91aea5e9efd6ea][^c-822d8fe053fb88e4137d80f255c4a1cb][^c-d686014ca58f0e7b621957238fbfa1f7][^c-7fb1d5ad3e3c0e52c4072e8fa284b313]
 

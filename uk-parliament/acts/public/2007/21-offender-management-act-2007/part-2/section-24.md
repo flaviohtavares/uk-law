@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 24. Offences under sections 40B to 40D of the Prison Act 1952: extension of Crown immunity[^c-c092b31c7145e16f1960d8e96a71f2e8]
 

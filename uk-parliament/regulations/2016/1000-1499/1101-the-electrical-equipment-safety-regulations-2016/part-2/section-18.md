@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 18. Information identifying importer[^c-215996aba10f29d18cdd42c5eecdc90f][^M_E_fa050e8b-cf0b-4ff6-92af-e6fba1a24522]
 

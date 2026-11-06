@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 174. Examination, entry, search and seizure.[^c14882131][^c-dd75bda0103f8b7d711babdd8e9f4278][^c-74dd135a37a5464d52489db33a96f459]
 

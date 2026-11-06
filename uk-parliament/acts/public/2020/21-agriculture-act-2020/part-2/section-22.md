@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2024-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. Modification of certain assimilated direct legislation in connection with exceptional market conditions and for general purposes[^c24383031][^c-94d2cfa836cc255e2dc106bd508394e9]
 

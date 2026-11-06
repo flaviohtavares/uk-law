@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 102. Reintegration interviews[^c-e6a0723bf84492cc27a83b3241b07a2c][^c-72f64caf954e315b7337807c9410c81a][^c-3e6b563cb5d5c77f89bcc56bd959b9dc]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16. Regulations about registration[^c1942172][^c-906946251f180c6a0f2912f155936e3c][^c-031297ca5e68f1eec298afd77659ffb3][^c-2035e0d59a5da2016f9739cfbe249cc6][^c-fe1cef3adfeac5982cc68b4689cf041a]
 

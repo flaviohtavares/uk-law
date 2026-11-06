@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 40. Power to require reports from police and local authorities[^c-2798dfad3456b98052f0f3be7eeb3997]
 

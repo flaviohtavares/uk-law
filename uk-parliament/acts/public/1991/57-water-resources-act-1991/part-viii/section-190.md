@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 190. Pollution control register.[^c18739901][^c-6651973ffcc92743b2ec75e79e658203][^c-fe72c4a664e52429d29ad7ead180f65b]
 

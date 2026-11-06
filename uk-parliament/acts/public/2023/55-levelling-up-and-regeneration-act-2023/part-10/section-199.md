@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 199. Restriction on letting while final notice in force[^c-180ab1cfa691f29907e11c7e19a0c299][^c-2612041c2f8dd176c7dcb2576e43bcab]
 

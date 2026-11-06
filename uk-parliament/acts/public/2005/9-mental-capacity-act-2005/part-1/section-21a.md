@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21A. Powers of court in relation to Schedule A1[^c2090742]
 

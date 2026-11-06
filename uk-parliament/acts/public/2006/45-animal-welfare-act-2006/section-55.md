@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 55. Power to detain vessels, aircraft and hovercraft[^c-0cd0a63b6d70a384ed1934fb099f2ab4][^c-ce316cf65ac7b3107d27d4157430a58e]
 

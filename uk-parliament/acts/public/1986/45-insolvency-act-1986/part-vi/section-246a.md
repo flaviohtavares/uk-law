@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 246A. Remote attendance at meetings[^c-659a9c748aea8c91b3285861bc38a8f3][^c-490358a487bf44bf375a725c76ca9e1f][^c-788371096f8da5425d0cd572175725cd][^c-8fba849871c77e6ca9d09a87fb95e2c9][^c21415971][^c-788371096f8da5425d0cd572175725cd]
 

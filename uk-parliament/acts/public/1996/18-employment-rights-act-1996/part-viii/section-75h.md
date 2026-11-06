@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 75H. Entitlement to leave under section 75G: further provision[^c-94281cd3909aa40faf681a41f3f915f9][^c-d324faf45f43b6a0cf2cf50b89e01456][^c-ffd5e6996ebd7e82f7b6fbec769b4725][^c-f5326a98436c073f4f2dd56b980eecd7][^c16328681]
 

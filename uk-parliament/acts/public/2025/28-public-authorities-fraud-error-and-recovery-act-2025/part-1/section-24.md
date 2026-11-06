@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 24. Bank’s administrative costs[^c-8c0bc49a44d2d03e3b041c6d74206e95][^c-6fd5fc839191b76b64e45da4410fc797]
 

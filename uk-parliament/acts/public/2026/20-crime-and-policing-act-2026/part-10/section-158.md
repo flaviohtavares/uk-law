@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 158. Concealing identity at protests: designating localities and giving notice[^c-025c99b10b0ff88c4e0d97fe22301f75][^c-1c86c92f1f26a16030712cd87eac3df1]
 

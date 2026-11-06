@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## (not yet in force: SCHEDULE 22A) — (not yet in force: fixed penalty offences under part 9)[^c18853051]
 

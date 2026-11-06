@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 436A. Proceedings under EU Regulations: modified definition of property[^c-b7252409f758fdb9f242f0d3b7d93a2b][^c-224d1c85d9e22f7ccbcd907bf8d43120]
 

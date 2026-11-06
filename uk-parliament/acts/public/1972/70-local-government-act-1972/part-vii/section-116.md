@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 116. Members of local authorities in England not to be appointed as officers.[^c15107331][^c15107341][^c15107351][^c15107361][^c18607091][^c18607101][^c18858411][^c18891431][^c20521031][^c-8fafe89064f4c009f1abc0056e24a654][^c-af878fb062a04d44ef26509b608fc944][^c-4b4f2336644906072c47e23d5c0cdefa][^c-ddabf4eb92251a76ef623d4f0b3eeead][^c-e69457f593e374ee53b843e47588f01d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 15. Demoted assured shorthold tenancies (affected by repeal, see note)[^c-5d1715e870b625604918b279ce91e457][^c-1c0b74546e35b9ab5b351c0cbaddfe8a][^c-322c69360d39223b9ba7d492dfe59e4a][^c-322c69360d39223b9ba7d492dfe59e4a]
 

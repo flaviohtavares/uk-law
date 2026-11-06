@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/618
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 47A. Register of approved bodies[^M_E_753540e3-f080-492b-d92a-785a43e6617b][^c-3dfbed4d6b8dea4b242790cd6d0dffd3]
 

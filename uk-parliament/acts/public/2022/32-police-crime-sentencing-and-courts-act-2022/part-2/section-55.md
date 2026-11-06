@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 55. Entry and search of premises for human remains or material relating to human remains[^c-6c868a08ba3221a5c5d001c8a8263174][^c-998567faebbbcd181fb1ce83344aa5a7]
 

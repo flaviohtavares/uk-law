@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 171. Electronically tracked stolen goods: search without warrant[^c-f02e3527c17f8ef9e31251b33be49029]
 

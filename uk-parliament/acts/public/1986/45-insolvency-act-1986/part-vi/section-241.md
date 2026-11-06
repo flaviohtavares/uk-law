@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 241. Orders under ss. 238, 239.[^c18981541][^c20434641][^c20434661][^c-7738a1034daa56777905d15f4142eb99][^c-03e331bc6f241ea57d7ac53d42e5c76c][^c-c09e4b4064547a6f1813de7d4ebfd329][^c-eea912c6b9f77514c69fe450191485df][^c-788371096f8da5425d0cd572175725cd][^c-cc5204a107018c42ba632e0bf792c8fc][^c-788371096f8da5425d0cd572175725cd]
 

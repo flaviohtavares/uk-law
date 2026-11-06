@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 91. Special provision for certain circumstances where disclosure of information as to national security may occur: Scotland[^c-d1e51201591e3b1292e507071aa5d06b][^c-0ae5269b6cf8e3bf5553ff5197a821a5]
 

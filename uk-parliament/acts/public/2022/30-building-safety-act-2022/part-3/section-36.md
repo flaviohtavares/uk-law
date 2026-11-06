@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36. Lapse of building control approval etc[^c-c767bc4483a1b3b5083ea193baf95456][^c-448d8b929df5e304c7ba8c9ec0f520d1][^c-d33acc31e63d37652e80fea3d3678edb][^c-ed07d07062c815f61a269582f28829b6][^c-2b06a4e89433b4cbcad0b3d93c59aeac]
 

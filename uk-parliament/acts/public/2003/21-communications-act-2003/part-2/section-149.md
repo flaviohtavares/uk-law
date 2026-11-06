@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (71).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 149. Grants by Department of Enterprise, Trade and Investment[^c-540e4b022877691aee0f9caca1778ddb][^c-d2091766d107da52d41f2bbc8652322a]
 

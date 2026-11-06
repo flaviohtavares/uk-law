@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/17
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 110. Theft, loss, etc. of temporary event notice or statement of conditions[^c21019711][^c-0592638b11759398d1a1588cf04ade9a]
 

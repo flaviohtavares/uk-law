@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-05-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 86. Consent requirement for services resembling buses[^c-3bf05af9e957fdbd83bdd68635bda64f][^c-9648d01438e9dbbb334d001bb447b4f3]
 

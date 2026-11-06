@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 186. Removal of limitations on Greater London Authority's general power[^c-2797d06ecbb474e19e704eb8ee653682][^c-37f94d1871a77acd8b082c690ba1d4e8]
 

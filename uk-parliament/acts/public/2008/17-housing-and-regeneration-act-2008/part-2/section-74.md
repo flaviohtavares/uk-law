@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 74. Leaving the social housing stock: ending of lease[^c-1d180d642f31cfa1745764528d785fd2][^c-7a52041f40fde4e3b2fd1f543675622b][^c-e8f97ef712cb0d71b176a87f1e51934b]
 

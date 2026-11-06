@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 48. Independent advice in respect of conversions and transfers: Great Britain[^c2249150][^c-0ea02a19fbe4c40c484e88ca23b6552c]
 

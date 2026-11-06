@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. Enfranchisement or extension: new method for calculating price payable[^c-51e566b019c7649ab06804b770527d1c]
 

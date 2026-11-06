@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 130. Compensation orders against convicted persons.[^c-f368f36005e9b4d86637d6b6009bae84]
 

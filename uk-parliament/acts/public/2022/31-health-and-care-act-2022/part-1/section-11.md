@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 11. Information about inequalities[^c-1f72f44cb1d274ff3bdf26b678b1b8a2][^c-3d5752c1d80c65bfd54a0182deedb173]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 53. Powers of entry, inspection and search: supplementary[^c-b49e65c9908950625ed75f3277b98a7a][^c-8d175e67e72a069c958c22cf62659ae5]
 

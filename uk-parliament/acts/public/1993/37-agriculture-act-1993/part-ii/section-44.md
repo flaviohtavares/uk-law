@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 44. Functions under section 19 of the Agricultural Marketing Act 1958.[^c-b0c16fe58116fed4bba7aebce74dca5f]
 

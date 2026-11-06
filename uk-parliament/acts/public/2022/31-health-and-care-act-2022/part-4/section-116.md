@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 116. Response to reports[^c-f1bf6e688c32dc1bb59fe1f5e9659bcf][^c-93d5769247f53b95ae9ff0e58d58b3bf]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 78. Penalties for offences: transitional modification for England and Wales[^c-64a904304af68cdaed24a2bdb8b279b5][^c-a8ac1f3629d83955edbcc5302574f859][^c-95f956b720913ebf3d91d90928f181bf][^c-e8b31a10383610fe29a456bb139c8662][^c-e3dd41eb81f9f05d7eee72a475316c76]
 

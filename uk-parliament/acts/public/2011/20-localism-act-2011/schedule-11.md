@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 11 — Neighbourhood planning: community right to build orders[^c2116715][^c-26e464954b5b4ca58c0e97d2ccc6978f][^c-f0bcb68f836ace6922286b73ab1b78a8][^c-6f9fa2dafb58077e18b8f72b54104c4b][^c-a6aae58eb657a56a23d8c82f1f66e203]
 

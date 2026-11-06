@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 5. Financial conditions[^c-49bee7ab9945f967dcf87a0a3affe78d][^c-7b4e0e2ed322102bd9964d147a81843f][^c-f0c316d9d1b0dfd0e226e5ef4e030922][^c-f213ce920738e4c21e222d1d51926837][^c-8afeadc6ce2367d110bdc01dcf6c60b4][^c-96da6038c31d42f3dacee1397c4eadb2][^c-73a2879f4a344b595fe465963edc2868][^c-e6c6b8f0cfce9ea4a91c6f405972748e][^c-04bfecb27c9fbfeeaba7bced6d3fcbc7][^c-fc863639a91b96e7444727f45fbc79b9][^c-80c47b1f64e45df2c82ff2f7f727d3f6][^c-b2dbc5810a4277fbbbf3c457a88e0664][^c-ea90078d693761a2464fcf18fbf92fbf][^c-bca11e7225699bc683b6c6bd2593ae1e][^c-f65a23fd670a841a00187a6dffeb9375][^c-43b214f011fc90f43cc1516fd98c28c6][^c-22d4bb215624764cfd8054273652fdca][^c-561088c22ca3b39e164fccc9f886e767][^c-22fb0e0176e119e15680b68c907f4577][^c-e734f02b66005f533baa25b8bb27e9f9][^c-f0c316d9d1b0dfd0e226e5ef4e030922]
 

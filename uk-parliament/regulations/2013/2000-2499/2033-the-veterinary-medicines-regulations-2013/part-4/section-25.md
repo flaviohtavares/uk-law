@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-05-17.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 25. Importation of an unauthorised veterinary medicinal product[^M_E_3220cdd9-27cb-439b-cb58-4f67cc9157ed]
 

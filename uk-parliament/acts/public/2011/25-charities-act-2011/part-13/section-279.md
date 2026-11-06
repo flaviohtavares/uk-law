@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 279. Replacement of purposes in accordance with s.275[^c-ed8b32464fe9310a30865bcb8ab0b7a1]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 404. References to parent or guardian of offender where local authority has parental responsibility[^c-5107e8a969c262fb59225c862657f932][^c-6c9b2b994a6e476d83d39da024ba169b]
 

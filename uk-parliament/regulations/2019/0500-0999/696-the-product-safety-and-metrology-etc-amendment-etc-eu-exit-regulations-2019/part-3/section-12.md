@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 12. Amendment of the General Product Safety Regulations 2005[^c-e7c98b7d52f433de7cb251b2739dc608]
 

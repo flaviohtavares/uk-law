@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 95. Smoking in a private vehicle[^c-9d7c1661eee800807c640aa517b1ea54][^c-ec04ce12f19d07d5a5441b87b0b4e15b]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Places in which marriages may be solemnized by common licence.[^c-5eaf46b4816a711c0d9cc5976030e6fa][^c-ce24e6a84f1862417cc914a4cea00a19]
 

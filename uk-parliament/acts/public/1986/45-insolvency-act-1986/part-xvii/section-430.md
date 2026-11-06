@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 430. Provision introducing Schedule of punishments.[^c15585831][^c15585841][^c15585851][^c20441371][^c20441331][^c20445971][^c-9a534a429aaa5cc3603bfb3eec33ae90][^c-05d3e3b1e2ee844b69f64ec0c087c0c7][^c-d39c713388d98942017e03d48762c243]
 

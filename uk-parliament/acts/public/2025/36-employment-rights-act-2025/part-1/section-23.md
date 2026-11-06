@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 23. Protection of disclosures relating to sexual harassment[^c-5a4c9589c7bd848b75c3f511c7dadd10][^c-6606f3b42e4a172be0d652a971142745]
 

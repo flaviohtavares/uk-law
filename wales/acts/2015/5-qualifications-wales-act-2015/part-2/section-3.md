@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-08-01.
 >
-> Extent: England, Wales.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## 3. Principal aims of Qualifications Wales[^c-06a698cb9d6210dcc2de9855f26e4a82]
 

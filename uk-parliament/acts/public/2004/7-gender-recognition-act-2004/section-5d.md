@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 5D. Protected Scottish civil partnership: power to make further provision for issue of full certificate[^c-06ed41607177cd0801f91b6590890da0]
 

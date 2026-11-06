@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6. Code awareness and reviewing compliance: criminal justice bodies[^c-9f223e4a949f5818b790d0f53e97af08]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 7. The conditions.[^c-ce07114f8a41d85b469a1fccdaa6e69b]
 

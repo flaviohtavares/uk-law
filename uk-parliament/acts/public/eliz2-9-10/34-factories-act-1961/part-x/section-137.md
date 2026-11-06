@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2016-07-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 137. Notice of occupation of factory, and use of mechanical power.[^c-36a48469391a7790db87f1a6854f7ce9]
 

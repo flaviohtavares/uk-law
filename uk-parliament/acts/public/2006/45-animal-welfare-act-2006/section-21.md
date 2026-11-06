@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21. Orders under section 20: appeals[^c-568535f283db03836ca61d6931e126c9][^c-e8f30fb1ea6b01e2855940d9cae5bdcc]
 

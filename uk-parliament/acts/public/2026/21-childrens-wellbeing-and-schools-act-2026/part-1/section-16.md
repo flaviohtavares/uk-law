@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16. Financial oversight[^c-6b0c6f191d4b201a77a3057c25b31bdb][^c-017a70ada56469e9e673d044b409b150]
 

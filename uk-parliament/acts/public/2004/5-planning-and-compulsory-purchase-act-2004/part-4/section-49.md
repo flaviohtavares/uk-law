@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 49. Development to include certain internal operations[^c-ed5d81575fcd1d22097b7105fcb82d15][^c-a7aebc193dbe369ef992235adf9b1c6c][^c-53f8cfeaac8e5d6f78c2e3879632338a]
 

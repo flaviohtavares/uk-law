@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7. Administration of poisons etc.[^c-56809ed0bf17edf43b2cd09111dc308e][^c-64e652463e26ade0f868c8f0526a528a]
 

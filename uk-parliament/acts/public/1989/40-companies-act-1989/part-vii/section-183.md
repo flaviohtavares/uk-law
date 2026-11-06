@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2024-01-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 183. Insolvency proceedings in other jurisdictions.[^c13696531]
 

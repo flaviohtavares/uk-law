@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 258. Access to meetings and documents of standing advisory council and conference on agreed syllabus of religious education.
 

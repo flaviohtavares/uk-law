@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/50
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 50. Housing association grants.[^c-9ec9cb0ca820d44fb6dd39cec14f9c24][^c12867721][^c12867731][^c20518161][^c20518431]
 

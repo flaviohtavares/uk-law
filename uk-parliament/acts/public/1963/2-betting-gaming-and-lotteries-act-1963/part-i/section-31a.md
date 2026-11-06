@@ -14,7 +14,7 @@ summary: ''
 
 > This law has been repealed or revoked.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 31A. Rights of betting workers as respects Sunday working.[^c-3e354a2f0fdd029aa30601328d372f29]
 

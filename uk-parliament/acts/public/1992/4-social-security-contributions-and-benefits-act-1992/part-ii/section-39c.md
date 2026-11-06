@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (139).** Text as at 2026-07-08. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 39C. Rate of widowed parent’s allowance ...[^c-7c3bb6a884f33a927d97e4a7f37509d7][^c-d3b60e9b53609f3678ab359f8e0bc096][^c-5a97eba08476481ac8788097464b265e]
 

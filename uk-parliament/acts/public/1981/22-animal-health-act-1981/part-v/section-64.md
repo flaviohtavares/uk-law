@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 64. Powers of inspectors as to poultry.[^c-674247c76c2b63322aec7a0f2be7ef2a][^c-df5a8411aa18efdcb5f578447fe4368f][^c-f6b67b659013027f22f1533c1fe81afb][^c-a29bfad1c0f82866ddce743211c401c8][^c-bbd92ed588a45ca00d9e36cc2a77cec5][^c-4ae80ea7b0e8b1fde50ca30d9b8b8a13]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 90. Reference of objections to Welsh Ministers.[^c14009811][^c-19657be0075be231d5f779e249526dc8][^c-ac89bb558437797c44174bba4c077772]
 

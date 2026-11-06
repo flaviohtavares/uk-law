@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 183. Offences of sending or showing flashing images electronically[^c-79081cfc167691a70990b78ee18565fd][^c-0055b9dd262e13b9f29eecfdb1481226]
 

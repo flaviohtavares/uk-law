@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-08-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 52A. Interpretation of certain references to divorce orders, nullity of marriage orders and judicial separation orders[^c-1b02551aab396080fb22c1bd1fab2cd4]
 

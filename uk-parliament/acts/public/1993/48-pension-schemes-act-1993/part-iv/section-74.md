@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (105).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 74. Computation of short service benefit.[^c-36c0be76be1b6fd5cec0810cc40b7b90][^c-e91644761e47b00a68cf892455839abc][^c-1fb75a854253cb00e485b6081cdb8fcc][^c-7fd60ee919d227306f2b61ee136eaa7b][^c-142e8634386a2a5367d9f8dc77d7e8bb][^c-f384420218e30f5674dda164cfd47813][^c-d52a66fba862a1e20e9abdab624ded0d][^M_C_acf5260c-9a98-4b9d-decb-4c876f971d29][^M_C_d80f49c1-59ad-47f0-ec59-d80d508e4e91][^M_C_3e2631a9-5a75-4d36-eb47-f8d691b0da27]
 

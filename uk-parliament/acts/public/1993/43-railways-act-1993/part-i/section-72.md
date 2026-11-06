@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 72. Keeping of register by the Office of Rail and Road.[^c-3cb232d016a158577d2419c1fc121954][^c-667f6cb8a61dd436caff747780b3fc9e]
 

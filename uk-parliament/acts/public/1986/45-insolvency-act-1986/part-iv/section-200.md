@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 200. Affidavits etc. in United Kingdom and overseas.[^c15573831][^c20433251][^c-42d9d5b6e15184f74a5867235f338280][^c-d7c7ad1e702d47e86308a0f2a5cb32c3][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

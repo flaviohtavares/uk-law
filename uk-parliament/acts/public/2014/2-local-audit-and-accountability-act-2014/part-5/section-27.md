@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (173).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27. Right to make objections at audit[^c-ec0dd9e5b6727501ceda9ba8fce87b84][^c-2ba67b4076cc15f49613ce30f062a205]
 

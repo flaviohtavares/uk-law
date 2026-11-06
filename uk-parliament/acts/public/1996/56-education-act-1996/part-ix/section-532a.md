@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 532A. Persons with special educational needs ...[^c-267baf253ff698b33af7bdfc33646400]
 

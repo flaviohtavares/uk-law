@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2016-07-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 169. Power of county court or sheriff to modify agreements.[^c-a0c4390f327d20c369755f1d2af79700]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 71. Closing date for applications: England and Wales and Scotland[^c-8580e567bdba7ea24dbb78fa282ed472]
 

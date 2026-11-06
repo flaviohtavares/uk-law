@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Preventing retaliatory eviction (affected by repeal, see note)[^c-2e74de08e785a932c02a35b466cf4bc8][^c-ba443a201038ad76c217678840dc9840][^c-ba443a201038ad76c217678840dc9840]
 

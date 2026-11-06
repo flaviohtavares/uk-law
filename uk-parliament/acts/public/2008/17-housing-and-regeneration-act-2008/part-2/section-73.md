@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 73. Leaving the social housing stock: sale[^c-5317f5c4aa81548eca4d9d78c57afce2][^c-eec88bbb3acec539543b0007d69ffb55]
 

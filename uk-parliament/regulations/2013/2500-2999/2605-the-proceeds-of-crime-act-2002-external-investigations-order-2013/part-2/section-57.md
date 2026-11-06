@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-04-26.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 57. Meaning of customer information[^c-752a77759c41a28a9e21a2464cae9b74]
 

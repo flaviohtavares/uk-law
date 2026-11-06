@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/29
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 96. Appeals against financial penalties[^c20326921][^c-32e70406b788080d84bd41694edfb2c0][^c-08e18707088ef7b491cc6465688ea088][^c-8a86aa9af174cd5dd73c8e3da58b7739][^c-a83adb49c099f0359b33e9f5bb1154ca][^c-8217da777ac28cee58feae271a9f4c2e]
 

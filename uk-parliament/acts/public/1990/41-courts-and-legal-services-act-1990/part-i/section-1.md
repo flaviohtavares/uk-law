@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. Allocation of business between High Court, family court and county court.[^c-4013dfcb089e17aa5ab5e02159e8a212][^c-7c6793061afc026220453126e9088058]
 

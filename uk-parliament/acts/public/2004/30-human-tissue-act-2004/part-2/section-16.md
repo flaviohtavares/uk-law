@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 16. Licence requirement[^c-c6651ff3180f46e6b7ab32f61a4dcf73][^c-7e8ba76afae05636cf4454e5d8ce3348][^c-a90f70a59430b6c5b32b6168464f0867][^c-20f27c5867cbbacf6e0b99d3338a80a5]
 

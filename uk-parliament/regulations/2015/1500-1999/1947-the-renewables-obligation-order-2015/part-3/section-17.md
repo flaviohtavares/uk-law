@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-03-27.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 17. When electricity is used in a permitted way for ROCs certifying matters within section 32B(7) or (8) of the Act
 

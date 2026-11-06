@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 1 — Table of General REACH provisions[^M_F_e99b9bed-c7cd-40be-f87e-afe4e2b632c7]
 

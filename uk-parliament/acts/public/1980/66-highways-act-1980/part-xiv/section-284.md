@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 284. Powers of Minister or strategic highways company in relation to privately maintainable parts of trunk roads.[^c-195c8f83aa9e4ad587d2f67ee048d3d5]
 

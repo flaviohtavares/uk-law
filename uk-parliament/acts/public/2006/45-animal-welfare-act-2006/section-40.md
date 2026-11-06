@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 40. Forfeiture of equipment used in offences[^c-bcc824fa3596bf4cb86be9efd7291b6d][^c-1c423daf273fdfb57d23dd333b93f131]
 

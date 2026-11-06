@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 25. Resignation of arbitrator : entitlement to fees or expenses.[^c-79556e0ee4c53b696cd826f07ac24c9a]
 

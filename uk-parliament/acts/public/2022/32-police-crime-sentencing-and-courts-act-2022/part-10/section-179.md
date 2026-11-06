@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 179. Positive requirements and electronic monitoring requirements: service courts[^c-f3c3253298a906e72f4d85f916c9d952][^c-5063e3d2386eb8138bd6d992eb396823]
 

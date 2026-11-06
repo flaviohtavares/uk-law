@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-29.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 29. Declaration of an emergency vaccination zone following confirmation of classical swine fever or African swine fever[^c-ca4501ae68027a0ee0ac36623665562a][^c-b1186dcacf59973b8837536c564909f0]
 

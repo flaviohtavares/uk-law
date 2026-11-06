@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 163. Duty to promote particular objectives[^c-0bde576873c050eef9204a1d18d6f455][^c-78d15e6e37d1abe7fe12be916fab5e1d]
 

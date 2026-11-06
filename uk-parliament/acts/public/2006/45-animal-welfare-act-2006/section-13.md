@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Licensing or registration of activities involving animals[^c-70818701bceedf93e5832225b313b1b2][^c-e0c7c5f3d6efde4133539c4dc6afdffe]
 

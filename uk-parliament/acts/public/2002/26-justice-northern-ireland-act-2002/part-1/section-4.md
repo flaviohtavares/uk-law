@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 4. Appointment to most senior judicial offices[^c-589141f8c875e14b17a9eabe0e8de752]
 

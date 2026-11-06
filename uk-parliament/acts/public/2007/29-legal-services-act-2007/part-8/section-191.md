@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 191. Rights of audience etc of employees of housing management bodies
 

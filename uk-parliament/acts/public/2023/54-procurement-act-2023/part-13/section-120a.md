@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Wales.
 
 ## 120A. Power to disapply this Act in relation to procurement by NHS in Wales[^c-fd1115c75b084e20fd26fc6c59900c0c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 93. Transfer schemes in connection with regulations under section 92(1)[^c-fa1b06cf98ae8b35957699dcbfb94a18][^c-3236b79300e3b48842351b8da58ee54f]
 

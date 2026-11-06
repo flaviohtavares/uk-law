@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16. No distress for rent due more than a year previously.[^c-60c564937f8f7c458c8415db4c7f0dfa]
 

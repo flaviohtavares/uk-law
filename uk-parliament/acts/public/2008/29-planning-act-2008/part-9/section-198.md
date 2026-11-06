@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 198. Appeals relating to old mining permissions[^c-5ca9bde4beaef156284442dfaefa3a78][^c-cc920aa154e0b0d56df2aff115f82114]
 

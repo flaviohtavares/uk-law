@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 236. Inquiry into company’s dealings, etc.[^c15575641][^c20434131][^c20434171][^c-0733b3e7554cadb5fe8d81d80b9f49e9][^c-413607b4d3ebed1838d6742db94f054a][^c-225f395e19614ba8696b36e38d0a8c50][^c-2b933ffb691a2e9e036f954a4dd70737][^c-788371096f8da5425d0cd572175725cd][^c-8f6d89daf77ac5bf8c70afb1e5ee5734][^c-d337fadf2c894e59dad1a36f8d3f02b7][^c-788371096f8da5425d0cd572175725cd]
 

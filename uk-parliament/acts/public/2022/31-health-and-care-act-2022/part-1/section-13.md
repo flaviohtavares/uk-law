@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Exercise of functions relating to provision of services[^c-b0161a97347a9bafa6612ce1f359b55e][^c-31bb3ece264d750531475e1c917a4964]
 

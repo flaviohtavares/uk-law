@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 222. Crown application.[^c-c6bc977c7576a5a183d2d73a31a6bee7][^c-941c43b702406daf468c180a0a7bccbb]
 

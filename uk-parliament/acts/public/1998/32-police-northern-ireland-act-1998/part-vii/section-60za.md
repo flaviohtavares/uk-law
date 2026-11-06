@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 60ZA. The National Crime Agency[^c-fa14b419a31af6f20005b8a240dc1e64][^c-919c028612b9dfc3fcefc56584879225]
 

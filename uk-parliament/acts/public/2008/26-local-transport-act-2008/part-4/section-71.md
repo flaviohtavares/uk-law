@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 71. Removal of certain disabilities and requirements for consent[^c-7af13daddfbc120500176175a2511660][^c-a16442cdf785797b9174180b8864f3b0]
 

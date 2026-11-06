@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 64A. Reserve power to control fund-raising by charitable institutions[^c-483a5a531a1d27404354ed1cf29b75e3]
 

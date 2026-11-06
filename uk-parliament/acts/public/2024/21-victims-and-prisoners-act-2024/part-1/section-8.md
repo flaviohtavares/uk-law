@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8. Reviewing code compliance: elected local policing bodies[^c-be526d97fb278e779f015ce02ab8e017]
 

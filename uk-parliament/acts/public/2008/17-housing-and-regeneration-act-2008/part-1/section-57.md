@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 57. Interpretation: Part 1[^c-59d25a2b231a581c06553a73f84d9ac6][^c-73b05dfeb8dd820b2180c4a82f4b13c8][^c-2514486c34f575d0b786cc9393318b79]
 

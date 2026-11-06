@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 160. Nursing Homes Regulations (Northern Ireland) 2005[^c-f6e7d694163cfc71aa5418a716790fb6]
 

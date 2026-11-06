@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 20. Funding of director’s expenditure on defending proceedings[^c-fac9ce19e992b0914c4f09d3d96ab579][^c-bce16aece5685c5409a323b14eb1792a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1976/63
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 3AAA. Conditions for the imposition of electronic monitoring requirements: children and young persons released on bail in extradition proceedings[^c-aaa0034dcb5f11ebec789cac623f64a8]
 

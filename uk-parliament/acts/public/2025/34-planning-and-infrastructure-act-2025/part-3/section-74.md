@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 74. Liability to pay the levy[^c-adbcc4c11ba10d16b8c766138bd4e124][^c-7021e0c32f531f6d79480d87a87abbe7]
 

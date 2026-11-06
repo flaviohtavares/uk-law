@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-12-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/29
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 1 — Risk Management: Designation of Features[^M_C_28470735-959f-47f2-8c03-204a0c6e0671][^c-5f7219ef6db31bc8ed9894c37a21e8bc]
 

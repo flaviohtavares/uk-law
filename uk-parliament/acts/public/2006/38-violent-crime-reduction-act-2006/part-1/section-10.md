@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2021-07-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Appeals[^c-a2486e9ce1de0e676bcae2a074792166][^c-92848f6c918dba7ed04131eb76e0b188][^c-cfeac02a85cf1eb4cb225b4daddd5978][^c-ecaba4965175230434b575bc6b57f417]
 

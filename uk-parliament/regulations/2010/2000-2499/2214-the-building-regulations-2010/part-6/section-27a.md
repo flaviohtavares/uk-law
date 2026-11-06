@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2214
 >
-> Extent: England, Wales.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 27A. Fabric energy efficiency rate calculations[^M_E_96f04713-e61b-4c8c-94d1-02d1595c4483][^M_C_a462dd09-cb6c-48a2-9ddc-f81b2b9e02e3][^c-b25ad42ee7a9af0c2f356934338c1784][^c-af7851eed4ff83befa4f47aa065f8a74]
 

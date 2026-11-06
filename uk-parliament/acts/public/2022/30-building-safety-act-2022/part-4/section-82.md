@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 82. Duty to display building assessment certificate etc[^c-a34a8d936f440ecea2625f1bc224206a][^c-55660c83ae80c2e08874e366ab8c2229]
 

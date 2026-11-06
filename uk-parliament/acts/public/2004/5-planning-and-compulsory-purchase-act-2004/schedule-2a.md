@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 2A — STRATEGIC PLANNING PANELS[^c-eead5c289078d09b0343f2ea6f1b0fe4]
 

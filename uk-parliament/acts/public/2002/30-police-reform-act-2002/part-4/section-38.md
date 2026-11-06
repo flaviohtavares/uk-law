@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 38. Police powers for civilian staff and volunteers[^c-20a641aacb99cf4f2a64a156474bb768][^c19956761][^c-6254b27dcfd2fea7d29a5529e167cc1c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 84. Exercise of travel functions by local authorities in England: duty to have regard to religion or belief of persons of sixth form age[^c-783f0ed492fbc11589d0afa948602f45][^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]
 

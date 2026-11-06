@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. Merger of bodies: consequential amendment[^c-a4fc31a5ce5ebe7477e1862aa6e6e617][^c-338384cc041814da30a0a3708a7ea27a]
 

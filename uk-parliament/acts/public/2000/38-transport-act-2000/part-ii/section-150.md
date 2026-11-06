@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 150. Procedure for reimbursement arrangements determined by authority.[^c14881621][^c-870be0392cbc5094661a9fd5962c126f][^c-2ab63b5183042a1c7182e7dcf7160817][^c-c05adb8597f2acc398b3fefbd54794ff]
 

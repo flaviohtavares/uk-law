@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-05-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 49. Oral history[^c-16fdf0bdf0c6bb08d00c846464bee43b][^c-3f351a3b1ca523dc32cf65b6028475a0]
 

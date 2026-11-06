@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-13.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 12A. Obligations which are met by complying with obligations in the Directive[^c-b5dac87829c14580e17dbb55eb23b206]
 

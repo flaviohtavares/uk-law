@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 269. Power of local authority to control use of moveable dwellings.[^c-27729c78596f400f854073e8f6fcad19][^c-69f5e91aef4add089328781b58c58fca][^c611702]
 

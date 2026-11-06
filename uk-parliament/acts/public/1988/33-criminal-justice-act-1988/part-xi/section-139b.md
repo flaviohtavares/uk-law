@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (43).** Text as at 2026-07-08. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/33
 >
-> Extent: England, Wales.
+> Extent: England, Wales, Northern Ireland.
 
 ## 139B. Power of entry to search for articles with a blade or point and offensive weapons.[^c12795581]
 

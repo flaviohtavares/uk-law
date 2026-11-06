@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. Competition scrutiny of functions and agreements relating to buses[^c2199641][^c-82140cd2da16de89c6e3e6118ca4cb6b][^c-b328bca383ef346d4c76d5e1f60eed5b]
 

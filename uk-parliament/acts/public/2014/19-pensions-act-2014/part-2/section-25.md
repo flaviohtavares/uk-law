@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 25. Option to boost old retirement pensions[^c-60059f95d13dc9f7ddaa1957a6e7b82e][^c-f44df72202cdee2d139569f69dd158cd][^c-775096cc5ad74c96cc2a44c56f225b9c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32. Continuity of civil partnership on change of gender[^c-8431fbc550dcb01ecf4869494640d9d6]
 

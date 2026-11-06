@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 43. Transfer of approved inspectors’ functions to registered building control approvers[^c-7e2ad1525f3c0c66a37e8bf19010c9af][^c-45c3a99d98938f90fac8cbd2ac0f9587][^c-067eca21d829b33f9935a4f66bf690da]
 

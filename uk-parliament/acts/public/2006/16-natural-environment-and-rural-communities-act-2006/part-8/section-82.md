@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 82. Maximum duration of agreement[^c-20ccfc2b124b1d365d78f52c6686f6b8]
 

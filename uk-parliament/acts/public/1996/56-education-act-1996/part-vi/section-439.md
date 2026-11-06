@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 439. Specification of schools in notices under section 438(2).[^c15250271][^c15250281][^c-bbc81cca30b4168785d38d7f326eadc6][^c-b84793a8f33f624a183f6bcb4f21e436]
 

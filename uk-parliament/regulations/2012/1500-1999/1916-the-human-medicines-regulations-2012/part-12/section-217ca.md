@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-03-31. See https://www.legislation.gov.uk/changes/affected/uksi/2012/1916
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: NI.
 
 ## 217CA. Original pack dispensing: medicinal products containing a relevant substance: Northern Ireland[^c-186756acd551d2ffe8fff1ea415a93bb]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 186. Compensation for compulsory purchase of historic buildings and of land in clearance areas.[^c14930631][^c14930621]
 

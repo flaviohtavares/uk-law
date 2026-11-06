@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 53. Requirements as to scope and uniformity of arrangements for travel concessions under section 50(1).[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 

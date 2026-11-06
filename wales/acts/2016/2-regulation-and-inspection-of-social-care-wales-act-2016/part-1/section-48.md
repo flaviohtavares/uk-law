@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/anaw/2016/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 48. Failure to submit or publish annual return[^c-767fb1600a72b7c7642067547277e82a][^c-2ee2083919738e8c37fe7e6dd592b754]
 

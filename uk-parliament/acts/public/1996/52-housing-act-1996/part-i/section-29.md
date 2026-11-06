@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 29. Commutation of payments of special residual subsidy.[^M_C_f9f7041a-760b-4dfb-b746-e04ccf09abe8][^c13148781][^c-031c42ce80d030fbd81780a88e04ec82]
 

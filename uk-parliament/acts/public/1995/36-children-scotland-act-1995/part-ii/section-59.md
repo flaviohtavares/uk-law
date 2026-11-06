@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2025-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 59. Initial hearing of case of child subject to child protection order.[^c-3867fcb93b6b746a0f2e2ee95180cf25][^c-8cdc7c1aba741c1decee0096438a073b][^c-8d459ea3fa37a641ced7ed3a532a1638]
 

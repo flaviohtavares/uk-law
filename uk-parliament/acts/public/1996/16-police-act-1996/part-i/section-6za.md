@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 6ZA. Power to confer particular functions on the Common Council[^c-a4d4197a276756ebc10f8528c21df874][^c-57c327e787ad3a62324a1ad898a8ae70]
 

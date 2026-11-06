@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (93).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/41
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 47. Discretionary relief.[^c13068111][^c-0e0584674198d5f634e8c52e02f8eda9][^c-69e33b55864014cf1d3d0d6f01753eaa]
 

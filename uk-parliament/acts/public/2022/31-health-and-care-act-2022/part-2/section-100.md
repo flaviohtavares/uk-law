@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 100. Enforcement of duties against private providers[^c-a7b76bf55e934dc04ef77dd5d7bdd7e4][^c-76e7fb32c44b5ea45c03ec5f41b46406]
 

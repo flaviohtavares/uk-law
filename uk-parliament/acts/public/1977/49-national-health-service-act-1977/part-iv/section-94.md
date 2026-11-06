@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 94. Application of trust property: further provisions.[^c-9bc6cd74c32e58ec6afa147b71aacfe8]
 

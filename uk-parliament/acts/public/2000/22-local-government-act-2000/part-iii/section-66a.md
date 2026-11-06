@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 66A. References to First-tier Tribunal for action in respect of misconduct[^c-1e1e0dd3c20111fbbe5ab1c20761a547][^c-efb95d0c54d2ad04ebe54487d9956b1a]
 

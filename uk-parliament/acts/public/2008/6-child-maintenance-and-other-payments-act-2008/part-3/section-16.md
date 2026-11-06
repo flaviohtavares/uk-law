@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2023-09-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 16. Changes to the calculation of maintenance[^c2175983][^c-e1ddb70d1ad2764e77796b4078faf199][^c-1d5f92b67f91b09539978892551f3b5c]
 

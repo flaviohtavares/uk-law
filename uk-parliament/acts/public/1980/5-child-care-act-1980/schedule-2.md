@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 2 — Modification of Provisions of Part V of this Act in Relation to Persons Residing in Scotland or Northern Ireland
 

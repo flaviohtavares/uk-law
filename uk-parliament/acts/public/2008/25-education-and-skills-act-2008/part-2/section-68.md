@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 68. Support services: provision by local authorities[^c-e05ddd08da8865e7d929287b48d7e741][^c-c85342f212d50e7d7e5f2605b0fcf42b][^c-12a20b10850b722876abf73d263918e8][^c-afcc9035d18803b45c7708679cbb4f28][^c-fe1654527f851c279b2ee6059640b28a][^c-67dff1f163cc31a70789b789c2d99715][^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. Promoting individual well-being[^c-15639a9244e970d36d15ea47fdb15df0][^c-b5233cd91c08d092b8a21506059579ea][^c-4a62f516d0fe4d3070d9d19880c2ff17][^c-b5233cd91c08d092b8a21506059579ea][^c-4a62f516d0fe4d3070d9d19880c2ff17]
 

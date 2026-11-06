@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 132. Designation: procedure[^c-5a81feafc58271e3e4d3e831c1d7e98c]
 

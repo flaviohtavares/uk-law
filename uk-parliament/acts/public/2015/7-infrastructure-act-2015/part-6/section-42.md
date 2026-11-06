@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-12-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 42. Levy on holders of certain energy industry licences[^c-3f79f409ca0acaae13b7e2ecddb9a75a]
 

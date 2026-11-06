@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 39. Parliamentary procedure in relation to code of practice[^c-a85ed2e6296f7a59a5738f74eed8a78c]
 

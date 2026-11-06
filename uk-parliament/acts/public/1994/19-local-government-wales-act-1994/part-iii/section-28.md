@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28. Decentralisation schemes: approval and implementation.[^c-01d968c0a1cb2488a6a03214d9dd9499]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 141. Adjudication costs[^c-292b017f410818259c7dcb021d48e007][^c-2cca47d5fb8f8fea238fab7773378066][^c-fc5f708ed58e15e405875e062df8b1bb]
 

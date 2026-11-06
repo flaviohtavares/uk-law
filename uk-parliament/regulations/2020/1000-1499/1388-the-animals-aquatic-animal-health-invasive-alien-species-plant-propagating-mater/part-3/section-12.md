@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 12. Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069)[^c-88445c740f7b76eb45e98bc3d0922d19]
 

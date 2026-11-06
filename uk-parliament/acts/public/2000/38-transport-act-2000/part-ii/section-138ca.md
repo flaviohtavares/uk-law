@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 138CA. Requirements enabling travel by persons with disabilities[^c-396e9957197fd3d4e596f24e55bb5ee0][^c-652ea49e5927586cb07bdb4300947115]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2955
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 3A.3. Court’s duty to consider vulnerability of other parties or witnesses[^c-c31fab2c436238e66887a59bc9717311][^c-14e5dee64d6603d1d848018b20932ed9]
 

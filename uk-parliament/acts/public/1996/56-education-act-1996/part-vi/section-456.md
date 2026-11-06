@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 456. Regulation of permitted charges.[^c-bc48a2844f9e2266dfefc015af7297d8][^c-06dd79d0f477f057e7be418e2e48584c]
 

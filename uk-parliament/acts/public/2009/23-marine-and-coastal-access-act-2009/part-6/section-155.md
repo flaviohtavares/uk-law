@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 155. Power to make byelaws[^c-71ec8edf37bea889d8ddd8ba068f5eaf][^c-7f075672d2de8b7905713d52bd6744de][^c-fa3ca8f0265c241397481d1d891eccd3]
 

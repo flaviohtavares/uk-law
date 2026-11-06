@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-04.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 39. Dissolution of certain bodies.[^c-74af1ed7be68d0937d05c2e9e92f1d38]
 

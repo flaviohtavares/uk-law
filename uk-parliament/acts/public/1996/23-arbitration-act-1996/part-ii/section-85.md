@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 85. Modification of Part I in relation to domestic arbitration agreement.[^c-d4f9893cfb7c3832115242d69047bcce]
 

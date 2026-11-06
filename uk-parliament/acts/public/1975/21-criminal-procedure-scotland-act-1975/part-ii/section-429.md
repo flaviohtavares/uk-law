@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 429. “Conviction” and “sentence” not to be used in relation to a child.[^M_F_8976ff85-885b-4a45-b72f-b8464f87d197]
 

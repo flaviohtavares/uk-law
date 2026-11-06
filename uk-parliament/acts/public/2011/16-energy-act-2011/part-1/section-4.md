@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 4. Assessment of property etc[^c-64f7cf9660660eb011f8f5f68638e243][^c-93c1d69565e534460d58c76e1abf9093]
 

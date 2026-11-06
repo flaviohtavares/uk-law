@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-04-26.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 21G. Holding of property: trusts and company arrangements etc.[^c-edc9bff5ab79f1844fe87f371d901184]
 

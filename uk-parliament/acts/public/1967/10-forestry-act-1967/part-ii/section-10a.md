@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1967/10
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 10A. Amendments made under section 10(3A) that affect tree preservation orders (affected by repeal, see note)[^c-48a878a1389166db5f494f7458eaff00][^M_F_19958652-57e8-4bc4-ed4b-225cd3e274e7][^M_F_19958652-57e8-4bc4-ed4b-225cd3e274e7]
 

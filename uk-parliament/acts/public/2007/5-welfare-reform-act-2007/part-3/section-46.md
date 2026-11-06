@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 46. Local authority powers to investigate benefit fraud[^c-e62d54f080fbbf38de9363578de0f8d8][^c-b3e5c7e01106f1b595d4258841082fe5][^c-7bda4d2dd611ac4700be621325d5f86d]
 

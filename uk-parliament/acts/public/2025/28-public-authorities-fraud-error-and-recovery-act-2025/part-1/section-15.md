@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 15. Payable amounts[^c-92839dd1d2d582ab493e74ba2bb82df9][^c-b3af3797a4f655d3845ace3f6a05713a]
 

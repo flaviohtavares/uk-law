@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 208. Misconduct in course of winding up.[^c15573941][^c20433401][^c-59ad5789a64c188d911f39f77dd29b7f][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-d2028b56e3f885da5a3165c5ef0efd37][^c-27c740bc34b14db40a2e339d730c551d][^c-03caff2bb12bf9923001b29c18763f48][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

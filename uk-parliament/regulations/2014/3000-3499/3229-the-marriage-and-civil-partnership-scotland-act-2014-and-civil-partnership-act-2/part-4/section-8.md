@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 8. Category B retirement pension for married person[^c-6f5f9826670fae0e5f3a06ac55ba9d24]
 

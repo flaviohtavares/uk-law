@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 35. Duty to give financial assistance in respect of certain disposals[^c-d4f51c2df8f6d663d6743ed68a314877][^c-60845003768571b8ffc0cb9032e88cce]
 

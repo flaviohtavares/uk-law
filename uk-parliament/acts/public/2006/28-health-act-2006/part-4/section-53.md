@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 53. Offences relating to disclosure or use of information[^c-bfa4e617dfe84876c0c4355808a16e33][^c-3649b224fbe7acb9983243a14a539a99][^c-d1be3b445857cf72d62474fc970e2df8]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 116. Health and social care: joint strategic needs assessments[^c-a4b45af7fb37d2362a34ae5b46720499][^c-04a176078785b44c2893b9f8016d06c2][^c-28589a53e83dbfa6c180d2a3b8283a04]
 

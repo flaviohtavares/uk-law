@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21. Access and copying.[^c11315391][^c11315401][^c11315411][^c11315421][^c16921871][^c18869971][^c18869991][^c19632411][^c-2ee2917a848f611273813e52d06522c4][^c-1c08fa7beeab7fb440f4f23cb3da2502][^M_C_e8128b25-efcc-4c61-9258-42bf3ca7249e][^c-091319b3ad6a474a7f9c9274f2439aff][^c-0ddd5d14b79ec8c465c837139fca0ffe][^c-5c65b0174925c1f20e597cd9718b2a4d][^c-4f2bcbd731410b425da15c88045180f7][^c-acc60e0e4cf11fb4aec41feebc5a1e45][^c-354c497032dc4597a0199732eebf4150][^c-4c342302bdce4ac3a82d4828c57b4bc3][^c-c616f3813675fca97055a904acbe41eb][^c-98e2f597908ff3d3912838cf4374fd34][^c-e6a1fee9ec69cf367a5b0dae2ae0605a][^c-354c497032dc4597a0199732eebf4150]
 

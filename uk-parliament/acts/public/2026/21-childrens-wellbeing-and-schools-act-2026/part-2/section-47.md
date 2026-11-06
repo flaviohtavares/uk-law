@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 47. Deregistration by agreement[^c-b09c18bd4a0f53bcafa81a87439ea452][^c-3698fa299f4c69cfd0e4a2f2b66fff0f]
 

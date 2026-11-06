@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (51).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 66. Functions of operators of designated airports as respects abandoned vehicles etc. .[^c-7567c36459300ca9d3a7613db58630f5]
 

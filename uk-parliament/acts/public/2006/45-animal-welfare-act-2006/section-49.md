@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 49. Appeals against deprivation orders and seizure orders[^c-1baa03069ef2f9b4921e522f85e398eb]
 

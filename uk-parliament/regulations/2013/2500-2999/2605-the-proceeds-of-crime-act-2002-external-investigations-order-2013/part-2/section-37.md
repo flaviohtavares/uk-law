@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-04-26.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 37. Scope of Part 2[^c-73f1025a44aba6d5fbd177064a3860be]
 

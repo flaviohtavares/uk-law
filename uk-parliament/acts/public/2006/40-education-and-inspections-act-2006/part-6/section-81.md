@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 81. Local authorities in England: provision of transport etc for certain adult learners[^c-c0d0d178e2ffaf7ff1272f9ecd1855e1][^c-b7107de0e465e1b719fbd5ac0381db15]
 

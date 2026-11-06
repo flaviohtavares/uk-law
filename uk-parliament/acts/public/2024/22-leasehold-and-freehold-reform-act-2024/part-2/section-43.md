@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 43. References to “the court” in Part 1 of the LRHUDA 1993[^c-c185370686fdc5fe42d0348b51ef4ba0]
 

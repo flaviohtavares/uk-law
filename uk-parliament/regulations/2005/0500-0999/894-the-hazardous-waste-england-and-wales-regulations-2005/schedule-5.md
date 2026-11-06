@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-16.
 >
-> Extent: England, Wales.
+> Extent: England, Wales, Scotland, NI.
 
 ## SCHEDULE 5 — Schedule of carriers[^c-ab7ee697a0e043174215c3d60399b9e6]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 30. Enforcement of rules relating to sea fishing.[^M_E_6c5731ba-f8aa-42ba-d25e-acc4f761b3fb][^c-c5b3fa647cb4e5f98d78ce361166ddbb][^c-ae15ad3fea5f097e8b152bc10b56a2bc]
 

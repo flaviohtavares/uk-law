@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/anaw/2016/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 57. Reviews, investigations and inspections[^c-53339c009f01b1df3197067014918300][^c-5113d2bd2ea0420f002fc889365947d8][^c-520dcc606f0ee4e43bfa315a6aab66d5][^c-dd7f525ca3f43b97e25ca404ab24067f][^c-c0196bdefba2acf739bcc461cced6c52][^c-5113d2bd2ea0420f002fc889365947d8][^c-520dcc606f0ee4e43bfa315a6aab66d5][^c-dd7f525ca3f43b97e25ca404ab24067f][^c-c0196bdefba2acf739bcc461cced6c52]
 

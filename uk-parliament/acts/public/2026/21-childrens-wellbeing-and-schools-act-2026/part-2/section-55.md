@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 55. Academy schools: educational provision for improving behaviour[^c-e667fa802fe6003de688bf95e57a07b8][^c-1789f93067b0f5c17e7272cbf9f039f1]
 

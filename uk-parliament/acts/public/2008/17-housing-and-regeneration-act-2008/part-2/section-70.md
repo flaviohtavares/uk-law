@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 70. Low cost home ownership[^c-866ed8872e5649942faa9bb539a60eb4][^c-04308b78f4225cf10a2db1c4f39a888b]
 

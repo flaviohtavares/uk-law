@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 11 — ORDERS CONFERRING COMPULSORY WORKS POWERS[^c19897481][^c19893161][^c13225581][^c-6dadf1a990916b2e10617602f6cf35e0][^c-fb67b482220fd1332c11c6fefc0429cf]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 143. Prohibited activities in controlled area of Parliament Square or in Palace of Westminster controlled area[^c-c1db93e9a0993d33aef6cd5b6015a98a][^c-852e3d943cb6553e2d44b2cb989df3ff]
 

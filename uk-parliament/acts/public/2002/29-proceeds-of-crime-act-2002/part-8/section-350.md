@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 350. Government departments[^c-f5b7e8d10e11af2ac4357a42213068ce][^c-8ba2ab9a6a19b08883a148fc10dacc08][^c-9d8cb98f3a62c541a421517ce75f2184][^c-f2ab743d2b5735294ba406df9f6969a0][^c-2c354b2c596ca6e16372344d8b4b21ba][^c-509ecc5afa8e05ca52bf5839e8dcaa8d][^c-353e3e71a48253759f80170c3bcc9612]
 

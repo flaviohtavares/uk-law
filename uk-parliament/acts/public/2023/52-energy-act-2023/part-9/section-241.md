@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 241. Enforcement[^c-c1f0c8d033b1d7a894d31c8610c9e5f0][^c-186dbbaa987f064800d99510ddc2bf9d]
 

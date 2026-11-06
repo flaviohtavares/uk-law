@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Guidance on code awareness and reviewing compliance[^c-1cc167952a8b75244f2ee515463b1d97]
 

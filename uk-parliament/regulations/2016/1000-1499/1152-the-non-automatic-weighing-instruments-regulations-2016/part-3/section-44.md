@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1152
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 44. Prohibition on improper use of UK marking and the M marking[^M_E_74d9667d-4a5f-41f3-cca0-a016edec0880][^c-71d2093efd609c85b9f8883fa85c8ff4]
 

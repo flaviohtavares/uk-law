@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 75. Appeals: Scotland[^c-45d2d406479bfa23e5c25ad4bf66751d]
 

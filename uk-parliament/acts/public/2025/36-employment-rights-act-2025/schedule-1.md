@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## Schedule 1 — Agency workers: guaranteed hours and rights relating to shifts[^c-c009b07d88cb091c7f21d24bf442c6f0]
 

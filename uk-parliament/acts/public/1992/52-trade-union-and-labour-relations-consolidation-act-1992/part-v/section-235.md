@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (156).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 235. Construction of references to contract of employment in sections 226 to 234A.[^c14520881][^c-88d2a0de79b6c7c8a8d0c6482341ee86]
 

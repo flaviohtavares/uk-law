@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 52. Information gathering[^c-b65d6fffad58cf120fa67d9e80b24ab2][^c-ac33bcce60f5a74e656b3eac443e92e9][^c-5e5a6033b7912f9f572d4b2d8f0d075d][^c-30eee36504f6a66e9297d11369a99e13][^c-dabf3c3ff1d00ab1ef6fa3331c59ed8e]
 

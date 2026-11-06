@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 405. Exemption from sex education.[^c-7e37d602293b8cbc6fea3dbcce5efbab][^c-d446d8149c0c6662aee7135a13243e65][^c-eec4beb675f4c017f6c224381ab5d90a]
 

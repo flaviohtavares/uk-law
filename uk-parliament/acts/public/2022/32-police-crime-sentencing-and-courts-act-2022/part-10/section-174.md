@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 174. Standard of proof[^c-76054f003ef5345ea06a06fd5c503ceb][^c-de73475a6ce55512580bf7b8fe7156e5]
 

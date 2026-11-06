@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 21. Delivery programmes[^c-a9a88db2b397a4914f8e8d771f762037][^c-f15d3c3be84b859fc2f3afe6430c6ee2]
 

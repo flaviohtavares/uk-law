@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 92. Criteria for determining whether to make appointment order[^c-cc4936b368f8ca693a4c613c2c015fa1]
 

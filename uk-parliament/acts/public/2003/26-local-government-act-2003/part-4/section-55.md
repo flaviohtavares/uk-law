@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 55. Regulations about ballots[^c-5fd5f98139501cd278eb55f22bd6642f][^c-ea282666dd66f27a6512f988d11b8e3d][^c-2c8b876497f5fa38570145dbd792ca25]
 

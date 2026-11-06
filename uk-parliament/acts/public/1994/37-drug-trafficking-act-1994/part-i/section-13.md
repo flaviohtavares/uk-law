@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2016-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Reconsideration of case where court has not proceeded under section 2.[^c-9b3558415cca54423fab43a6a8d478ff]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-01-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2001/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 65A. Retrospective application of certain offences[^c-c248525f8f5c6871ba4f49e846bc8be2]
 

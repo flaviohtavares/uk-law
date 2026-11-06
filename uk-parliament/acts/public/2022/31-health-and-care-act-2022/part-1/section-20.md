@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 20. People for whom integrated care boards have responsibility[^c-5cca94cd04bfda7190770c870a0eb071][^c-be3bed796259b66dc95547ee0adf0c99]
 

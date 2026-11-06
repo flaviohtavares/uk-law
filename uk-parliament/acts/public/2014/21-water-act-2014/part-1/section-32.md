@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32. Interim duty: sewerage services[^c-697b6f59cd65a27b23005d316e01d2e5][^c-a1d641a16931e55f224d53004d4b2c52]
 

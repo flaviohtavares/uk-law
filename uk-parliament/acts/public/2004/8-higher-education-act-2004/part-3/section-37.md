@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. Enforcement of plans...[^c-c7e2a2d171dfb01614fe6b689ad5a2b0][^c-b5aeefa6163d758fcc4c18a7ccfd3756]
 

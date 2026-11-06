@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (70).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/49
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 29. Tax requirements to prevail over requirements of section 27.[^c-96ded7affc70090629f3590cacde3702][^c-59735307dc91369249be937af33c7e79]
 

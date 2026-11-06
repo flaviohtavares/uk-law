@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14. Displays of products or prices in Wales[^c-772fd31e436a0c97c1417b78b27efa7e][^c-915f1a6c9ac0887302b0a2642b772315]
 

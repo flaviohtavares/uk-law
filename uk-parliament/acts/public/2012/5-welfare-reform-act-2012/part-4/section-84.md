@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 84. No entitlement to daily living component where UK is not competent state[^c-662c3b4db64401189e921202eb8e56c0][^c-512a839deea305e210735a483ee731d9]
 

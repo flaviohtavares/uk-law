@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 286. Suspended sentence order[^c-f3a7354687afb11a7c80f8784a9e21ed][^c-65a0d516aff0fed923ebaa1fe48e0715][^c-72c4aaa196cdebaced259642550adf32]
 

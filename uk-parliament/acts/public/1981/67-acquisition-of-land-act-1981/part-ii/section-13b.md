@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13B. Written (affected by repeal, see note) representations procedure: supplementary[^c-a9973dfd55593ed0c291cf7096d3b143][^c-9aa70c11ecdc275022a760d778481233]
 

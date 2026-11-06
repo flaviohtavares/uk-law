@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (32).** Text as at 2024-04-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 29. Legal aid in respect of certain proceedings relating to children.[^c-90559c7dc60a713a5a377df6a5ee3296]
 

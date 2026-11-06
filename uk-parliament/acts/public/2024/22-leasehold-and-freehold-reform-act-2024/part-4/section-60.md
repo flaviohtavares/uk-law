@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 60. Duty to provide information about insurance to tenants[^c-f36ac119993b50fceec0f41958e4141f]
 

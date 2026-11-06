@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 75. Amendment of regulation 25 (questions to be put to persons signing the petition)[^c-bc1480466c177d3932a4d71f606b7d33]
 

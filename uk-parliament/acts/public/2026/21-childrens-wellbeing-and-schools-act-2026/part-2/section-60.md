@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 60. Application of pay and conditions orders to education action zones[^c-e771e58a0f11a5ef8f4e81d9f79eee78]
 

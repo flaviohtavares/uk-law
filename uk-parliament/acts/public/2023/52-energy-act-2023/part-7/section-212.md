@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 212. Levy to fund electricity support payments[^c-8a3a040fa1d97d83651f08b1f46c5834]
 

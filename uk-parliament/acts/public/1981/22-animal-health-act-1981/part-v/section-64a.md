@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 64A. Powers of inspectors relating to assimilated law[^c-64f6abe25cd2e0d18f8b8d87358819fb][^c-708564d8f1fa192cf8655e2948bf96d5][^c-3fb70907fdcc32aa38a01ef88173a252][^c-3450486a761497122aa99279d1dfc474][^c-dbff3839b88bbb76d44796c4e620c834][^c-59583a85685c19d32550ddd2ea63cf10][^c-6243ea53aa9b609823f578a787e767bd][^c-1d9f12f1a0c4b01c2974043c56cb524d][^c-0faff543a06db4f5a181234eb02145e2][^c-53072f3be5735ac1aee96d6b605ae562][^c10346541][^c-6dd14dc999dd4320a75ea0543706d52c][^c-fe34f2056de9b8dbad9691aef1cfcac4]
 

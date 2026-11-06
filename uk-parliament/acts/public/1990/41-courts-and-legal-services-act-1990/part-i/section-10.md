@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Family proceedings in magistrates’ courts and related matters.[^c-1b047e931b96d35085553eb43c11d12b]
 

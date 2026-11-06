@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 28. Signing procedure: Northern Ireland[^c-39470ef23ed94ad50ed1137f19153003]
 

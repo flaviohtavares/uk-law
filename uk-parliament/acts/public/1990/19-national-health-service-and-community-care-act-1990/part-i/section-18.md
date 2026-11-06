@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2022-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 18. Indicative amounts for doctors’ practices.[^c1358405][^c1358406][^c1358407][^c2101863][^c2101864][^c1358408]
 

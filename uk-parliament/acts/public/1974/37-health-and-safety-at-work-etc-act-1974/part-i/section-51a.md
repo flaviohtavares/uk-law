@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 51A. Application of Part to police.[^c-0fe72d9a6077d9cfd7b83aac041509d3][^c7813391][^c7813402][^c18941021][^c20459711][^c7813381][^c-e7294dca4d75cba999cd802287726b57]
 

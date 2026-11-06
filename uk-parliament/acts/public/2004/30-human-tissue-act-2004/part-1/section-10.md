@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 10. Existing anatomical specimens[^c-998ee0bd386b8143013c0d47737f237e][^c-30881d81f024e6a1498e29dd5acb3f01]
 

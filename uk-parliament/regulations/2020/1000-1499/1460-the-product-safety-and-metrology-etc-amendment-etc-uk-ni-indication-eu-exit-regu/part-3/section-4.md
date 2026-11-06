@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 4. Amendments to legislation in respect of Northern Ireland[^c-3ca8852dd0275d3251e9fc0d7bcaa07e]
 

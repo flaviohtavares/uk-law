@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 36. Calculation of tax for different valuation bands.[^c12076661][^c12076671][^c-8d3a5cc104e8bb2fea7476f4d74a6994][^c-cecf43ec7af88867873791e295e7504a][^c-90cd387516e88f9820eea0caf466e4ea][^c-8d3a5cc104e8bb2fea7476f4d74a6994][^c-90cd387516e88f9820eea0caf466e4ea][^c-1304ad51e0298e9c29d2496b54843766]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 6 — Provisions as to Making, Confirmation, Validity and Date of Operation of Certain Orders Relating to Footpaths , Bridleways and Restricted Byways[^c13439661][^c18592461][^M_F_d545e25f-03db-4294-ee28-628104152965]
 

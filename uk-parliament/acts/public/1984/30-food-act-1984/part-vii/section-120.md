@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-18.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 120. Statutory instruments.[^M_F_7a9e3361-7968-4591-cf4b-0606fe1b41f9][^c1022516]
 

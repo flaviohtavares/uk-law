@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 117. Meaning of “relevant building”[^c-2f309779ccab18eb7781a54dafe61d84][^c-420f962f996963098bbf3b829c4bb60d]
 

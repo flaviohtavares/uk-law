@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 20. Betting on Sundays.[^c-fab2a41a6e52b34fc280b73c15fc65d9]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 10 — Punishment of Offences under this Act[^c15588641][^c15588651][^c20442211][^c20442241][^c20442261][^c-67ebd87853336dacec261a6b1e64bbba][^c-6a345d4c19ea25a9928aad20772444eb][^c-c1901a04af42a37273f8fd61446ab0db][^c-e9ffbd8b828291103e88c6ebe85e8d13]
 

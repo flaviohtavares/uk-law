@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 166. Cap on care costs for charging purposes[^c-22dfdcbacaa8a3fa9d642cc5fb37a9ff]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 18. Work availability requirement[^c-977c7c6d17b827369d61a07157a78c35][^c-f0c316d9d1b0dfd0e226e5ef4e030922][^c-adf66c0194ecedceffdc273a80f77034][^c-414d64c50757c7c00b1de794bd82308b][^c-cb6d0921ef84656b9707a14b4c588d57][^c-e2ebac3c2e4f7dc96a62d8b262d02409][^c-36fa20f7c589173b689cf9d7cb847706][^c-a48cbffcc0c90657e82224af2a65414c][^c-72be67bdddcf8f4a3edf07c90b24d101][^c-1b177b34dadf22496df4563b7d30deb6][^c-9bc8dacb6577dd88f7c92dc3e10069d4][^c-61608b6cd435aa8b087640c2c851f013][^c-5fec1fc62818ac59036c95bfc52323a0][^c-0258f503e3c01c1b67991c95474739d7][^c-ea42e857f446f772c45274e779a72290][^c-bc30dfca0b200b665b7f36d0c636cfa0][^c-184a333e8daa7b5a4fcc28118044f86f][^c-9eace95d96c3d39da42f6de7e9e51d6e][^c-f0c316d9d1b0dfd0e226e5ef4e030922]
 

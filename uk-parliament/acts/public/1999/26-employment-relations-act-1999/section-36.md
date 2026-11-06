@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 36. Sections 33 to 35: consequential.[^c12486531]
 

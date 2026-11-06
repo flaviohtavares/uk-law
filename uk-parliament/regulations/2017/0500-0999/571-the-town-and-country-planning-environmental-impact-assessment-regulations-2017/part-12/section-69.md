@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 69. Extension of the power to provide in a development order for the giving of directions as respects the manner in which planning applications are dealt with
 

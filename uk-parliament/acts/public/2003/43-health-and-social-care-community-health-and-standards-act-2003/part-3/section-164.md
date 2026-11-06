@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 164. Liability of insurers[^c552134][^c-f73ab5d8797d7f22bbac21e19c531081][^c-a6f1a9105a2b61790b42ef1234b86fb7]
 

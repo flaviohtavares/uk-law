@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 20 — Further provision about local social services authorities[^c-9fcba3ed018caa034d7af879caa5fe0d]
 

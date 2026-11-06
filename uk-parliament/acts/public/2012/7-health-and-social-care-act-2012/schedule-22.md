@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 22 — Property transfer schemes[^c-03013ecb2a3d7d1a414402cbb89a4dfc]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 159. Hymenoplasty offences in Northern Ireland: penalties[^c-e7c1babfa57c808881e870a606fd5827][^c-e488fee509c3f6845c7da42a20ed7dc1]
 

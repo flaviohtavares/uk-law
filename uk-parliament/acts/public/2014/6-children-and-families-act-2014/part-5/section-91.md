@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 91. Purchase of tobacco ... etc. on behalf of persons under 18[^c-93a22aa4e6ac36b80146ba3cb91801f0][^c-a6aea4dc12d68200dd2ba070bea9bb4d][^c-58f2b55df2986a2e3b151de281adb8c7]
 

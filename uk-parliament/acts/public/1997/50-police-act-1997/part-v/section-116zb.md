@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/50
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 116ZB. Application for an order for a new criminal record certificate or enhanced criminal record certificate[^c-18291a6dd88b7ac8a1b42216c7a67f7e]
 

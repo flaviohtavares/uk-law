@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 1. Right to guaranteed hours[^c-4552470ddb51e0a84941c0d6c8fb5e2c][^c-7afdfdf37cc20d0ee1de9d095ae01718]
 

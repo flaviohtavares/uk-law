@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 56. Obtaining of documents in connection with carrying out orders etc.[^c-cb8089a331d4d11d4ba461d69ea331de][^c-e3e7d7415c2a6a0292f29e54bf7d052a]
 

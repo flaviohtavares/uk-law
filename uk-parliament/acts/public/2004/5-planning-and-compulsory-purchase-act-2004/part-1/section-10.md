@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 10. Secretary of State: additional powers[^c-95661c1f1df93953c323cfc6a88b9475][^c-a349b3cac1d4fe86724c1f30129643bf][^c-b8fee01de3f43f4e9d8cfe9264ad58e4]
 

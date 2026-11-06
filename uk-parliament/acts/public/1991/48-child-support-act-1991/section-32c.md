@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (110).** Text as at 2022-03-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 32C. Regulations about orders under section 32A[^M_C_46588fff-4316-411d-9235-d57960cc9f8c][^c-e50a3526c0cb61d89517e59621a99e95]
 

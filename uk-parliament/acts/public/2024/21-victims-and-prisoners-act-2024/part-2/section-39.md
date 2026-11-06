@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-09-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 39. Functions of advocates appointed in respect of major incidents[^c-0f7d106d21aa953455a8a3ce8c902ae8][^c-3c5e651e6a75df258d6955a69d233af5]
 

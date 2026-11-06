@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Wales.
 
 ## SCHEDULE 7A (affected by repeal, see note)[^c-29e8ef3a5d57f823261f46df805d0311]
 

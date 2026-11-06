@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 100C. Inspection and publication (Extent: W) of minutes and other documents after meetings.[^c-14949f45621ecfe19d46343a0728deff][^c15100131][^c15100141][^c15100151][^c20528601][^c15100121][^c15100081][^c-16d6177c6e2a526168cfe9280724233c]
 

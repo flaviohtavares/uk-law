@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 94. Sections 91 to 93: supplementary.[^c-12fc7e837fb17cf4cf741288349cd3f0][^c-cab3301ee74f82028ab8e103afb05ccf][^c-1b40a406a3a7c9d2c2e34106e353f55a][^c-769743a955fb59a526d3df9633e1c84c]
 

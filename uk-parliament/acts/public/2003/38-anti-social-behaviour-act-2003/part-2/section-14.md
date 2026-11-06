@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 14. Security of tenure: anti-social behaviour[^c-5515f602c74843af53406ae88d262adc][^c-883c28ecaadcb566a50f874171c7896e][^c-cbb9c337711bba1c24c9c8fab9b341b5]
 

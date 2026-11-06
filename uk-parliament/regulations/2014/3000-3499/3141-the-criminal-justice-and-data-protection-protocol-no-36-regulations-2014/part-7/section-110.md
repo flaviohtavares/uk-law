@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 110. Power of arrest where magistrates' court responsible for monitoring supervision measures[^c-ac19f1ee218df2753ef1da13163ef763]
 

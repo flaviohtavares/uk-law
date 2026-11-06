@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 68. Citizenship condition[^c-60cc538e2e75d6a8e7019c6ab5a912f6][^c-0dcf683e5f97f882b10d269fa48f2b67]
 

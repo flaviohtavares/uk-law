@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-05-19. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo6/12-13-14/74
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 1. Coast protection authorities.[^c6289021]
 

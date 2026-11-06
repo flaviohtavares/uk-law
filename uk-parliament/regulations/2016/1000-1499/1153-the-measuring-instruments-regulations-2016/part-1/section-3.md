@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1153
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 3. Meaning of “regulated measuring instrument” ... and application of these Regulations[^M_E_d42ee2b1-2ee9-4abf-bfff-3119ab24c4a7][^c-2e758274727771eea899f5c29bf44d8a][^c-fdb9d9634e11e5b03655538d8a8207e1]
 

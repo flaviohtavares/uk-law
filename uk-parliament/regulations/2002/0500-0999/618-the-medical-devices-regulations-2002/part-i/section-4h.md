@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/618
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 4H. Revocation of Commission Decision 2002/364 on 26th May 2025 and its effect before that date[^c-04cb463e859053a6cb0f87be86cfab76]
 

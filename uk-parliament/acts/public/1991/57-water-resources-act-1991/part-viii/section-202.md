@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 202. Information and assistance required in connection with the control of pollution.[^c18740671][^c-a3b2a9585e46c8824fd45bb186da6b43][^c-39986b84a5a69ac19daa52f70fc2b917][^c-06ed18bc490a549c952e80ce477ac400][^c-f0cdf31881216c55b487f588df189cfa]
 

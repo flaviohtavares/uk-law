@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 101. Financial resources: conditions[^c-ef521cf085d21c90662c9b43839d7a3f][^c-d3f2f3bbe8782a5463408be9cdbae1e4][^c-6e8bd0dcfc649cbd02f247524303c761][^c-57c652c708775fbb359902363a42d2b5][^c-28791b46f5adf31b1ed7a70d947b7040][^c-a5956b9c88c878f21ec26b115f993aaa][^c-c5d38d9a6abb4992baa8d9f91db142bb][^c-39f60308dbcc7704e2015b0497b8e0ad][^c-61e45c2ac47ab352bab5ed231427e7fe][^c-bfae4e371c2df837885508ba4131db6c][^c-5c9bf9ac121098810eba71daba06eb52][^c-8da6f3d800952e4b75ec09ab59ab782c][^c-05bbb4095c769cb6e51a6516a6cba5fe][^c-465c252a992427f01580b7d38a5e7480][^c-d05ce786e5e445fb84e60f1e164d5a96][^c-e86fe3e725e20cf3841702301d0a7104][^c-b81f0c40ad74855611128c101c1a2ce9][^c-b6ed8ac8086806d3a8a4fdc236a24728]
 

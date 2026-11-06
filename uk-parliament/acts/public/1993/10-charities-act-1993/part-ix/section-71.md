@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 71. Extension of powers of investment.[^c-c19229d866e13afe36d39b34d22ef788]
 

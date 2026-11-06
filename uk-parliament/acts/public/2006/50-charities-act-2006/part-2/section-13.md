@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-02-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. General duty of principal regulator in relation to exempt charity[^c-be604e121945c9f6aa6e0a34b1d32584]
 

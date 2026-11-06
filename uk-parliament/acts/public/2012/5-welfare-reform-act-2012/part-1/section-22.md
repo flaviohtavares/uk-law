@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 22. Claimants subject to all work-related requirements[^c-bdd35c00a4bd856309b93822d4b82925][^c-f0c316d9d1b0dfd0e226e5ef4e030922][^c-7914692f36339ee107d838fca20a837f][^c-02fc72d84314312de530781156e070f0][^c-262514bf612ccc9402c6031b2f20e15e][^c-cffd300914ba858cb98c87fcf17d1401][^c-09dd01e9e2b86219afcdd16438273613][^c-4b3096eb4a45fc39590041d9a9d5e3ad][^c-a9c2ff1de5fa95b636839c91359611d8][^c-54e7a4bb661b87fb373158c8849b78de][^c-de70bf5a8ae16afb8127b4cf8a5e2c75][^c-987125e8c46fdade511511403f6db802][^c-da0b7aaa613f0438006d32ccd8f93817][^c-2bb09d2a4b007f3b66e24b164fb79d6e][^c-1f29a2dba23b01706e9aae2dd7c9dbfb][^c-734e316b830a87a292490196fba468cc][^c-846851ca450d4cd04e4e44cf40fe4fa6][^c-37fb449fa32a718efd0d4605e958bdd1][^c-f0c316d9d1b0dfd0e226e5ef4e030922]
 

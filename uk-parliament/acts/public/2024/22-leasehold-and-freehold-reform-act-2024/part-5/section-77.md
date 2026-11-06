@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 77. Determination of tribunal as to estate management charges[^c-ff8f27fb9b19a8e87f0685479775e275]
 

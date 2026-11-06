@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, W..
 
 ## 27F (Extent: W.). Orders grouping a community with other communities under a common community council (Extent: W.)[^c-b066b4c5ec4c25ee2c959d18cc8dc3e0]
 

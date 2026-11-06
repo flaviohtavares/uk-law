@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 95. Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2000[^c-8777a2ddd4295aba4f2ec1f4e87cf570]
 

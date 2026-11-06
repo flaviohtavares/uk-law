@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1967/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 1A. Commission’s duty to consult representative organisations.[^c-93fb1691267dd1fa93a11302358d293c][^c14209911][^c14209921]
 

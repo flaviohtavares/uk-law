@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. LRA 1967: preservation of existing law for certain enfranchisements[^c-f18966218d530b488432e0fd656b0e59]
 

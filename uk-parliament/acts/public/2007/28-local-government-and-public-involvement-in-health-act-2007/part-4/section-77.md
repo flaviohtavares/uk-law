@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 77. Extension of power to certain parish councils[^c-d0edaee4e23ac51f67ddf44b0e6e0534][^c-183fa3fcb882d28f75171c3f7edbabde]
 

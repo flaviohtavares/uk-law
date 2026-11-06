@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. Meaning of “the probation purposes”[^c-da47da2829dddbad3d7253692e85f89a][^c-361373973f8b908a7b8376893e5819b5][^c-06991a891c72efbf69e5aee70da9a854]
 

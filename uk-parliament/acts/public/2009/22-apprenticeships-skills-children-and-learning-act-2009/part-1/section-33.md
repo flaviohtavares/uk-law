@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Ineffective provisions[^c-d47bef6c3c682b8fc231e7cc3dead845][^c-327038ab9412cfb9e8a6a2b00360f816][^c-86e3546cc5697f54eb7036d249310bac]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 139. Safeguarding vulnerable groups: regulated activity[^c-fc81236ea1b064b4597133884271a09b][^c-e96ef8f8ba70eac02466c0e06b17f4ff]
 

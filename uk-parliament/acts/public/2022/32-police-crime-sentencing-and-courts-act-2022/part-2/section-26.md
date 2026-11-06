@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 26. Relationship with other review requirements[^c-0d88785827aad3892d7f1b254c945c4b][^c-571203e563b8dd75e3b3ec347367ffe0]
 

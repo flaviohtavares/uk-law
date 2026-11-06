@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 112A. Proposal for changes to existing combined arrangements (locally led)[^c-d21d133ad01268aa65f7f11b03f65a33][^c-740e3a2aa4424e1e258ebe8aae36de4c]
 

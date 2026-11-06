@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-02-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 23. Duty of boards of management as regards recorded children.[^c-d740a02d12fd7af1a156a7773a1bbcdb]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Inspection of premises etc.[^c-56ff53ea5087fd74dfa7ac9565474775][^c-8a60bb2653d3f064f73ac7c5e367f020]
 

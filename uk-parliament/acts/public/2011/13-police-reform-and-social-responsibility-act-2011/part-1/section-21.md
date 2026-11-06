@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21. Police fund[^c-04e2579086d57c5866c7a04cb689cc1f][^c-cfa80b70a11ed9a6de0d013f80aabaa5][^c-ac8f7d25a95218b062ecd191878d6899][^c-8b240e3390156dfcdf62924f67b500c2]
 

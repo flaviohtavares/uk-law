@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 33. Cessation on death of liable person[^c-eedb50ef4b58404256c1fd97aae140b5][^c-cc818da740791d563a98ac7d22e0f1c4]
 

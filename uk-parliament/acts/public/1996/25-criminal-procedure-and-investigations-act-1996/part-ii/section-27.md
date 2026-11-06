@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2025-10-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 27. Common law rules as to criminal investigations.
 

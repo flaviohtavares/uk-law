@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. Extension of provisions of section 21 to certain witnesses over 18.[^c9545751][^c-33699fd4ad661fdd7da5653eb16d4fea][^c-2a3e5a6910503ac17ba647fea145efec]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1153
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 48. Regulated measuring instruments that require more than one declaration of conformity[^M_E_56da0214-9ca9-4500-aa89-37fd3b86fb06][^c-718056cde2401e75e0e064e5fa6e64e2]
 

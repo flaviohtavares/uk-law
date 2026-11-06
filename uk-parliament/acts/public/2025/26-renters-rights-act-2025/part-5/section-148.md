@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-22.
 >
-> Extent: England, Wales.
+> Extent: England, Wales, Scotland.
 
 ## 148. Transitional provision[^c-4705fdbf4a6938043fad86a046ac5d59]
 

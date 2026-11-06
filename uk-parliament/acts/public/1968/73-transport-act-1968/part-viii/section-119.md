@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2024-05-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1968/73
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 119. Ending of liability ... to make payments on being relieved of responsibility for bridges carrying trunk or special roads.[^c15332841][^c-7c111eb3f2e076506b30a123743c1474][^c-b11f20d9bcc755a0d8bc6e292a1e4d2f][^c15332831]
 

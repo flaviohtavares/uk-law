@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 10 — Process for making of neighbourhood development orders[^c2116714][^c-3b1c878fd13aedfa80f3ff4c450df727][^c-3a626fa36e74c2fd212243b93aa76539][^c-12ffe07695d7196160044bbf52e05836][^c-7eac74facb971404e2fcb5bf22889bc9]
 

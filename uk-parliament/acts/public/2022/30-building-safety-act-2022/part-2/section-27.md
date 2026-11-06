@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27. Cooperation and information sharing[^c-593c33f5647286b257d7ed49f94d835d][^c-ca8e99ecbd2d8a17577f4b7028ae2533]
 

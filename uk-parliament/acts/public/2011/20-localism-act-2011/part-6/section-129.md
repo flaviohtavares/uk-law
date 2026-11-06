@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 129. Transitional provision in connection with abolition[^c-cb85e407a3c020331d6901bf5cd17c48][^c-88089d0789b5d0ad6d77df19e34336c5]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/69
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 9 (Extent: S) (affected by repeal, see note) — Animals and Plants to which Section 14 Applies (Extent: S) (affected by repeal, see note)[^c-1e262befcb50edd510ece66d6130629e][^c-1e262befcb50edd510ece66d6130629e]
 

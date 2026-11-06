@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 246ZF. Deemed consent procedure[^c-327116062eea6dfc0c2e5ed8cd9d9a8c][^c-ce10817473a55c40e9e98a0ad0520550][^c-37256fa3481a9e7af7c88bd213b9ae82]
 

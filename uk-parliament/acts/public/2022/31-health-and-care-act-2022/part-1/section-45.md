@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 45. General power to direct NHS England[^c-e54f23465eb80faffc95a2f25bd28910][^c-6abbf4ce755d008b38e8596e3255e678]
 

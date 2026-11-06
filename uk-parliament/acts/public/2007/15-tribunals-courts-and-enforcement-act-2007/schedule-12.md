@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (31).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 12 — Taking control of goods[^c20746981][^c-e2c21ca1e24af92f2827389660ab4467][^c-79140b4b7b5b798a046b2ba1109e5224][^c-18e55b894bd5e0e3ef39f958d00cf74d]
 

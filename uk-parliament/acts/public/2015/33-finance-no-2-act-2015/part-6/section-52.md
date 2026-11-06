@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-07-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 52. Rate of interest applicable to judgment debts etc in taxation matters
 

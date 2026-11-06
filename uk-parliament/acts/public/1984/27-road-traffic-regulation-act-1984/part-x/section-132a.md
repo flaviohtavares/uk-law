@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/27
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 132A. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c13565181]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 80. Duty of certain persons to furnish information to the Secretary of State, the Welsh Ministers, the Scottish Ministers or the Office of Rail and Road on request.[^c18955421][^c-94d17f246fa1f41e14655c2c2d20a30d][^c-04d2a1d2d285212f71daa703c76a3efb][^c18952611][^c-5de05bc3698c82784bfcd9b995bec2f8][^c-a427d38b52ec3b2635397f6f3d27f67c]
 

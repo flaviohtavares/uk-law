@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2024-05-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 78. General limit on magistrates’ court’s power to impose imprisonment or detention in a young offender institution.[^c-0bc2befca68bd3c16f8070f777b0c42e]
 

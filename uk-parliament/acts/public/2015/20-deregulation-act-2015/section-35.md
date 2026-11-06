@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 35. Notice to be provided in relation to periodic assured shorthold tenancies (affected by repeal, see note)[^c-7e4d4d2f99d88b4dd13bb7bd11c9ed4a][^c-ba443a201038ad76c217678840dc9840][^c-ba443a201038ad76c217678840dc9840]
 

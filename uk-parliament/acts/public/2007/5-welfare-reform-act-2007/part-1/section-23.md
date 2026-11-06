@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 23. Recovery of sums in respect of maintenance[^c-78d93eef8c0183cd936c8f9721b050b2][^c-a930b4f5a9da12f15855a11f7d9602d0]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 19. Executry services by recognised financial institutions.[^c-82d252f4e7a039736e21e6212d5866e4]
 

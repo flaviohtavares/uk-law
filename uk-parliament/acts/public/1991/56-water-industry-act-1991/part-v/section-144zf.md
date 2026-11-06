@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 144ZF. Guidance under section 144ZE: procedure[^c-3d31df64e8825865ebcf4cfd9d36860b][^M_C_24a0df68-7f5d-450d-85e6-96eb5280673c]
 

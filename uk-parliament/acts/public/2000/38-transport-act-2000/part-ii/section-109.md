@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 109. Further provision about plans: England[^c14880751][^c-db06081a56f7aecb361e8e92c2a22f6f][^c-6dd71a6b072005706981f9d6a6a4ce83][^c-761c70f883649eb75c6d2825c5d37f8a][^c-f9a8685da116b8b1ca23180938af8fa4][^c-358ef72878c530ec4c6605685d27eb47][^c-f263bff453c91281a4bda36d65ba6b15][^c-74b08fd035ff1ad93aa731167429165c][^c-ad081184302362255e2b55d7a19ad56f][^c-e465cb900305dc1e07533fe0825dd099][^c-63131c26ca98554bd7e4a82be39decdd][^c-38655cb458b97a6dd21ff07e03d03432][^c-4d6da790ee3fb92444037d40b72b3801][^c-ba53aa819dfa66b6ca6177e0cd938ee3][^c-f01e5143a1ff08133c3828a05f5d6fb0]
 

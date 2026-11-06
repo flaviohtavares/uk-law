@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 11. Power to impose requirements about factors used to determine each benefit[^c-46cf5ee759976f9e4f8c612f3e70c8c8]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 61. Further provision about a code of practice under section 60[^c-a50f13255146339f9158ccbcaead848b][^c-696f215663d3d0ce920a5eebbff75b05]
 

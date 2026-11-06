@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 128. Stalking protection orders on acquittal etc[^c-670432e1d97bff836aad8bcc4663f21c]
 

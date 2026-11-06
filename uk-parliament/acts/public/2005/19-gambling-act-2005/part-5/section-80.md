@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 80. Requirement for personal licence[^c-0ecb299005ec95b8dfdd7f6dfe9f8846][^c-0ebb544de2c05e93a0e74931d2c66a5f][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-a3621a48f8589237c295ccacfe94f2ba][^c-e1f6e585bac667309e250f830e864ec8][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-e1f6e585bac667309e250f830e864ec8]
 

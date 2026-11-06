@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 77. Amendment of regulation 29 (signing sheets endorsed by petition clerk)[^c-29e09e12aaa174d11efc9b43949a888e]
 

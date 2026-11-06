@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 87. Section 85: reasons to suspect child sex offence may have been committed[^c-6673d3e3f3fd36224d5f363373a95de7]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-05-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 54. Carrying out the Troubles-related work programme[^c-b8174d10468d3ff22fad535978fd99cf][^c-d7bdf7df37234651d99b8032e5dec2dd]
 

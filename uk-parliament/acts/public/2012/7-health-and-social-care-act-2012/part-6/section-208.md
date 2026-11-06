@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 208. Lists of performers of pharmaceutical services and assistants etc.[^c-af6c86bdf7f0b4bf8ed77edbd4018ae6][^c2191343]
 

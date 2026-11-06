@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 128. Discharge of obligation of responsible body by agreement[^c-ba90f82c4ca2a650747244bd6a642d33][^c-5f0e8c807a46d9f5da9582561f712dac]
 

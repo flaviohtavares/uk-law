@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 42A. Procedure in relation to exercise of powers under section 42[^c19076391][^c-ad8546ae92db965bfbe4fe4d1ec7bc8f]
 

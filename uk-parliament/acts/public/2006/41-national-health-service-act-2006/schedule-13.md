@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 13 — The Family Health Services Appeal Authority[^c-2957c643d500e31f8831f648d2c3ce6b]
 

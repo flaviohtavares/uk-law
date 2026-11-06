@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 82. Protection of persons involved in investigations or proceedings (affected by repeal, see note) arrangements for persons at risk[^c-005c7b752d1a6b1a1938594969c174de][^c-a729e1b361f3a9e9d3fdc1a736972c63][^c-1190b5c61950c80e282f0fac654989e8]
 

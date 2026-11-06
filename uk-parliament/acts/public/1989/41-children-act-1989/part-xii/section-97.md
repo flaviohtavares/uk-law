@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (96).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 97. Privacy for children involved in certain proceedings.[^c15170991][^M_C_e6bf7c28-05fe-4ff0-fd38-7f9c08c1b55c]
 

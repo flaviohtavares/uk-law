@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 44. Duty to comply with arrangements[^c-c03fe670d30a87a23c14247a1278537c][^c-36f954aa8c1d0fbd6380266ee00ea19c][^c-3e2b937793637045d4b193e54290d011][^c-7abf4ff0c5290df3c559c4985d6c1887]
 

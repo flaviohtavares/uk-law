@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2022-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28. Conditions for and contents of a domestic violence protection order[^M_I_2369b68a-211d-4c67-e2b2-9e7bbf4c8ffe][^M_I_387b1442-031c-41dd-bbd3-a0c7580a4a83][^c-92791ba4e24b56feb00a16a6337f6ece][^c-133ab8b387f951839e904b5dcc5d64d8]
 

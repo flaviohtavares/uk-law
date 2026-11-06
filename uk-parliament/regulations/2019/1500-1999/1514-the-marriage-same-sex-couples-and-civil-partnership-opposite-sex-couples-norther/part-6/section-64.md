@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 64. Child Support (Northern Ireland) Order 1991[^c-17b49eba169ec4310f099dcab360586f]
 

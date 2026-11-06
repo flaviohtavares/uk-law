@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 3. Full and reduced rates of state pension[^M_I_257a2fe7-dfa5-4c35-daa2-7eab2fa03648][^c-844b94742e54b277b9e9e79c22f23f6f]
 

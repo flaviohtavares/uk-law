@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 13. Supply of information to police etc by Registrar General[^c-d70f45404aa295067ae753599636d35b][^c-d9bf03a5f14dff0079e306fd97c27226]
 

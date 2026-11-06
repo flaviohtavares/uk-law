@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28. Compensation for loss caused by public path creation order.[^c13419641][^c13419651][^c18515671][^c18592531][^c-ae5bdeb9d434cb39ebf2877ffbb6dc53][^c-e4f1cf8fd861f78540f5ecc6860a3cdc][^c-dac08016c05216df0a02268c8bbf57b1][^c-896fd4b5603cf2c950fad005fc5376b5][^c-de6639cde04a77400621874e377f719c][^c-4c641d1cc4adca0570ce3d5de912bd30][^c-07f6e80413b54c891a76d84fa218f4b2][^c-5ed4637583db2806ca389a937a9026f5][^c-7a349cf573af6118254e2e056f66956a][^c-0515178f5689fa59bfca13d7f001e85f][^c-fa72f84c8ed140d4a2f76287915f0a7d][^c-9d092d01d219782f25925adef0ffa2bf]
 

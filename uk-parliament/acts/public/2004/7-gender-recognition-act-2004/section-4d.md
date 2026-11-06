@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 4D. Application under section 4C: death of spouse or civil partner[^c-46d8366cb9595bf218d0e4a55eaeda9b][^c-3875109353541fa7ee823b350bafa6fa]
 

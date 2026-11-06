@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 23 — Deferment of sentence[^M_F_10cd1cf2-4d1c-48f6-f4e7-fb812bb099ae]
 

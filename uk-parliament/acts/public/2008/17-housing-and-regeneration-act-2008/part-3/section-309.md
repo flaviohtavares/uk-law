@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 309. Former right to buy and other flats: equity share purchases[^c-1b3edf45218e713fb20876d0d367d2ae][^c-dea4bb7929d9109925257b4b30d1d3d9][^c-b41cf790fd93435b8b747cb96ccdae82][^c-ffc08f9c8e8c566f5bcb1e5ca0aae4f0]
 

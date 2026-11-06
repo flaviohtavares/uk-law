@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 186. Licence under Electricity Act 1989 for performance of code management function[^c-0c5e856653c3a7fd1cd0ecb1c12899a4][^c-8721507c744cba9f55c1548d94ffe33a]
 

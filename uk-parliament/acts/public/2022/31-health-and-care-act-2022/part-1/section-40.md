@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 40. Duties in respect of research[^c-4af4f3b9dea07c31bc20d7b3750e31bc][^c-f8eca96db74937f343c5ce9ff7378ed0]
 

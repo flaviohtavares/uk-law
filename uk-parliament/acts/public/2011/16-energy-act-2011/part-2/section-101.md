@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 101. Power to make further modifications of insolvency legislation[^c-78a8564dc89077a84e1ce3e3b0393440]
 

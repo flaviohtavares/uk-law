@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 82. Amendment of regulation 43 (sealing up of signing sheets)[^c-4b048fe84d4c5bd3bf19d4fab96adaa3]
 

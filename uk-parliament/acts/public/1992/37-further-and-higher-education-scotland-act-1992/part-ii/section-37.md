@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-02-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 37. Scottish Higher Education Funding Council.[^c-d0952199a828e4947535540f476f63b2]
 

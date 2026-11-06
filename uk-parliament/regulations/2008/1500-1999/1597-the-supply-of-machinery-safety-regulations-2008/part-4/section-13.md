@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1597
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 13. UK -marked machinery to be taken to comply with Regulations[^M_E_a9a5d13e-75e3-403c-f976-90d212e281cc][^c-41588155370f403245baa7c8d44e1604]
 

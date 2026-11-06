@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 206. Terms of tenancy[^c-ba628a0fde9c356a8dde5212261d083b][^c-54d9aa2a4fd84429fd4692f2b2413541][^c-305d236e54825a1a93b196a07e4b70e3]
 

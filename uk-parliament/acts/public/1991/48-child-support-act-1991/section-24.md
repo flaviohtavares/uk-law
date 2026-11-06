@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (110).** Text as at 2022-03-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 24. Appeals to Upper Tribunal[^c21358931][^c-49fae5f141c0237d5b8bb7c2dc669840][^c-ead0d363c659aa9dc40e46f926481f04]
 

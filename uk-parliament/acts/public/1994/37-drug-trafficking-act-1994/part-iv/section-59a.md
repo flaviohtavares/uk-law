@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2016-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 59A. Construction of sections 55 to 59[^c-9a06006ba7cbc4e2e407ec8ccd361d71]
 

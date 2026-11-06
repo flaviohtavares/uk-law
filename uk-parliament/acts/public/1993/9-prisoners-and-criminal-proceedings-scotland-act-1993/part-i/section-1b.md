@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (38).** Text as at 2026-08-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 1B. Prisoners serving consecutive sentences including at least one terrorism or national security-related sentence[^c-9f77add64b6658e8e83e1717f5246992][^c-369661e95f629d8a4315bc362220d331]
 

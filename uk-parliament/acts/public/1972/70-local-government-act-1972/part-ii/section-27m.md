@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, W..
 
 ## 27M (Extent: W.). Power of Welsh Ministers to alter voting thresholds in connection with organisation of community councils (Extent: W.)[^c-11a9690044064f75a4da2f43a5f1f8ee]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (182).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 51A. Exceptions to section 44 for encouraging or assisting suicide or serious self-harm[^c-d6183322751927ef9c8527a37a7c3776][^c-ca022f9a7afb5119d67e00d4278b0557]
 

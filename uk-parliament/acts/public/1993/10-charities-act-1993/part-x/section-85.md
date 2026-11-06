@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 85. Fees and other amounts payable to Commission[^c-c19229d866e13afe36d39b34d22ef788]
 

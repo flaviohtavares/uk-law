@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 4. Electrically assisted pedal cycles , electric scooters being used in a trial and pedestrian controlled vehicles[^c-cd8b97f3577b459b9830ff18909cd8db]
 

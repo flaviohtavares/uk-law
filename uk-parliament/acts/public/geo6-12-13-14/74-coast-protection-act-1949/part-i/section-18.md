@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-05-19. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo6/12-13-14/74
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 18. Prohibition of excavation etc., of materials on or under the seashore.[^c6291091]
 

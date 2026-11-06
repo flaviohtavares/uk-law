@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 52. Regulations under section 46 or 48: supplementary[^c-55c2ae7728a974648ff82c67a0ce8b83][^c-b9b0f4b59dc6e56b065165a820f22575]
 

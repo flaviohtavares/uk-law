@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2017-03-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 35. Repeal of Part II of Wages Act 1986.[^c-a232647bbcfa52795846704f04ca810d]
 

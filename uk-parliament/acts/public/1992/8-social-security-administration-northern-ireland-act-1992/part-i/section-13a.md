@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (186).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 13A. Payment out of benefit of sums in respect of mortgage interest, etc.[^c-50ff5ebf5da3998179e99ea7f5dba448][^c14892501]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 72. Responsible regional authorities[^c-5ffc0ceeb403c5ca57aeab71b30750a7]
 

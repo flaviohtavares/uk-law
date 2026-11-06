@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 11. Residents’ panel[^c-2dc58bb2430ba32fd284338c7650ecf5][^c-34ae4f61840c9791d12a029aed6ce794]
 

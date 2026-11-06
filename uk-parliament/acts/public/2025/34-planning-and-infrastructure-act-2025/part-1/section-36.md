@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36. Replacement of model clauses with guidance[^c-4e8529f4db0efb22483f113d9b6027f8][^c-4a8865c8125070d2b36d27515d297c92]
 

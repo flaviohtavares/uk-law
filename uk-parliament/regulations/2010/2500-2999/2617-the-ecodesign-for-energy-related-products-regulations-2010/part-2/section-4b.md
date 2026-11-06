@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 4B. Register of UK notified bodies[^c-841d81d4f733811d212ee1d3eaffe088]
 

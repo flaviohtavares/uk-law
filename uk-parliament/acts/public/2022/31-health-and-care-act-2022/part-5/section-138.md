@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 138. Offence of aiding or abetting etc a person to carry out virginity testing: England and Wales[^c-f4554b3f2355a3d39b2b78a166cf1823][^c-b4e7769076f8567df9f5c26b81c7b5c8]
 

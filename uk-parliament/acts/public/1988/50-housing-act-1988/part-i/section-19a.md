@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/50
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 19A. Assured shorthold tenancies: post-Housing Act 1996 tenancies. (affected by repeal, see note)[^c12866171][^c-fc20bf788fddf36d09dbf266cb7b193f][^c-fc20bf788fddf36d09dbf266cb7b193f]
 

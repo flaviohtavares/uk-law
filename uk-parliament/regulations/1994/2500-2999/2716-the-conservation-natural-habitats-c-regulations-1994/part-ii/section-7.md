@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-10.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 7. Duty to designate special areas of conservation[^c-9e2ff0200e70e7e10d02af1971c6393b]
 

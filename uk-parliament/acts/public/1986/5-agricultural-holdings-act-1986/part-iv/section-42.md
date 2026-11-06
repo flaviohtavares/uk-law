@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 42. Procedure where deceased held more than one holding.[^c-b5c01d822be315b8fe43f35294dabeac]
 

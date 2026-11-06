@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 15 — Transitional and transitory provisions relating to Part 3[^c-6e91c6679391a47ad40c754da0b4e7a4]
 

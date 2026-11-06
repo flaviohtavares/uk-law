@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2010-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. Discharges into and from public sewers.[^c-2014b89b9ac4677644aa1d4698b3c0c3]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 70. Withdrawal or relaxation of requirements of remedial notices[^c-7466ded3691b89720648522c321389bd][^c-30231eb8a813d4bd2a48e6afa5a960d7]
 

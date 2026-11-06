@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 88. Regulations subject to affirmative resolution procedure[^c-6757d207433023f883b5d900f31800bd][^c-1ef7d731ef5741d0801e8cfb6761327c]
 

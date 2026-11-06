@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 21. Certificate that actuarial valuation prepared in accordance with scheme rules[^c24458891][^c-f45e166bd76a0b730a5f5f8bb4d8150d]
 

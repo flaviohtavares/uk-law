@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## Schedule 12 — Financial penalties for breach of retail licence conditions in Northern Ireland[^c-60e9e213c633c5f095f61b8dc918b850]
 

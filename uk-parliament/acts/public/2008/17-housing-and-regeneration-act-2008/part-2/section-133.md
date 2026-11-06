@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 133. Exempt companies or limited liability partnerships: extraordinary audit[^c-06acc923d98305820542c5611d371612][^c-494adcf6a56192b3372802707b3f5817]
 

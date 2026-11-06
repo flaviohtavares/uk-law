@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 100. Areas for development and remit[^c-ce1cd913b23c681deb0ecc536aa3d37b][^c-5774778c99cea3f9a733001e2e3a2269]
 

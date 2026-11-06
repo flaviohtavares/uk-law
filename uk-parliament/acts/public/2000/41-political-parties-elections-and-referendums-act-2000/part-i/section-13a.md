@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (131).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 13A. Reimbursement of costs by Scottish Ministers etc.[^c-ddf7e035737d2ce527547cce16a35eac]
 

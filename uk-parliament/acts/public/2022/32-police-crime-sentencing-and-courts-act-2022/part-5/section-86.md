@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 86. Causing death by dangerous driving or careless driving when under the influence of drink or drugs: increased penalties[^c-c2c762a6d6f1b6f119510fdb96d5e963]
 

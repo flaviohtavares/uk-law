@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 292A. Exemption from enrolment duty under Part 1 of Pensions Act 2008[^c-b04934cd888e7276c0a6939405dcd835]
 

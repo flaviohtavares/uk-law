@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 42. Cancellation of registration under section 41: building no longer used[^c-6a9c4607b8fba7247f018e07776d5e17]
 

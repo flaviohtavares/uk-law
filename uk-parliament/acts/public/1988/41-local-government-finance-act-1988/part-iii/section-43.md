@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (93).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/41
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 43. Occupied hereditaments liability and reliefs.[^c13067211][^c-cf4a49de5fc7f782fb453030c8d931ed][^c-592efc00443e058f3bb081274d835538][^c-7dd5ef909e2fa102ab86e49dd7133d34][^c-c1fa465d60ab359303c47b07fbfd1a76][^c-6f27009b0d4afaaa80a886a31b62b9e4][^c13067201][^c-cedbcaf1e3f3829eec0bb4cf68bf727a]
 

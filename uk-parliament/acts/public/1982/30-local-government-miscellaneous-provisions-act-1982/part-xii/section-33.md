@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1982/30
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 33. Enforceability by local authorities of certain covenants relating to land.[^c2551351][^c2551361][^c2551371][^c-a7a36fec28c684c4cc3930c608dcf910][^c-f816c53d0bffe40b86c917218458b5bd][^c-683d07727cb7c36ced25514d4bc9aafd][^c-717a5cd06765497bea024a4bc485e9e6]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 195A. Reasons for decisions[^c19893141][^c-610c70f5ee44ec2a53f2b931fc1f96a1][^c-ff9db25d6181eca43efe62983cc35223][^c-8d56a2ac038578d7842976219868f711][^c-709c1689ce42d0239bc45c313d660da2][^c-22a67c4e7a7767031107ab034d4042d7][^c19858091]
 

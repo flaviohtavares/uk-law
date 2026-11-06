@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 50. Overflowing and leaking cesspools.[^c611464][^c611465][^c-591cdc60adadf24da12bba19f7fee3e4][^c-1702df0de51a918fe584bfd0cf30d385][^c-618fc40c220c4c7af3d2ec591c7b8af8][^c-c4e46fbe9452da5270f07ebc00657a7c]
 

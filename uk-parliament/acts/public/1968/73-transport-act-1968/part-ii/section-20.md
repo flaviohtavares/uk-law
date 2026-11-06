@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2024-05-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1968/73
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 20. Special duty of certain Executives with respect to railway passenger services.[^c-dae5b66085e1d7bc7e0f6b1e5414ffb1][^M_C_2f7e3029-c0fa-4d46-c737-867b0c39d3d5][^c15313951]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 162A. Annual reports: fund-raising standards information[^c-741a9ed7417191c665493a1166809e36]
 

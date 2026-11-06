@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 54. Adjournment and stays[^c-594e040a730ee8d5bf67f550eb30b5d2][^c-3f8552b50e6f179cf4c0b18aceb9aa02]
 

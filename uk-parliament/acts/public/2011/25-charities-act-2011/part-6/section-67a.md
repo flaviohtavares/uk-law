@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 67A. Proceeds of fund-raising: power of charity trustees to apply cy-près[^c-813b0941fc4c51d5371120c795ba1f6a]
 

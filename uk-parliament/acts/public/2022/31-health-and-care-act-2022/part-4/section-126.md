@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 126. Co-operation[^c-2ff1f3585b3bed401f5960678cf204da][^c-6d5c6bacb2a9c0c9a8d02100aad9a706]
 

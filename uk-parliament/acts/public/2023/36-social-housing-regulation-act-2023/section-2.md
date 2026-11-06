@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Advisory panel[^c-e387a0c249f88ce71584b1eefcfb8828][^c-636dfd3bbd0a612cf117a02517920e25]
 

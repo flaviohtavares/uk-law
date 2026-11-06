@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 213. Consequential amendments[^c-9fcd9f4b468d9ecb99af5e87097ad4a9][^c-e4790e7b857285cd76be4c4ec7698274]
 

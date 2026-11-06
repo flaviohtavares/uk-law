@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 57. Power to make provision about warning statements[^c-e8b358f624d25dff856fec5d114b574e][^c-ad15f53543cdaeb63716adde6567a3ad]
 

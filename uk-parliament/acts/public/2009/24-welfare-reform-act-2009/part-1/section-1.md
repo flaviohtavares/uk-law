@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (25).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/24
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 1. Schemes for assisting persons to obtain employment: “work for your benefit” schemes etc.
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 57. Offence to fail to comply with approved programme[^c-02a4632d63269ac823ce24acc12c21cc]
 

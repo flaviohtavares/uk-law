@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 4A. Delegation of RPB functions to regional development agencies[^c-95661c1f1df93953c323cfc6a88b9475][^c-038068a6591a89bc3e8a496d9b78f527]
 

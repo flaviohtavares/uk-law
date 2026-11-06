@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 59. The personal identifiers record: England and Wales and Scotland[^c-a01fc071bc4fa1d69cd76a3f171bcf45]
 

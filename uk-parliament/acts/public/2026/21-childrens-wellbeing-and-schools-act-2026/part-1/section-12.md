@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Accommodation of looked after children: regional co-operation arrangements[^c-34d31b678cdfddc2ea174949f2b84f0e][^c-881a0743aa9821d79e56d91a992f118d]
 

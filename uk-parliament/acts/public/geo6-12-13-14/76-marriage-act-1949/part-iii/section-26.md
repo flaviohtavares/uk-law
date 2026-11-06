@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 26. Marriage of a man and a woman; marriage of same sex couples for which no opt-in necessary[^c-d83370e7180c26114c14b8230ddeae50]
 

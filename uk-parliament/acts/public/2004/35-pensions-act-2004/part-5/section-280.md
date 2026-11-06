@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 280. Power to increase pensions giving effect to pension credits etc[^c-eb2a693f810d8405ed8486ba86020c7f][^c-851849f45b2d27a5249c7fe8d9104926]
 

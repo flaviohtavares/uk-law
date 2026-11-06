@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 65K.. Decision of NHS England or Secretary of State in case of NHS trust[^c-96eb1a4d06eff47697b17bf4c8b5e69e][^c-17cf88763d4009b94ad6caf0b8ba8e30]
 

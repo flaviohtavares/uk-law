@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2024-05-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5. Power of Crown Court on committal for sentence under sections 3 and 4.Power of Crown Court on committal for sentence under sections 3, 3A and 4[^c-02e73e801a309a8d2aa00dde763a180e]
 

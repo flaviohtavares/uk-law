@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 50. Deprivation orders, seizure orders and interim orders: offences[^c-fe64dca93bc41e43bb5c368ba1704d06]
 

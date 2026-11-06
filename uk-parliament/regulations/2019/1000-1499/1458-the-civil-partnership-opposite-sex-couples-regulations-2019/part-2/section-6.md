@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6. Transitional provision in relation to opposite-sex overseas relationships[^c-89fbb80e7d63996ad9b412140422764f]
 

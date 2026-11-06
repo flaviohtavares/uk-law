@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 82. Council's power to undertake review[^c-94df91bfdad96abb545911eb7188c28e][^c-725b449f227e31c19b43c53deed7682f][^c-a98260ab88125b30e29f14fca6d3ff7a]
 

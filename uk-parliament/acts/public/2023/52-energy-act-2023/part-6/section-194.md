@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 194. Directions relating to designated central systems[^c-94d9f5dcd2c487db60315d3b15a8dc5f][^c-c237f975fae12d252ff5cd8d84c07435]
 

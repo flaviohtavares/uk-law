@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/618
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 54. Fees payable in connection with the designation of approved bodies[^M_E_f3795d0d-efea-492e-891f-13b0ee1e21aa][^c-60e746f6c8afbc57bd6d22d1f65104d6]
 

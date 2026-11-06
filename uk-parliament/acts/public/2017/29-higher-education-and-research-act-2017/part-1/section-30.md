@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 30. Duration of a plan[^c-597722a40a77868ff9bb2471bf5da6ed][^c-077d9ff4eed158785de63d7e548b1fc0]
 

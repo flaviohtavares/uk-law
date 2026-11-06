@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2007-09-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 4 — Miscellaneous Amendments Relating to Statutory Sick Pay[^c1002895]
 

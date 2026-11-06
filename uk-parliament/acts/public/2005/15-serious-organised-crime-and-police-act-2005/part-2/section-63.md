@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 63. Production of documents[^c-842a0cd08a93b95d1f386eb3a7164bc6][^c-8db93b32112a2b7e1823805c380a5f7a][^c-a8faaf61725f45aa0284914e8dc2ea99]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2016-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. Recognition and enforcement of orders and functions under Part I of the Criminal Justice (Scotland) Act 1987.[^c-9b3558415cca54423fab43a6a8d478ff]
 

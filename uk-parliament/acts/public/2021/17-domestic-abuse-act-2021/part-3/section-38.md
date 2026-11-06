@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 38. Duration and geographical application of orders[^c-8e951a21f107c52c5a8f744c23da77a8][^c-8697b2006a2ca59e43e3def191c9fcf5][^c-c6bdd69fb8976395f7ce8c9ff963ee80][^c-a4729b38c3b813d1cbacbf29e5ac3ead]
 

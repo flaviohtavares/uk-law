@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 185. Time limits for implementation[^c-bdea7b0ad334efbe5be1a09ff8d9ec65][^c-96debe022496b63897bdfcbc6b5a274c]
 

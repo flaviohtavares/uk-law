@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 69. Calculation of benefits[^c24480781][^c-d23885896953d9d96db72dd1276443ab]
 

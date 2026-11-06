@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 35. Directions in relation to projects of national significance[^c-1ab9e3f7a1a4dece3b52e6641ebfbdc0][^c-444a65419b34030ec04c4dd6902a059d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 19AB. Section 19AA: supplementary provision in sexual risk order cases[^c19033251][^c-dc160c33b07aa31134d2832a8c56bc2e]
 

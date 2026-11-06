@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 19. Power to modify energy supply licences to require provision of information[^c-1b7bbd290331ae3b5609fb61cbb6fac5]
 

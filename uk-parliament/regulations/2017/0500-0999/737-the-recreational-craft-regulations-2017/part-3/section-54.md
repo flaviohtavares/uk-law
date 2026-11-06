@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2017/737
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 54. UK marking[^c-31db2365f2e1dfe26d98aa1b9a416235][^M_E_3ed1d1ea-3bb9-45a6-cafd-334baf4c4d88][^c-d0e8257c8a1f2c588f9f6b053506ba4d]
 

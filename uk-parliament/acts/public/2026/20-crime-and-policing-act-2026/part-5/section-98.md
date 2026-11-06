@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 98. Offences relating to semen-defaced images, intimate photographs or films and voyeurism[^c-e241df2bed8dab30136f8f384b959363][^c-4d26f4e86f0bda7eac1f282f3c887df0]
 

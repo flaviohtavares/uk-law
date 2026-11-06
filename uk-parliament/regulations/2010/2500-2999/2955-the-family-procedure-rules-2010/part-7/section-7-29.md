@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2955
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7.29. Medical examinations in proceedings for nullity of a marriage of an opposite sex couple[^c-ded58967ac7753f9db74f558aedf6c5f]
 

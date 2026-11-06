@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 192. Modification of designated documents by GEMA[^c-e6cbad93d8100f70785405b5d28e9ebc][^c-08344a8e232b43c7eec55808604ba9ce]
 

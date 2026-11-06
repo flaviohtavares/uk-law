@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 87. Extension of retailer register[^c-5d120672eb91a0fa206bfe26fb89cee2][^c-5469b55620744c3f305abb91e6464d31]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 51. Protection of personal information disclosed for purposes of proceedings[^c-bfa4e617dfe84876c0c4355808a16e33][^c-4f979779d0294fb101a61d93a482d626][^c-b3f4f350aaff562acf701623039e8762]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 78. Single appointed person to handle application[^c-a400c1d069db2a401c76f95e9c20e376][^c-a5c2112bd4ef7af4e7d46fc2356cf033]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 206. Fraud, etc. in anticipation of winding up.[^c15573891][^c20433311][^c-d8eaaa946d71d0667fca6ff5b4b66395][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-37c70984ad8829883206ce7d41d1c9ab][^c-27c740bc34b14db40a2e339d730c551d][^c-03caff2bb12bf9923001b29c18763f48][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

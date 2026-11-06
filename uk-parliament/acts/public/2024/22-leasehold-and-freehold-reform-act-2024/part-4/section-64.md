@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (110).** Text as at 2025-03-03. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 64. Restriction on recovery of non-litigation costs of enfranchisement, extension and right to manage[^c-e134d5459f56e76b9776b5fd354873af][^c-db4b45614411bd1751aabdf13efc9c46]
 

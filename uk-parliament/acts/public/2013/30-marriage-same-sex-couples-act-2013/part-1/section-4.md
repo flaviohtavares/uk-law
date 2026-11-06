@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-04-28.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4. Opt-in: marriage in places of worship[^c-1cc55ae2dec48d0ce62ff05a51581e0d][^c-e3d85f410e58242bd1e48f65af2dcc67]
 

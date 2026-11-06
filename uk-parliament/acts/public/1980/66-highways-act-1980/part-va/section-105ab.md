@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 105AB. Publication of screening decisions: projects not to be subject to an environmental impact assessment[^c-d1271d722e7de06e530c94cd095d1392][^c-781888dd6129d24de4595c7c1ad8f6b8][^c13422031]
 

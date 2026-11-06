@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 168. Locations for sexual offender notification[^c-906b2cc7d4237954e92985d77ae3eea4][^c-7cf29269a2a3049c5009bcbfd0c6e5f1]
 

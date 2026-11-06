@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 109A. Proposal for new combined authority (locally led)[^c-6fb216cde6829540cc2c92d3c38149dd][^c-300ed6d53fb2c12a6cdab91a2fbd9485][^c-d8d77ab69618b0097042a36848c783e2]
 

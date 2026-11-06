@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31E. Family court has High Court and county court powers[^c-4071a9d3584c3572190b0bb77e5ce803][^c-20cf688acacb9d3aa1876553784c3dc9][^c-96119dc41bf59e4c1c36e62e4f2cabd4]
 

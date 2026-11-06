@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 91. Enforcement of disciplinary penalties: general[^c-0276c04676ca85f1e34b6ffacd39d8b2][^c-3be5b82040098f2bd1e0a9a2f9fed092]
 

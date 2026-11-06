@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31. Content of a plan: fees[^c-5eb9df714b75cbe729ce38d42c0d8cb2][^c-11ad8ce2c0fb3e6d1ee27693b93742ca]
 

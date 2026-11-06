@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 54. Interim CCE prevention orders[^c-87e9bb8521ccbfeb10b1f92f9a5b8a48]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 5. Gunpowder (except for private use) to be kept only in existing or new magazine or store, or in registered premises.[^c-c6f06a1f239b6a168b9fc5e8f8b30fc8]
 

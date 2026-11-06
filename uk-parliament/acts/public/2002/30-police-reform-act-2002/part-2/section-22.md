@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. Power of the Director General to issue guidance[^c20012711][^c21090681][^c21093061][^c-eaf4358fcdf04bda3b2636cb5721883b][^c-66e6b09c17457e2b776f3651ae5476b6][^c-f3d35754efbd9166151c3c88e7bda304][^c-08ffc9e4d48268dd59c2fe2cfdb8af8c][^c-abd5f78ba0c92d3b4403644189ef9922][^c-3f9f833322cb9779a260109b1f2b5180][^c-74d3d239053b41265f11a373f2e8975f][^c-9c61c39d9a4b9099ed4348b90e864724][^c-206aa61bd2128d47e3606f31adc531cc][^c-4b03a062a205195f97b11eb247ede23c][^c-0d7809a5d1b87706d92d3c4895677eb7][^c-e4ce77eba7bc165c9730901126c6498e]
 

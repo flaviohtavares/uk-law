@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## (not yet in force: 47E). (not yet in force: Penalty for using rail vehicle that does not conform with accessibility regulations)[^c22810491][^c20485971]
 

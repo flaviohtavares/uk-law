@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 77. Social Security Benefit (Dependency) Regulations (Northern Ireland) 1977[^c-086022f5977f26ad01a2a94241f5ff39]
 

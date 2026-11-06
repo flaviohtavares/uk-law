@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 45. Attendance by accused at certain preliminary or sentencing hearings[^c-b0c1828061f5f644ae7a2fabcebe30e3][^c-e802989fe2743c460dd039e16a9bdb9f][^c-d97cdc4cd72eea4b78da35c26f002838][^c-27d706f644f91165765eaf0428466f22][^c-a0ee1d4a4d15ac2cab25b998278851a0]
 

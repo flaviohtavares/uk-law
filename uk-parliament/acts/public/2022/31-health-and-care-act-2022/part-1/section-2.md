@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Power to require commissioning of specialised services[^c-99b21881cb3e92ea5fa6742f03f21310][^c-0631f122b7977195a50aa50948171c94]
 

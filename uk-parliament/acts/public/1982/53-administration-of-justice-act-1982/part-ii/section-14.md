@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-07-11.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 14. Amendment and repeal of enactments.[^c-0d1691ffe030281ea185bc82e2ae66a4]
 

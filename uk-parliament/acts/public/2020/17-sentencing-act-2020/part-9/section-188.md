@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 188. Youth rehabilitation order to specify offender's home local justice area[^c-6ec42ef61df6acaa16269b9192051860][^c-ccec563bfe0d884d57768839d51c9d20]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 64. Additional sanctions for failures by bus operators[^c2199634][^c-b7fff4220c379f4310454e94d8036ea1][^c-d9fb9e21877dafe63c65371ed1f65b3a]
 

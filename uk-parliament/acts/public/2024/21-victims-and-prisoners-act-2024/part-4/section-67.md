@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-09-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 67. Imprisonment or detention for public protection: annual report[^c-a4f94836dba4e22e5dbbf80ec91130a8][^c-27061b415fe4ef0d25c2f3819e1da017]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 271. Service of notices.[^c950397][^c-d6ffa0e4d9d3d0a1d661af3c57e18f9b][^c-1c4a8f2066f857bff13a761d9a0a9cab][^c-62b7cd314b8b73ad92205fd7676d009b]
 

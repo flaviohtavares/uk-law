@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 40. Issue of precepts by major precepting authorities.[^c12077051][^c12077061][^c-bb7f6b996e608a693d568e2b4cc6cc54]
 

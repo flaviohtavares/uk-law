@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 18. Supplementary scheme provision[^c-bbcf8ca1b7d2008ee1015b20b13e624d][^c-f681d747fed71ec470c2d5de8264b2e2]
 

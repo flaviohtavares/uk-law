@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-10.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 9D (Extent: E+W) (affected by repeal, see note). Management objectives of the (Extent: E+W) (affected by repeal, see note) UK (Extent: E+W) (affected by repeal, see note) site network (Extent: E+W) (affected by repeal, see note)[^c-9e4a9727848df5dbe47240b17a99558a][^c-2dd38f22e3f0e7272da0337fa848725f][^c-2dd38f22e3f0e7272da0337fa848725f][^c-2dd38f22e3f0e7272da0337fa848725f][^c-2dd38f22e3f0e7272da0337fa848725f]
 

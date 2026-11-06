@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28A. Power to require evidence of consent to marriages of same sex couples[^c6281491][^c-c898f7a5800b3f42e0c6454cec446a45][^c-4739622990a20f2987e5a4b6a8e399d5]
 

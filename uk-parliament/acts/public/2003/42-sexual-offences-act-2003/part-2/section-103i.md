@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (154).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 103I. Offence: breach of SHPO or interim SHPO etc[^c-a1047a862949c3172bd6f2de57ce39fa][^c-c400ccf7c15c28c780953e24c043a7e0]
 

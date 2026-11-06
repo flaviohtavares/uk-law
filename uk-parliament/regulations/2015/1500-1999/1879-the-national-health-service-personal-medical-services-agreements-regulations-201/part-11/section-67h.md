@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-15.
 >
-> Extent: England, Wales.
+> Extent: England.
 
 ## 67H. Collection of data relating to appointments in general practice[^c-bb134cc0125e62004c47a21b0dc93ebd]
 

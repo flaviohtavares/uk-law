@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 22. Amount of deductions[^c-a8e07970eb32cc85f4208ecfb425452f][^c-9c271a7df87efd5faa5247b83fdc5859]
 

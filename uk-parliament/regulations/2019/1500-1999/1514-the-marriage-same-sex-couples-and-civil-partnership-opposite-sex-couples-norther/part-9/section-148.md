@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 148. Houses in Multiple Occupation Act (Northern Ireland) 2016[^c-1c458ed67ae8359fa03166e57e9f105c]
 

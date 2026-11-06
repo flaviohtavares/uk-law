@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 19C. Exemptions relating to particular areas in England[^c-917ebba579edefbf9109cf9739c83c3b]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6. Promoting educational achievement[^c-4b54a39ced1cb58a3cdfdc9a6f2a8cca]
 

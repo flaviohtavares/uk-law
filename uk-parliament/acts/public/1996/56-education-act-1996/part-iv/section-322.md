@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 322. Duty of certain bodies to help local authority. (affected by repeal, see note)[^c-44c659fdf3ae27bfa95ab072d6157d41][^c-a26091f02a6f098b8797ebca0f491930][^c-0bb5c0d640d199df46672514d2ea17c5][^c-44c659fdf3ae27bfa95ab072d6157d41]
 

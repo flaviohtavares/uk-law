@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 156. Housing Renewal Grants (Reduction of Grant) Regulations (Northern Ireland) 2004[^c-c5d03321826d1bc2f047ac0f7d66e923]
 

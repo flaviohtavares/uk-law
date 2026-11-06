@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2017-12-28.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 19. Company not to disturb pipes until they have laid down others.[^c5588941][^c-b7860c33d5550bfd690aff79ab91b32a]
 

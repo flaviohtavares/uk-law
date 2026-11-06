@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 168. Interpretation of Part 3[^c552136][^c-14df0cd57c6ee67638caa1f7f4c5ff87][^c-fd27c2f8ae8cd7958706fd506327c692]
 

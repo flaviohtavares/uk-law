@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 411. Company insolvency rules.[^c15584001][^c15584011][^c21430441][^c-621c6e46dd51e0d0059565cd5830aa2c][^c-8126677222addde7e389578c327ad1db][^M_C_595f2c47-3ece-4555-a7d7-01cf512129a5][^c-e3f3fa3aff33ed12ad2f124b9f949a40][^c-e841f656c1b399d540c578567b58b8d3][^c-c6b5ee32efce5e716a324f85dee4ccc1][^c-aa4d38c54dd51e1df40f9cb997cf33b8]
 

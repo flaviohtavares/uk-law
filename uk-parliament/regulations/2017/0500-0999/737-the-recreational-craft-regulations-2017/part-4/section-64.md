@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2017/737
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 64. Authorisation of UK national accreditation body[^M_E_52f46df2-fad8-4dd2-f394-c657dcfe00e7][^c-7537dfde85ab4442663edc660fa640ef]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-03-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 56. Cut-off date for extinguishment etc : England.[^c-201b3acf194e64a8d6133a4f0e425dc5][^c-69aa6ecc619e98815a064c393b56a2c0]
 

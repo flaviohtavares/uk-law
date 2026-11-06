@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2955
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 3.10. MIAM exemption not validly claimed or no longer applicable[^c-e91d532a33b448779354909a88339e3e][^c-99eb23970874178fa5da9064edd97535]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/27
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 102. Charges for removal, storage and disposal of vehicles.[^c19177491][^c19177121][^c18773091][^c18773521][^c-39201a7e717d4a5c868bfe0c03f6a375]
 

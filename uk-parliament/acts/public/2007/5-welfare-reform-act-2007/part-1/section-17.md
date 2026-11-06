@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 17. Income and capital: general[^c-488f07af089a1c50d2cbd72a38ddba2c][^c-616b7dcc7e54656076c543464d8f55bd][^c-a930b4f5a9da12f15855a11f7d9602d0][^c-a930b4f5a9da12f15855a11f7d9602d0]
 

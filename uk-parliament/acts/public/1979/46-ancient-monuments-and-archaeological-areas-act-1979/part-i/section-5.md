@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1979/46
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 5. Execution of works for preservation of a scheduled monument by Secretary of State in cases of urgency.[^M_E_154a0fc1-5380-4efd-b6f7-61d601298c97]
 

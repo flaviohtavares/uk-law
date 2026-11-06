@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 182. Code of practice relating to non-criminal hate incidents[^c-b26776a914fbc360beff35f049e84147]
 

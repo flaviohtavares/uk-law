@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 146. Inspection of secure training centres and secure colleges[^c-3a0cfaffb222cf95cdbb4f02e0937ad1][^c-09e26e431c1d3c90935d5555852e6748]
 

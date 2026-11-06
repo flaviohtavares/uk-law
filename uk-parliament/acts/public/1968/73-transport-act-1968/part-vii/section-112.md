@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2024-05-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1968/73
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 112. Power to extinguish statutory rights and obligations in respect of canals not comprised in undertaking of Board or Canal & River Trust.[^c-bbe71ef65aa0f8d3f3096bda9d82a053]
 

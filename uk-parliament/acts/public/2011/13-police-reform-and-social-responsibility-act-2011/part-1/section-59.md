@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 59. Date of vacancy in office of commissioner[^c-6ff8d303b8f8b453d5be9ac2765e3230][^c-1317ab83fd35247630aeb7e9c7f67ca4]
 

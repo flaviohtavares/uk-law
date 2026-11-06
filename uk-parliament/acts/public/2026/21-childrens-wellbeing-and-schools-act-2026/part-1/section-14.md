@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14. Powers of CIECSS in relation to parent undertakings[^c-772d30b699b68419f2108bfa817557bf]
 

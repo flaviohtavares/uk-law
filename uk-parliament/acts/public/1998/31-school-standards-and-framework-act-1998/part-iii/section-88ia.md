@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 88IA. Changes to admission numbers[^c-2a713e05ce484771ee449bea8f3c3ae5][^c-fff7d3364a51a0a8358573f4fba9676d]
 

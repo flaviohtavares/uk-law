@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 61. Committal of young persons of unruly character[^c-7b16f1aa892b299f3c3ef259d8b774b7]
 

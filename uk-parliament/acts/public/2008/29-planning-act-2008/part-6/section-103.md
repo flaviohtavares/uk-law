@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 103. Secretary of State is to decide applications[^c-6fb942c83e74477f4b4b51d5a83bfb23][^c-d5cc5eac7ab642613b1a4167f68e9ae5]
 

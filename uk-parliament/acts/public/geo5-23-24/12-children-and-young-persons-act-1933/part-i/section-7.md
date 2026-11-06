@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5/23-24/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7. Sale of tobacco, &c. to persons under eighteen.[^c6079021][^c20379831][^c-1693fde6ad1c71086931bf6eaf346efa][^c20380641]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 112. Habitats Regulations: power to amend general duties[^c-0ca8c6c9039b64a9e83942d891ffcd06][^c-a3f4e80f208dbdf28e63848a0e7e911d]
 

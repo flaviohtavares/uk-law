@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2007-09-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 24. Power to extend Pneumoconiosis etc. (Workers’ Compensation) Act 1979.[^c1002863]
 

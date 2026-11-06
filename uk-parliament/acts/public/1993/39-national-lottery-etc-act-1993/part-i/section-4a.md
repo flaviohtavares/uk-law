@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (31).** Text as at 2023-02-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/39
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 4A. Consultation with Gambling Commission[^c-9d831ca0637a83430d42c16a95e35561]
 

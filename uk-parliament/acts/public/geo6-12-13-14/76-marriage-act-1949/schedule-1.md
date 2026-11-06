@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 1 — Kindred and affinity[^c-8882bce24a73334574a3104fa0d2ff84][^c-7d0bf9280ab77eb0527504badc874b49][^c-bde2c36c27f676cc96624b3351f71eb0]
 

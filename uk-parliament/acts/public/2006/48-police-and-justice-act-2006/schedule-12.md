@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## SCHEDULE 12 — Schedule to be inserted into the Protection of Children (Northern Ireland) Order 1978[^c-2aaaacee31337fd3f4e65d363c61d0a3]
 

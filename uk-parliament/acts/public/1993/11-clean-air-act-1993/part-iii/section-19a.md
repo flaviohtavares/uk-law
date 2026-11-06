@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 19A. Penalty for emission of smoke in smoke control area in England[^c-63db98e023d77f7587b39443988b245c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 100. Renewable heat incentives[^c-e4d19e7a7425274bb909ab11e29be7a3]
 

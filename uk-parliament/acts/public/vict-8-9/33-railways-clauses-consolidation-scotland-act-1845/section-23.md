@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2017-12-28.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 23. Penalty for obstructing supply of gas or water.[^c5588981][^c-25b0bdc5ed23b3458e4571edca5fe195][^c5588971]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 185. Enforcement as fines etc[^c-cb886bfc567b7a723c4da3cd6b856bb6][^c-e3634034bab4be7cd4cb838ceea63874][^c-8f36befb1a0a729f39ff83a5746a9374][^c-23c364713c31a0c25d09770312aeba7f][^c-c17adb1df6d097eff0772533ee9e24f5][^c-e3634034bab4be7cd4cb838ceea63874][^c-8f36befb1a0a729f39ff83a5746a9374][^c-c17adb1df6d097eff0772533ee9e24f5]
 

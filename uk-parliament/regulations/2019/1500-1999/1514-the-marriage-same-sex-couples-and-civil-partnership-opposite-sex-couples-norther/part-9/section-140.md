@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 140. Mental Health (Northern Ireland) Order 1986[^c-913131d1919379c458d218e7037cf44e]
 

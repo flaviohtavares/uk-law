@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 64. Duty to compile and make available higher education information[^c-b7fa71a0ed92718c6f4a5eb9bbaac9ef][^c-b85c1b7e2840cb53745608eb6dcf538c]
 

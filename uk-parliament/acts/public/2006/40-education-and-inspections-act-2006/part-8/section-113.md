@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 113. Her Majesty's Chief Inspector of Education, Children's Services and Skills[^c-80d59a8e1e007fe4f21e9c1e5d1db136][^c17507781]
 

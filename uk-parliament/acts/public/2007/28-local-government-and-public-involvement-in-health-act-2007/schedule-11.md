@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 11 — Schedule to be inserted in Audit Commission Act 1998[^c-911f57431afea197745864b335937c28]
 

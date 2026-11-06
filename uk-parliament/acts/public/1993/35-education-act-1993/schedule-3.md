@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 3 — PROPOSALS FOR SCHOOLS TO BECOME, OR BE ESTABLISHED AS, GRANT-MAINTAINED SCHOOLS
 

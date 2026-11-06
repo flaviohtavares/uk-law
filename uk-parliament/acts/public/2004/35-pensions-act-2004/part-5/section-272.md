@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 272. Debt due from the employer in the case of multi-employer schemes[^c-09c6dd51d37e3afab3d683961099235f][^c-36d85352c952d8c57a58f48c433f8a83][^c-04c6e04f38b780b6812ef0f4c796e3bf][^c-89d6c149f8615734fcb212f349754a05][^c-61b9fd64e6d7f077286f94d5852f8d80]
 

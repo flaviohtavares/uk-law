@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2022-02-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## SCHEDULE 8 — Moratoriums in Northern Ireland: temporary provision[^c-fb7f1d38b35762a1e059b1d3a3a9e938][^c-edfc91f9a40caee0ed78919c138674ec]
 

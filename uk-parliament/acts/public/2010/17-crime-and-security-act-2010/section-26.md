@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2022-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 26. Breach of a domestic violence protection notice[^M_I_6c9e386d-3906-4116-f265-7b7553b0bc7c][^M_I_145bbfaf-d448-4314-d4f7-c7dc3789fbfc][^c-d55de9e8e3a42af02bcc6f45c6c7478b][^c-fa224e5fbd87fbac64079db0b0de2f1d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 6 — The Countryside Council for Wales: Constitution.[^c-88bd6fc1dbf3057b86a2de66aab64732]
 

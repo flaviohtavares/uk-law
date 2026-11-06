@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 99. Appeal against refusal to disregard convictions or cautions[^c-1cc69256855bc6df3b41f46f1b75a59b][^c-10055670946d6469fa770d174d883ef6]
 

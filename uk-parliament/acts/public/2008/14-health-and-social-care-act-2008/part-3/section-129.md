@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 129. Public health protection[^c1942070][^c-18b32d71ba495b27c65dcaa94fe18c46][^c-7cb2a1bfd7e4cd18ef5bb095a67c57f9][^c-314a54fd9635bd478efc9e29240b9004]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 161. Pharmaceutical services: remuneration in respect of vaccines etc[^c-54764903fddf3f82b483507d364997b4]
 

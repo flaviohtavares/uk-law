@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 30. Possession of anatomical specimens away from licensed premises[^c-5ee20cda82c6b3cdf3c5ca8986e3b322][^c-da6609dfab715e81bab0bf956611a9f3]
 

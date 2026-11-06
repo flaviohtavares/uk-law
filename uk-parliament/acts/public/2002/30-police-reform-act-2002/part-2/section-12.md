@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Complaints, matters and persons to which Part 2 applies[^c20012611][^c-b51ee8899dd67e6545d9d719cb14b43e][^c-74d3d239053b41265f11a373f2e8975f][^c-9c61c39d9a4b9099ed4348b90e864724][^c-206aa61bd2128d47e3606f31adc531cc][^c-4b03a062a205195f97b11eb247ede23c][^c-0d7809a5d1b87706d92d3c4895677eb7]
 

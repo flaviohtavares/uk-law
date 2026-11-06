@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2017-04-01.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 23. Dissolution of the Scottish Development Agency and of the Highlands and Islands Development Board.
 

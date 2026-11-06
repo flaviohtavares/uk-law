@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2017/737
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 7. Making available and putting into service[^c-38dd42f0768dbcf73b0283cbb241bed7][^M_E_fa14cd4b-ecde-4bcb-d911-c64f1732e189]
 

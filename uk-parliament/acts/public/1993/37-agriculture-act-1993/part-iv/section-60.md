@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 60 (Extent: S) (affected by repeal, see note). Agricultural development councils: levies.[^c-7fa438827f0c2cd6f803ff8f9038e9e5]
 

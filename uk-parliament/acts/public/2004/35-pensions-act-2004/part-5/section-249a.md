@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 249A. Requirement for an effective system of governance[^c-da52da989bbe837824c9f05d1b2b578f][^c-767397f0ff0703ff4f818c3559276ab4]
 

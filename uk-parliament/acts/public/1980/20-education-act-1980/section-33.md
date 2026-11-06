@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2007-04-01.
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Discrimination by local education authorities.
 

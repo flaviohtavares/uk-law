@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 69. Remedial notices[^c-618499417b58ee281a087dff7fd36013][^c-aa3548e4a4eaf898603e31db0e45488b]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (93).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/41
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 66A. Unoccupied hereditaments: change of state of property to be disregarded[^c-2ce029a4fa0b1b0aab5e617f458ba94e]
 

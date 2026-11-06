@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2005-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 93. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-0a67c56d28da55a6f047fc2edb64008b][^c-b4fdc5382b61d8d3da6fd9ae7bebccdf]
 

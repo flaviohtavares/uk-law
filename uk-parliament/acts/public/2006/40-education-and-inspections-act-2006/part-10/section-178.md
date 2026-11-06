@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 178. Framework power relating to Wales[^c-6a406fb560169304d65de09df0b3cce3][^c-00b53b6cdf1bea844782311f5356b835]
 

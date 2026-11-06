@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 5. Amendments to the Energy Information Regulations 2011[^c-51ce7dc8498b202078aa263e00eee8e5]
 

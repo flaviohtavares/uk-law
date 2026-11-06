@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2024-04-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1975/70
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 10. Services etc. for development of industry.
 

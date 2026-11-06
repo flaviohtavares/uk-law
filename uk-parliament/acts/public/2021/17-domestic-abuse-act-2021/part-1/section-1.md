@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. Definition of “domestic abuse”[^M_I_58248366-f4a4-444c-fee2-74a54624f294][^c-b9c30381bb02f1007a235839df7ebce6]
 

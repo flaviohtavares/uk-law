@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Renewing plans: other requirements[^c-167467e6468d3585ac05dad203be8090][^c-e9e0f218cdc920fa0e83d9b75ed7e2d1]
 

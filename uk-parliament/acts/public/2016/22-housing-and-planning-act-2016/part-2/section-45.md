@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (34).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 45. Amount of order: local housing authorities[^c-ef56e51c4f3c487e466d835a4a396dab][^c-77e828066723c3c42e7a1ad7916f0d1a]
 

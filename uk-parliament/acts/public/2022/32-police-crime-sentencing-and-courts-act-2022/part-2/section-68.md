@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 68. Termination of disqualification order[^c-c54d3ecadf4109a290225b860d678f67][^c-ce7c9fd490621c52c25bea1f705e76e7]
 

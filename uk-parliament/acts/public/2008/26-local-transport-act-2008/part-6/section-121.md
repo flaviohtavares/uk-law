@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 121. Other amendments relating to schemes[^c-65586c1b6091ddaa573a5808b16c1009][^c-20bd034b0ed3c957449b55089aafa4bd][^c-19db9d7eca1cdf1141c05ffa07f2af41]
 

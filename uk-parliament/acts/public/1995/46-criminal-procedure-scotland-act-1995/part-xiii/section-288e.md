@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 288E. Prohibition of personal conduct of defence in certain cases involving child witnesses under the age of 12[^c-dcdcd7a2863ba10b11bbb947f3a310e5]
 

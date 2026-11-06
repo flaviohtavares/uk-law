@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-12-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 50. Onshore hydraulic fracturing: safeguards[^c-cb6f03914e5c2ba2b00f70586ef5c8f9][^c-017249c9cb8f22eb7b6ffb4842344b79]
 

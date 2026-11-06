@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-01-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2001/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 67A. Supplemental provision about UK residents[^c-c16416722cf98e3a2ec3427f5ecf8473]
 

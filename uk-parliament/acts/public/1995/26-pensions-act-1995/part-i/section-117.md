@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 117. Overriding requirements.[^c-2ba224fbfa2f4c8a716ddf367f283ee6][^c-16972a3e0387d3f043f7213a98204709][^c-552f4cb9083f24d07e8ece02fffcf0c3][^c-4372e1cda5e5524ce08cc3deea4ff829]
 

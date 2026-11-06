@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15ZB. Co-operation in performance of section 15ZA duty[^c-bc29e616c87b67ff0c860b88afaeb350][^c-b16d2ab1814e553425c4f50fcde558b0][^c-9454318dbbde9390d99e9bfc2d78719d][^c-830db135c8ab3a2f4f154df6b2771af9][^c-b013151dec5cbbb92a5a36bb8f7af588][^c-7089635342f3923a1365f5801be98f6e][^c-fbe39e21848869ccd58ad645a28c86ae][^c-a10fbe8ff7bf01f28c4443189dd7b7f8][^c-b5b485a5caf0b46ba1d594de7329feef][^c-49aaa1a48322775b830b6dcb99150535][^c-9eee72e1c1b3cb937e625d12bcb98a07]
 

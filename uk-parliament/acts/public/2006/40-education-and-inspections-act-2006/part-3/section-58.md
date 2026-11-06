@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 58. Removal of requirement to issue code of practice as to relationships between local authorities and maintained schools in England etc[^c-357ad3d0c307401d0754a5b4e8a1b0c1]
 

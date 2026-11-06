@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16. Drinking establishment entry prohibition requirement[^c-74437d5ef9a074f74c07bf9ae129b8d7][^c-b389b4d9fe52bb73ca2cff25a7be0472]
 

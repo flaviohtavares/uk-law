@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (38).** Text as at 2026-08-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 26ZA. Terrorism and national security-related sentences[^c-683d40c3ca43238b8a95eeff2b148ba1][^c-dbb03a8275eef98b7c583ebdb031455b]
 

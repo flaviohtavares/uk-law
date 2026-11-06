@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-03-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Rights of public in relation to access land.[^c-3bad05f0bf06fd77701673b438b7e66a][^c-1ff626bdc8b940c12abf6fe4176fb87f][^c-00fc9befd4b552c6c0394fd134608720][^c-d1a48d245b50aa58ff0e6acf1f3e245f][^c-90b25b5711a7c690182110b1bdc8bccc][^c-f5e70a13a30c7e76d589b4d30d360888][^c-236352f741aead0420b9061f16e8cf55][^c-4ec4ebf9d4328d508bef1fb81885871c][^c-9752f27479bf899d04860ac428b058dd][^c-239ed9d99f6200cd3e87d3f9d44d5381][^c-6903dd759d87c6e23177e190cae6cefe][^c-9c83fb44004e4c33ec37b90fa9246e43][^c-c88277593f5d8384b543644550250934]
 

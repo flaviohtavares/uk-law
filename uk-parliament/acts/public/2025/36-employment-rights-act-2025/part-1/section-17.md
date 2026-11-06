@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 17. Ability to take paternity leave following shared parental leave[^c-7cd4b919c721a2ead9eadd2e26340c2f][^c-0717c5d2f5f48aab4c5b460fa26de692][^c-628530481574dbc86cc2a13e28aebd73]
 

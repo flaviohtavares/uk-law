@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 76. Obstruction of vehicular access to Parliament[^c-89823287f9524f6ce710046afce8c6b4][^c-2ac1a7079a3cbe7799e7153b7f5ed312]
 

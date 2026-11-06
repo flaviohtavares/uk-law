@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 138. Power to designate Homes and Communities Agency as a charging authority[^c-30d21787fcae3f0a03106f2afced1fc1]
 

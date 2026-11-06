@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 23. Assault and obstruction offence in relation to SFO officers[^c-52d9b59d5ec08a9999b6cad893816b73][^c-06e7c6e2d8e824c0cc5b3346e1931a22][^c-b39fbe47dd49829317b00180cbb92ab8][^c22725261]
 

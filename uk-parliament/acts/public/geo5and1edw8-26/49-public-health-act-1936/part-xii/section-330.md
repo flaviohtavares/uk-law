@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 330. Power of railway companies, dock undertakers and land drainage authorities to alter sewers, &c. vested in a local authority.[^c611912][^c611913][^c611914][^c611911]
 

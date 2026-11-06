@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-12-18.
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: E.W.N.I..
 
 ## 104. Detention of offenders.[^c-009da4c573b19f3a6f2adc133e447399][^c-95be07aa924b8108e93e45145ab02677][^c-e6a1e681a9b00a778b9b0bf1e021975f][^c-b5dccd526903a5995a8d21556e402462][^c-ef4a830f6a44791dfa5a9510500278c2]
 

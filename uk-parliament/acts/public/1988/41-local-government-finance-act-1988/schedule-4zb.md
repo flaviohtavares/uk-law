@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (93).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/41
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 4ZB — Unoccupied hereditaments: chargeable amount[^c-9ed1e53f5b601f2f88e6e914f11cacce][^c-dcac590857ed13c469aa32d1a16e022d]
 

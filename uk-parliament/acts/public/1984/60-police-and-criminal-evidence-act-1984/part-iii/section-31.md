@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31. Arrest for further offence.[^c19076271][^c-7dc100cb04cab417bdef08083a3631eb][^c-0031e04259873b5a3445bd631625d8d2][^c-2f4b32548fd696fd36096d70bdb941c9][^c11320771]
 

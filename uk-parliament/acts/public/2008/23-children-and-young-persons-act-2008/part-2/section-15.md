@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/23
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 15. Duty of local authority to ensure visits to looked after children and others[^c-e7cb0f29674a78220888d1ec5fcae902][^c-4e2fc84729c54d1b23be274f6b047451][^c-0d78a362ae0e74186a74321f573d6c41][^c-aa2761c20b847c88cd69f3c180cd7a28][^c-6a0cbbc8f394a3ec823e7fe631f06cc4]
 

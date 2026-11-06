@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 223GC. Financial duties of integrated care boards: expenditure limits[^c-262f1fb62d211cabfcec7655b388572f][^c-1f69d47caf7ad4abe93033ae36af797b]
 

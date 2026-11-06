@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 87. Meaning of “animals” and “poultry”.[^c-6d6d3059fd1cfabca482d72a90d48858][^c-6d1cb67cfbb070f58d5de95d11b0e957][^c-59583980fce5fec3b59bb7c7626669da]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 77. Powers of court in relation to service of documents.[^c833529][^c2085731][^c2085734][^c2085782][^c2086260][^c-055f402b065bcc7e2a5eff52a4ff7a3c]
 

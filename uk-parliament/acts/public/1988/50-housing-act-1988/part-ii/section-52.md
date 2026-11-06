@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/50
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 52. Recovery etc. of grants.[^c12868621][^c12868631][^c12868641][^c20518881][^c20518911][^c20519361][^c-9b6161e0245c78493508970dbe31e87e]
 

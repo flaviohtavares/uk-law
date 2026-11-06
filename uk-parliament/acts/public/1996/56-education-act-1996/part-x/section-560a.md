@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 560A. Work experience for persons over compulsory school age: England[^c-a2718015a8cd86d6994a5b1658a236a5][^c-23027649c18a6719ac081ccc1b53295a][^c-b0dc78a1b62a4a3410858ac27a53c304][^c-1e532050e655f46723f314d62fb726c9][^c-94dcac464f21d10c27a4665b1eca32e4][^c-a5df82da4af40089bed8dabd6e1158ef][^c-b38fc4577ef6940b9d1d8ce15af2fa19][^c-805ec8d5ef5f1213be3e3e38bf2a2b8f][^c-59cf5bf8640002e9e47ecccd63ffe49e]
 

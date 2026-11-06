@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 91. Old Welsh fluoridation arrangements: transitional provision[^M_C_2fafebba-1a51-479b-ebba-79034190b045][^c-d1549040fef5eea1d316e9859ea2a3df][^c-7be2f793cbc549f70befa3416a0f1b6f][^c-6a52bd40a2392d153a3af04c2f1db6f5]
 

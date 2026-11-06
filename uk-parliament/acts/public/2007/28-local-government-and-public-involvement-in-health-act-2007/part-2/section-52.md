@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 52. Publicity for order by Local Government Boundary Commission[^c-c227492989af1f87e88c54e4a4094af2][^c-3dc05911622d2381ede4d37022eb1156]
 

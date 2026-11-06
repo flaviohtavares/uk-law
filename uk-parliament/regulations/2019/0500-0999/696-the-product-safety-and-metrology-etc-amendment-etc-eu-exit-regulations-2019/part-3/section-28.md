@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 28. Amendment of the Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations 2016[^c-acc74b2d3217a9be4928bd3ce077a31c]
 

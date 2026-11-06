@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-22.
 >
-> Extent: England, Wales.
+> Extent: Scotland.
 
 ## 51. Terms in standard securities relating to children or benefits status[^c-0a280b1cd2e6353e6c94aa8264112c8f][^c-324363f37a7923b77d1fe10f7d70b2fd]
 

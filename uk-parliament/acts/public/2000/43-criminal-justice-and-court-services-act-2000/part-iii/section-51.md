@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 51. Community sentences: exclusion requirements.[^c-7fde162bde219b49f55ed9e8803d1d4d]
 

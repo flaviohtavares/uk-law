@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-02-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 68. Statements indicating benefits for charitable institutions and collectors[^c-bef39b41a36d7ee672351cb04aa11817][^c-a378582815a8a417e64c77300064c84c]
 

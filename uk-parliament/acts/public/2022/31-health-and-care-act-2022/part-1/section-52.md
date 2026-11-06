@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 52. NHS trusts: wider effect of decisions[^c-3ce9be81114565b99b99902b0aa87c08][^c-7f2ee5a1e26d367f0687d63680fbfc9c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 44. Surplus tissue[^c-2d16267b3144712aac3e9723d293d5bc][^c-00789b4810c0a9a8d4b690118f6db29f][^c-429bde0dca1a10768eb67ccf40a96fcb][^c-95da09542dcddda1c8c77556224c8eed][^c-432fa9bdb89ff73b9e1e2c1c0517510e]
 

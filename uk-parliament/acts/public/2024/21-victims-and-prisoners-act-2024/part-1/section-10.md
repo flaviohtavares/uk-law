@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Code awareness and reviewing compliance: Ministry of Defence Police[^c-c7e4c9ee6fa0d41a6d6fd2273819c8d4]
 

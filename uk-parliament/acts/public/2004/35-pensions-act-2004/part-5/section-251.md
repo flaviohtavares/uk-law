@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 251. Payment of surplus to employer: transitional power to amend scheme[^c-ff0ec0d25f74c7323509f799baa7afc2][^c-ea2f5ee59d494b247a83ea550000f0e5]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 57D. Time limits.[^c14105361][^c19324841][^c-929dc95eac7afac443ea4e095b07fde3]
 

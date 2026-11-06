@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 127. Transfer of staff to higher education corporations.[^c12674031][^c12674041][^c12674051][^c12674061][^c-adf6ce009906fa472e39c289d2edae28][^c-1ae4ae2018cf6777687c4afb56249fb0][^c-39d73b50af433887471958f2d6bcdffe][^c-43e87837542c97e288ac9138ce63a335]
 

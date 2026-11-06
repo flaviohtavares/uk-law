@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 28A. Application of the Criminal Justice (Scotland) Act 2016 to persons arrested and detained under section 28[^c-b478cf5be0c6ef614d0f8d5df859034b]
 

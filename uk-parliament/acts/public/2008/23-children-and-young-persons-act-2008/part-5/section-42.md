@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/23
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 42. Repeals[^c-58824d5590b4ddc647d4882c1a32c89c][^c-3216eb978fff1b5b4d60bf7d750fec4e][^c-0ab20c59ec041d1337ba4482cc5582c7][^c-65d1b165c8ec2cd1e21de3a9812d2e19][^c-e6734e0a10b4208ca687065092cb2997][^c-4ed581613c8fbbc01df52425ff615035][^c-1911048eb7c6c95029a4eddc4f324e2f][^c-d18b05747b617c6c638082eb95e1b6c7][^c-64ef30636dda8647ebb4cd19ed01ac11][^c-cf389f1bd67619e9b30cd5e72c39c6e4]
 

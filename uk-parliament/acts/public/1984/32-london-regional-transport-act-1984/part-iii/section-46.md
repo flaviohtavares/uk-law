@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. Schemes for transfers between London Regional Transport group and Railways Board group.[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 108. Powers of enforcing authorities and persons authorised by them.[^c14541301][^c22561561][^c-969d54f1897c252da230ddbcec54c8fc][^c-cce02005746d55bfa9b5943cb941e224][^c-cbd8e5fe366df92bdc8d02dedd21b9c5][^c-9b921a4f126fffb0f5cd617017483c8d][^c-e60415933535db3c5285fc03ee18d5a3][^c-e12b0ac7c24d6648f5647afc1be10b05][^c-340e4c347f2beafbfeeed843f3a18769][^c-95c7e3712ece244510822a2ea2e5ab16][^c-e9672d7081a201d7f677c008d4bdfeae][^c-c3df8149245928347c860f6292b25126][^c-f8403612bc33349ac0f08abdd1ae8bed][^M_E_89fdff02-fa1a-4344-abd7-2f3092a9fe62][^M_C_75883608-a692-46f9-c602-c8d134ddc4c4][^M_C_e1210f7a-3fd1-40af-fc4a-c2bab8d2dc51][^M_C_0d2c6c4a-58ee-4097-b7a1-a2ef8a032636][^c-05afe2b1278a88d5b12346ea402e7e71][^c-479dd9f915be8161c5d43949ded800bb][^c-abb40c957aea8b95e604cae84aeeb7b2]
 

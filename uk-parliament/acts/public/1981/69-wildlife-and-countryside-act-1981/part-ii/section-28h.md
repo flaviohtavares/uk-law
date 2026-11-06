@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/69
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28H. Statutory undertakers, etc.: duty in relation to carrying out operations.[^c-2360f5527cc03734c9f43a68faf47c02][^M_C_12ed93de-7bf1-4f5b-e393-36c303ce7fc0][^c4943531]
 

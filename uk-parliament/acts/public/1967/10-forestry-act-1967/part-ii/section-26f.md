@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1967/10
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 26F. Compensation following receipt of a notice given under section 24E(2)[^c-81da9313d1d888aebab7820dd26e51c2]
 

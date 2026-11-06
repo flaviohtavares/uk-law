@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 284. Removal of exemption[^c-c3cb5d51dd7aecbe83e0016c6022c0ee][^c-d12204b3f62f9797fad9fa781b2f1433]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 52. Right to mediation[^c-ce64d3b90e6a7cceacf519b3e33073b8][^c-b9ac1f687611658c99dc9752d8217c61]
 

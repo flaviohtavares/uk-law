@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 84. Warrant to enter and survey or investigate land[^c-3da3d3eb676c08daf794679622422190][^c-41083776b7611352c6457df2f79ad39f]
 

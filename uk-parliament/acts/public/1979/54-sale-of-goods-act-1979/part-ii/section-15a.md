@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2015-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1979/54
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 15A. Modification of remedies for breach of condition in non-consumer cases.[^c1108916]
 

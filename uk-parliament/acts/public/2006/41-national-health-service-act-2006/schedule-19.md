@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 19 — Further provision about standing advisory committees[^c-2b912dddbb1bd726a38f08d1c156b609]
 

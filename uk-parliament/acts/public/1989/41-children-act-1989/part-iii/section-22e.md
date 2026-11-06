@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (96).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22E. Children’s homes provided by Secretary of State or Welsh Ministers[^c-c68b8dac93b661fec90c2c49c2783fe2][^c19936481]
 

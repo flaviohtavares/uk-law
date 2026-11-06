@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 5. Prohibition of activities without consent etc.[^c-8c79b0e90ed16a36f5bb0854d3eba362][^c-94d5b2475c5d3d357d37d07fc14047bc]
 

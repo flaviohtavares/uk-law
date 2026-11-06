@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1975/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 3ZB. Appeal to the First-tier Tribunal[^c-93871727e77ad12c93639102184fb26d][^c-7ff6488584644d35b7bff98e07c222b0]
 

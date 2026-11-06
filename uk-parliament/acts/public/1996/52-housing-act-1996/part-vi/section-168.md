@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 168. Information about allocation scheme.[^c-8093c287b7546b090a8e12dac593b501][^c-b6e4f9e7373cc54c9c42d4e2053657cd]
 

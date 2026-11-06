@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4B. Section 4A: supplementary provision[^M_F_77998be1-743e-43aa-b2a6-f30ce5828bb0]
 

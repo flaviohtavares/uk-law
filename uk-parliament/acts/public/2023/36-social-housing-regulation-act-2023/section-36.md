@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36. Regulatory and enforcement powers: further amendments[^c-6fcdbca45b1fc91f489de942947298fb][^c-67931ffae00013dd2270c96f77002074][^c-225fae0809f308bb62ff2fdda519b4cf]
 

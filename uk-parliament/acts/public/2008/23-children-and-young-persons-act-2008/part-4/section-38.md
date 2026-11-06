@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/23
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 38. Entitlement of relative to apply for a special guardianship order[^c-868515ef1ebd30181715c1aff0e6f188][^c-b6895fa6b9ffa27a192423e390c62c8a]
 

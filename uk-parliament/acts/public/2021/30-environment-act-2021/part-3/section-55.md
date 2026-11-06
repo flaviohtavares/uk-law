@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 55. Charges for single use items[^c-edce2ca6eba09cf96d0d93a5a0267c4f][^c-e743301c0d993952eca737f4cc551ec4]
 

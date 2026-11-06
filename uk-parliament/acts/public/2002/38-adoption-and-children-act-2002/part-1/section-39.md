@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 39. Partners of parents[^c-64370225c1dec33728cb40395f38dd36][^c-16f2e214ae22a444941dd73e3ce6a2b8][^c-d85f0ddb028eb8c66f35e3f0341f2342]
 

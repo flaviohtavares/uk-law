@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/50
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 14A. Interim increase before 1st April 1994 of rent under assured periodic tenancies in certain cases where landlord liable for council tax (affected by repeal, see note)[^c12866101][^c-946bd0d57a50ad12d6a3c2a87738f400][^c-946bd0d57a50ad12d6a3c2a87738f400]
 

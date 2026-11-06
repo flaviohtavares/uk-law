@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 3. The regulator: objectives and regulatory principles[^c-08332b1072d4feb5e85f046b7e9aa4f2][^c-1202e54203a5231fde2f1c434b4a1a0f]
 

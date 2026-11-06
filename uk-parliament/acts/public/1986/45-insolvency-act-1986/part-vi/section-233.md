@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 233. Supplies of gas, water, electricity, etc.[^c15575401][^c20433921][^c20433961][^c-ef459bf6bf47cf32450790d8d4ea12a4][^c-413607b4d3ebed1838d6742db94f054a][^c-225f395e19614ba8696b36e38d0a8c50][^c-f7b77156ce3c53d554571ef215b80b44][^c-788371096f8da5425d0cd572175725cd][^c-d337fadf2c894e59dad1a36f8d3f02b7][^c-788371096f8da5425d0cd572175725cd]
 

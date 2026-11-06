@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 217. Order requiring discontinuance of use etc. of operational land.[^c14934231][^c14934241][^c14934251][^c14934261][^c14934271][^c14934221]
 

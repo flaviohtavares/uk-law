@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-08-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 102. Mayor to distribute grants etc between Authority and functional bodies.[^c12801831][^c12801841][^c-4184fef344d879b3466a0b25e22d666a][^c-0dc33805eee61b6144c512b6a0f54d82][^c-21c3b28943cce09f6b8e5c922b9ba30b][^c-a5bf1191f5db2ee3796c600f9e1b3ce6][^c-dc59f451f176cfb5f9269cfc6bbd3e38][^c-48d9aaa012fc2b5316ef566df97755b9][^c-1763b02989739c92222524169d3ba695][^c-7fb32358be6dbdbd853f6effb66a1497][^c-1eff29589ec13a16f522437ce325bcc9]
 

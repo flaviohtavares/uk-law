@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2017/737
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 50. Conformity assessments carried out under Module A1 (internal production control plus supervised product testing)[^c-eab9ab646a5996ce67a1a710cf0322e0][^M_E_2028626f-c34c-45e8-d1b7-4f33ba7700ed]
 

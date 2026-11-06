@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7. Duties in respect of research: business plan and annual report etc[^c-05365d8b2bb51e57bc0e71af2cbe2a3f][^c-b784330a8158e08a433325dc66319ec8]
 

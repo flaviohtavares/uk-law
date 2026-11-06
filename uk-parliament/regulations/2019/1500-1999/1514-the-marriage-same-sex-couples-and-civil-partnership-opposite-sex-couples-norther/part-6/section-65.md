@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 65. Social Security Contributions and Benefits Act 1992[^c-dc1c82d64adcbee86305a81143892343]
 

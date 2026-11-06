@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1967/80
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 89. False written statements tendered in evidence.[^c7287631][^c-89964a094f350f45b3a8cfe298402ac3][^c-6c2f84e88c00175f855f9edb158b1519][^c-f43fd17b1546370f40d27ca50b2944bc]
 

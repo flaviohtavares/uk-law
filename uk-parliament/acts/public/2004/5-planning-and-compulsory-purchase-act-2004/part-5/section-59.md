@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 59. Supplementary[^c-e7a89953c1071b769e4c33271551df4e][^c-cb6e9ea8c55a1bb8067c213e22197406]
 

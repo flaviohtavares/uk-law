@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-22.
 >
-> Extent: England, Wales.
+> Extent: England, Wales, Scotland.
 
 ## 145. Commencement[^c-23aae0100a9e70cbc53d6dc304065f7e]
 

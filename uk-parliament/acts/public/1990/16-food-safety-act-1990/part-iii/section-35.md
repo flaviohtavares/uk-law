@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 35. Punishment of offences.[^c-b6f647eff14791d186618605949ab509][^c-06d0de0d1a2eb19f475e0849d79fe64f][^c-a68c01689894855f987399d8de145034][^c-02c55b3d20022e07cec948bb9e9519c3][^c-32cfab0c5bbe540bbddfc0e5d5dd1b63][^c-f67b3002380f3e7fa4af00d54c02ae45][^c-6e11249dee48bdde4d5bcb8fb411137b][^c-978699af778fc803b0f7a1d5b56748cd][^c-d7228bb136978d2455bd1577f4fd871a][^c-2d78edea7075443bbe8458282139b40b][^c-a5e7d0fa52442c1f3fc6ee4dc16fbbb4][^c-3ff2de5918194ded270f36312cc3185e][^c-576790fcc187bc6d4ffe78dced91df5c][^c-c197cc73e6370ae193ab66b34f3586bd][^c-a02a431cf2035336d692bb7cd5a7519b][^c-d339fb6716fa2aaefaa30a220af53903][^c-2989acfbbac7d87fb3cdedf792748bb3][^c-fda4dab8f6a256b70918b9d954b28cc1][^c-b0546c22c70f671a7b4f2d4a4061aae9][^c-64b9b325fe3eb3b5f22aac086e24bb21][^c-89ebdb3eba097be394dfb4425261f9f8][^c-e20a4b09072dea859201d1f59fab84a4][^c-f4a76ee694d402f69a55588de9ee45c2][^c-c20177cdcb681c082458b8f9bff662b6]
 

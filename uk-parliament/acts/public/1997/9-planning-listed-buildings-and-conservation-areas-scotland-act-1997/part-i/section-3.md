@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2022-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/9
 >
-> Extent: Scotland.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## 3. Temporary listing: building preservation notices.[^c-405065282c05092a19859b543383aa1c]
 

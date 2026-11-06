@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2012-11-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland, Northern Ireland (the versions of this text differ in extent).
 
 ## 9. Planning permission, etc.[^c7868481]
 

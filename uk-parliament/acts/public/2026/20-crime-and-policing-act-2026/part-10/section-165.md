@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 165. Public processions and assemblies: duty to take account of cumulative disruption[^c-be21fd20dd5ecb3d85cb117049c21f81][^c-0a1752a6a934caa51246f669f14b257a]
 

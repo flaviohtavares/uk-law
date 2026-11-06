@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 181. Scope of these provisions.[^c14930021][^c14930031][^c14930041][^c14930051][^c14930011]
 

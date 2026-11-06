@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 93. Power of authorities to obtain information.[^c2459891][^c2459901][^c-77ac3f0c0d30e201d1da3d49f2730839][^c-24c814e00920216dc45178e40d6fe179][^c-159ff1a49572f6a45c9cea63018d9e62][^c-04f58eeef38d28e70444046643870186][^c-48dc76cb9cefd633e41dc47ad061579a]
 

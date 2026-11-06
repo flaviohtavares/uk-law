@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 85B. Power to search further education students for weapons : Wales[^c-bdbd09d4d716647e57be41c786633d9f][^c-9ed7c6b3c4e2caf70603165e3710b346][^c-3f57eccec2528ea62eac2964ddc4a4a5]
 

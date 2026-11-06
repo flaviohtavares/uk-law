@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 91. Hospital patients with care and support needs: repeals etc[^c-e0ea19afeb6db0a67095e9ce94b4b942][^c-0322cc2d25f602d3c746cfd548389143]
 

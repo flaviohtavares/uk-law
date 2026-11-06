@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 48. Right to vary long lease to replace rent with peppercorn rent[^c-d719a4bb04cdcadc9290148d548c8901]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6. Facilitating improvement in competence of industry and building inspectors[^c-38e29ea29d27a2422440f48edcb035dd][^c-639b534ce9a7a45a0b382479062f05d0]
 

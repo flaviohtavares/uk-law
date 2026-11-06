@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 1 — Youth offender panels: further court proceedings[^c-37fbf0e32df0c629b8cc5591167b08f6]
 

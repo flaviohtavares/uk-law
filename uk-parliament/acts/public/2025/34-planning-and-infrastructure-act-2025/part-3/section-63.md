@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63. Other requirements for an EDP[^c-18964801383dde5661b5aef090c1982d][^c-8ef4d0bf3b8439928ce18245ed04565b]
 

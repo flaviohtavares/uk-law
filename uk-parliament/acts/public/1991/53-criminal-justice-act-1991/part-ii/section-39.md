@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 39. Recall of long-term and life prisoners while on licence.[^c13770141][^c13770151][^c13770161]
 

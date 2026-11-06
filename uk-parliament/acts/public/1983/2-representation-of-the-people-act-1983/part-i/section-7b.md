@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (71).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland; Scotland (the versions of this text differ in extent).
 
 ## 7B. Notional residence: declarations of local connection.[^M_E_dc502cb4-1c99-431f-808c-3e49eaa80381][^c14478862][^c14478871][^c-3e96ef5bf96ac8167b83cd470042588f][^c14478851]
 

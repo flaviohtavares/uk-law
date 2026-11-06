@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 26. Restrictions on accounts: banks[^c-a942ebdc4f8a1bec9afda59952190ca2][^c-d39289fb19c695e1cae5de267cbd7dc8]
 

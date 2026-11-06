@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/50
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 9A. Proceedings for possession on non-absolute grounds: anti-social behaviour[^c18705161][^c-dc01ef4baba82f72f60343f610d05576]
 

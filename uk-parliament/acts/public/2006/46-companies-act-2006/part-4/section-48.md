@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (20).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 48. Execution of documents by companies[^c20599821][^c20614731][^c20616131]
 

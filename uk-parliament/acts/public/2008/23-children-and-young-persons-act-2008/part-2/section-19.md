@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/23
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 19. Support for accommodated children[^c-4df9455ad74f5256d6babc678796bc39][^c-2f7fc42624947f341feeb8e21f77a3c9]
 

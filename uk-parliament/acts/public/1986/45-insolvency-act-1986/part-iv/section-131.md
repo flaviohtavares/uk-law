@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 131. Company’s statement of affairs.[^c15572851][^c20429431][^c-fa63f3a81a089790deb805a3395d1ced][^c-926b5e03dc4711c04356cbb8f997e432]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8. Functions of the CHAI and the CSCI under the 2000 Act[^c-6886043a90f06486fd1fdeb120c21a6f]
 

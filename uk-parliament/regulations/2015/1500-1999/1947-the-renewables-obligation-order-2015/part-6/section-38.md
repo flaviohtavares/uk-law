@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-03-27.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 38. Landfill gas and sewage gas generating stations which were accredited, or held preliminary accreditation, as at 31st March 2009
 

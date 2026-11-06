@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (131).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland; England, Wales, Scotland, Northern Ireland (the versions of this text differ in extent).
 
 ## 6G. Code of practice on attendance of observers at Scottish Parliamentary elections and local government elections in Scotland[^c-63d21ea4c34667af42fb80af591d90b9][^c-422640a11a0f7450eeaa8440ae420a36]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## SCHEDULE 3 — Transfer of youth rehabilitation orders to Northern Ireland[^c-65a903aefe8ca677c7b56e9d4550b4d8]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-10.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 3ZA (Extent: E+W) (affected by repeal, see note). Reports (Extent: E+W) (affected by repeal, see note)[^c-f9e466f9e417716b2679b4e8729ef24c][^c-2dd38f22e3f0e7272da0337fa848725f][^c-2dd38f22e3f0e7272da0337fa848725f]
 

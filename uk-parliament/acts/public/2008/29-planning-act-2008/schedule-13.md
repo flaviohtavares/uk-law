@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 13 — Repeals[^c19534101][^c-f77fd0748c2c5841c879ee3f1d551d19][^c-0bb97151719756d41ce9977d729d66e8][^c-d50fcc1be194166dbef0df78b824947d][^c-6a1cfd95b5afd0f6592d0fbff71a3c7e][^c-dd283114b74c1574ca2ca835903c3652][^c-7bb371a89c20a76b9625d8bcaa1f2b9b]
 

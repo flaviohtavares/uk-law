@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16. Agreements about incidental matters[^c-0c8e355287613f5f877506d2e634c8bc][^c-287e86d4e4ae753f64c709b617ecddb9]
 

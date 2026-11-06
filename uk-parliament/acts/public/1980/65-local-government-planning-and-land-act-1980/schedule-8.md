@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 8 — Enactments Mentioned in Section 53(11)(c)[^c-7f0a31c8e8e56509f46c74368ea2590e]
 

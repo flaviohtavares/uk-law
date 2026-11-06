@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 11. Obstruction etc. of officers[^c-d9f2fe7863ba4ffdf1f8a2e7a7d7be49][^c-0f2f220923dec10e1579c838517d4aed][^c-8aa611fa86542d806f8f7903c18dd2da]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 40. Minor and consequential amendments relating to Part 2[^c1868529][^c-bc7030b22c388692ba69dd7b06a654c3][^c-09f01ac4abea0bd6bb7fd7cb19be38b1]
 

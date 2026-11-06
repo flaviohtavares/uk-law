@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 107. Decision under a redress scheme may be made enforceable as if it were a court order[^c-67e6321942d40e0b21adb10cd40e7ade]
 

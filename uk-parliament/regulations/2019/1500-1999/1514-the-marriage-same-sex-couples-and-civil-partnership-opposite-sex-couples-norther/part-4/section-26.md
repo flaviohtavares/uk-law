@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 26. Parental status in cases of assisted reproduction[^c-bbe05a89f3c7106c3c0dc5d48b692e0e]
 

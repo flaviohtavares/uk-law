@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (34).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 11 — Default powers exercisable by Mayor of London or combined authority: Schedule to be inserted in the Planning and Compulsory Purchase Act 2004[^c-1721a907e4556ef3a297ccdeb46d074c]
 

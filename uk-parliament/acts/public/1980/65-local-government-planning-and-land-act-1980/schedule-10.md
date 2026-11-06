@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 10 — Adjustment of Block Grant in Connection with Education etc.[^c-4bc3d91ed872db0c9081ee07dbf3b3e9]
 

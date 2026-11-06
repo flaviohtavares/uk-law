@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 25. Minor and consequential amendments[^c-37be094e6d2428c6c49e78a1276e4510][^c-6df25c4b6b49a979b7a47d37dfaa12c3][^c-bc0c085198bae06fa17b5665cea70c1e]
 

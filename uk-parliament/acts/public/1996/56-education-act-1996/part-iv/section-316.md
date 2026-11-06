@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 316. Duty to educate children with special educational needs in mainstream schools (affected by repeal, see note)[^c-0e98c54cb1e5b90b21fa391d877e43fb][^c15246601][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-a26091f02a6f098b8797ebca0f491930][^c-44c659fdf3ae27bfa95ab072d6157d41]
 

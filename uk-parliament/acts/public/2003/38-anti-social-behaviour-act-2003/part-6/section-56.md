@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 56. Extension of litter authority powers to take remedial action[^c-afdfad5ddb64206724a4bdf80c900587][^c-02cc1f908bb7531bca21f3720eef9f8d]
 

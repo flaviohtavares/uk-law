@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 74. Powers of entry for the purposes of complaints and appeals[^c-68ff0ded4dd3e3b37819628148bfe032][^c-3fa1274b50b9a1371e9249565e02ef65]
 

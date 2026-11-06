@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (25).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 45AZA. England: separate collection of household waste from relevant non-domestic premises[^c-b66a69ccacd5942bcf8dc760efb86368][^c-65e096c33fb125569d9a349764033f3f][^c-ced4cac4bbbfe51e18de48b7cf58746f]
 

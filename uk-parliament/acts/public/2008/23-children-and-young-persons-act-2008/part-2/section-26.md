@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/23
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 26. Power of Chief Inspector where person is failing to comply with requirement relating to children's home etc.[^c-51c52c0fb3d4c284ad55c408582d3923]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 65. Prohibition of unapproved superfund transfers[^c-8465f61b19f9616345f8c7319e308839]
 

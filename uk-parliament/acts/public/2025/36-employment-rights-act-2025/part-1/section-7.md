@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 7. Repeal of Workers (Predictable Terms and Conditions) Act 2023[^c-7d3400312e23020d058c4507f6a2afab][^c-d94b5780cdccfd01ac35ffc59415931d]
 

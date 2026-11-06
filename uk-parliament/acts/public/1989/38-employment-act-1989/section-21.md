@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2018-01-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 21. Removal of requirement to notify local authority of storage of celluloid film.[^c-3b4383425cc87720048a23c6d4d1e03c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 374. Disclosure of information[^c-6a785a3f7af6c238b47be4b016ec10ff][^c-200df1475113eb752eaf5676acf821f4][^c-cb55b4afb9e8601e4ae6a9933819b6f7][^c-d70b493ad80b247d5b4e2e9e47e0b702][^c-688ed69b36f322a469d706d689f0b1bb][^c-19c38efc9ba673f59a6920dca45bd65d]
 

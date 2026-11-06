@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28. Application of polygraph condition[^c-367046df522aef68f05b10ecaf1a9d0d][^c-c0aafa5778d49e4aa866106b296fcbfa][^c-11033a851c4068ecf0f33f7dc06dcd85]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1153
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 9. Manufacturers' obligations to ensure continuing conformity with essential requirements[^M_E_60a4ed42-eea7-4fd2-b6d2-6f1ddb1f0fc3]
 

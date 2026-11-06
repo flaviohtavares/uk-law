@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 1B — Modification of compensation provisions etc in relation to the creation of new rights[^c-f9c4ca97eb422d54567742f785b600aa]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 58. Repeal of duty to make Academy order in relation to school causing concern[^c-a08c861608a106b99af970744338826f]
 

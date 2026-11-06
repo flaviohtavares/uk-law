@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 34. Modification of this Chapter under the Enterprise Act 2002[^c-16f6cd2ba1e25c3f7d3e3bcb13ef9bd7]
 

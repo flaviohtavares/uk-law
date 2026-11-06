@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 70. Alteration of licences etc.[^c-30216f46f421bc538e15da60ef4223f2][^c-e74b76d6d897fb18d004a1f4eaa85553][^c-7d625fd94b2b2acf849b038855517fa7][^c-4e40d1b005e2e05823132fc0a9e1c13a][^c-46ef4c04d321a50b053cf9b3cbbbb46b][^c10346601]
 

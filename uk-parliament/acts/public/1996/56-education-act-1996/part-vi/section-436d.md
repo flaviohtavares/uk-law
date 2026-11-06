@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 436D. Provision of information to local authorities: parents[^c-ab685345cb00f1ccfab1b3d5aa5e0e98]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 73. Preferential liabilities on winding up.[^c-b155580a9fb75f6dcaf076cd7faa7e9e][^M_C_e79467e0-bee3-4d4f-89c0-c1184806d586][^c-a2718a26c4c988971b6407c72d9ae1f0][^c-eea7cb9e47d234765673a1eac4d072e7][^c-6c63fbf281a091a3155180a7fdb211ea][^M_C_99bc0e4e-34e0-42e5-fd76-cd22863e36ce][^M_C_87df8ec5-93d7-4355-b9da-daf8f494db20][^c-3284da2631f4858df6a1f4d2cddafda8]
 

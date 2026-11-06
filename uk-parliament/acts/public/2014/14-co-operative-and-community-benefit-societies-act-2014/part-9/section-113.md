@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2023-08-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 113. Special resolutions under section 112[^c-f4005eb8b022e74a7f2857ae8b67760d][^c-3d0f4cb80e0df7b19e87d8cde2c2cb4f]
 

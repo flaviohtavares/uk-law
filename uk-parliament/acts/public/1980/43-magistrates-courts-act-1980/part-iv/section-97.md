@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 97. Summons to witness and warrant for his arrest.[^c18255091][^c18255101][^c18255111][^c-f2a64f8bc30c00d1d9ed226e755736cc][^c-ed7b06ba23849ecb644b3f1622ae5f47]
 

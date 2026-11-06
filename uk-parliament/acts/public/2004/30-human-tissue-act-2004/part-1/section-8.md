@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 8. Restriction of activities in relation to donated material[^c-dce684836bc8a37d9c24a889cfb7aa4a][^c-28b8f14d43dd68a9f9a8d178a9b22a4e]
 

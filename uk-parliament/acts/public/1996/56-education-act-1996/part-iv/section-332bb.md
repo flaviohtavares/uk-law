@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 332BB (affected by repeal, see note). Independent advocacy services (affected by repeal, see note) ...[^c-b48e8ddf5f8419b0e2643d87a4585af5][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-c2efe585f988f8e696832ecc9f647b78]
 

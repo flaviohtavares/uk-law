@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2021-07-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 45. Power of members of staff to search school pupils for weapons[^c-de6aef357990bd9836f19f8efb920df8][^c-f03b2e675abdb8aebc6a4830460e7de9]
 

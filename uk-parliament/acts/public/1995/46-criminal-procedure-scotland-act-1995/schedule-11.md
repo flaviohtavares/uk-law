@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 11 — FINANCIAL PENALTIES SUITABLE FOR ENFORCEMENT IN SCOTLAND[^c-a1bd8238b92c431ef80d19c0f862f80c]
 

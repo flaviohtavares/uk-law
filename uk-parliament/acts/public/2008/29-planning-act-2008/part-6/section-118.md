@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 118. Legal challenges relating to applications for orders granting development consent[^c-dc5f50dfb301e345216d6a54d4fd6539][^c-5756db59c25cde027d689c9cff57f90f]
 

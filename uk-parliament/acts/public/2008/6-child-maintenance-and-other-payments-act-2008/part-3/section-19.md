@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2023-09-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 19. Transfer of cases to new rules[^c-a754ffcee2a48972e702c533252c50ca][^c-ec2b652a85d68bd8fac1b2cc36849b3f]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Notification requirements: expansion to profit-making organisations[^c-a6a657c26ce3fb7713f733054fbea3f0][^c-f576369cf4fae2137a856fc9b5b1e7e3]
 

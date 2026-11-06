@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 57. Fees and charges[^c-50024d56d89ca5b3338795e4c0eeef9b][^c-ebf0fd7dec4cf38b46f94fdfa13712d0][^c-044422a247a3a6f30ec2763df0ee9221]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 91C. Power of Gas and Electricity Markets Authority to amend licence conditions etc[^c-32dbce6b1239a828f41b8468692938df]
 

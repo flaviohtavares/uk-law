@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 51. Independent advice in respect of conversions and transfers: Northern Ireland[^c2249152][^c-bbd239b62313feb19412fe181b96d0bc]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 79. New regulation 30A (refusal to deliver signing sheet: England and Wales and Scotland)[^c-686e16ce64cb6160ca2814ac53fe4722]
 

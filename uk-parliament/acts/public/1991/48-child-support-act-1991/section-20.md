@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (110).** Text as at 2022-03-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 20. Appeals to First-tier Tribunal.[^c-601a068a0673422b45a2ce3e33e491cb][^c-b6fcfc5b59f03a1673db7a6d4fea64c2][^c-d5d059c82c328ffc377ec72cd63101f6][^M_C_25c90c92-47e9-438b-dac5-de9179c06874][^c-2922deea82ba2afc4e6931529c5e4e82][^c-c7492dc52bcd45a845e95b1be4f1dff1]
 

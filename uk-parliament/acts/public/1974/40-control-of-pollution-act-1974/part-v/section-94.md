@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 94. Prohibition of disclosure of information.[^c2460041][^c2460051][^c2460061][^c-bfc6753c9aac06864a1517c2a3f53170][^c-ecc6b4edfb843e980d4b286b38b95264][^c-f989011189962c8a5b519d8266dd141d][^c-b4c9a57a198a7d0a1e789481b954ef6e][^c-45978fb3288004b9307dfd9a7430c113]
 

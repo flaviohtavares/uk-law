@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. Persons to whom Part 1 applies[^c-42fcb4740e64437617ab54b7f2c9e7af][^c-5085903ac353e8cd6d45af0a48b5f0c1][^c-ef235a38768fae553358683d0feabddf]
 

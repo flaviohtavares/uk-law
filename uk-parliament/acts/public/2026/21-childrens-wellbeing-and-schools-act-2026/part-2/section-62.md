@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 62. Power to direct admission: extension to Academies[^c-91ec8d7ba8cc911012271fca5ba63729]
 

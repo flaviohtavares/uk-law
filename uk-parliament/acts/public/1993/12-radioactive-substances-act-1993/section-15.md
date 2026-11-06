@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2023-12-20. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Further exemptions from ss. 13 and 14.[^c-c4d4961743ab21faedb9b65cf41d0860][^c-be99045f66d431b485bf80fe6e743ddf]
 

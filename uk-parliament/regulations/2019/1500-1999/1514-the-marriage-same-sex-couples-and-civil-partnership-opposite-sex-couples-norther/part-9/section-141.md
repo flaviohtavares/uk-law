@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 141. Agriculture and Fisheries (Financial Assistance) (Northern Ireland) Order 1987[^c-769e03aa6daa4b981719fa8eff7845b1]
 

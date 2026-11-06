@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 39ZA. Procedure for regulations under section 38ZA[^M_C_791a1904-fa56-449a-bb63-0dba210cb4a3][^c-3fbf1d35051798ecd34f5873ffc9dbea]
 

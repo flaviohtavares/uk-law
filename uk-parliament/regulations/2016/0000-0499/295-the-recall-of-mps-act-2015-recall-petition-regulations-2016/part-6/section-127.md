@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 127. Disturbances at petition meetings: England and Wales and Scotland[^c-b4b9eb35a45063da390f793f76167d1e]
 

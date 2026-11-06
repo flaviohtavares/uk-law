@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 43. Duty of charity trustees on receiving direction under s.42[^c-aa287c5acff4dc68601a17c20519425c]
 

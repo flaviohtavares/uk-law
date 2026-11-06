@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 51. Community Drivers' Hours and Recording Equipment Regulations 2007[^c-4e6ecf132e96468b9a1419a62d102978]
 

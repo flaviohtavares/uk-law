@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-18.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 86. Quarterly reports of analysts.[^M_F_daf521ee-63f4-4d32-9989-846be27e79c4]
 

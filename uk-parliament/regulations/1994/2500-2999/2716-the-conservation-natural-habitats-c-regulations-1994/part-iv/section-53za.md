@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-10.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 53ZA (Extent: E+W) (affected by repeal, see note). Compensatory measures for relevant offshore wind activity (Extent: E+W) (affected by repeal, see note)[^c-bcf39ae4b8aa1c80f12d921ee5bca34d][^c-2dd38f22e3f0e7272da0337fa848725f][^c-2dd38f22e3f0e7272da0337fa848725f]
 

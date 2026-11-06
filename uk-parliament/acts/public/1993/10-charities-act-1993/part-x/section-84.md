@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 84. Supply by Commission of copies of documents open to public inspection.[^c-c19229d866e13afe36d39b34d22ef788]
 

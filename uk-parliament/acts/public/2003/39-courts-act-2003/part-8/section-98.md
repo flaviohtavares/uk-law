@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/39
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 98. Register of judgments and orders etc.[^c19110301][^c-1649bda8aeba9315e314fabea90db63e][^c-6ad91979c7c6758db98d1958fb7bd7e9][^c-12fb010cc1e9e2bb87e3aeb33bcf1bda][^c-4ceff997c8bfe8ab04b5afa9f1e61135][^c-bb8a52bea12d71dd86a63949a0bb8885][^c-8680c5e74caa1a30d62f093d63f346f9][^c-8c2e1d29e47794cc1bd0c4512bbe79a8][^c-43e9d9fbc0eb916c10660963806ed40c][^c-cef908f7b84a9a5f17231905de3781e1][^c-014e6187d9e56acdd0a8b099bb93bb69][^c-ac81d27916785f3854678aa2d40c79e6][^c-a203cbcf05a9a395c9376256cb6af753][^c-56771f51d9fe40d270294cfa23327723][^c-f7244ea98f1bc99acd81a6e5796bf7ac][^c-f33824eb64b98496229bc7266719bb2f][^c-d8df80ed35c1a738574d69af9dccc625][^c-84b12bf43074b60f916e6e0a66a48e6c][^c-d3a5fdac9021db0f98f972bf3d468f07][^c-685563994dd6199d59c2672a14e9c7d7][^c-8930bad567396199497a904566d2d859][^c-cb877bc47e48a32c8c260ef784159610]
 

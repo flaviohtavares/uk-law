@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 75. Co-operation by NHS bodies etc[^c-da20f8fcb963611e5327dd8f7f870f80][^c-a9510b06ad9e0c8416edc0b9efb66f28]
 

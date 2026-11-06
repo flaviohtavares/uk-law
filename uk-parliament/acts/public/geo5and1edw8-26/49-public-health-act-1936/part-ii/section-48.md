@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 48. Power of local authority to examine and test drains, &c., believed to be defective.[^c611458][^c611459][^c611460][^c-673e6b9b2865ad5cc5cee37f3e6a29a3][^c-c8f214cd513021b42511acccce43a167][^c-e46e3408ff0a592ffa0ca807d5befbe0][^c-77238fc81e9e9d6c4669d0f98e960e8e][^c-ab760fc2ae740059c1abfb9f4ec4d65e][^c-cf001d8e91d05d7c5eb4ebf7f6ff54c6][^c-5daadcbfa67f597394ec116dfbdae2a5][^c-16f15cf9a6cee6df3be0ca42d2d2b0a1][^c-49855c393ca3816d96bb54fc60403f61][^c-27e1bcb8fefa759e8ea3c87ba4a01e17][^c-9e681d4bdf66c400cc0d4ddb94ce19e3][^c611457]
 

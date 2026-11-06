@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2214
 >
-> Extent: England, Wales.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 14. Applications for building control approval with full plans[^M_E_25ce5511-f838-4968-e137-dea4a569b711][^c-15a7527dd48a9f1d185de6df29a52e95]
 

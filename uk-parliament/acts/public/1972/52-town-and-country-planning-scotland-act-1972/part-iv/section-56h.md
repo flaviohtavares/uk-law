@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 56H. Grants of hazardous substances consent without compliance with conditions previously attached.[^c14921211][^c14921201]
 

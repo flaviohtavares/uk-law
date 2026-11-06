@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 124. Recognition of building societies, other institutions and individuals as suitable to provide conveyancing services.[^c-583a873b0334251c4570e18213fd4124]
 

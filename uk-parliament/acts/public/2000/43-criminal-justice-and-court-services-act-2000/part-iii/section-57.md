@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 57. Testing persons in police detention.[^c10579061][^c-be7f07d27de2392b4741a2ad7331334f][^c-879ece44911e423d3d5188f0283e8e06][^c-3bb76a1a643af84284c902d42cfca289]
 

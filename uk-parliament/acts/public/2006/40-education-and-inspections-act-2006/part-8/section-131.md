@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 131. Power of entry[^c-e797efaed60b5c9f1a2b9d39d5a241dc][^c-b563be1a222f56cd14a5f32211ae650b]
 

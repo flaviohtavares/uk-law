@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 211. False representations to creditors.[^c15573981][^c20433521][^c-169d8eeba6b222d825a047b62bd316b5][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-e09b683c421ba317272742075a3b22fa][^c-27c740bc34b14db40a2e339d730c551d][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

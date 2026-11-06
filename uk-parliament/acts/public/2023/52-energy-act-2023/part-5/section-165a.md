@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 165A. Functions relating to network connections: duty to have regard to designated plans[^M_F_1ccba4cb-86b6-4eeb-ce1f-d237fdc0e5ea]
 

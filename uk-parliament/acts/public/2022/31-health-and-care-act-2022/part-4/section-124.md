@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 124. Offences of unlawful disclosure[^c-e53ae64fbee5c59677827f70ea820a43][^c-67dc1b6871f77c8d315fa5984abe8e23]
 

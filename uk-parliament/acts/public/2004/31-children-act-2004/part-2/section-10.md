@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Co-operation to improve well-being[^c20890281][^c20899631][^c-5b2d974a88fc2e8a39f9d3e07c603895][^c-9ccd413b3105dcfb9dd3589c612b56f5][^c-eb40d76139be8a3dc0f80f8d4c14dd5a]
 

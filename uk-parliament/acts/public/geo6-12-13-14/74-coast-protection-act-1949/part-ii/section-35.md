@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 35. Operations excepted from s. 34.[^c-2d1f69cb29e6c06f94a0b37e5298444d]
 

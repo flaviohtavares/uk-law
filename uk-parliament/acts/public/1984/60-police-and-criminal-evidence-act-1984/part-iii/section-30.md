@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 30. Arrest elsewhere than at police station.[^c11320621][^c16933251][^c19218841][^c-293b8b60d635befe9a07ae5ef91cc3ba]
 

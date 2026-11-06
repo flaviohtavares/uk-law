@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 527A. Duty of local authority to prepare plan relating to children with behavioural difficulties.[^c-941ab29a1a0ad795f7e5960d53edd4fe][^c15253071][^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]
 

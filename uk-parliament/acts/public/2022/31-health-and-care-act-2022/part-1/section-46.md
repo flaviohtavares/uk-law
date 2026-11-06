@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. Reconfiguration of services: intervention powers[^c-45aecd7b80a506ff4f6458340e5e0d4c]
 

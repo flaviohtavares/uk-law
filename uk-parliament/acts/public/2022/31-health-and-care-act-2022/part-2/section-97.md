@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 97. General duties of the Health and Social Care Information Centre etc[^c-d1d5e4c0e16ff50939ba73e8a3794262][^c-0a1c88722b111d4bb28f9be86f4ac2d4]
 

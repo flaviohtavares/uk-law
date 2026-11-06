@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 81A. Disqualification relating to sexual offences etc (England)[^c-c33400ac2aae43de22da2581fba02b7a][^c-37e220c8eca82bcbc7c3015de053bbfa]
 

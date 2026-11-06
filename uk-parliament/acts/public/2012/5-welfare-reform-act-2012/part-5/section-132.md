@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 132. Unlawful disclosure of information supplied under section 131[^c-62aace9c57bfe7996424605c58c7ba7a][^c-c0822f47ea65c197aba300aca2a13012][^c-25b6d673b06852663a9c599d79a11d6e]
 

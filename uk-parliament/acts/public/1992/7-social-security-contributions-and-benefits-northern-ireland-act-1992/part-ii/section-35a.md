@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (205).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 35A. Appropriate weekly rate of maternity allowance under section 35.[^c16384411][^c-5068c13aedd3fd44ecc3fe31e679131a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 161. The Independent System Operator and Planner (“the ISOP”)[^c-b05d73a1c2bcb8c26777640b51a4123b][^c-a8ab5f483b534e23a279b70f87480302]
 

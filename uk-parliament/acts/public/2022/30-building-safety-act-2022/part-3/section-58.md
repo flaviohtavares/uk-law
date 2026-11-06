@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 58. Levy on applications for building control approval etc[^c-5801122f50d6b29413388cb84d55cb4e][^c-ca8d0d3a6f52316b82309d2bc8990572]
 

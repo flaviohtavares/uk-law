@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 8 — Travel to schools etc: meaning of “eligible child”[^c-f2ed0e51ba40c6842d3ea8eaf853bbcf][^c-066e0954297b33626d048904008f7e25]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19. Use of investigatory powers by or on behalf of the Director General[^c20012681][^c21090641][^c21093021][^c-d637c489fd07d1d0edd1142cc358892c][^c-a1ba8eb6825b717a1c2257edb4385c80][^c-544c79333fd0541521774feeb47cfa2d][^c-97f5f3e2b5a02ebd14b313a655dff6c0][^c-538d3c9c69a323365abec23daea3fe19][^c-6509241667c96cee7db799f0c028e3af][^c-84d9b16057619b62622a93ee96a1254f]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 271HB. Excluding the public while taking evidence[^c-ba58561c2c2f8310e2c9f503d64461b2][^c-c6afbefb52ee9062596753f2c42fce01]
 

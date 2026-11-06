@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (205).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 55A. Shared additional pension because of an old state scheme pension credit .[^c-03bc2f18fa50fd640d23aee1ff30a45b][^c16387371][^c-7807e660fdb5f58dc66a03432ca1ba8d]
 

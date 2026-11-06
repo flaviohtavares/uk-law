@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 98. Biodiversity gain as condition of planning permission[^c-509eac5c948d05110d420ef4bebf1fbf][^c-95ab53bde872ddd81fd0aa7f5fe8a8ca][^c-3225fe159fd9d373d0d1246c9da503c0][^c-9d4441fd18214d83cf25e208b5c30465]
 

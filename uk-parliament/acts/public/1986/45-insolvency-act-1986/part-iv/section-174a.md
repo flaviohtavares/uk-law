@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 174A. Moratorium debts etc: priority[^c-5ace08d8b9b0e7d617b59018518fa938]
 

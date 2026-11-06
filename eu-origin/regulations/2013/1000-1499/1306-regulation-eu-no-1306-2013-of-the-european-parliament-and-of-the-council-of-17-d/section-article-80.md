@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (32).** Text as at 2025-06-19. See https://www.legislation.gov.uk/changes/affected/eur/2013/1306
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Wales, Scotland, Northern Ireland; England (the versions of this text differ in extent).
 
 ## Article 80. Scrutiny by Member States[^M_E_jq03iw5n-nmh0-52ql-w06g-66462c7b534c3]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21A. Reference of matters to overview and scrutiny committee etc[^c-048b7de4ebca5d37c089f60386976a8f][^c-20eb8b968e3d8fe33b7e9b8a877180e5]
 

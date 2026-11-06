@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 58. National Underground Asset Register: Northern Ireland[^c-427960d74b39f13a4370c39050aa55e5]
 

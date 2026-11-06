@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 73. NHS costs recovery[^c-71bd8a3f47b559bc89f3169319a04cbe][^c-9853d2cb881968d9cb44c4a01d0dea8c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 55. Directions giving deemed planning permission: special regard to heritage assets[^c-e0aeb739ca4f7a48e916da6ba5d67ef6][^c-c283528c4098802b0c55a1e88c15fe05]
 

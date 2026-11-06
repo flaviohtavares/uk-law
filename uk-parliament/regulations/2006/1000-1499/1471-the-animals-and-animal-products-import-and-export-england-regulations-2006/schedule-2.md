@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales, Scotland, NI.
 
 ## SCHEDULE 2 — Border Inspection Posts[^c-efec508bd317d4537b18a46347a58bfc]
 

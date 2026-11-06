@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. Contact between prescribed persons and adopted person's relatives[^c-fd3e9d7c72dc8e4a9bde86988c88a8b3][^c-d5d8ea3138e9f3f1a8274f0423ca54fe]
 

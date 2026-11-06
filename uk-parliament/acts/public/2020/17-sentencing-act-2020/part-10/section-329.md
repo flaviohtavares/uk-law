@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 329. Conversion of sentence of detention to sentence of imprisonment[^c-741ced0ecc8a973d704118396cd876aa][^c-42f9a5db11f85fa67a5057bd165c89c9]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 82. Compliance with code of practice[^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-ec10f8c663b211761f90de6ea02a9d61][^c-e1f6e585bac667309e250f830e864ec8][^c-59ca1c6f5e9799f27d4bd481743713fd][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-e1f6e585bac667309e250f830e864ec8]
 

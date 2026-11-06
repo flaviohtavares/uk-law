@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 81. Requirement for health service providers to be licensed[^c-ad2ae0c0869c65c6a2de3a03d2c257d9][^c-d142ed8f3af4a2e80b38e0cacea589cb][^c2191297]
 

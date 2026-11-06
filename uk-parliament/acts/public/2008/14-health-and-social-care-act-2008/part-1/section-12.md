@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Grant or refusal of registration as a service provider[^c-790af9284f9006a544ef2074e34b4111][^c-1e28ec148890d74561a7d1afd4597ac8][^c-9be6f1c3ac35378f045f443dc602ed3f][^c-34d30c48fe83376a82b39dfc49e02f81][^c-5e3823c5146eb0a32c652905fa5c11a7][^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81]
 

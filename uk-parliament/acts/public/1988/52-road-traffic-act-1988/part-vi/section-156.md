@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (261).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 156. Power to require evidence of insurance ... on application for vehicle excise licence.[^c13992341][^c-e9f7a970f9c48e1b74ec53cda871323b]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 20. Amendments of Commission Implementing Regulation (EU) 2020/1158[^c-6b78eeb4f777246774e57b0569c5ba9e]
 

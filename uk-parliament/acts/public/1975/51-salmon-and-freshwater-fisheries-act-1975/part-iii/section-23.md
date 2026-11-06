@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-06-28.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 23. Export of salmon and trout.[^c-ae30e802d892944eea1214aca38350bc]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1967/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 48. Promotion of amalgamations and boundary adjustments by Rural Development Boards.
 

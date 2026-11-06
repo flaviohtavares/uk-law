@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. Withdrawal of children from school: local authority involvement[^c-d3159436a9c022ef59e189985489075f]
 

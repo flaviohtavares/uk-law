@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-01-27. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 37. Extension of the functions of Citizens Advice and Citizens Advice Scotland[^c-c3dab3e8eb734dcde5ddf3a73c239bb7][^c-44bd8872692ece4a25670cefc02e2862]
 

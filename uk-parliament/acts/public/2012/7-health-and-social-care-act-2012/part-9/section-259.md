@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 259. Powers to require and request provision of information[^c-e40f618131fe6b42fe0b1bfc32492bbd][^c-15f76a582be5f9711683064608f4bda9]
 

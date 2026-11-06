@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2024-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. Wales[^c-6d9168f34ec179a748126bfd019aa86d]
 

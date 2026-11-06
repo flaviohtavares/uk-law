@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 79. Occupied building: duty to apply for building assessment certificate[^c-9769b4b8b13cadf2adf504f94029f1eb][^c-83898f2b0e4d86e7600b1c4bfdab7e7f]
 

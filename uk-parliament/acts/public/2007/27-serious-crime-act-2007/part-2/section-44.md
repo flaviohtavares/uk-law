@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (182).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 44. Intentionally encouraging or assisting an offence[^c-f91e52cab11b7a5a6f6063359a5c63ec][^c-8fac712985455041598b9ce15117ddd2][^c-8fac712985455041598b9ce15117ddd2]
 

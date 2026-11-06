@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-22.
 >
-> Extent: England, Wales.
+> Extent: England, Wales, Scotland.
 
 ## 138. Crown application[^c-e0888ac1e239e0a0041f83fd3bb739a0]
 

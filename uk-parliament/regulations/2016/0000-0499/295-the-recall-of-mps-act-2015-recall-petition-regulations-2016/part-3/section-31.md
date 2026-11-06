@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 31. Refusal to deliver signing sheet: Northern Ireland[^c-1510d78a9e97493ca4d17e6a62f1a85f]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 92. Publication of information about admissions.[^c-46e000556be410aa31cad213907bb8cc][^c14009851][^c14009841][^c-0142e56165d2db7616ba8d98e10abe56][^c-8d9c6bf4137b35b9ba54fd3094046394]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 98. Police reform: transitional provision[^c-01e6a476df28a85d8a780287e86ba8d2][^c-e112e402692370e52f7e554b0d44fe65][^c-cf9764309dcb3f386f49b5b9b6e67172]
 

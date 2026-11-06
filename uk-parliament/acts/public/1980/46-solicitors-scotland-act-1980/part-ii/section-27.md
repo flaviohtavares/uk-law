@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (349).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/46
 >
-> Extent: Scotland.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## 27. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c8120191]
 

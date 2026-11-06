@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 41. Allocation of offences triable either way, and sending cases to Crown Court[^c19093811][^M_I_a7e865e5-9e88-46a8-fca0-4dfb4d9c3c0e][^c-2122553ca97b9bf789a44dd43f9840ab]
 

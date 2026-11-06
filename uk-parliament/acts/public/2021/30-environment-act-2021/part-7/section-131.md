@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 131. Power of responsible body to appoint replacement[^c-9dd52274bef320de4320c64b2fcdef06][^c-a336459bd92c1d4bd5131ce56581f564]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. Commissioning primary care services etc[^c-c551425f35fd9ec3921181de7caf065c][^c-09c8a614354fe5f0b1b431712cd22e6a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/23
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 36. Entitlement of relative to apply for a residence order[^c-c39d633604f3705ae816af7afaeee8a4][^c-eb63134566ceb80234d83d6eab5af1a0]
 

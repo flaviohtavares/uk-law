@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 255. Activities of occupational pension schemes[^M_I_a46db682-207d-4d59-c840-31515726defc][^c-a1ea81f6abc6badb15a0e49f46065c14]
 

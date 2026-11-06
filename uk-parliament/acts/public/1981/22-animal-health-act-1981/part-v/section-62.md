@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 62. Entry and search under s. 61. (affected by repeal, see note) Entry and search in exercise of powers to seize animals[^c-7dbcf52e1e145cbc17cd86fc73c6da10]
 

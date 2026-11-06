@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. National framework for qualifications of officers[^c-3153d1df54a27ad3cbd408c8382d33c7][^c-08856fbb1f7293fb95f0efd8ac5a4d1c][^c-448a84f578ad6dcab9268d69c99ba4ff]
 

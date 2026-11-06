@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## Schedule A1 — Procedure for orders under section 4A[^c-8fb83c3af522a500866e77be45f263b0][^c-a330d1286d6035ed421e32d7bb7b3c9a][^c-5d31bf966cb0f9c2744e89291c34c2e4]
 

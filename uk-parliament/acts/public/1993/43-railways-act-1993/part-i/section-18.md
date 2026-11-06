@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 18. Access agreements: contracts requiring the approval of the Office of Rail and Road.[^c14099821][^c-10a20627690f3eb45e54e8824dbc8215]
 

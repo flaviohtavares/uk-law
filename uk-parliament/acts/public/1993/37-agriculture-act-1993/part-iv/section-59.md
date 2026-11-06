@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 59. Quota areas under the Potato Marketing Scheme.[^c-28c8e7c1a39f87db01b0075055be17ea]
 

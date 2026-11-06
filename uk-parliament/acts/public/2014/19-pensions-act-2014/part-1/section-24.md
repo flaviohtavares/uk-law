@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 24. Abolition of contracting-out for salary related schemes etc[^c-bdcbe833b3b7c28e506dbb66504b6998][^c-457942db5471328f707823f760c30067]
 

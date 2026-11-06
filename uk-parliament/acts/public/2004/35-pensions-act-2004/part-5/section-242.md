@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 242. Requirement for member-nominated directors of corporate trustees[^c-8585cdf00414fd201e8a86b4dacc78ae][^c-547ba793e7eaf0b66c31cb20da20dfca][^c-48514c20e5ab0e4bb30b7f5b738951a5]
 

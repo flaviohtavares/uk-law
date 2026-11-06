@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 65. Free distribution and discount of products[^c-acf082e9f6bbb1837bbed7caa2c2c46b][^c-df21ec6886129823da08558f99a93d60]
 

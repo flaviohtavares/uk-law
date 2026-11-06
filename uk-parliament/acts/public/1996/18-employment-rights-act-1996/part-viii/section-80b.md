@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 80B. Entitlement to ... paternity leave: adoption[^c20061821][^c-a45c1980e5db1f96f91699f73d7ab49c][^c16418331][^c-6514a2922cc8ce5fd1e020c6a4ea9462]
 

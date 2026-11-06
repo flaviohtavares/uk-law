@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5. Duty to keep safety and standard of buildings under review[^c-2686d1a7380b95e629eb77f7314ec730][^c-9a34ffb7c6848ca9fcc5c1a425af6df3]
 

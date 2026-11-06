@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 4A — Information gateways: specified persons[^c-19f75e9cd249189be5dc665fcbaa9877]
 

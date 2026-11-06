@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, NI.
 
 ## 45. Procedure for applications under sections 43 and (Extent: E+W) (affected by repeal, see note) section (Extent: E+W)44[^c19124361][^c-d598ca4049bda53edfce35b74274f40d]
 

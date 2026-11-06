@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 106. Final account prior to dissolution.[^c15571801][^c15571811][^M_C_d6b99372-e70a-49e8-f7ff-2c21c43f38a6][^c-d72346c8b832b52955d5977d0f150362][^c-5eff3b708cba77455edcdfc9b2185bb4][^c-b76ca8315cc751fbbbb6f2b0ac2bcc97]
 

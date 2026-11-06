@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21. Prohibition of tobacco displays etc[^c2006734][^c-a8b64959e7f1bbf9b0e04b91a7943173][^c-a9493d0f5e785c46a528405db3818309][^c-4759e974d7c93ddb3f8a63e9a1251c16][^c-8c35d91cb2f24d69e9b20db123e16af7][^c-e995a38831d1451bf4c55f388521fa8f][^c-40b63220fbee6a775cb38c22a6a3b822]
 

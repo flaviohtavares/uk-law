@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 45. The authority’s own limits.[^M_F_12afef5c-42de-4c0d-8f7d-8264d71562e0]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-10-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 249. Special administration regimes[^c19208461][^c-792aa376e1e8f8c8f2fae332c0ccb77f]
 

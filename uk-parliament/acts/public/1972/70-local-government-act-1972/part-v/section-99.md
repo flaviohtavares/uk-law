@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 99. Meetings and proceedings of local authorities.[^c15099841][^c15099851][^c15099861][^c15099871][^c18887941][^c-5d790444f1f5aef9f762d21cb08ab500][^c-8f491805d920f8d59c1a1e644fe25133][^c-c70af0f2698e177c396571314533820c][^c-dbc220d8f865f255b44988cb6e9da752][^c-3eadbdf5a232c4ed45275b0ea6af6f97][^c-5bccae45f4b2e1634e3c76449f238261][^c-18b4efe1f57f4299a1c8a373fd7be980]
 

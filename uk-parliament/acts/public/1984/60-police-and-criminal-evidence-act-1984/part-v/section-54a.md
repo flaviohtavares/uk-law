@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 54A. Searches and examination to ascertain identity[^c-6ffd583f3ac1e09bce69c7b64d5f6ac5][^c19009911][^c11323671]
 

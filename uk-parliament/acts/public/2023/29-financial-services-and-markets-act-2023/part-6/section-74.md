@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 74. Reinsurance for acts of terrorism[^c-3f25f5deca8b11e41772985729d1c385]
 

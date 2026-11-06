@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (154).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 136B. Power to authorise issue of closure notice: prostitution or pornography offences[^c20926581][^c-386f6a4a1ddb7839e378d8b9719dd27c]
 

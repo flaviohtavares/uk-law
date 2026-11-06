@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 42. Transitional and savings provision for the Gas Act 1986 in relation to modification of licence conditions, references to the Competition Commission and Competition Commission membership
 

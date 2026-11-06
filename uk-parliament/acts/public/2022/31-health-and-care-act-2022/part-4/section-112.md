@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 112. Criteria, principles and processes[^c-ee33075b6c3caa392f2b799dc974d7cf][^c-4076d1e79bd39b3b2d7b6d113ba4080f]
 

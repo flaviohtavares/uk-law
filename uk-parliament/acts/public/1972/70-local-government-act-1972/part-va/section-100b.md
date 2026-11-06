@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 100B. Access to agenda and connected reports.[^c-14949f45621ecfe19d46343a0728deff][^c18608671][^c15100091][^c15100101][^c15100111][^c20528591][^c-bff8d3d29218290cf8bdb035a40f0469][^c15100081]
 

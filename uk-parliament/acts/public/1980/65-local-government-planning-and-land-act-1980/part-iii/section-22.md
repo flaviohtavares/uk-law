@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 22. Consequential repeal or amendment of local statutory provisions.[^c-3cfd9743523dc84ef239ea5ba3c220f3]
 

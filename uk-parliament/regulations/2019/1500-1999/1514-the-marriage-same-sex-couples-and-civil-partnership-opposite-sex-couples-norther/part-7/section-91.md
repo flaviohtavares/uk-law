@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 91. Social Security (Child Maintenance Bonus) Regulations (Northern Ireland) 1996[^c-0f2ca51e0b8e9dde824afd56ed92754a]
 

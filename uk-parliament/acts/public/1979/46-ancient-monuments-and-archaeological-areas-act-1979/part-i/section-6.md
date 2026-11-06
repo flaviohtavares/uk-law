@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1979/46
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 6. Powers of entry for inspection of scheduled monuments, etc.[^M_E_2d3d2534-01ba-4fc6-9764-b942d3faf23c][^c-44b645e2bcad7964e9524b054b99f58f]
 

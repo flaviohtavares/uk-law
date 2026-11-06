@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36. Grants in connection with designation for service excellence[^c-b22cac56c290974453ff08e6e1c556ec][^c-f9c471e37f0b9ee976532becbc01d8a1]
 

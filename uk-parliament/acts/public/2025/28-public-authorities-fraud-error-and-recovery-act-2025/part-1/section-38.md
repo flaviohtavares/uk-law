@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 38. Regulations[^c-089f8c8a4efb37bc692f79d98182698e][^c-170a95132f54664f1d4ca728e3becf2b]
 

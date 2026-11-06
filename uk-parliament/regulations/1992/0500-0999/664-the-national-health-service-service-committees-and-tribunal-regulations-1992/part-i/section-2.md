@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-10-20.
 >
-> Extent: England, Wales.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 2. Interpretation (affected by repeal, see note)[^M_E_ejqxdu4c-l8nb-o0zm-tk23-67dd4c2c5fd3c][^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6][^M_F_e4e2f3ac-8547-4db6-c01b-d3a5cef933b6]
 

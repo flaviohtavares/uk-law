@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. Examination of applications for development consent[^c-7e00d7f2e49cafa8a65ec0937be716e8][^c-f9a5688e646f148b05b4170641e032ff]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 73A. Notification postal signing entitlement is to end[^c-1a34a603979c2e7a74d881e27243b4e1]
 

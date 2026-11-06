@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (57).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 44. Conditional fee agreements: success fees[^c22555471][^c-438cc4b60a1ac767f233d77cd773ab89][^c-a0a959ba1237769d273f66e4e537869c]
 

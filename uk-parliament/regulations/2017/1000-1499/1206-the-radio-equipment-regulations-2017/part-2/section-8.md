@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-01-05. See https://www.legislation.gov.uk/changes/affected/uksi/2017/1206
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 8. Construction must allow operation without infringement of requirements[^M_E_c9184588-306d-4f1a-f338-e0d837781868][^c-30ecce9972602e8a57fbc68a413b6b91]
 

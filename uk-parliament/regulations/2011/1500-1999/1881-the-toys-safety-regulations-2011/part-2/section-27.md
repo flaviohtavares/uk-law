@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2011/1881
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 27. Information identifying importer[^M_E_e35bfa8d-0ea0-49c9-ecea-3eb9ab4d5ba7][^c-7fd37ba846cb66f4cb949b035d947a93]
 

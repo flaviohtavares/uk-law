@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 270. Arrangements under section 6(6) of the Education Act 1980: modification or replacement.[^c1400557]
 

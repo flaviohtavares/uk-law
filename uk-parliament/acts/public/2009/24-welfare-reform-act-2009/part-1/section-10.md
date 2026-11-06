@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (25).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/24
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 10. Power to direct claimant to undertake specific work-related activity[^c-4b570f226fc06d0a59da399bdf6c6fc3][^c-198abfd5b3341221e7eaba24b6bae866]
 

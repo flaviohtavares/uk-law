@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 30. Forbidding of issue of marriage schedule.[^c-3da2ba95f4b9ebafbd2c089e9e411c63][^c-5d65b8b7f6a33b14ea28e81545de27a1]
 

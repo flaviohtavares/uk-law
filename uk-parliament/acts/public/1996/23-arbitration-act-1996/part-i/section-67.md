@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 67. Challenging the award: substantive jurisdiction.[^c833521][^c2085243][^c2085661][^c2085773][^c2086235][^c-493e5b29620d18981141d4e8d40cbbc8]
 

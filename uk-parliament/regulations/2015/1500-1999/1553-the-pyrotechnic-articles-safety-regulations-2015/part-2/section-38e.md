@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 38E. Further use of UK marking[^c-2aea6b40cb4ecd6f2384eb0cbf68142d]
 

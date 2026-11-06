@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Power to authorise collaboration etc. with other persons[^c-e390a372a9ad61f494c2aa73b9532eb5][^c-b4f75c5b78f482ae45cf8acb8c0cb367]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 2 — The Independent Office for Police Conduct[^c20013051][^c-b5a456cfebf2be3d4a43b0ddbc7b1108][^c-31ca72b5e19769d0e5b8a4a56c1dd97c]
 

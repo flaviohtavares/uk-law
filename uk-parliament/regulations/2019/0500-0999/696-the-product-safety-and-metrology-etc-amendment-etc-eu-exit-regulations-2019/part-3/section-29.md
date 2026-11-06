@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 29. Amendment of the Non-automatic Weighing Instruments Regulations 2016[^c-84c78eff7271b1212bc73e1c9c03e2e5]
 

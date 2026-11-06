@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 78. Requirements that may be imposed in connection with a request[^c-ac19f1ee218df2753ef1da13163ef763]
 

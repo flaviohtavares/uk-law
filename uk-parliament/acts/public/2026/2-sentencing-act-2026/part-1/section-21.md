@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21. Annual report relating to prison capacity[^c-0d8234ad973d76ad2ee8ac459171a92c][^c-cc9e7e50f969b8b96886bf01069b35f4]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (261).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 165. Power of constables to obtain names and addresses of drivers and others, and to require production of evidence of insurance ... and test certificates.[^c13997081][^c13997091][^c13997101][^c13997111][^c-8c6cbc33d7d4782aaf24bc766a13f13f]
 

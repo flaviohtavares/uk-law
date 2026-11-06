@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (205).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 10ZC. Class 1A contributions: power to make provision in consequence of retrospective tax legislation[^c-a6cc3a3cca1a7056ace4ad7805364448]
 

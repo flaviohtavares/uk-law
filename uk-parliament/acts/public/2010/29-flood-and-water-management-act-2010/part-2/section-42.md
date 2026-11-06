@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-12-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/29
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 42. Agreements on new drainage systems[^c-89faba439fbc54bd34523dc71cf29622][^c-c5a21e3c1c715a35ede5dc887b64a1c9]
 

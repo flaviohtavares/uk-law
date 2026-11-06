@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 47. Higher-risk building work: public bodies[^c-ba35912f8b940f5c664690ab3ea9d47c][^c-a70d67502901a738321ad203a39129ee][^c-1238e8877237d42c3f0b94e425bedf70]
 

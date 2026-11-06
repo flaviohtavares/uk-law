@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (261).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 34. Prohibition of driving mechanically propelled vehicles elsewhere than on roads.[^c19267181][^c-604e5bc24e9a2a31ac09b43e924dd617][^c13972271]
 

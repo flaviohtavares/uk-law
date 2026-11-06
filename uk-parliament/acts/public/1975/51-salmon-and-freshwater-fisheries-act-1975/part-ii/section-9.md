@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-06-28.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 9. Duty to make and maintain fish passes.[^c10049111][^c10049121][^c-c8bc323f00276ab7e25f0de65630046d][^c-572e77fdae7a3ca6b05d08bb39b66886]
 

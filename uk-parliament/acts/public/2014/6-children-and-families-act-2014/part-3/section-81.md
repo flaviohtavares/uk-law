@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 81. Disapplication of Chapter 1 of Part 4 of EA 1996 in relation to children in England[^c-b59fc2f297196b42c031236927a0bd71][^c-e6d49e6debf019da0febe2384054f67f]
 

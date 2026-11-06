@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 118. Provisions as to churches and burial grounds.[^c14926591][^c14926601][^c14926611][^c14926621][^c14926631][^c14926581]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## SCHEDULE 6 — Grounds for refusal to monitor supervision measures[^c-fa8567a6082d9a473ea7dc218fdc0a3e]
 

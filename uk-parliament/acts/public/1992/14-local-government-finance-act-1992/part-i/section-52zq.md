@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 52ZQ. Regulations about referendums[^c-a23a5b26067c5c260fc5ded0e341a381][^c-cd4249da19de81dfb3d9dbd65394454b][^c-572b48653e0a9f082dff6ab7dd81cb9d][^c-aeab8f0f9ca24b0f30f6ffd7bb5d4da6][^c-6e7ef88ffa521f0c646645ea0a191527]
 

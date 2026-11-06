@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 90. Power to stop monitoring where no response to notification of breach[^c-ac19f1ee218df2753ef1da13163ef763]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/12
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 72. Public spaces protection orders: Convention rights, consultation, publicity and notification[^c-48490e4fff18ddfed1fcdc96ffe82da8][^c-06e971a4635045cbcdc3af9a4265426b]
 

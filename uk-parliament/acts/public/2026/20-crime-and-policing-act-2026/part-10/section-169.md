@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 169. Harassment of a person in their home[^c-ed9fae900679879207782e8975dd2655][^c-6ee4a54a54e02fa2fa618e9425987b2a]
 

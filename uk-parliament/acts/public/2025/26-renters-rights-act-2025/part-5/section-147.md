@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-22.
 >
-> Extent: England, Wales.
+> Extent: England, Wales, Scotland.
 
 ## 147. Fixed term assured tenancy and statutory periodic tenancy to be treated as single assured tenancy[^c-7d1af870b8203c0579bb45c02abb23cf]
 

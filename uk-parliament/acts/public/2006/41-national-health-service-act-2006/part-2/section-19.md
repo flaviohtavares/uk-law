@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19. Exercise of Primary Care Trust functions[^c-03477279c50bbb27711066616a136e1b]
 

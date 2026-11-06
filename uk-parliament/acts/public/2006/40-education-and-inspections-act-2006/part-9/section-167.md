@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 167. Consultation with young pupils[^c-12d998afb8442d2940bf2d7040566b23][^c-7cd6eb2e5bf6839dc486dab71c8036d6]
 

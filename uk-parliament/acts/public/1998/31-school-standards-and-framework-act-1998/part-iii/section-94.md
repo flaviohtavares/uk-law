@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 94. Appeal arrangements: general.[^c14009911][^c19153741][^c14009921][^c19153751][^c-d1bddaa65d4d31bbbe2f14ee60472944][^c-376df0d96982edf2ac377b990545da25][^c-669461984966b1b10181d686cb490d6b][^c-e834e3c18f8824f1750a153d23d44f0a][^c-bb4510253ffe1538583c54304b540f36][^c-68434377d30dba51ada4a8a080507733][^c-e1084a39bb51b487f183a7a3fa98cb8a][^c-68434377d30dba51ada4a8a080507733]
 

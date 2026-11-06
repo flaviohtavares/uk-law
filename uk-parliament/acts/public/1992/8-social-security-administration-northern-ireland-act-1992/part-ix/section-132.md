@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (186).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 132. Annual up-rating of benefits.[^c14901801][^c-35b9db277fcb6d1ca4c06eddbe65ba21][^c-d627797ef844cc3825dc6c36f803fc91]
 

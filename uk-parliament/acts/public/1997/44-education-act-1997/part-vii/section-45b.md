@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 45B. Provision of curriculum information: Wales[^c-c046c6dae8016ac106bb86d49d4db68e][^c-54021f8c811435f5f899935afc0ce310]
 

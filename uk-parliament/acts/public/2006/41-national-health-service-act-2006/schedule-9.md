@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 9 — NHS foundation trusts: transfer of staff[^c-943f45a868677b4fe15eb019ae01c898]
 

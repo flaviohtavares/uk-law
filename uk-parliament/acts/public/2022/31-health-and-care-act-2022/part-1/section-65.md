@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 65. NHS foundation trusts: mergers, acquisitions and separations[^c-c5516cd823d7ebff62cd2476872ad7f1][^c-eff6c203a21c4b39627bc40f9ca34102]
 

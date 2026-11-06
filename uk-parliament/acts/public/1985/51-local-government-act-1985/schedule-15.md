@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 15 — Section 91: Supplementary Provisions[^c-8e47dbe40e9d3b3ee88fb896a030c76c]
 

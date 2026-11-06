@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 95. Pause orders[^c24481201][^c-0fbc0632fbc24edd60cbbdc0ae6122cb][^c-bde3c0ffb0e7ac03fb4200c6fe627fab]
 

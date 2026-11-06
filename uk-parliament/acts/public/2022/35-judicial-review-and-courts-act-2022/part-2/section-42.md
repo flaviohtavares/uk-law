@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 42. Suspension of requirement for jury at inquest where coronavirus suspected[^c-fe80aa2c0dee30719a0ca00a8bc5c794]
 

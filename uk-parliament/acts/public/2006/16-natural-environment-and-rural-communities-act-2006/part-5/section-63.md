@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63. Notification of agricultural operations on moor and heath in National Parks[^c-6a1e1e1d1725f7028ab5d82ee06407f4]
 

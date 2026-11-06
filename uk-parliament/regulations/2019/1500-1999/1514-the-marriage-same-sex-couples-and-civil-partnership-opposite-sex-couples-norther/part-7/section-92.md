@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 92. Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997[^c-3c45e930f3c85be21009579656e97daa]
 

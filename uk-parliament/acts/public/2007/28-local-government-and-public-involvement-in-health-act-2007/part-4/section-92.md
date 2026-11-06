@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 92. County, district or London borough: consequential recommendations[^c-eb53e972892c878ffe0ebeb7309057ba][^c-acbbab3670b34f48dd6e95b5aee6d190][^c-749a1dc04c73c32d3b35d57477750753][^c-0c53550bd68f3c1a4ee54d44ba90705d]
 

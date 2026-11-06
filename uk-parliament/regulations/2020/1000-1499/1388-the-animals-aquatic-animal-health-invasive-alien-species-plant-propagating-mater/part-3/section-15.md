@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 15. [Commission Regulation (EU) No 576/2013](https://www.legislation.gov.uk/european/regulation/2013/0576)[^c-5384510531262249f3f0d710e36579d0]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 47. Deprivation orders in connection with offence under section 46(2)[^c-c0b6a0bd301b97cb51d78c8016a3667f]
 

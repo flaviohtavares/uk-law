@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-03-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 102. Repeals.[^c1057114][^c-d2f6ac650c03fb37e97d0c80266a92c6][^c-3d31376e44ad673930ab26f83d0f36b5][^c-a4da9b4f42d06c2808a0f7ae19c2be40][^c-e452bbd420136669c5a0508b080b7115][^c-9eff82027bc1386ae567d37f83adbef5]
 

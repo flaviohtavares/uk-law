@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (261).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 133D. Offences relating to giving by disabled person of paid driving instruction.[^c13989831][^c13989821][^M_F_8a0fcaf8-1f82-4a0b-a516-8667c002433e]
 

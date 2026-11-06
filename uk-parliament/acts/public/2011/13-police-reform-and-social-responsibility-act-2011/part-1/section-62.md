@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 62. Appointment of acting commissioner[^c-fc7f9f1f27abee25deebe7703de72b3d][^c-8566694629fbcbc159f11e2a86c2dd35][^c-520c411d28bd5d1f6457de727ee7df02]
 

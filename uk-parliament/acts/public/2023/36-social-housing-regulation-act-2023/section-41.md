@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 41. Power of housing ombudsman to issue guidance to scheme members[^c-ea3bc3e4755479cb631bdece7e6b71a1]
 

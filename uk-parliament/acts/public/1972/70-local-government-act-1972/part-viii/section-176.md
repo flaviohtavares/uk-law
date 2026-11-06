@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 176. Payment of expenses of official and courtesy visits, etc.[^c15113671][^c18865891][^c20521241][^c-91d612e23a00f3657de2f8a4ef0621ff]
 

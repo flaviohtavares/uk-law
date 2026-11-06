@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 176. Support schemes relating to education and training for persons aged 10 to 15[^c-0d8f5ae05cb99e40088ccd2b8d226be9][^c-8b371a4f07f37c100437914bd6d7bee7]
 

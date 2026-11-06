@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 160. Possession of pyrotechnic articles at protests[^c-1e2cf015d6e856df06ae96eaf95dafb9][^c-5b025015c718a0b0b602c400ccbefd4e]
 

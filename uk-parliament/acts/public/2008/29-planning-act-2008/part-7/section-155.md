@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 155. When development begins[^c19549451][^c-3e223901bb9752d4b5a7fee8ae8b5eab][^c-a9e7ef2d0a08a9900178e7cd79445bfe][^c-ab8daba9fba495b98f2d0d4eb94e5dd7]
 

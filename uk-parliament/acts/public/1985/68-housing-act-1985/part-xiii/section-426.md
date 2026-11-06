@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (58).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/68
 >
-> Extent: England, Wales.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## 426. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c15076371]
 

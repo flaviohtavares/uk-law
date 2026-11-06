@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (398).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 130K. Duty to give information about independent mental health advocates to Welsh qualifying compulsory patients[^c-e8f1d8bb67534153cd95bacd7e3317a4]
 

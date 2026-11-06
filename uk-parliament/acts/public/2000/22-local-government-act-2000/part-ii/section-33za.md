@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33ZA. Changing governance arrangements[^c-c752fa3f7c9db606c9743f20855047e1][^c-b517b25658b6eda17a13289818e403d4][^c-3c712fff32e7a4eb4acdb79f79afe606]
 

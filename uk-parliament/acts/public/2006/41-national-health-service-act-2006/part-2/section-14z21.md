@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14Z21. Power to give directions, dissolve clinical commissioning groups etc.[^c-d504964dfc83cb183dafe3faf00dd2f6]
 

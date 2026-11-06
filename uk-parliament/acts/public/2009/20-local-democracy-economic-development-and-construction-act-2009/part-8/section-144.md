@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 144. Requirement to pay notified sum[^c-03d75511088326e9ff34a67b7b417921][^c-9006e919a2ad9f9ac674a8812b7216c0][^c-7cc550265bd82709f3c7a8dc148e78b3]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 232. Proceedings for questioning validity of structure plans, etc.[^c14936051][^c14936061]
 

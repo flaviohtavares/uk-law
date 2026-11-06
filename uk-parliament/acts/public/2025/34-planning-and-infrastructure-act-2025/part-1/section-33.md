@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Deadlines for consultation and decisions on certain orders and schemes[^c-531b6a14b38d7597adbc2e3b9890bb6d][^c-d5178c5f825819c524b9fa92dad08067]
 

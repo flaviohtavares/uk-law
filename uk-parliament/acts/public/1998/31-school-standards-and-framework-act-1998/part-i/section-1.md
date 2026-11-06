@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. Duty to set limit on infant class sizes.[^c14007941][^c-00749c4ca67691e73d8ab289416e9129][^c-0e990ce5225000066909e9dadeec7936]
 

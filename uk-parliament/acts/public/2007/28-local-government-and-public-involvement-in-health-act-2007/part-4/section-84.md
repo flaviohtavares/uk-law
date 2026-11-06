@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 84. Review being undertaken: duty to respond to petition or application[^c-8c4efd805bf4617ef824423f87496c80][^c-a768533c6dba91a7cc4f1807a4b98176]
 

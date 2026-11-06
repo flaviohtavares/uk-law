@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 52ZK. Major precepting authority's duty to notify appropriate billing authorities[^c-6e7ef88ffa521f0c646645ea0a191527]
 

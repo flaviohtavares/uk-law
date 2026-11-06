@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 27. Signing procedure: England and Wales and Scotland[^c-c80985e93d3292a49d062ba6a1da47b7]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (45).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 5. Duration of a contribution-based (affected by repeal, see note) jobseeker’s allowance.[^c11296651][^c-4b40ec4f4b13d4326ee89d433616899a][^c-4db8cb94ce6ea67cfb1653dd4b04b231]
 

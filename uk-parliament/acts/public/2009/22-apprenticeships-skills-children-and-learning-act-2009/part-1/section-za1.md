@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## ZA1. The Institute for Apprenticeships and Technical Education[^c-15f8a42394fa83d002894302163bc230][^c-7f1e06fadf5fe6ff9b3e827a97d9c5c3]
 

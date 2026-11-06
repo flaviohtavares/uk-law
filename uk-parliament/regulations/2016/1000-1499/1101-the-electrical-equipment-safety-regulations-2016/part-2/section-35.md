@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 35. Safe connection of electrical equipment intended for use in the United Kingdom[^M_E_0a6e522e-c07e-486b-e948-328c63b0d448]
 

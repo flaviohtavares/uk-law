@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 102. Regulations[^c24493611][^c-2a13ca766200b1b70a52ca50bf7faab2]
 

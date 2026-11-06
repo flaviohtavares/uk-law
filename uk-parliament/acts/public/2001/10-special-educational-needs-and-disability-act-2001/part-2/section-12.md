@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2021-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2001/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 12. Meaning of “discrimination”[^c-c209344ee2a7450bc7e7f3e574c3e48f]
 

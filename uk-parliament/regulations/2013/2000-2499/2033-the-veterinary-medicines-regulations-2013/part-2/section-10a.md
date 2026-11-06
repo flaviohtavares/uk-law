@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-05-17.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland.
 
 ## 10A. Inducements and hospitality[^c-7ee4dc119560c21543a19bd0179e82e2]
 

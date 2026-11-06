@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 151. Publication of inspection reports[^c-e8d92181bd1e7c800463bd1fab8b89e2][^c-27a8173b05d8a19a64bcc0b5de4de32f]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 61. Form in which registers of births and deaths are to be kept[^c-dff5978ee04adebd0e01dbbecb6ce560]
 

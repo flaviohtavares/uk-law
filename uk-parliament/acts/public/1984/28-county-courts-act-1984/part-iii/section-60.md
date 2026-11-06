@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 60. Right of audience.[^c4405251][^c4405261][^c-06fc21a7839be3b8e09f7452cc906359][^c-9bc36ec41d6ea96088510fbd5edf4d7e]
 

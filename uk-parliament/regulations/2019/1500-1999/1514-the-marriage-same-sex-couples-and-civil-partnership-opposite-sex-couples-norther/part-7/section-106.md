@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 106. Occupational Pension Schemes (Modification of Schemes) Regulations (Northern Ireland) 2006[^c-3f9b47d73bcaabfedd978eb0c5e1cf1d]
 

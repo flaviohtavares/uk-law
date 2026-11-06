@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 72. Provision of material to the Comptroller and Auditor General[^c-8cfc78a9fe8a19444e228ae8f0197274][^c-8ec625ce9bc37c23252016487bfae98a]
 

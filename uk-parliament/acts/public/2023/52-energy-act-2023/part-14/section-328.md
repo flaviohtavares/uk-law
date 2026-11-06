@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 328. Reimbursement and compensation in connection with designation[^c-342e982447259a75243aba80ed68920d]
 

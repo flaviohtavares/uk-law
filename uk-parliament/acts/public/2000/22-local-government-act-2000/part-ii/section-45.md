@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 45. Provisions with respect to referendums.[^c1427902][^c-fbe68f385e3bebf075d8e02e3b3afe99][^c-578f78bdcb4df995025cb3a21af57059][^c-2a953dc92895d5df0cc3a69e01ad3a61]
 

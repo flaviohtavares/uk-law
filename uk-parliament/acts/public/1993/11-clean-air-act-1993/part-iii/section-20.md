@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 20 (Extent: E+W) (affected by repeal, see note). Prohibition on emission of smoke in smoke control area.[^c10490481][^c10490491][^c-994953bf38659969bbd8142e491d2af1]
 

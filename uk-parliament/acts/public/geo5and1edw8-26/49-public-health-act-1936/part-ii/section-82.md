@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 82. Byelaws as to removal through streets of offensive matter or liquid.[^c611498][^c611499][^c-d31c0530daa9b6d4f7f633d8f37db3d6][^c-ee789e5f2a7878d37cdfbbc400b8ea5f][^c-9c33320af5635b290397b5c6fa0b223b][^c-45a027560887dbc3322be404c6f564cf][^c-c0e7019ee0d349c36f21d5661d173a9e][^c-8aca47c7c7622bd1c2a08d3af0ba6f77][^c-44e886568871a712643bc8fe89ebc541][^c-6d0c86f731155bf643275f9722bc2698][^c-236d94501bbfd5956de44bece90c376d][^c-6298517821cff78c6cbd4f08d736eba3][^c-0b7f3d098c0b9a8e225cce60423a925f][^c611497]
 

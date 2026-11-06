@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (54).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 95. Publicity requirements for schemes and reimbursement arrangements.[^c19482901][^c19472421][^c10881511][^c-7a9e5cde7b253da2b646069be3b2092e][^c-eba55380aaf2978907d4dc59f5bdd55a][^c-eba55380aaf2978907d4dc59f5bdd55a]
 

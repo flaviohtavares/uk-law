@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2017/737
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 47. Noise emissions: personal watercraft[^c-06e3c21abb7c4b1e2fdca776c977c15e][^M_E_dbcbc3a4-8e8a-43ad-975f-a2bb63be91a3]
 

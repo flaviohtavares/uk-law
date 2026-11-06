@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. Duties of custody officer before charge.[^c11322011][^c11322021][^c18952562][^c20447551][^c-d4c26b75efe273f648bf10874d8c8e8e]
 

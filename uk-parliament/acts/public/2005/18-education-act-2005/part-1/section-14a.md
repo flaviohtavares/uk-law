@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14A. Destination of interim statements: maintained schools[^c-c64106a51230b826f6d8830716639377][^c-2805d147d38289071b890edcc099d50f][^c-c64106a51230b826f6d8830716639377]
 

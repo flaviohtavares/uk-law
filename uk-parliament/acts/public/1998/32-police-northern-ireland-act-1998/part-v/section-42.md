@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 42. Publication of reports of inspectors of constabulary.[^c-7319226634a9e3179c65a6101279cc03][^c-035560b6b54c3562d6095d680bd67d0e]
 

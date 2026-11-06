@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 225. Deposit of documents with proper officer of authority, etc.[^c15119891][^c15119901][^c15119911][^c-9d90cc99a3b0f57d40d7f12dde67444f][^c-324f5e8388a5d5df26b8c713a4699cb5][^c-f2502969557ac5ee981fc198de040390]
 

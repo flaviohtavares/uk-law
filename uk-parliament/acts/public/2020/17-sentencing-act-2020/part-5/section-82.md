@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 82. Effect of discharge[^M_I_109334aa-2772-40f2-bf18-6bf5d7443113][^c-397fab6c648913412fbb2b5a2fe46d61][^c-9e24a16b94a41aa5cfb29e9301edc32b][^c-e72fd9c6c4b8fddefd9534bc91b5d2cf][^c-34dae61ae71aebdf1ec6a82d098fbf80]
 

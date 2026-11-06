@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2017/1012
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 68A. Compensatory measures for relevant offshore wind activity in the Scottish inshore region[^c-605997e4e30aab5d1b9b8ca63249d2c7]
 

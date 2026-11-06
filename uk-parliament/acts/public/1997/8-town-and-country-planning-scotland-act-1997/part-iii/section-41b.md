@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 41B. Conditional grant of planning permission: provision of toilet facilities within certain large developments[^c-39934253d209e132e49d78a33919fbc3]
 

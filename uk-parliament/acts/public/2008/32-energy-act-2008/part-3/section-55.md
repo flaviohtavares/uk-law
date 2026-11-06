@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 55. Funded decommissioning programmes: verification of financial matters[^c-37389fc6b9814e3d0cf966900c6abbb8]
 

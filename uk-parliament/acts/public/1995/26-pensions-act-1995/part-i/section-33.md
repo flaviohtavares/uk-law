@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 33. Investment powers: duty of care.[^c-fa3fdd9d6d35c0d14bf38d86b28e69a3][^c-62080add0f0b5a907c07140e7252c112][^c-cdf9edc072362c5f1411bd8b730d20b3]
 

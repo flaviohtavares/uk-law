@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 218. Breach, revocation , termination or amendment of community order[^c-880335f5742457ad240656e62d2f9e0b][^c-d1939358a4a726784eb385291dd23714][^c-7a42367055a8d3fe58e6c7ffcfb788d5][^c-889b5f57d5f2733cefc3d14fbea35e76][^c-508002f8b5236d49356f2ffa800c054e]
 

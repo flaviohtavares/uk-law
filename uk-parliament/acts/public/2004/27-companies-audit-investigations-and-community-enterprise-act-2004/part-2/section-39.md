@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 39. Becoming a community interest company: English charities[^c-5452e5ed21a03c79eebddf5510ec4d47][^c-626bbf37cfd192a89bcf745295e284d3]
 

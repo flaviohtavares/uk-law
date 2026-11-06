@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 17. Effect of pensioner postponing or suspending state pension[^c-f66066f4ea94a7ab27213ffa5cf51812][^c-59d47cc8b08058f202f361234a20297e][^c-4a877246c8a378bc2cbb378e28ae86fb][^c-ca898a2d782248a462a40cce93fcdaec][^c-2e4f60fa4fc44d5492d17b1e102293a9][^c-f39fdb9d89c28910d42901668cff9a73][^c-7351881b3b7d2a9b45c91c7bfaf96c99][^c-b816999e9dd1f7dd314953da376de662][^c-c9a1f89c01beaa905293cd5f72514b3b][^c-60c3a9dcd49bfb1d9d0c9f8d64c56407][^c-6e0292938f7588bc2b21e883cc08e61b]
 

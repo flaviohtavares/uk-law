@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Use of accommodation for deprivation of liberty[^c-18bef87f2609397046e9548e2aab0a9a]
 

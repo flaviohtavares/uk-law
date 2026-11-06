@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 141. Power to deal with insanitary cisterns, &c.[^c611560][^c611561][^c-ce9c23e6e18455e2e5602455cda9ae5c][^c-263ec4f09acc1d168c74e5e7d5738b74][^c-74b3d5315e4a414d2cac18fcb72bcd70][^c-267d47ec069c0d8b14d070a822f88321][^c-f91cf7e0975049dce8f847e15a802750][^c-a75c8beb194d04c24528ffc02a415443][^c-0b00d6b1a981305d7cdab806279fed46][^c-d1e26a039b816f5c7ae71991da8055d3][^c-b724369745afb62b0f4a368071c603e4][^c-f781824c6dc7cd72d8acfcea5580a927][^c611559]
 

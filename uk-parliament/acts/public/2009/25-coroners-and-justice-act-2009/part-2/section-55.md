@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-03-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 55. Meaning of “qualifying trigger”[^c-13399cfee5ea18e4d6c40b7e8b9b26ba][^c-8491689cf1d0375ba652995a0dc28882]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9. Assignment of numbers of hours of guided learning to external qualifications[^c-1c7d3937ae3fe6e28405417736ce873d]
 

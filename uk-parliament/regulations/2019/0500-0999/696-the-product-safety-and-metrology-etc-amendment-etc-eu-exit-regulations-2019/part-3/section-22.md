@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 22. Amendment of the Pyrotechnic Articles (Safety) Regulations 2015[^c-48c22087031719b2e7a447903e51bc11]
 

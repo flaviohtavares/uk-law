@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. Respect orders[^c-e5dbbe9bba9d01701c063dd5c9bb02e4][^c-9e89d57359fd83c7f17136ba9f0d4b3a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2012-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Audit.[^c11276621][^c-8b36f39a78eaa0ec837168c52af6e1ad][^c-5a7be3349f6f3e92efa55ada9774411d]
 

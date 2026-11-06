@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 49. Procedure for modifying approved programme[^c-c616597ea1ca015d68cc096b8dba06cd][^c-d51145dcc8dca526bb730f185e74b715]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 380. Order for parent or guardian to pay fine, costs, compensation or surcharge[^c-85d109b1c16cdbe5302657ec2d5069b5][^c-24b06bc17ee7ffa7aa0689b7a5aef9a7]
 

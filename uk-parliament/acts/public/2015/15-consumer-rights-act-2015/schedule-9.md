@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 9 — Duty of letting agents to publicise fees: financial penalties
 

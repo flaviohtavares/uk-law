@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-20.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 140. Recovery of expenditure incurred by Office for Legal Complaints[^c-d7549e95c5a7e6826be2406be0719696]
 

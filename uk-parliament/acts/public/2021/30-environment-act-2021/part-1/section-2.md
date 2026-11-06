@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Environmental targets: particulate matter[^c-126fb238f38056372b38e63534588e1b][^c-f212be6ea5653eb80eadda7fcab4506b]
 

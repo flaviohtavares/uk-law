@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 47. Right to appeal against planning decisions and failure to take such decisions.[^c950089][^c-d986ff6cf85886895ab5ffbdea80553a][^c-c0ea47a54a0180c92aa26a702e402eb8]
 

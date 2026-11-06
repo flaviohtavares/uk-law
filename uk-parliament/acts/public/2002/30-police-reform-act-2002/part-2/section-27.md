@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27. Conduct of the Office's staff[^c20012761][^c21090741][^c21093161][^c-59c6930df4d09ded76eace81164c58b5][^c-b712779525804a9e946610d097134baa][^c-a44cd9ca6a7c24b60af70f1bbf0ebce9]
 

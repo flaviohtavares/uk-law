@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 30. Guarantees where education administration order is made[^c-4a52101a52f0aaa381f884c6acd2e159]
 

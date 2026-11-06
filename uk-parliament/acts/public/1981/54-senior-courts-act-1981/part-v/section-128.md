@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/54
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 128. Interpretation of Part V and other probate provisions.[^c12336771][^c12336781][^c22736031][^c-f52a62fa3ca1a55247d25a6f2dbffe60][^c-41470358ae37bfced8b38c45be9280da][^c-06c5294a12217a3790b63b20ba4d4b58]
 

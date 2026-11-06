@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 225. Duties of services-providers to allow entry by Local Healthwatch organisations or contractors[^c-f9b3caf99f9cd7065e7bc78b671aeeb4][^c-1473f617e0f9bac133fe8ce4a2079960]
 

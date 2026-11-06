@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 247. Load control: supplemental[^c-9872a71f23ec0d21a770b1abbbc0b618][^c-0f7d8c4b8a665b9391f80585599d2b10]
 

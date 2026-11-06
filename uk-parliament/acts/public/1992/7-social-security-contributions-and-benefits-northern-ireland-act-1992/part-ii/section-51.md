@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (205).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 51. Category B retirement pension for widowers and surviving civil partners who attained pensionable age before 6 April 2010[^c-c2546d3c636170c9c0e3093116d7192b]
 

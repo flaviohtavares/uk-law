@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 19. Consents for generating stations and overhead lines: applications[^c-c81d242bec63a58e64df9fb219910d0d][^c-5360eebec1432d3bf583ff0f60fdcdc9][^c-7381780dc669d5d6e4543b0842857f09][^c-0c89b70ecd9c686f511716af0325e3bd]
 

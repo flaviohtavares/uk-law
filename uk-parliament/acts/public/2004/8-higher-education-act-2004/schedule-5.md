@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 5 — The Director of Fair Access to Higher Education: supplementary provisions[^c-f0d96a7bd852f415b8c3d6589060e957]
 

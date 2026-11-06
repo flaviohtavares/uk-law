@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-09-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 182. Additional inspectors[^c-5eaf6f1f4a2e09dfa8f51afa8ca5134d][^c-e3fbf9874d0e06ac672993772902d700]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 11. Specified authorities and local government areas[^c-8a598b0b853ced898ac8727e538cf4cc][^c-ff76481ec6fabcc0d4e333bca5821379]
 

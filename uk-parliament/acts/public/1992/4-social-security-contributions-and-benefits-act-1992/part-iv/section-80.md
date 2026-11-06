@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (139).** Text as at 2026-07-08. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 80. Beneficiary’s dependent children.[^M_F_e682e289-48fa-489c-ea10-5ef1013f9617][^c-f9dfdb52a1b483c261dc8739dde48697][^c-1c9e576ff4459d7aaf328533bdc1290f]
 

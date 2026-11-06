@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1977/42
 >
-> Extent: England, Wales.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 66. Register of rents.[^c16038831]
 

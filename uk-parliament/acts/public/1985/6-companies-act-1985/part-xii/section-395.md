@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 395. Certain charges void if not registered.[^c17407171][^c17407181][^c19498691]
 

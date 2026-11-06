@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 5. Amendment of the Weights and Measures Act 1985[^c-90165bf89007d56df219d9326bbfe3eb]
 

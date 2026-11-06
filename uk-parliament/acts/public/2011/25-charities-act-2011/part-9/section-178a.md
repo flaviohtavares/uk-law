@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 178A. Case A: specified offences[^c-f873ae1f9e3ca1f972ccad9f0a0d098d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (20).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 45. Common seal
 

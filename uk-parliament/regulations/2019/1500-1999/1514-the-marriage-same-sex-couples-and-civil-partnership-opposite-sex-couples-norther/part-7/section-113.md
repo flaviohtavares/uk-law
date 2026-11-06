@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 113. Occupational Pension Schemes (Schemes that were Contracted-out) Regulations (Northern Ireland) 2016[^c-6bba5f51071312b528e299c26c469063]
 

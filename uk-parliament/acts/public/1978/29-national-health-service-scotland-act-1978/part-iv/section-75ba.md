@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2026-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 75BA. Reimbursement of the cost of services provided in another EEA State where expenditure is incurred on or after 25 October 2013.[^c-257acaa4d934055c08091bb8c9045c08][^c20974231]
 

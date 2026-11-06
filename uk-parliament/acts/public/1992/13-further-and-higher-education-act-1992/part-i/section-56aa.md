@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 56AA. Appointment by Chief Executive of Skills Funding of members of governing body of further education institutions[^c-6e74dd929957ab1e3b20887a89230b19]
 

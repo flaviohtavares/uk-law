@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 70A. Sexual grooming of child[^c-a951e1807d10fde44b9fd9dee6832c0c][^c-c4e37589a5c5e33a1d48986e3eafb7ee]
 

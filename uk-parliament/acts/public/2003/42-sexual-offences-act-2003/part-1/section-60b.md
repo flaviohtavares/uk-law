@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (154).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 60B. Detention of land vehicle, ship or aircraft[^M_F_dd515e3e-5b9f-49a2-c497-c7f7067fa480][^c-bbb0759e8029d99e7de20682877c2d69][^c18947571]
 

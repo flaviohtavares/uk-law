@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 293. Functions of Regulator in relation to institutions administered in other member States[^c-b04934cd888e7276c0a6939405dcd835]
 

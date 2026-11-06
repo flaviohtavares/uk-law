@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2955
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 9.26AA. International Maintenance Obligations: Communication with the Central Authority for England and Wales[^c-5a5f33cfec875ba6bb30b29727119c63]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 122. The Money and Pensions Service: the pensions guidance function[^c24494191][^c-c685777c2f0022cbfa6d886c6d692362]
 

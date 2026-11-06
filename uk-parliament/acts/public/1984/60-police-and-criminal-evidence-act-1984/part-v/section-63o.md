@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63O. Retention of section 63D material with consent[^c-cce920796880b6eec322055f436b0b5d][^c-54ec32dd3482099b1415152cf3a84e64]
 

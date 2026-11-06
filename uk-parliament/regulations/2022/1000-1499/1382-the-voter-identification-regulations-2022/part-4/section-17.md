@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 17. Delivery or collection of issued electoral identity documents and anonymous elector’s documents[^c-9ab1a6c34557b1727391368ffa42f73b]
 

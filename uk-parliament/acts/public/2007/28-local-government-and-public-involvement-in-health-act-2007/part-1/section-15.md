@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Incidental etc provision in orders or regulations[^c-6d5652b049aaa4f87782cbbc5fab6c37][^c-b38747d090403246ffca629dea1f1e74][^c-584abb38f826a59ce42867e56134dcf2]
 

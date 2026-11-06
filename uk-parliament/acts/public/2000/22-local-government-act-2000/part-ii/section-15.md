@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Discharge of functions: leader and cabinet executive (Wales)[^c1427816][^c1427817][^c-0c4e5c1125cabe07da4f6d416c12bed1][^c-d0f50a5cc307fe683818f3c782559a38][^c-59bd6e4f1242f21f1a4a6c1017f5ab70][^c-81366584053edc001920050b25695f5e][^c-06a8ac068df15569ed53c44fd0574fde][^c-8ec2b2099e1461a89b9dec5d3ed75fcc][^c-a921642f95ce6e18764eb2736ea63813][^c-b56a366f74240e5bab12ced9cb6e67a2]
 

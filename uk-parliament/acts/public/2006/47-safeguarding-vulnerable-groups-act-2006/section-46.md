@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (46).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. Supervisory authorities: duty to provide information on request[^c-0d9e2f2a186a4a721578fefb3051b3fd][^c-7643f61d89d49a5b26d78bd2a2690f76]
 

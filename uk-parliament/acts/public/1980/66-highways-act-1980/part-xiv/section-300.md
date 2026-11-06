@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 300. Right of local authorities to use vehicles and appliances on footways , bridleways and restricted byways.[^c18592451][^c19868411][^M_F_5ecf3635-52a4-4321-bd9f-e2edf10d99a3]
 

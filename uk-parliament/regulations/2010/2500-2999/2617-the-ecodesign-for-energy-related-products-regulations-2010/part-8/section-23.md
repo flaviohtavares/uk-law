@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 23. Modifications to Annexes 1, 2 and 8 of the Directive[^c-936ae8eda00877277291a5e54cac6d07]
 

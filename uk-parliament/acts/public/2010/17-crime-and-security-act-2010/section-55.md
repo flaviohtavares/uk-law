@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 55. Power to restrict sale and supply of alcohol[^c-6de02fb081910ed8c4327a2cca800f11]
 

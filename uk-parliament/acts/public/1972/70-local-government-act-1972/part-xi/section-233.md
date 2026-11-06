@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 233. Service of notices by local authorities.[^c15123581][^c15123591][^c15123601][^c15123611][^c18831461][^c19429541][^c-9d90cc99a3b0f57d40d7f12dde67444f][^c-925be5426bebaad7c6d9363bb8b25110][^c-d0f9fddd27a0ac59f52d26ce34ac6572][^c-d9cbf94e15d95ad3a5a9f68c358c0bce][^c-a6d3b5407c85a218ce9f068664795c23][^c-418671c848041f50494448942584d09c]
 

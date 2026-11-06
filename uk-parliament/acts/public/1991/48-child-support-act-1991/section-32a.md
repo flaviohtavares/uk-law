@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (110).** Text as at 2022-03-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 32A. Orders for regular deductions from accounts[^M_C_4110c32e-7982-43f4-d990-070b0cd06a2f][^c-e50a3526c0cb61d89517e59621a99e95]
 

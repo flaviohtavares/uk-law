@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 60. Liability of the appropriate agency for derogation from protected right.[^c-1277d47477894f27686f6a5b9c50c941][^c-6f3ccd85cbe3e3c4087252cb8c7dd912]
 

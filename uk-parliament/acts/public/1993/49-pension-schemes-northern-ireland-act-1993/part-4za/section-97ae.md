@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (70).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/49
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 97AE. Permitted ways of using cash transfer sum[^c-58b58d52fb120935b847c589132979a2][^c-369e55073bd4a6d3e609c68eff90bec3]
 

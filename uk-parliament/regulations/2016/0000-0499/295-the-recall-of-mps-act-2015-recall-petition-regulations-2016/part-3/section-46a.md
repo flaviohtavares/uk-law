@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 46A. Destruction of date of birth lists: Northern Ireland[^c-7d1f8462daf9b6e0f2ea71ae0e6d3258]
 

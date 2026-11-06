@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-12-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/29
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 18. Reports about flood and coastal erosion risk management[^c-c11a60bd929fe05283ef11789a4a99f7][^c-2c9a3c57bf76f48989c0a691dd864e02][^c-0e2c7efa3965888837d7cbeac008e5b6]
 

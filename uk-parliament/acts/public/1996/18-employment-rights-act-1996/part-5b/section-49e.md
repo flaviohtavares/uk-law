@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 49E. Section 49D: supplemental[^c-9118ffa22656d903f2e21334b1ab4bf6][^c-51d20901f6232839ffa0f1659fdc7061]
 

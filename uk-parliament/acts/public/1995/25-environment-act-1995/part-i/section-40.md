@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 40. Ministerial directions to the new Agencies.[^c14537121][^c-f5477cd938bbf9def0b11c6e2372d60e][^c-a6925af21caf08abcc1eeb07f8e5d4b7][^c-3b495bcee5f6fdaf022dcce24d07b16a]
 

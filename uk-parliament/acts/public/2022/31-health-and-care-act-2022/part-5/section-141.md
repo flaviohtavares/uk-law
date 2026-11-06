@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 141. Offence of offering to carry out virginity testing: Scotland[^c-aebdeae5598fcfbe7362a1074f3085fc][^c-cbe4ffcdb20910c814a568a32714296f]
 

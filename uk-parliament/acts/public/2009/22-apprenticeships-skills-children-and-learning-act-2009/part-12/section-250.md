@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 250. Careers education in schools: England[^c-1a577ce97f5f4e9b14ad9757911a5365]
 

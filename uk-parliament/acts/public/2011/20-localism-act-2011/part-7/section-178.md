@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 178. Transfer of functions from the Office for Tenants and Social Landlords to the Homes and Communities Agency[^c-e4e7983a5c13f57b77696c36ba808ec0][^c-9e28c960f66cbcc5daeeb7eac2e78453]
 

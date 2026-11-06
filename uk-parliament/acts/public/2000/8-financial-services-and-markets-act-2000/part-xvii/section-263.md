@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (91).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 263. Amendment of section 716 Companies Act 1985.
 

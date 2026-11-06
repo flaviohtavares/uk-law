@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 74. Annual and other reports of the Office of Rail and Road.[^c-35a9afa90ae4fc16cb8ff8487d084e20]
 

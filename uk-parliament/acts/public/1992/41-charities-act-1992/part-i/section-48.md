@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 48. Amendment of Charitable Trustees Incorporation Act 1872.[^c-68d0b2d8dc2e8aed043db1d3ee2b8464]
 

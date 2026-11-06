@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-02-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 15A. Collective bargaining framework for college staff[^c-2336c83ce0d5de4dfd4035a4b46b8a5b]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 463. Alteration to definition of “independent school”[^c-2d1721a060639ee27cf87abcc3c2f7e6][^c-76e4bb25cdd4f0f533c78e328d8e5afb]
 

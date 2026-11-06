@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 87. Constitution of new parish[^c-c405ff1abee770b9d6f7f00f99d71a13][^c-e29b94e758699a87454ed07d7ce2cf1e][^c-534b683d158830ac9ee4d787eef8d95f]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2021-07-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 20. Supplemental provisions for Chapter 2[^c-2abb5bdef03372c9a3b0490b817837b4][^c-92532be6e3a484db02ef0e7fff75a0c4]
 

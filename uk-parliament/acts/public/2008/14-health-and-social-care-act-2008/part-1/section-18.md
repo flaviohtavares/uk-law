@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 18. Suspension of registration[^c-98d5b754e80d5b2d00c5bc96a7007d5a][^c-00ceccc6be0282b275a1874efa86a4b3][^c-748a6c9dc9159c9274500b23f18d7060][^c-2035e0d59a5da2016f9739cfbe249cc6][^c-fe1cef3adfeac5982cc68b4689cf041a][^c-87185900fd08648e09c92867e6e86f4d][^c-2035e0d59a5da2016f9739cfbe249cc6][^c-fe1cef3adfeac5982cc68b4689cf041a]
 

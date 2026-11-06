@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-10.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 88. Duties of agriculture Ministers with respect to European sites (affected by repeal, see note)[^M_F_26ce6875-c34b-4487-f2bb-03fd00094f67][^c-2dd38f22e3f0e7272da0337fa848725f][^c-2dd38f22e3f0e7272da0337fa848725f]
 

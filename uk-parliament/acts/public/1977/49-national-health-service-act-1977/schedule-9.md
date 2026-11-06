@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2013-05-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1977/49
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 9 — Tribunal for Purposes of Section 46[^c19216041]
 

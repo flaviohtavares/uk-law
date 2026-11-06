@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (62).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 33. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c4113571][^c4113581][^c4113591][^c-e582a9d18b12108ff92d246c2b7bc81b]
 

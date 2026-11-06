@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/27
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 55. Financial provisions relating to designation orders.[^c19184221][^c13555421][^c18761921][^c19687151][^c19976221][^c19976241][^c-ab52c2d849380f616bfab40e245fcc43][^c-fa7132b5e5e7116afe6b0a5f7dc9cbb1][^c-8c93e4aa347a63e5f4c0252f6f5bf008]
 

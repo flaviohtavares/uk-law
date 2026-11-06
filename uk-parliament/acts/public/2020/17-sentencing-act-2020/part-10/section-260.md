@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 260. Detention under section 250 , 252A or 259[^c-760dc16ab6dde1ad68a7c0890c1a87df][^c-fcf8129e5b0373f6c6690c7b9a9fd422]
 

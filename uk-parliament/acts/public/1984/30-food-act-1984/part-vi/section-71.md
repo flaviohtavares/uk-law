@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-18.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 71. Food and drugs authorities.[^M_F_65c0df2d-094c-407a-d063-d6637c7c5447]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2026-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 12IC. Duty to have real-time staffing assessment in place[^c-52b620afbae017f28c92b0368415d309][^c-32dd93f4e32c528fd98d225706194db0][^c-f37ae5ee925cfe17546dd22c2f0ed7ab][^c-b890a3854d8fb837c37af4e4487d7bce][^c-579c923316e143a968d434aa55ba11ee]
 

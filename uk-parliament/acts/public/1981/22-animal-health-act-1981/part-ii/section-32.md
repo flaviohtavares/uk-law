@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 32. Slaughter in other diseases.[^c10345791][^c-210f191991baaa6abff3140beef10aa0][^c-ac0fe02a056423a5ba8b26f4b02031b4][^c-dde95894005e10a211e1acbbcae043af][^c-f582f23dbd8bf6787dd6dcdc14e51b1a][^c-c32140454c61283da48601bfd0f78d26][^c-b68c32f7949cf45ca79f437712dd8957][^c-2d0ee31c4f18d0288723157527ba9f56][^c-4496aa812738ee86b10eb98038df9d1b][^c-5ef43bb4d27d1582ff2bb52ce819781e][^c-150087fb1c13d54ef742d95c117e9d30][^c-ac66162b20138afe49f75738057fa196][^c-9e1ba69049598f2d99ed15f8b71471c7][^c-b82e6fcf4aeaae25ad2ca9dfec788c36][^c-98a6c967fc925d61cde4d81529d58f51][^c-e3b7ee75a4a8c16a999b4d55b40d3d3b][^c-7d5e0310a64ae7da7b5d51ba6f8188d0][^c-712ea4fbcec39553598dc40dceeb9280][^c-889a09b51014b508857257baf266e1f9][^c-d54ec114561da7a59023a1e2ca5a9250][^c-27e2d2acd3ccfeb223da293db3c9caca][^c-3ca708ed917ab199c131a1404cebbb7b][^c-9f72a6c09c956252f231da524ea6f3fa][^c-0c4d9b220aad7dcd43c76c8f28e7d1c4]
 

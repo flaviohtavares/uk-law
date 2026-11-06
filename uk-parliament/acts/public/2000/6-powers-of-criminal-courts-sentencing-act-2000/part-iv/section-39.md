@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 39. Breach, revocation and amendment of curfew orders.[^c-2718b1f7cffd34a53cd373e48de3175f]
 

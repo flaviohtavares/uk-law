@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 64. Being equipped for searching for or pursuing hares with dogs etc[^c-5f3feadb4182a50f2e282055d541dec1][^c-81220dac7fa51c42e6b482d9959aa958]
 

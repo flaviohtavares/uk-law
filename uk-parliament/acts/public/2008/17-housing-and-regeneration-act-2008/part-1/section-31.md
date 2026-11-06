@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31. Duties in relation to social housing[^c-1733ee7e31eb37dd3639e6660b073268][^c-60845003768571b8ffc0cb9032e88cce]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (32).** Text as at 2025-06-19. See https://www.legislation.gov.uk/changes/affected/eur/2013/1306
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Wales, Scotland, Northern Ireland.
 
 ## Article 99 (Extent: E) (affected by repeal, see note). Calculation of the administrative penalty (Extent: E) (affected by repeal, see note)[^c-16008c6846e55803ae32449f90d0a84e][^c-16008c6846e55803ae32449f90d0a84e]
 

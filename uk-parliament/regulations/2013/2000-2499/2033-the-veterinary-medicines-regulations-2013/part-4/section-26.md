@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-05-17.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 26. Possession of an unauthorised veterinary medicinal product[^M_E_f9905052-aad6-43a5-dcbc-5a951f7effcf]
 

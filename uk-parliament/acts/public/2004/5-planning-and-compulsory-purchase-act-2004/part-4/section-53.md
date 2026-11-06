@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 53. Fees and charges[^c-af0a48e24847050b1afb96ae5d378392][^c-7481f82485948597f5291ccf500bac05][^c-d854d30c6a25594b493ffa0881eb77ee]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2016-10-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 18. Registration of amendments of rules of society or branch.
 

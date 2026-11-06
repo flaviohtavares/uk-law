@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 18. Local authority companies etc[^c-a3945ad77b39bb0f172e34be8dad6351][^c-c697c21500feff2a5642a8f4ce484aa3]
 

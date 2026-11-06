@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-29.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 24A. Additional measures etc. applicable in England[^c-e35965bf330fcb3fe80b8b2037e76a26]
 

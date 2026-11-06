@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 35. Industry competence[^c-55b5a262c8a13241ff16e560dac20b71][^c-f18d121fad423d072a5281ab6c998020][^c-0c6b413bcd3b3df1947125921a4db49c]
 

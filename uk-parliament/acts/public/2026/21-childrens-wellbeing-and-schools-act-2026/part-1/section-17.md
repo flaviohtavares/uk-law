@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Power to limit profits of relevant providers[^c-45924bebdc6819ac2ceb7a153d95680e]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 59. Notification of court and date of trial in England and Wales.[^c-ec88abfc2d57869102376bd98df6919c]
 

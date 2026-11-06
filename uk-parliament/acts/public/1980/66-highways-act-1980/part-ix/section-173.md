@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 173. Hoardings to be securely erected.[^c13427511][^M_C_6344e01b-13d2-4534-d251-669c0e1a1a63][^c-2784be882f39d85ad6e25e4fa5529b76]
 

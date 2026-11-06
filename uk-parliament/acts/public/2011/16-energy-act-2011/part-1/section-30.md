@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 30. Power to amend Consumer Credit Act 1974[^c-0c7c5696d3ffa04b96202563bad44c00]
 

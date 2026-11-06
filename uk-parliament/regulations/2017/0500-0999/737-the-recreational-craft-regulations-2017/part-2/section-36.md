@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2017/737
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 36. Private importers[^c-9d6ea07e69d49053bc4a5cf1648e4587][^M_E_45f3b28f-cdd7-45c8-f92d-958e3c9238b3]
 

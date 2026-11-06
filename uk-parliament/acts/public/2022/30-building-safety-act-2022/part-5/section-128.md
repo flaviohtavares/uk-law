@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 128. Prohibition on development for prescribed persons[^c-c6e0c6f1779cce8e7c5df20a2ae71b12][^c-38358df97fde3984ff18ff372e0f190c]
 

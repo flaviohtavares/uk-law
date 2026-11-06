@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-04-26.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 21H (Extent: E+W). Unexplained wealth order: application for interim freezing order (Extent: E+W)[^M_F_6f5a60ae-0a79-45ea-f23d-57ee03aae285]
 

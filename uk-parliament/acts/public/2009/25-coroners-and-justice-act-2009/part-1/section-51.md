@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 51. Public funding for advocacy at certain inquests[^c-1d1a8d0ba23dbeeab54c17b7335b4f29]
 

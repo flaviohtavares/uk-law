@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## SCHEDULE 1A — Table of retained REACH provisions[^c-7ffc839cbc47eed83a58e1f339f9f3ae]
 

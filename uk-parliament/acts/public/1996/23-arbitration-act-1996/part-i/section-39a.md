@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 39A. Power to make award on summary basis[^c-b2d6a8134fd3d73892dd1e41087062cd]
 

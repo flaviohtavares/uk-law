@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 118A. Stopping up of footpaths , bridleways and restricted byways crossing railways.[^c13423731][^c18588991][^c13423721][^M_F_ec0340e5-72ca-42ca-d732-c5d927e4a148]
 

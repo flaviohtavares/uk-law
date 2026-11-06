@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 134. Administering etc harmful substances (including by spiking)[^c-74b82e60ed7439e1c8d7c53f82d7cc30]
 

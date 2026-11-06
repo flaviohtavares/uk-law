@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 80. Risk notices[^c24480901][^c-7bfe4f3a06c4efda2b03734f040d50f5]
 

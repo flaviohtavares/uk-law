@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 25 — BYELAW - MAKING POWERS OF THE APPROPRIATE AGENCY[^c-5002be61ee77b3ecbf9c2ed4b3715fbb]
 

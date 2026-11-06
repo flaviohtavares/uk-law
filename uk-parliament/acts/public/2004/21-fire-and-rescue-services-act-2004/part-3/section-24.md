@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 24. Best value[^c-84a474c620e43e07ae946cad82b4d5a0][^c-faf3dfb55435dd52d1e3ac3c6356e6ac]
 

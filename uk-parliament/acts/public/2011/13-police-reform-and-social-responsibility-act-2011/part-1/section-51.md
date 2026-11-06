@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 51. Election to fill vacancy in office of commissioner[^c-76cdc709f67ddfa2ff252bc381b16150][^c-4e2215dc3f9263fe7c9fc10a33283f2b][^c-962be8caa6450eda08b154c67562ac36][^c-1317ab83fd35247630aeb7e9c7f67ca4][^c-581c3a299e0aa4d335fd3dd5f5d712c6]
 

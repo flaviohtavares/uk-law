@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Disclosure of valuation information to ratepayers[^c-4b390b5074c6543d98624a51da75a92d]
 

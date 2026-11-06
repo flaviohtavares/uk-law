@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 55. Manner of registration of marriages.[^c-1c2a39731a111a3ef66faf8d5fc7b39c][^c6284601]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 48. Seizure orders where disqualification breached: Scotland[^c-e0166d5cf4d7ea33a3003988b60bab9d]
 

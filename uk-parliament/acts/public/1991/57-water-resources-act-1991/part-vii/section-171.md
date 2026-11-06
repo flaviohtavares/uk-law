@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 171. Power to carry out surveys and to search for water.[^c-2f323c7aa9e0544796a6df37acc42f77][^c-641c64642f21d7229f575895d45fbf3b][^c-3616ae31a877746036301820f58419cf][^c-03594200edc967b1181a76d50bc802e4]
 

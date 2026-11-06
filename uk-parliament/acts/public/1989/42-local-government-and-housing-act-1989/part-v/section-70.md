@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (36).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/42
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 70. Requirements for companies under control or subject to influence of localauthorities.[^c15273721][^c-2a11e19996b6ae4c7472cf8b9652d40a]
 

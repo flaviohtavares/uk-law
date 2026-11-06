@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-12-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 23. Environmental control of animal and plant species[^c-b7937f0c27bd65aa5d1b8147da4339da][^c-1363c2f4689d13b3c191f3c5ee463777]
 

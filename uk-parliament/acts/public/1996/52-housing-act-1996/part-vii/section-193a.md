@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 193A. Consequences of refusal of final accommodation offer or final Part 6 offer at the initial relief stage[^c-c22242b08fa57234a482bb7e939ccf34]
 

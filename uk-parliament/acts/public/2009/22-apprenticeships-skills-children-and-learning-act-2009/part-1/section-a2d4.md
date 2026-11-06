@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## A2D4. Additional steps towards occupational competence[^c-1a12eb64bb96e2665ff25cf8f9db3f93][^c-241e6620f23257dccd5326b438436cbc]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 31. Training institution and centres[^c-3c34ad266cbbfbb3525d27e0c2133948][^c-1cb285c9177bdb43b9bcfbbf4eb863ee]
 

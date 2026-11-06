@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 224. Duties of responsible persons to respond to Local Healthwatch organisations or contractors[^c-e5e51d0f43683ad97e45fdc4f3d32b8d][^c-c3234f1074ab5c5a17dca37cf3bb634f][^c-0d2f7b7bcbbd5f58b97320a700a8a65b]
 

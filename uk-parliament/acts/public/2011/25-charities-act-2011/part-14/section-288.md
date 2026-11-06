@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 288. Power to spend capital subject to special trusts: general[^c-7a9b63e30d99ce5aab10aec74201d366]
 

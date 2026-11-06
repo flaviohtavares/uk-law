@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2955
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 3A.2A. Court’s duty to consider making participation directions: victims of domestic abuse[^c-a0758e8106ecf6d7df4dc64736bb074f][^c-c31fab2c436238e66887a59bc9717311]
 

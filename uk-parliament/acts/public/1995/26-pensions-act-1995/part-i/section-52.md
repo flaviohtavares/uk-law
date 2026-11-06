@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 52. Restriction on increase where member is under 55.[^c-996bcc38b1c138bbe64ae86af0e1a863][^c-f191ea979d8c2be8dcdfd8160e0820e3]
 

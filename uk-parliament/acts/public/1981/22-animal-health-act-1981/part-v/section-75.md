@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 75. Penalties for certain summary offences[^c-6419835fad25dc33a61a3c2af407ce92][^c-95ffc85d295e219102f58ec81773f92a][^c-50201891684d45549a2fe4e7c8f9a310][^c-4e8eac2ec37d103081db3c5878357323][^c-5a0fd5ef917b68ca19aa71847df4cb6d][^c-bc0481608bf1a1dcf17837630d8aa51f][^c-b4b3b0d4d28075e3f54f16deb5ae86cd][^c-edd93d32c7c95e018b881a2841fb13b6][^c-265bfc58a03eb9f7d6ada153f2f476af][^c-1e86d4a7e6b36ed9a1fc810147176505][^c-c7eb5c28a283776d17a4f3071b7c4e46][^c10346741][^c-97422462100b90caa77e2c02c8d4de79][^c-24cb85629a10c68c5cf4d759c4c3e8aa][^c-d4073186fe6fd1995027d5d170f57b41][^c-d4f60a560360dcadf66569b4e0fb18e9][^c-3130f311b0b3c3b9f241710a432e5ce9][^c-bfaf69ac08b14ad861981989e9fc8d83][^c10346731]
 

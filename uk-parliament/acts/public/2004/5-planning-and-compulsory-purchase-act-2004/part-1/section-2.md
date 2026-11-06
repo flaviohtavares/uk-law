@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 2. Regional planning bodies[^c-95661c1f1df93953c323cfc6a88b9475][^c-55798c83031d0d82c4846bd4e4d09f09][^c-b3f7628ba295a39b5a930d05c373947a]
 

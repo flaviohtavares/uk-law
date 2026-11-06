@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Further provision with respect to control of subsidiaries.[^c-5be61a0ebaf1f2b0053fc49a494b5ffb]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 233C. Powers to amend section 233B and Schedule 4ZZA[^c-d337fadf2c894e59dad1a36f8d3f02b7][^c-23f5038e72092521da138a6f9b14b597][^c-788371096f8da5425d0cd572175725cd]
 

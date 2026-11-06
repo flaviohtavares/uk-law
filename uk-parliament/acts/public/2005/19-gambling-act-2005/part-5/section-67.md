@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 67. Remote gambling[^c-e9d5bb4b74e5ad9e06d00441ae7cf319][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-deab32ea2fb9129eb0dd09fb35f729b9][^c-e1f6e585bac667309e250f830e864ec8][^c-24789c5949bf878c3c5aa50f856f6656][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-e1f6e585bac667309e250f830e864ec8]
 

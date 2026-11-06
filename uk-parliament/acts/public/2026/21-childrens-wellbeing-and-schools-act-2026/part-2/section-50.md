@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 50. Application of schools provision to independent educational institutions[^c-01ae1d11a7a197f6e701ace3409c7175]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Northern Ireland.
 
 ## 82. Regulations for Northern Ireland
 

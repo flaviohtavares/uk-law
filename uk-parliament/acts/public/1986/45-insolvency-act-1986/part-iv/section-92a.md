@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 92A. Progress report to company ...[^c-fb819acb2d23bcb4fae1ac0918d6781a][^c21414131][^c-82d1e38fb1c68a772563409e0e647809]
 

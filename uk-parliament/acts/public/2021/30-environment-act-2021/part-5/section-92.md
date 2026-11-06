@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 92. Solway Tweed river basin district: power to transfer functions[^c-b0d4fb0fbe0c11b1eca18be6aced717e]
 

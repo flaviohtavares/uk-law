@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 304. Judges and justices not to be disqualified by liability to rates.[^c611834][^c-24898a16c95b6e0be8eb45f179fac0a4][^c611833]
 

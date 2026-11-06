@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-18.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 76. Public analysts.[^M_F_38e587fa-b359-4d5a-dae3-3a0367e60060]
 

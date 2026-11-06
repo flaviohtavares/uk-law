@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 296. Appointment of trustee by Secretary of State.[^M_C_eaacfc8b-8f73-4be4-dc80-ddd2b9bdb3d2][^c15578731][^c15578741]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 103. Powers in relation to infrastructure[^c-ec73b54c32a3f1d196590c963dab29a9][^c-3eecf0d33a183659499e7bcc79acf822]
 

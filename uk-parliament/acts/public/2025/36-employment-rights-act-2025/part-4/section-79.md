@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 79. Annual returns: removal of provision about industrial action[^c-5239938c54f8316e274deda559b81a1c][^c-2c7e9b3990aeec9104cfb5d79543f8f6]
 

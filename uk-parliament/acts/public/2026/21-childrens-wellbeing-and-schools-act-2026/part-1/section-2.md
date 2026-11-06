@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Inclusion of childcare and education agencies in safeguarding arrangements[^c-4a5588e00b840d1e7275389556eef23a]
 

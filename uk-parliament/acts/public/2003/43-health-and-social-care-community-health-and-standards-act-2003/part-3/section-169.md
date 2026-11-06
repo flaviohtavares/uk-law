@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 169. Consequential and minor repeals[^c-b0c9ff9bc6a07a1abe490d766b5a7d5c][^c-745ee61a0c81b888c3d2b89d290d7745]
 

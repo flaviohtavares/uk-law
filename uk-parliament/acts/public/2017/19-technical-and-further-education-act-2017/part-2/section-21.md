@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21. Appointment of two or more education administrators[^c-1bb6c17c514af19ee3d2ba53b97903f7]
 

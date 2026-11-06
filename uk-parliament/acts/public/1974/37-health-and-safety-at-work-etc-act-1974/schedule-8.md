@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 8 (affected by repeal, see note) — Transitional Provisions with respect to Fire Certificates under Factories Act 1961 or Offices, Shops and Railway Premises Act 1963[^c18928581][^c7815991][^c7816001]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## A3A. Power to issue technical education certificate[^c-a047473ee14b0297f046b8d7e052dd33][^c-bd21d3a6f3ee27e142e1ef9106f67af7]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (110).** Text as at 2022-03-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 43A. Recovery of arrears from deceased's estate[^M_C_c6e0b2f3-b338-4ce1-b223-859786d4e04d][^c-2ee06e5e50e050360f38451acda9e611]
 

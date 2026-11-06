@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-04-26.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 42. Order to grant entry[^c-613172ebe94b7673e131a2a090ac0fb6]
 

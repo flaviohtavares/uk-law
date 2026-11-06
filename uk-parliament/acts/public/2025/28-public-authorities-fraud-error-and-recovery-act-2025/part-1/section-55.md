@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 55. Application to members etc of bodies[^c-3b5d10f51b96c7aadeaef62b1aef17bf][^c-31be516f7d20b51a8a0b61e4bf0117a1]
 

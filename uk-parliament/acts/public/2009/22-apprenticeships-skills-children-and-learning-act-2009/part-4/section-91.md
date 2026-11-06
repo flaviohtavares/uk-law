@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 91. Duty to secure availability of apprenticeship places[^c-89f99a74fc0011218d87d31333fbb9a4]
 

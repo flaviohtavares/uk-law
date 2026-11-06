@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2015-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4. General GLA grant
 

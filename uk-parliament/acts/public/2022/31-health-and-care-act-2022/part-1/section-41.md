@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 41. Report on assessing and meeting workforce needs[^c-ba1169d787154e67c35f343b1db1d20d][^c-18415fbd9dd5f8562f7af0c0f454f997]
 

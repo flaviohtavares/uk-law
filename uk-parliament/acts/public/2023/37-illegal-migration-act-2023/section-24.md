@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-12-02. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 24. Provisions relating to support: Scotland[^c-3a3f2d941234a8140c264079796db392]
 

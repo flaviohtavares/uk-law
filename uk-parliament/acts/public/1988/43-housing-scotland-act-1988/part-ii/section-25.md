@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/43
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 25. Determination of rent by the First-tier Tribunal[^c-06ce5ce74d8d0da43cb69a1733e99950][^c-fc8176824c71d54f4e58fb3b625f77e8][^c-06421748d48caace04a92ff5cd1fc942]
 

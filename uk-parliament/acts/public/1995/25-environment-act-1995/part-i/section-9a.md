@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 9A. Duty of the Agency to cooperate with the Natural Resources Body for Wales[^c-7404ecf579fe9dee5c2066a6dcf4fbd1]
 

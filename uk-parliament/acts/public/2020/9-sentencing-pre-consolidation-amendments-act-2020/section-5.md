@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5. Commencement, extent and short title[^c24230981][^c-f2ea14ec7349cdb93980975801267ad9]
 

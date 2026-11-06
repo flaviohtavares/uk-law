@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 110. Trafficking people for labour and other exploitation[^c-4a7521f7102b5fcf72bc9345aeb4c459][^c-c67c63f2f1e64c4edd62c6bf75d28e35]
 

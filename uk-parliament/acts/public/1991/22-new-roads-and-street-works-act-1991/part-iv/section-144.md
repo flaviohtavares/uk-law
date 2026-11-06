@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (403).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 144. Sharing of cost of necessary measures.[^c14150681][^c14150691][^c-5798533e54f79b7e1c63918a0c3455d4][^c-ad1ec95a7f2e519fc25d71dc260610a0][^c-b21312915298c1a093e8842ce12e5aa0][^c-ea473e46b6e2f3dc9cbe45c82a8be51e][^c-9354b426be0034fd1f47461e4d5c1b9a][^c-dcbf3309ec7b7f91e3b6bb8cfdbf7721][^c-b21312915298c1a093e8842ce12e5aa0]
 

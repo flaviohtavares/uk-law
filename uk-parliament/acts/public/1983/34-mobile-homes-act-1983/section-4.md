@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (27).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/34
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 4 (Extent: E). Jurisdiction of a tribunal or the court (Extent: E) ... (Extent: E)[^M_E_53982a80-5d82-403d-e032-a2fcfaf29dd0][^c-7dc1cf57349f71c3bb57cf0d0604bdad][^c-dbbc5aaf538fccd286ca66c0cd59ea43]
 

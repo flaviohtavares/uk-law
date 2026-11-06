@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (139).** Text as at 2026-07-08. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 5 — PENSION INCREASE OR LUMP SUM WHERE ENTITLEMENT TO RETIREMENT PENSION IS DEFERRED[^c-3e47fcbe25b200cd112a8e7cc2bee16b][^c-94b09e92a93900305a7fcc5eca192f57][^c-82d76e37d03b1dbbba370cee9a26f216]
 

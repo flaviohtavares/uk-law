@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 153. Northern Ireland Social Care Council (Appointments and Procedure) Regulations (Northern Ireland) 2001[^c-b114fca4ee658692c38fdb92a4d16415]
 

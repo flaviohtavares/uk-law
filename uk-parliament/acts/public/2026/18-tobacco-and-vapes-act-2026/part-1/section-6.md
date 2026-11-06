@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6. Age of sale notice at point of sale: Wales[^c-cd487b2e5409ab5ee4fb9fa814fcd141][^c-ade0b1679c7878713b0f0e947f7c8749]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 72. Appeals procedure[^c-8d0166aad48c47a36c856249e3a548ae][^c-542fec9a5e645271d5007c9d435ab522]
 

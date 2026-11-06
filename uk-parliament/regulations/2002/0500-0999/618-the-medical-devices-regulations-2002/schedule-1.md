@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/618
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## SCHEDULE 1 (Extent: E+W+S) (affected by repeal, see note) — ASSOCIATION AGREEMENTS (Extent: E+W+S) (affected by repeal, see note)[^c-f1f518d3889388deeae07fdd3b23cf96][^c-f1f518d3889388deeae07fdd3b23cf96]
 

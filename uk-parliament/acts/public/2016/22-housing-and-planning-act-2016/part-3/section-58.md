@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 58. The unpaid rent condition[^c-2abe47d5b4f6a6822e08bf40a4ddddb2]
 

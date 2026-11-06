@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (70).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/49
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 93B. Reduction of cash equivalents in case of section 93A designated schemes[^c-65d8d446245fccf01d45e1dd137b6593][^c-920bb60c1ce06dc0c76d1607b21a3fe0][^c-e85fea2e415384a1b766bba1856ecba0]
 

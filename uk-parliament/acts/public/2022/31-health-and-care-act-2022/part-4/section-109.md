@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 109. Establishment of the HSSIB[^c-71216fcd9d7ee437291963453f8c96f6][^c-bb67eca9ed891dcae25b183c6519f22b]
 

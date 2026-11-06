@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 43. The employer’s administrative costs[^c-dddf3f322d850b97587534fed4b1ecb5][^c-090cead234183a31abbf6a1d61dc7617]
 

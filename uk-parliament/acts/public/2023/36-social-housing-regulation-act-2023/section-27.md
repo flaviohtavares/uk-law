@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27. Performance monitoring[^c-e78246a8e1c73474f08f4759b6936223][^c-8e1ec8a1fda7e999616192d37fa0536f]
 

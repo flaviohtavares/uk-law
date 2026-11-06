@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 69B. Power of Secretary of State to direct local authority to give teachers' pay and conditions warning notice[^c-ac73a1c5f98a00d5f87ac9ed80b95043][^c-539a148a152b679b0b2f5402f58a05e0]
 

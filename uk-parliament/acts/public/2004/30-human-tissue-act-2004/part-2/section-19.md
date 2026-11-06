@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 19. Right to reconsideration of licensing decisions[^c-66c43ef7e0614048e070a14f1b17fbef][^c-170ba2bba300a3dddfa6f52124417ac7][^c-040b63b77947ba81142fb12b50c9aca6][^c-61fe772f7f8aef64da05bf1c0130675b][^c-6057f8c18883ed1a7580989141b851f2]
 

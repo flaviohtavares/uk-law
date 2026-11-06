@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 109. Road traffic: fixed penalty[^c-d61202ab8ec5fdc575217b86080fcb31][^c-614f5b92e98fa73b0f893b56ca45ad3c]
 

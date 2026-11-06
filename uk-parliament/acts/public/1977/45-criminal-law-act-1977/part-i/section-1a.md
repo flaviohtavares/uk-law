@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2020-12-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1977/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1A. Conspiracy to commit offences outside England and Wales .[^c4763941][^c-4a90881f3394589ed5c1f4371d4b5246]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Proposals other than proposals pursuant to a section 7 notice: publication etc[^c-ec90dea593feb5c53fe9c3fc857d10e8][^c-716f1e741d4826ce537b0a16bf25a40d][^c-eff1d73b850b960d7e0ba7aa3ba18a85][^c-c1df3627f85acd78d3745bce39f9147c]
 

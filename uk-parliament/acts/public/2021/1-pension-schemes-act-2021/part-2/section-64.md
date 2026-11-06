@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 64. Viability report[^c24459431][^c-fb1f9477a4338032df5ce58cd35627e2]
 

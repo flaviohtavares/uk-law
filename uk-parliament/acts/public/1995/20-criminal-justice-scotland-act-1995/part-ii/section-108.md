@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 1997-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 108. Enforcement of Scottish orders in England and Wales.
 

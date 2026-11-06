@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (110).** Text as at 2025-03-03. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 51. Compliance with obligations arising under Chapter 1 of Part 2 of the CLRA 2002[^c-45c62da62bd4d7434413f42f03db6f0b][^c-9ccde1f0cf28452e4242f50b9526538f]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 85B. Application to House of Lords staff.[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 

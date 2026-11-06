@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 291. Proceedings in patents county court.[^c-15374626240688bd297835cec1403e27]
 

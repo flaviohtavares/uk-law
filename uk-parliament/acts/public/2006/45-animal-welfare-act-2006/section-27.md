@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27. Inspection in connection with registration[^c-42a633102c8789747a93ed7a668a78fb][^c-d36970a38509a87f3a9ae379cbf6dd76]
 

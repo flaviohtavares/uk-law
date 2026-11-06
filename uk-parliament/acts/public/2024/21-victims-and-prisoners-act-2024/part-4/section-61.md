@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-09-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 61. Referral of release decisions: life prisoners[^c-4494f5df2b77b1eb0e6b7574ba5ce357][^c-ff4c57c7c3392b653e9edd3f3a48c2fb]
 

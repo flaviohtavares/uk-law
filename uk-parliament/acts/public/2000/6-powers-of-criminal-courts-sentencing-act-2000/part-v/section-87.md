@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 87. Crediting of periods of remand in custody: terms of imprisonment and detention.[^c-947fc1e5d90fbf2d96f0c2af04867fc9]
 

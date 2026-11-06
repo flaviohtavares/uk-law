@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 57. Persons by whom right may be exercised.[^c-28c3b5517268fcb9c30c974d639c6f19]
 

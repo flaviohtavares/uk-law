@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 45. Quality in health care[^c-e56cb5c3e5706a8ef8b87828959a4da8][^c-d82b3d356ac07174819a59aa0d3bcce4][^c-d7c79ec6ebf80dabffb58d568612ccdc]
 

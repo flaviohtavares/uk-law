@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 284B. Calculation of the “permitted amount”[^c-9eb9be259e9953b2b724d25fca1cee2a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 20. Liability of employers and principals[^c-43710931a8193feac858aad901228264][^c-e3c527eca7165f836c5e3eabbafc1f74]
 

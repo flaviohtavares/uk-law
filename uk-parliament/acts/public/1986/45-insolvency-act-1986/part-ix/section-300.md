@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 300. Vacancy in office as trustee.[^M_C_7dc03afe-9416-4b6f-e18e-22e9ab4970ba][^c15579081][^c15579091]
 

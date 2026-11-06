@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 76. Wider effect of decisions: licensing of health care providers[^c-0fb17cc13707f3bb171ee7026ef5d89f][^c-1d1b816fa1cf411fe34ca48c5eb049d0]
 

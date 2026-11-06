@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (29).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/33
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 5 — Financial relief: provision corresponding to provision made by Part 2 of the Matrimonial Causes Act 1973[^c-99883e5870e7f4ec5fc9ef5b1d314aaa]
 

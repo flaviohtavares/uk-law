@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 20. Notification of change of control[^c-e0e66dd3b60b761dc8d5b4a321b9c5f7][^c-2f1055c47c958a3aa1e078ba7a00bc8d]
 

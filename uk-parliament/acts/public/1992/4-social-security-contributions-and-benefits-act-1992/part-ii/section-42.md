@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (139).** Text as at 2026-07-08. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 42. Entitlement under s. 40 or 41 after period of employment or training for work.[^c-b52acb705b4fb96a29c7e610bce5f1f5][^M_F_ace2441d-f96c-44bf-9a49-6bd9ff72baa4]
 

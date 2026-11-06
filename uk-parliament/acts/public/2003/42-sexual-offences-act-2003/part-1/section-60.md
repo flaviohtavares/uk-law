@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (154).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 60. Sections 57 to 59: interpretation and jurisdiction (Extent: E+W) (affected by repeal, see note) Section 59A: interpretation (Extent: E+W)[^M_F_f1bd6d6b-b452-4c14-d5d8-f8f33d79d0bf][^c-bbb0759e8029d99e7de20682877c2d69][^M_F_a9c7b6e3-2ddf-4490-db13-595d71a3960f]
 

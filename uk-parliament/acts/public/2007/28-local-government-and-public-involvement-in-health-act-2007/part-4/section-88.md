@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 88. Existing parishes under review[^c-e57feffb0d85672d64e9cd0273ee888b][^c-8ab9bba8a740b60865e7f0a1d84366f0][^c-5e5f9a880cff82f912a6361ae5313b33]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 34. Additional calculations where special items relate to part only of area.[^c12076401][^c12076411][^c-8d3a5cc104e8bb2fea7476f4d74a6994][^c-37f97e5433837e830533d075cbc298e2][^c-90cd387516e88f9820eea0caf466e4ea][^c-25d28a5bb7fd025385108eafb6defd8d][^c-af80501b7dd9d833e05512221d507783][^c-8d3a5cc104e8bb2fea7476f4d74a6994][^c-90cd387516e88f9820eea0caf466e4ea][^c-1304ad51e0298e9c29d2496b54843766]
 

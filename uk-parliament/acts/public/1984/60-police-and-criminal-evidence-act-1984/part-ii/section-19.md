@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19. General power of seizure etc.[^c16919771][^c-7e61bc65ce03f8ae589385e3cca75d6c][^c-7277b0bd43a2d44c56850bc2ebd83dc5][^c-8d17e16edc5f8ff78c5578e9680f78fd][^c-b1cb49bd52ecc87a0957b727c30e3d2e][^c-e865ec86df4d44bda0bfe011079ddb95][^c-58514e4ed45e4b5fadff7628e9f81923][^c-9af0471bda4fad81ec9c1d14100250cc][^c-b1cd28eca1bf7fc24e49c6121600e941][^c-87109aa581bd9238074c80224bcd2a5a][^c-944eb76d3439791b7807fd03352d0d23][^c-09a8c3119b620573a889289bac054d78][^c-354c497032dc4597a0199732eebf4150][^c11315281]
 

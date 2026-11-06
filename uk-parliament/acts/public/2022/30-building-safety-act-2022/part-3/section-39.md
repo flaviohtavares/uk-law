@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 39. Breach of building regulations[^c-0ad753d2a50c4ecad5b97eac3d9ac51c][^c-3c3a4d1a7bb514a2a100409221949f53][^c-377465e3321fd4ec93f261b234f82965][^c-c3fd815a06126cf20d892a2708864775][^c-a7e1741187399b2bb23bfbcc201fa337]
 

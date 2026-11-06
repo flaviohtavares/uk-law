@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 157. Section 156 (1) duty: imposition of conditions[^c-c5a387f094be3db3ab8006c673ef8e8c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 14. Restriction on availability of powers: penalties[^c-1e3d1025f2c2e24b1fc821c4dac98585][^c-e2761111f05090c9d1ef19181b051b21]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-10.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 44A (Extent: E+W) (affected by repeal, see note). Delegation of licence granting power: Scotland (Extent: E+W) (affected by repeal, see note)[^c-0ac55899b083312bf67de1116deeab39][^c-2dd38f22e3f0e7272da0337fa848725f][^c-2dd38f22e3f0e7272da0337fa848725f]
 

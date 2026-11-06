@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (205).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 30A. Incapacity benefit: entitlement.[^c-c7c221544b9104a4f67197e07102ad70][^c-4e3082e3bc882c5f8ff04c8bde9cff0b][^c16383711]
 

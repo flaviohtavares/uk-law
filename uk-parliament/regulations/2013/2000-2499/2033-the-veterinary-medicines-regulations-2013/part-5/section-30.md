@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-05-17.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 30. Appeals to an appointed person[^M_E_5061cf42-3b23-49f5-d461-dd97dee07a53]
 

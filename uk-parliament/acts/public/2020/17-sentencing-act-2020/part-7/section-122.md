@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 122. The standard scale of fines for summary offences[^c-47de1365604ecf40405b6c8334a22807][^c-a625135fd012a56ed4ff2d2530006153]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 59. Information in relation to apparatus: Northern Ireland[^c-7118e8db7074b0a20cecd5b49f57f972]
 

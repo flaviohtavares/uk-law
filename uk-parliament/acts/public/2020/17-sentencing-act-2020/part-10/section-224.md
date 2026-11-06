@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 224. General limit on magistrates' court's power to impose imprisonment or detention in a young offender institution[^c-d989f551a1474a5b90168d3d64e99eed]
 

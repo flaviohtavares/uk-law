@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 51. Position if Local Government Boundary Commission act under existing powers[^c-a3b3cdf5ce703c2fa61dfbf16518e18f][^c-cc8c9191ad1dcdbda65ecd0a81380768]
 

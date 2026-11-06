@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 85. Vacation of office by failure to attend meetings.[^c15095691][^c15095701][^c15095711][^c-f3b613e46171833e924e31b8391cf442][^c-684d7148f2eb1243936b6fa7d6482315][^c-62e9b9971c6e6d8f7ba70f1f93d0d355][^c-e3f07d9eccf075d63bd36d76cc792d30][^c-1551ddf38c187376cac27b875c328132][^c-5a0b3fba4c43364fb4776cd4586ee41e]
 

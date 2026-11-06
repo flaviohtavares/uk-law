@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/618
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 31. Approved bodies and the conformity assessment procedures for active implantable medical devices[^M_E_8028548b-b636-4f05-8586-b9bfd2b25cda][^c-998364ca1d68096389cbaf0e433560a0]
 

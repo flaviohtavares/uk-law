@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 170. Enforcement of liquidator’s duty to make returns, etc.[^c15573481][^c20430331][^c-852d00b32252d350381974025b4b437c][^c-e609be2279f4200aed2ca0f3a4a43eae][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

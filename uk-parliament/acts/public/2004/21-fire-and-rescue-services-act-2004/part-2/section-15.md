@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 15. Arrangements with other employers of fire-fighters[^c17822461][^c-1cd698f4ed4ade046c0fee82be2c1e54][^c-0b854f62bd9a4cbeae094ffa6e845c8e]
 

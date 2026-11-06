@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27. Continuing powers to make transfer schemes[^c-48259d0ed35b48aa06b4a49405609d71]
 

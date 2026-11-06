@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (182).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 22. Inter-relationship between different types of orders in England and Wales or Northern Ireland[^c-91bdbe01d433dac6199f2b373ff64ba8][^c-37e26caf296343818b7099c9ec30ffad]
 

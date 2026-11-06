@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 13 — The Training and Development Agency for Schools[^c-f30fcfd8f0a6ec7c3e2b7c1a160e6e18]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 123. Review of anti-social behaviour orders etc.[^c-a58501e8076cf4b24e74f7c94e61b11d][^c-c25b82619b541cd4131ee373536bf1c0]
 

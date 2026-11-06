@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-04-26.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 13. Search and seizure warrants[^c-2b6e4ba42c8c28e0f997d7dcaaf3259f]
 

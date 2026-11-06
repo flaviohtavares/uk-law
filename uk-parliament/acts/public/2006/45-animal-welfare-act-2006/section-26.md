@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 26. Inspection in connection with licences[^c-d8933f3d9850c1f206f93f362466764b][^c-632f4f1f9bf0413a247e802fc38a8149]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Annual returns.[^c12426411][^c21097261][^c-75b249567a4c864ee3f851a761478f8c][^c-3d7bce267f53dac554f71667ee3eb887][^c-66f6d151e6f8631cdf9e044591c8c5c1]
 

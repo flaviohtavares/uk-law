@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 103. Regulatory conflict and the Board as licensing authority
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/69
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 17. False statements made for obtaining registration (Extent: S) (affected by repeal, see note) , identification number (Extent: S) (Extent: S) (affected by repeal, see note) or licence (Extent: S) (affected by repeal, see note) etc. (Extent: S) (affected by repeal, see note) False statements made for obtaining registration or licence etc. (Extent: S)[^M_F_8815d4ed-1b3f-4d5a-9426-6ad93fc6f36e][^c-a1664873504de1ac7bd571cd51aa883d][^M_F_8815d4ed-1b3f-4d5a-9426-6ad93fc6f36e][^M_F_8815d4ed-1b3f-4d5a-9426-6ad93fc6f36e][^M_F_8815d4ed-1b3f-4d5a-9426-6ad93fc6f36e]
 

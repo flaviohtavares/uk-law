@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Supply of information to local policing bodies[^c-18840a6bcb587ce8db8b9f8777c13d9a][^c-2fc6653b394e8bc19961873efccd8c2e]
 

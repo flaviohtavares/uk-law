@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 85. Provision that may be made in an order under section 84: membership of ITA[^c1952771][^c-ae38ed22958777c7a08ef7e27c351bc3][^c-6e41e46ddc990e2ceb68c18a079b9ad1][^c-01ac68325d1937a129e3c7e5a6080355]
 

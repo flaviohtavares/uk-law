@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 34. Making of orders without notice[^c-0f0801278a4df5e0f0c424ed8d5f2391][^c-ecd2607f3fe944da18670b50d1e88163][^c-f51a60e34c15f74dd8cde0ea9147d2e6][^c-346fdb4aa063705c956f4adc384dfd0d]
 

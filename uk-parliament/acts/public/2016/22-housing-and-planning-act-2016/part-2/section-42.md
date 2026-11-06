@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (34).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 42. Notice of intended proceedings[^c-9e616d9e0640443c83decfe07d8bdbc5][^c-11931f8e0062a814d4ee4c220473c928]
 

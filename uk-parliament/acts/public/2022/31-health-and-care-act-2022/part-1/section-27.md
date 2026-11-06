@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27. NHS England’s financial responsibilities[^c-43d5cfe3d929c9b7de88bb6008e2e0af][^c-155c863b6296b7f5f8a311fc5d1bb6ae]
 

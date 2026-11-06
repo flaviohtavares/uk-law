@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 79. Payment of fee loans and fee contribution loans[^c-cffd2a59a6d9484badaf029d5fc2160a]
 

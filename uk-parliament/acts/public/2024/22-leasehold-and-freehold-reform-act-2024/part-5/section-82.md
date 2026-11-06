@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 82. Enforcement of sections 78 to 81[^c-06e6f5346288121168b41b18aa0c2305]
 

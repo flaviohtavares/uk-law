@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (105).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 47. Further provisions concerning entitlement to guaranteed minimum pensions for the purposes of s. 46.[^c-36c0be76be1b6fd5cec0810cc40b7b90][^c-66880a363b9f3cbcaebb657ef1c1c2b1]
 

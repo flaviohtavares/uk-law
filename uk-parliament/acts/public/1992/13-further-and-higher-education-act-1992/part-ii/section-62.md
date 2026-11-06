@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 62. The Higher Education Funding Council for Wales (affected by repeal, see note).[^c11065731][^c-d597d7ae41d8c721f0be1b67ad8f1593][^c-add1850c64b15e39ad763cdd0739b48d][^c-e671341b3d24feeb81b133ea0b664237][^c-add1850c64b15e39ad763cdd0739b48d]
 

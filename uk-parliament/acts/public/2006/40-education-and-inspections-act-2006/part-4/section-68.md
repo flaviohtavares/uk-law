@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 68. Power of Secretary of State to direct closure of school[^c-992d7e134bc56fb022759eaa736a4832][^c-fea245646e32cdf86a2cee5068bf81d1]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## Schedule 1C — POLICE AUTHORITIES: SELECTION OF INDEPENDENT MEMBERS[^c11166011]
 

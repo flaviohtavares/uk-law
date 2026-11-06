@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England.
 
 ## 40B. Civil sanctions, Wales[^c-48d51c7645eaac4756731a2607324614]
 

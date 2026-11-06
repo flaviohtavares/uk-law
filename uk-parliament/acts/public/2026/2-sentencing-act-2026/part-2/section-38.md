@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 38. Termination of community order[^c-d4e6871f340351aee39ac8f0a49c6a83][^c-f24b4d455a678a0d9ed314efbd90c7da]
 

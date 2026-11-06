@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 154. Regulations for protection of consumers[^c-d1bd3aa55d86a019416e7cf3a1f4dee4]
 

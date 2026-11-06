@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2024-01-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 159. Proceedings of recognised bodies take precedence over insolvency procedures.[^c13693891][^c-8dee730d6116ba70d64fe139ff566e46]
 

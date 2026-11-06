@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19. Power of entry for section 18 purposes[^c-f85290dfedf100bcbdf6434384ab10dc][^c-010bc3ac7edff942f63150cb45940455]
 

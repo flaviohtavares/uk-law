@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 23. Incidental powers[^c-9d3ecc9523cacaafb2ebb6555303d3eb][^c-a74d13fa1b2164b8fa2643d3f8ea5635]
 

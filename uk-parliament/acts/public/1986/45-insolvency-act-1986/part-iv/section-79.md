@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 79. Meaning of “contributory”.[^c-d42c95f368c806f53e80c7334bd5b6c3][^c-2aaac302edc344715e51dad18431623d][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/uksi/2002/618
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 51. Products incorrectly marked with a UK marking[^M_E_e256cee2-e40b-4508-cdd7-50edbf23ba8e][^c-264a205b1f0507af4ce872b959433e3b]
 

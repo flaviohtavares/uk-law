@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 64. Relief for registered community amateur sports clubs[^c-d13b194d24fb45b76de064c7d75e35d3][^c-a20e80de23bb68f53d44d8b4f84976d8]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-02-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. Charitable appeals that are not public charitable collections[^c-8809de558d62fd0fe4c48cef5fb77f38]
 

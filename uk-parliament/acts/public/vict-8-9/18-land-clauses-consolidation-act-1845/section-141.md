@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2023-12-26. See https://www.legislation.gov.uk/changes/affected/ukpga/Vict/8-9/18
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 141. Distress not unlawful for want of form.[^c5585331]
 

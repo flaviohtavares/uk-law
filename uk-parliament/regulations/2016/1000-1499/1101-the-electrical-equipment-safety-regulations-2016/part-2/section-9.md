@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 9. Instructions and safety information[^M_E_f66d1473-df63-4c51-f5a2-bedd800d856f][^c-293182e0673ef41a4a5b3ca981c0ed77]
 

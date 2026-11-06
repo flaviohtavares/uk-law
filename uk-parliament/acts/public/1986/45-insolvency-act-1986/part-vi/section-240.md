@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 240. “Relevant time” under ss. 238, 239.[^c18981521][^c20434541][^c20434561][^c-58fc297e30004b8179b64f6ef239fdd4][^c-03e331bc6f241ea57d7ac53d42e5c76c][^c-c09e4b4064547a6f1813de7d4ebfd329][^c-8b37e78fd76af4fbc14f197fe9fc7410][^c-21d5d51a53555b5def225239606cbbd4][^c-788371096f8da5425d0cd572175725cd][^c-cc5204a107018c42ba632e0bf792c8fc][^c-788371096f8da5425d0cd572175725cd]
 

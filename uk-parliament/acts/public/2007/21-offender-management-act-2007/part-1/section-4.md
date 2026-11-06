@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4. Restriction on certain arrangements under section 3[^c-2f285b5d1ff60e6a77ff2737ed30a481][^c-8d5fdfcd8365956821029386c4503543][^c-a039041ad032e3bac96e2e0f6b001a41]
 

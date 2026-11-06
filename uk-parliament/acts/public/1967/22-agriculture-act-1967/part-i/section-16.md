@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1967/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 16. Payments for scientific research.[^c-11d0069c5bfde99590c5995548c72c3d]
 

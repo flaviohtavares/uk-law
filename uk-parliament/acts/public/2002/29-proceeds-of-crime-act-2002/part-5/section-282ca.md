@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland, NI.
 
 ## 282CA. Enforcement abroad before recovery order: PPO receiver[^c-9d0b5a02c3540d43bd9571ce2a1ec8e3][^c-eb0af4ccfe109ea9aca614d7b4a8a873]
 

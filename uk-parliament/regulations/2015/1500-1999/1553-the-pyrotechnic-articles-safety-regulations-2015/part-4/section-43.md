@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 43. Approved bodies[^M_E_b4038a40-4849-4de7-b128-d6c77e13011c][^c-dc440bbe671175c03761b7492e5b2754]
 

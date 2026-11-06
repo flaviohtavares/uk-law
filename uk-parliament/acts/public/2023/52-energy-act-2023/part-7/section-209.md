@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 209. Power to make consequential etc provision[^c-36656c9f413657e6bbca1e4eb81f77b9][^c-66113246f7d9272ca9be8cd4f49ad651]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 14. Amendments to Commission Regulation (EU) No 1077/2012 on a common safety method for supervision by national safety authorities after issuing a safety certificate or safety authorisation[^c-57844252d9c5561f056b64ed9b37b02a]
 

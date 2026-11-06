@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 98. Applications for registration[^c-49b1902651dd78a2dc59fbccfa3de62c][^c-f4dc7f3e8b38aa047848ad852107cf4b]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-04-26.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: S..
 
 ## 46S (Extent: S.). Expenses orders[^c-2fe1423158fb0a36abff3362b6b78165]
 

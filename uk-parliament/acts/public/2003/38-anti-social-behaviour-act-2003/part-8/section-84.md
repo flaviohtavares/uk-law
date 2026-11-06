@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 84. Crown application[^c-e1ae18e639dacad6cdb6a02428e3373f][^c-df0a4ae2095dea9606f11f66a2f081b4]
 

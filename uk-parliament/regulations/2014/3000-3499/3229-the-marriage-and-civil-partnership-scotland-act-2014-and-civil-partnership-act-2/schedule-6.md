@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 6 — CONSEQUENTIAL MODIFICATIONS TO SECONDARY LEGISLATION
 

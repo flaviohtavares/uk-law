@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 97. Lost postal signing sheets: Northern Ireland[^c-b40bd773811e4fec94ba789cfaff3caf]
 

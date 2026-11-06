@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/50
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 188. Sharing or threatening to share intimate photograph or film[^c-51041965aec7984d5f5dd0df129f179f][^c-7a4630926d31b9469a0c086474703a61]
 

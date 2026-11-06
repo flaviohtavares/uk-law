@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2025-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/6-7/69
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 24. Tenant’s right to compensation for improvements and other matters.[^c6618871]
 

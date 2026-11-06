@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 61. Reference to Tribunal of refusal to grant authorisation[^c24459401][^c-8fe4862b1e37a4fab77751f2a0d1ae47]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 248. Co-operation with a view to promoting good behaviour, etc.: England[^c-64c2226f53c3c3ac2927c500b189426a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 87. Determination of tribunal as to administration charges[^c-121c86528b1e7543dbc9457081aada8f]
 

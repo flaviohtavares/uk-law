@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 51. Annual reports on use of unexplained wealth orders: England and Wales[^c-df65572d0083b50acbb85fddc132ae18][^c-f2aeb0147094288ebf03fd49f827b83b]
 

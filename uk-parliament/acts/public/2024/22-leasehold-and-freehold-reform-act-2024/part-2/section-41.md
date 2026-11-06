@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 41. References to “the court” in Part 1 of the LRA 1967[^c-0a7340a533df5b10b2bef148af3549b5]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 172. Power to require information from regulated persons etc[^c-16231b668926c093ccf6a09a439b5b21][^c-9a068e67ae23617700b79b13cfd83105]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 155. Accounts: variations to initial arrangements[^c-f8c2af6d51ab4806e00603332f11f942]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 227. Measure of compensation to statutory undertakers.[^c14935071][^c14935081][^c14935091][^c14935101][^c14935061]
 

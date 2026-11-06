@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 27. References to adaptations for avoiding contraventions of ... Schedule 1A.[^c-d0614c9f6f91bd9d33af9380ee3bea47][^c-1de74d78d2890fe31d1382abc69521f4]
 

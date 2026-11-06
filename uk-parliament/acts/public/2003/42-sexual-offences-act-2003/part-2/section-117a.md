@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (154).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 117A (Extent: E+W) (affected by repeal, see note). Surrender of passports: Northern Ireland (Extent: E+W) (affected by repeal, see note)[^c20931541][^c-8216d299001d1851e1b7db26cb0e3690][^c-4ede35ee0d2d8d4933ccc905cee46162][^c-8216d299001d1851e1b7db26cb0e3690]
 

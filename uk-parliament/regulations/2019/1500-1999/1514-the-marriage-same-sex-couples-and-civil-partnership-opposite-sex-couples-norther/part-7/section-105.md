@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 105. Naval, Military and Air Forces etc (Disablement and Death) Service Pensions Order 2006[^c-1f83cc8900acb06fd362b9e3e9eee89f]
 

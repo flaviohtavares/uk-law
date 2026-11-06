@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 71. State Pension Credit Act (Northern Ireland) 2002[^c-15d78798d5179cd1c98f4696340a3e32]
 

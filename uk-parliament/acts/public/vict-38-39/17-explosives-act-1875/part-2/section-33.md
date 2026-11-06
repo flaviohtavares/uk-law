@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2015-08-17. See https://www.legislation.gov.uk/changes/affected/ukpga/Vict/38-39/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 33. General rules as to packing of gunpowder for conveyance.[^c-a70fd9b9b197075b08f8acfcbfb2393f][^c5687201]
 

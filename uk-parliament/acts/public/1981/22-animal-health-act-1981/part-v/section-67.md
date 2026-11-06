@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 67. Issue of false licences etc.[^c-afafb4584964308ed6a5c29c7486e1a0][^c-9c940c5a6c8b5aec7102d4482135e1eb][^c-3470fa9875b21a943461b089af4a5b12][^c-ddd3331ef83cebef872f3bc597169c46][^c-e746f52a793d6f3427be97d91f628dc7][^c-9443e298cdb7a4dbb0b90db1d3365a3a][^c-36afb2473798a47db3b301d3c76b4c8b][^c-f99a6f95d2657314b9f9efac233982f7][^c-10c43b2d0ce392e5570ab4b0347f95df][^c-abd987bba1c38e9035259fabf8ea75b9][^c-b67a222b921b6513f77412beae3062cc][^c-b17c2f642d45d36ac4bb3b511683d027][^c-5af402f93d99fffb582e0a002842c2c6][^c-444a016e1f4d46791261c83c391def97][^c-126345b092dad0f4aabec88d60715d11][^c-3f4ce7f07da214d6677c40f89c2d00ed][^c-daba67e6e74428c641f941bc6bf07e27][^c-38fa7cda19a5e820065678703f314d3d][^c-025eaa026fd9873b7b2266cb90385e07]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 251. ... Procedure etc[^c-347aaabf96d8ca6d09b53e5f63e51810][^c-97d5d07d3fcc4f54ccf4f0f4438dd254]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 9 (Extent: S) (affected by repeal, see note). Functions of the relevant board.[^c-7d93d7d502aa9a02b20a8ce255f66816]
 

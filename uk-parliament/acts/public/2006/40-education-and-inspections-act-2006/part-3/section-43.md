@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 43. Duty of governing body to implement decisions relating to admissions[^c-1e0fac8cfcc00bea3ae585e903634859][^c-269acc83a843786d2ad33ed65602c8d2]
 

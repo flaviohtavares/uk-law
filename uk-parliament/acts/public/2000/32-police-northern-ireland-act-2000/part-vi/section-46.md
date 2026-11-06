@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2016-05-13. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 46. Discrimination in appointments.[^c1055559][^c-343f747f97b659322943aad4159a84bb][^c-cf403e8a89788dbb1b62271d23f50614][^c-f3c71216c16b4030e7b7f01b40f844d4]
 

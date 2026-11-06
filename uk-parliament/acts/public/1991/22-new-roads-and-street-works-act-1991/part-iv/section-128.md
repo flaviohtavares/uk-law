@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (403).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 128. Works likely to affect other apparatus in the road.[^c14150491][^c14150501][^c-c3a0fef48da75af41a9c8b3509b590c2][^c-52e8a04a39026674c405b79511505744]
 

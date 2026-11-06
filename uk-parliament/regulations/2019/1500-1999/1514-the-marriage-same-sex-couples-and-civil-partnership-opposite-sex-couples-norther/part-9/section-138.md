@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 138. Domestic Proceedings (Northern Ireland) Order 1980[^c-f6f914341ba46484143ee502ad4c0a6f]
 

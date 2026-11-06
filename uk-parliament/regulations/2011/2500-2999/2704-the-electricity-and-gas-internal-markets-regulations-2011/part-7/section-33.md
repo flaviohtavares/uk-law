@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 33. Binding decisions of the Agency for the Cooperation of Energy Regulators and of the European Commission in relation to electricity
 

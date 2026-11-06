@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 350. Sexual harm prevention orders: variations, renewals and discharges[^c-a487cc37e419f81c65ea6c9f28d9239a][^M_C_0ae79bda-f46b-4a35-ebe2-70f0ba658fee]
 

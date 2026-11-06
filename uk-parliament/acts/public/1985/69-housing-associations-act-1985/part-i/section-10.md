@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-12-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 10. Dispositions excepted from s. 9.[^c-a9e45c88ae1e432247706ee4b9ccbeb5][^c11833541]
 

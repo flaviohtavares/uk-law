@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 81. Removal of powers to enforce requirements relating to annual returns[^c-997375594ae8993c28cba247474dced3][^c-aab8368ee7420a6af26c4053d68e91f5]
 

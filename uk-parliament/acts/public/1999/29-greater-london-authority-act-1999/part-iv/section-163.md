@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-08-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 163. Restrictions on disposal of land.[^c12802711][^c12802721][^c-6a1a83208544d221fc1572681e568e9a][^c-3acc07b1f88bb81966d25de10cbb4250][^c-c8c62468719a4b6a16602af788542dc3][^c-00bc48e9267bcf1f50f5ca2ae9a4a89b]
 

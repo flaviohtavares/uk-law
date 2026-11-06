@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 288BZA. UNCRC compatibility issue in relation to decision to prosecute child: restriction on judicial remedies[^c-ea311851c59a2f8f219fff4be4d33fc4]
 

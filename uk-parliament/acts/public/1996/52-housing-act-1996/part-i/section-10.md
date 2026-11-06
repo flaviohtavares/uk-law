@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Lettings and other disposals not requiring consent of Relevant Authority.[^c-3882e8895e5c4ceb6a1a705c28690b60][^M_C_f9f7041a-760b-4dfb-b746-e04ccf09abe8][^c13147421][^c13147411]
 

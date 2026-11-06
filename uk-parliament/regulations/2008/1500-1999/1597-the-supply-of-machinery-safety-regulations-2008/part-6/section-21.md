@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2008/1597
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 21. Non-compliance with UK marking requirements[^M_E_b1653197-206b-4c7f-c0bc-84ac60852f3e][^c-f967714cad79793279c32207464b848c]
 

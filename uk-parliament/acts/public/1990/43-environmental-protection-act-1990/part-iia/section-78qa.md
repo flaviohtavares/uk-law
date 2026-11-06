@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (25).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 78QA. Land no longer considered to be contaminated[^c-3024f08207abbea3fc32cd79fa5596ee][^c13739731][^M_C_e5489ce7-2691-447f-8a6d-51b64e1e8eb6]
 

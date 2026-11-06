@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 102. Duties to have regard to sustainable development and climate change[^c-830b2cc75b8bd6b1c8be1b06bd38e0d1][^c-9e1b4cb261c8d62233a6c6b424f6456c]
 

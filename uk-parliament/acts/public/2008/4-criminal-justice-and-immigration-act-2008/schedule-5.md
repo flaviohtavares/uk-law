@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 5 — Offences specified for the purposes of sections 225(3A) and 227(2A) of Criminal Justice Act 2003[^c-3fc4232b251bea50c6d6ab500df74ad1]
 

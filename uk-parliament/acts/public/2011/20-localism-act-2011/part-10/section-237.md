@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 237. Repeals and revocations[^c2116527][^c-8bad9d9927c0611ebd899a59bf4657da][^c-5a26dba54f3b2fbb551e6cc268b25ebd][^c-324c035009eeb5168fe370aacdd955ec][^c-63d188ea971a0d4dbf521fc1d9e4b465][^c-56e643f716b76976a9e63883d281df55][^c-684c4adfd0c53cfea557842ebea8a1d1][^c-b597f4793e63713dd29092266007fb2b][^c-25e6a3bb9c85f08e131de232ff4f5540][^c-c78088f339efc72f04e5b41632680e4b][^c-166f30cdb5a874f25fd3363b27d5f08f][^c-da77d1c17ecd0371d40336849f65e49a][^c-dafd06e68fceee7bc023166cb534be0f][^c-406503e50775e95fc82f463c3ede2061][^c-260f1d56c9fc881ba1ecdbdbf0dc68d6][^c-4dcd578c3088e1b77f2397dabaa1a202][^c-56244bd1736a0455827e52957875da6c][^c-6b9bae46b0aa0459192187e5751f9eda][^c-f1743f237ba066527dae599fee97d1fa][^c-e854c8208c43a5d1971a0fdd3f755a4a]
 

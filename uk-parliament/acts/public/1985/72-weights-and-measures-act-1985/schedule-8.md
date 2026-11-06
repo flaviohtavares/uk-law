@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 8 — Powers of Inspectors and Local Weights and MeasuresAuthority Under Part V[^c-6a4246a799bb65dad1b3c832b88a32f9]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 31. Loss of housing benefit following eviction for anti-social behaviour, etc.[^c-df1e06c1448fde2dd04d53a7498c0a8a][^c-ff608f6678794d7aab7613b964244159][^c-f3bea21ff05489d31fd0ba93fb0bee97]
 

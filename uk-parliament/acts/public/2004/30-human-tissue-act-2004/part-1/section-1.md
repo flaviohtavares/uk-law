@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 1. Authorisation of activities for scheduled purposes[^c-c1b85494d969858cd18be451539f65e2][^c-cba955e9f41a6668ddbc459db3ef627c]
 

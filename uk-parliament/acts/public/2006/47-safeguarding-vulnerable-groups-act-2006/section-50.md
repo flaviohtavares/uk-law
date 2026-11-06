@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (46).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 50. Provision of information to supervisory authorities[^c-4078ca49b3726fcadd973bdb50962752][^c-45f1a7d4682d005e36a9bd76f8c17aa0][^c-663d66074f3f725abd7dd79bc3f25f84][^c-73b260366eb85438587c071dfc8c6756]
 

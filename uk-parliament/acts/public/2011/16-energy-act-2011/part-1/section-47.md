@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 47. Further provision about tenants' energy efficiency improvements regulations[^c-2032cddd7eb4f56024eb744594149bee]
 

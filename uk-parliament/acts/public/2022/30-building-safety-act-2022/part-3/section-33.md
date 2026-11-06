@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Building regulations[^c-e803085be88ce9c1f6f2331881342e82][^c-6372e1f767e518f960dd6b3f067181f7][^c-4cde8b5ca937b7be9727505b64c5223b]
 

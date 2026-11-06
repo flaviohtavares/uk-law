@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 35. Collation of information by relevant registration officer or returning officer[^c-9eb4ff7962279c54da0f43a0213597fa]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-01-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2001/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 34. Taking of fingerprints or non-intimate sample
 

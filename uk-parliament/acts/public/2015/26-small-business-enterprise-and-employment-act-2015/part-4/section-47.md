@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-05-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 47. Inconsistency with Pubs Code etc[^c-5fbec14d61130227bea04a885cdb1364][^c-d0ccf1c01e006c3ea1bcb8d6a2d5a812]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 36. Notices requiring information about air pollution.[^c-51f20803ac5edf5e042cde5d3ba3f2ef]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (93).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/41
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 48A. Discretionary relief: functions of Mayoral development corporations[^c-7c4f349ca3dbb7eece8fa8ba71e1e468]
 

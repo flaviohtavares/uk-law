@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (28).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 55. Inspection etc. of local authority institutions, other than schools, and advice to Secretary of State.[^c11065241][^c17237071][^c-5ca14e1c5c9fb4ff32ae914fdd63af76]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 6 — CONTENT OF ARTICLES OF GOVERNMENT FOR GRANT-MAINTAINED SCHOOLS[^c1400674]
 

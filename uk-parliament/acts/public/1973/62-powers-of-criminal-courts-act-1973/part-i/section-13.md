@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; England, Wales (the versions of this text differ in extent).
 
 ## 13. Effects of probation and discharge.[^c11215341][^c11215351][^c11215361][^c11215371][^c11215331]
 

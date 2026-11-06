@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 133. Sex Discrimination (Northern Ireland) Order 1976[^c-14791fa3e8239b5d7615a698ca612f72]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Restrictions on disposal of land[^c-5b8c0c00b22419803afefca53b984450][^c-71c16f18c7e81e12bf6d8bc00650e22f][^c-b21c6880e231e0a3c7cd4eedf3a11228][^c-feca970067481e4c8fd92124372e40c7][^c-d386ba532a14febec179cfc2ee2f8f41][^c-493260290c86dafd32f2e9cfec97c12f][^c-f05b4326ea3e0e4ec92d0ddeb6161ea8][^c-56f30b92434ddf6d820ab31baf1969fb][^c-361a89d9a9ffc202affaf2d9e6b26785][^c-76efe8f5c107bf74c360cc7c9e7073c2][^c-6a8339de29a5dac5657b7afb030213cf][^c-9f514118b8da7e97b2d5cfc82f781697][^c-cb9161416000981239a68ee9659fcf90][^c-d56530c0a825ab0d87d671730f82cdfb][^c-282d958c822bac57d9cca704a931e407][^c-b473cad868dfc5e1b004231e22893571][^c-23608f0f35589d08a3427dab1ff72f1a][^c-74680a5555e52f07dafc5da844e75ead][^c-96396265e555cef2018631befff89943][^c-e23afd15e131bc8e6f416c792668792c][^c-38b3f75b233ff1d410118c812de29ef6][^c-c4e8158af0841c8a243df83312f08196][^c-4b7e64ac437c7d6ba3ab98113c4de111][^c-2a91ca5c7b3af245caf592d9d7b10948][^c-45f766c092700e43f5f450435599bedf][^c-56f30b92434ddf6d820ab31baf1969fb][^c-361a89d9a9ffc202affaf2d9e6b26785][^c-6a8339de29a5dac5657b7afb030213cf][^c-cb9161416000981239a68ee9659fcf90]
 

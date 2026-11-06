@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 56. Accounts and audit[^c-bfa4e617dfe84876c0c4355808a16e33][^c-72b7d9984175073e7b46d892fe1fb3e6][^c-b48057f00f76e329efc7f27b8805d18c]
 

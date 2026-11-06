@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-05-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/10
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 85. Consent requirement for services resembling taxis or private hire vehicles[^c-569245b7cf378be157644a4f0a2f8657][^c-da7430753a37c772f09bb37372ae24e6]
 

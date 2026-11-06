@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 114. Provision of false or misleading information to trustees or managers[^c-895e9af2eccad6f67dcd3d4437f48776]
 

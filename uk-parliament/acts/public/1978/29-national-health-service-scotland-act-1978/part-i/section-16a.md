@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2026-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 16A. Power to make payments towards expenditure on community services.[^c14160151][^c-046ff196cf20fcbfdda9dbc11f657411][^c-9ed2e72ff684583b4c081b8b16904f3b][^c14160141][^c-046ff196cf20fcbfdda9dbc11f657411]
 

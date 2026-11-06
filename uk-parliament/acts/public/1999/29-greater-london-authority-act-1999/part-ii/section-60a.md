@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-08-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 60A. Confirmation hearings etc for certain appointments by the Mayor or Mayor's Office for Policing and Crime[^c-03adc4fb74827b1799eee337928d494c][^c-bd87281b2547eb5dfbef70bd6124d5db]
 

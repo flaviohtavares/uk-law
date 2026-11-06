@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 220. When a community order ceases to be in force[^c-e7017dbe58b6016c3398a69bbdb35423][^c-b5fd14211f53f6ff85b5a03f0d25671e][^c-84147857016f3dce1aaae1624a210e02][^c-b18bb4723188d4d5dd0ccc7d06ebbc4e]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2026-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 85AA. Means of meeting expenditure of Health Boards out of public funds.[^c14169971][^c20962081][^c-f5c359226d584a373bc88e6070481d5c][^c14169961]
 

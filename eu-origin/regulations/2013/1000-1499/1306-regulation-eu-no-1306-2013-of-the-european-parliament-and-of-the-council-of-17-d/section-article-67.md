@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (32).** Text as at 2025-06-19. See https://www.legislation.gov.uk/changes/affected/eur/2013/1306
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland; Wales; England; Northern Ireland (the versions of this text differ in extent).
 
 ## Article 67. Scope and terms used[^M_E_034cf595-c7e1-4fb9-c6d0-e9a7c6db2e79]
 

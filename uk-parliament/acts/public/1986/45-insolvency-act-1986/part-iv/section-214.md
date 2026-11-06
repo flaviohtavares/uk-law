@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 214. Wrongful trading.[^c19937211][^c19937191][^c19937111][^c15574071][^c20458901][^c-04594f5e132aee038e62829996e81956][^c-cd7dd533bf719c35a1eba4f256fe1816][^M_C_f227acbf-e04a-4ee9-965b-9584151dfe2d][^M_C_8ae48af2-0ddf-44c4-bc2a-7d3127353c9a][^c-c5db023e892d96a68bc991b8175db80c][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-dd297a28a7c67ceaf3c712c1db4a25dc][^c-27c740bc34b14db40a2e339d730c551d][^c-28eac30432e007743449907f76869cb2][^c-6fe9109ab994bc8c8bc4303bb8aa5f4c][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

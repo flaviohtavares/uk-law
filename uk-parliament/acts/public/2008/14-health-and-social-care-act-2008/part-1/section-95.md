@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 95. Further amendments relating to Part 1[^c-42b8d03205bfff56cc2d3d881d5cc3dc][^c-71526dc278544ac6ed16bc757d1c7cdc][^c-1da139fae4de3f4d1726a0e811b0f777][^c-2f91114fade26f077e34eb461a8737fb][^c-16b94c6e2da63aef5bea0bd0d798efea][^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81][^c-eda34a7cab7a0c8024f38a46c8c5eb99][^c-9871cd13b97b961bee5ae76d2c9c810e][^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81][^c-9871cd13b97b961bee5ae76d2c9c810e]
 

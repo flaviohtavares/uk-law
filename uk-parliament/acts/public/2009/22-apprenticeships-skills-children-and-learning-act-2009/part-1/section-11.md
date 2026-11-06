@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 11. Contents of apprenticeship certificate[^c-fb5bf8aa641fce8360649acbb531e763][^c-f11aa677c1e4eb0b851934cec0799ae1][^c-86e3546cc5697f54eb7036d249310bac]
 

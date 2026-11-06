@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8. Nature of duty to develop transport policies[^c-c64aa560567b97c452c005565a505ace][^c-72c716cb56de1e237d95c072ce89f6fb]
 

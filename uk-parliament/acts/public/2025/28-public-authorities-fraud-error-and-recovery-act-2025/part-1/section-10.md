@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 10. Acting for another public authority[^c-2ddfd4c81f246b0b8bda27865bf5edc8][^c-c5f359d3a46b3b30af8b583f76b9a4c1]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2023-08-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 78. Year of account: societies registered on or before 7 January 2012[^c-052ba79a539390fc22757e3d15738582][^c-ad83ceed26dc6fd4b561e0bb2babb004]
 

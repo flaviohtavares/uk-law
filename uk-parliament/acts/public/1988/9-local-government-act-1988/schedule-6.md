@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## SCHEDULE 6 — Direct Labour Organisations[^c-04fc108d9c5c9c2c9db4bbcf87bf2fff]
 

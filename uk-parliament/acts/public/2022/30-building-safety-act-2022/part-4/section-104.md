@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 104. Appeals against decisions of the regulator made under this Part[^c-d087b25504078c4dd788ac0dcb5c2c51][^c-8e5ffbccd38bbf1b897d35fd34740f5f]
 

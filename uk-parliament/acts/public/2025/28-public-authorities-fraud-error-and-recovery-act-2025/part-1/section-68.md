@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 68. Guidance on exercise of investigatory functions[^c-e00aeb5dc49a07056965a2dd157e7c5e][^c-c3c4c96d03b033929ad6792d3c3ed53a]
 

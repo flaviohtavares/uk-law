@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 236. Gaming machines: Categories A to D[^c-d5c574a4ca0c4976bc6c5bfe0daf8032][^c-baf371b5b2aa8118fd647077673fdea3]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19. Financial penalties: cross-border enforcement[^c-e25dbbe7348c5fed5e2ac059371402a6]
 

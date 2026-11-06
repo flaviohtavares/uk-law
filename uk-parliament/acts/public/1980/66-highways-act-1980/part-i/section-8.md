@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8. Agreements between local highway authorities and strategic highways companies for doing of certain works.[^c-20fbce320a540559f083b8d70ef108b0][^c-f53afafea6ed978d9730c6176c0045d4][^c-05d6995e49f80aaa999a217f70d77dee][^c-1fc58000be46d3b7d5309e3f08898853][^c-82ac124941bf15dfbe8e3db2b904bb61][^M_C_340d74a3-f5c1-4ce9-c0af-e6325a47b910][^c-667db29a8c303902e54c5da77000df50][^c-86457b2e3033e3b762f678d9492244ac][^c-9e3812ba83f682a3dbc5625ad0b8917e][^c-8c30294a3f801b6f9fda297a2e146a71][^c-734aacad2a402320dd453e72752cb104][^c-0bb0728137905cd3c130353c75522c87][^c-8c74cbd2abf8b3a15d87972eab422786][^c-9fbb72b83f1a1b3fbb068fd2ab8e37cf][^c13418501][^c-f03259a57fdad974450cfa4fc4d3caad]
 

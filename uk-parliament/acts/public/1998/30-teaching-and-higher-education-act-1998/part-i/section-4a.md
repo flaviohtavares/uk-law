@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4A. Appeals against refusal of registration[^c-3006d573236b28f3024c127eaf6cf603]
 

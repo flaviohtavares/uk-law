@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 224. Relief of statutory undertakers from obligations rendered impracticable.[^c14934851][^c14934861][^c14934871][^c14934881][^c14934891][^c14934901][^c14934841]
 

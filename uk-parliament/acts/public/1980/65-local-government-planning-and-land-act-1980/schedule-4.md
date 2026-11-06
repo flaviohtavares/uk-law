@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 4 — Relaxation of Controls Over Functions Relating to Weights and Measures and Trade[^c-aa1a76833768ca6c6a69c2524c8566c7]
 

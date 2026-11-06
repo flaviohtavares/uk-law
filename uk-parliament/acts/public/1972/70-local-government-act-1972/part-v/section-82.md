@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 82. Validity of acts done by unqualified persons.[^c15094991][^c15095001][^c15095011][^c15095021][^c-53e5125c94b9d2412d91de7a320d2534][^c-f2cb67322f07530203e2c6eb92d823bc]
 

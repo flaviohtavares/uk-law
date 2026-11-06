@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Transitory provisions relating to the Health Protection Agency[^c-513ee4a9e85279c64d39c2d7a7301a8d]
 

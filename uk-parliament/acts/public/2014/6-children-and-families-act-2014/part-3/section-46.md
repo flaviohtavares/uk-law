@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 46. Maintaining an EHC plan after young person's 25th birthday[^c-42d828c458e4583fe9c952836769bac4][^c-dac84ada92b8289d8ec9d8a489a9a05e]
 

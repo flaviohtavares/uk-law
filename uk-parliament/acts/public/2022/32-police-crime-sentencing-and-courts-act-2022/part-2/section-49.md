@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 49. Time limit for prosecution of common assault or battery in domestic abuse cases[^c-5e17d2d00af9db7a73c57759334c40fc][^c-5b7a534f7fd2584b34c5f9f520f86e77]
 

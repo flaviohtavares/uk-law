@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 259. Consultation by employers: occupational pension schemes[^c-9a0f1a3c3d991b58a32b182a0be4f7a6][^c-eeae0d5b3df64514b3432151671a2868]
 

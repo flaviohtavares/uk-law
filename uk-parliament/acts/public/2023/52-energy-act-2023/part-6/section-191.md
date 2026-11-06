@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 191. Transfer of functions under section 190 to Independent System Operator and Planner[^c-bb45fcfa3cf287a36cec736025b6f4a3][^c-7ed159ab57020654ded87b196f630d03]
 

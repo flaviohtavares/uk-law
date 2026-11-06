@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 42. UK marking[^M_E_0bf87d7d-75bc-44e1-cb65-7f819dbfb72d][^c-6f1edaad98c23a3f057b24b572edf309]
 

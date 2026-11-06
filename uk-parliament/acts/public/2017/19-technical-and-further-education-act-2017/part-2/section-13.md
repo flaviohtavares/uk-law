@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-06-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Enforcement of security[^c-720e613bd8f9fdd8ad4af2b0d1b36fce]
 

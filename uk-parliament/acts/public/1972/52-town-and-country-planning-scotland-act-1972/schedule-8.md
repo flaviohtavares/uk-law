@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 8 — Construction of References in Sections 45 and 46 to “The Responsible Minister or Ministers”[^c14948001][^c14948011][^c14948021][^c14948031][^c14948041]
 

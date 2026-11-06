@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 288ZA. Right of Advocate General to take part in proceedings[^M_C_d4796c7b-7e29-498e-9f80-7f0e1139ea83][^c-74cbcb99f1f4b1e675a3e1dd69753987]
 

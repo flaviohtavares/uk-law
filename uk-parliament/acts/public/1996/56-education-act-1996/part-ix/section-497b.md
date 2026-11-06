@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 497B. Power to secure proper performance: further provisions.[^c-56f00ec6623f3f267774f7282c90b477][^c-d689770adc172ea1a1ab5a0f8044eed6][^c15251842][^c-850135730c21dc9b6328935364df0c5e][^c-c26ac066252f3268a4a0330f7f39da19][^c15251831]
 

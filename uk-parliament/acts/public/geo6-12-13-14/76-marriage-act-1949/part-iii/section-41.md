@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 41. Registration of buildings : marriage of a man and a woman.[^c-bc9414cbfe89f94675d79352730c62b2][^c-c898f7a5800b3f42e0c6454cec446a45][^c-c898f7a5800b3f42e0c6454cec446a45][^c-8a6650f89f5d64ca4219eea79469c8a4]
 

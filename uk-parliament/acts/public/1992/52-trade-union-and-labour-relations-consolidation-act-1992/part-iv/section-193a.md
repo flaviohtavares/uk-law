@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (156).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 193A. Application of section 193 in certain cases involving redundancies of ships’ crew[^c-4e86d3d393a3cf4078a0e1953d9d076a][^c-e1da9903495758e1efdeb6579b1887d5]
 

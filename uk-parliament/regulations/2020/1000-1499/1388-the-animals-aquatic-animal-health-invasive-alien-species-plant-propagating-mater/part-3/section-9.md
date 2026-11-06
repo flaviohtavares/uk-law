@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 9. Commission [Decision 2009/177/EC](https://www.legislation.gov.uk/european/decision/2009/0177)[^c-7d814fe2fdc79117b8d22cdf8b982032]
 

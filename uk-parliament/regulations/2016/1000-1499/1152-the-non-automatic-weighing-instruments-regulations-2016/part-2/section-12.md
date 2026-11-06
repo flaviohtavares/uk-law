@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1152
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 12. Action to be taken where regulated non-automatic weighing instruments placed on the market are not in conformity with the essential requirements[^M_E_14ff5958-39a3-444d-cc69-b51e496f7241]
 

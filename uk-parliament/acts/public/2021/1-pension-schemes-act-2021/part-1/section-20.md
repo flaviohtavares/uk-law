@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 20. Actuarial valuations[^c24458771][^c-ea1a6928d78ec9adc3ea7ce41c473568]
 

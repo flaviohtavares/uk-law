@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/43
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 68. Abolition of local authority’s power to refer Part VII contracts to the First-tier Tribunal[^c-c85035cf0ea6b6765ec1992c22bc7aa3]
 

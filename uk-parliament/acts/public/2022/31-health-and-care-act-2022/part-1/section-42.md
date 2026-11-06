@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 42. Arrangements for exercise of public health functions[^c-df12d2925ad5071419444baea42c5230][^c-7285c3ff41d4f70d9bab2205af601140]
 

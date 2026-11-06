@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 107. Copy of licence[^c-e0d2d3045e4b80e2f491180c40f457ae][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-42df0dd3010cc74a2ea5c25676d73b99][^c-db1352f98d39cbc82d21141f7d52ee21][^c-e1f6e585bac667309e250f830e864ec8][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-e1f6e585bac667309e250f830e864ec8]
 

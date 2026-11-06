@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 44. Functions exercisable only through, or with advice of, registered building inspectors[^c-4188f308a79c8bbd067e5965a4330ea0][^c-e73692c3b1ce2de4ffa07b1a7c0ddac5][^c-12d55c16d5deb8c96d9faa31a772ae46][^c-7c29a7d6aba5ec5561fdf6f54f324eb0]
 

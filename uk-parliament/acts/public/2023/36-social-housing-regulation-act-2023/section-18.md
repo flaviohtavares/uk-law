@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 18. Receipt of transfers of engagements from a registered society[^c-4a066cd6d5426f49250c65cdaa126c50][^c-8114b7f2c72b0113dbb649b05f46f50c]
 

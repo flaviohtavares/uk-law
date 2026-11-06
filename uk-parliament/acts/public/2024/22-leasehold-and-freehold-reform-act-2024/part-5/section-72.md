@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 72. Meaning of “estate management” etc[^c-ecfdc7ab5997b25ea12d84cd050fd11f]
 

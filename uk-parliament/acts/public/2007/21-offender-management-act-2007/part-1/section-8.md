@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8. Annual plans[^c-7fdda2b170d6a682551aff9244c0c410][^c-98e53ce873570d826541ed7f7f9850e1][^c-5a1f306d3b2f24e525a39afb65a1dff0]
 

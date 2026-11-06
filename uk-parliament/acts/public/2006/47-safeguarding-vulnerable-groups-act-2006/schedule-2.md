@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (46).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 2 (affected by repeal, see note) — Transfers to (affected by repeal, see note) ISA (affected by repeal, see note)[^c-be55ff9ad974a673a4a73128cdd8bd6a][^c-be55ff9ad974a673a4a73128cdd8bd6a][^c-6e55b06f1368c886e5078ca3f7c24b8c][^c-be55ff9ad974a673a4a73128cdd8bd6a]
 

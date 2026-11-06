@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 164. Information about children receiving funded education outside school[^c-4b9705fdcf5cdfa1aeb2e84fdb3646c1][^c-9d0dd91a7ee544d67f2907592b9a89a7]
 

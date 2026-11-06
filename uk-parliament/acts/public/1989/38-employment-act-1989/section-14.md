@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2018-01-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 14. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c1205518]
 

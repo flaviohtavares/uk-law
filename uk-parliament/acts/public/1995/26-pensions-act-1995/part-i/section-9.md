@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 9. Removal and appointment of trustees: property.[^M_C_108cdf78-1cba-42cf-fb8f-6f1b8a4f3942][^c-165cb123ee03a7669bfc81595e1811c6]
 

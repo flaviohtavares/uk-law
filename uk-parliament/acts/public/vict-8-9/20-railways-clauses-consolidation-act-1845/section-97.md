@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-12-18.
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 97. In default of payment of tolls, goods, &c. may be detained and sold.[^c-88bc0514d81dd4d5ae789e7b3069a40f][^c-66d9bf1f140b667bfb63cac154868646][^c-e41eeb560ef26d382ae339d162a4374d][^c6405381][^c-c62637f0def9e4237a560cea2e7c9a55][^c-a2d1b46b07661c9dd33cea5f50c27636][^c-f88d69e0d0c87539c42e07e1ac012e29][^c-cd8178242989cd9cf0aa4244422e8c40][^c-d0467cb0411012f4efa41c0a304063c5][^c6405371][^c6405361]
 

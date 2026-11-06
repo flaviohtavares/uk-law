@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 114. Examinations[^c-a4b6d9ba45f208c9fc055923559d9ce6][^c-2c6e9c20a42aa3da063ea4f7378772c9]
 

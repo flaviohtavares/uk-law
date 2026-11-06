@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 105C. ... EEA States.[^c-d1271d722e7de06e530c94cd095d1392][^c13422031][^c-36dae57b918e43729dc5a878f2423225][^c19485981]
 

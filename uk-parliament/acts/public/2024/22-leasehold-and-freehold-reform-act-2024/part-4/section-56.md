@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 56. Accounts and annual reports[^c-d91bdefd3cd9d83dbd322535c505d5fe]
 

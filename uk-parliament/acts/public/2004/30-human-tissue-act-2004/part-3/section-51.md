@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 51. Offences: Northern Ireland[^c-80203394004bfc9c1804eb59bbbaa04b][^c-2b8597af034fd6e7414d39f02e204438][^c-44475ca3f2fa6e4cd4c0e3af86f5c305][^c-80934c129b04dcab2f26af558fe95ef1]
 

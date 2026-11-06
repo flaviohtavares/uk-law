@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-09-17. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Local authority care and support[^M_I_48e36386-9e8f-476a-ea4c-ac783b8f9d9b][^c-71614d4b28560d7bcb69fd496e184218]
 

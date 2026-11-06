@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 48. Improving the natural environment: Northern Ireland[^c-62347d4741a78e38e8a93d667d5c6573][^c-9f097335ffd7c2074a81bad4ed5cf122]
 

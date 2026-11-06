@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63K. Retention of section 63D material: exception for persons under 18 convicted of first minor offence[^c-4210f86092b39c7f7008c9a2c08cb241][^c-ecd32f075a8e17a90123d7a8a9d89bac]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 87. Learning aims for persons aged 19 or over: provision of facilities[^c-a6d1c827bb59fb5dee3a1b9da20ac6ef][^c-bfecff150642a6e25f7db0a940a54df1][^c-8d75de6ce615bbb7396ec5165e81e6de][^c-240021fffb10cbd0e53b03a4e5aaafdc][^c-69e0c5ebb955783458b9665a3c832361][^c-ce36901134593db2a8c1588c364a11f1][^c-0768f8d6cf47ae5241f2cbf43108d865][^c-2b869a91d6ddf91889952804559ecdec][^c-d2487d82591812c48ed1e74dc1a99a6b][^c-e38cc740de01d07746ab9aa7afd9ef27][^c-6289539b9c8011045fea975ad4d4dda2][^c-89a9ce21ea2070b1007d4a7f91657f9c][^c-b3e5fe8cd5525a4417df9c4a2c0b8636][^c-713beb8a4fe8d2000fea6bf297f76383][^c-edafa3be9fcb4a0c4508550bb225ce49][^c-3c3afdd3db442b82fd9c891993f45d59][^c-caeba315edac65e2000955bc82b3e3d1][^c-48ce4bce9df50d927297faac8e432a70][^c-968bf63964a8c1363aee261d12ae5041][^c-8dbe541f62e2f10c155c74dc54201134][^c-84aac14910f0a73db7fd44df0b8db9ad][^c-0bb64c5ded552932ea241a3cbf6b49a6][^c-67fb6bcf2008efefaeadb230fc703e6c][^c-e1ed96b2b52337e58b2778d30fd02faf][^c-7c690fff78c4131a977349d72519e914][^c-49212c6448e663ef917251c3e36a4c19][^c-f6410afb6bcf50180046f90dbc449416][^M_C_71a18bb8-d155-4319-a144-7357733dde12][^M_C_f4f893ca-4ff8-4117-e9fd-3ecb2327db7c][^M_C_26277e1a-d18f-434e-d7a0-1a0766e081b5]
 

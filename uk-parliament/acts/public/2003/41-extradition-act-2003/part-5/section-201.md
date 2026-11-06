@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 201. Remand to local authority accommodation[^c-7b9c960f18d7423847252f4cc1fe80a2][^c2087286]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (110).** Text as at 2022-03-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 32L. Orders preventing avoidance[^M_C_ec9087e7-2482-40d6-cc80-d27d93702946][^c-1dca71864315ce3125a492e777770a3c]
 

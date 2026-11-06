@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 130. Exempt companies or limited liability partnerships: accountant's report[^c-dc0cd89cf41744f90bf081dd63220d37][^c-50125b45e3ef6cc59552dfaec892ec02]
 

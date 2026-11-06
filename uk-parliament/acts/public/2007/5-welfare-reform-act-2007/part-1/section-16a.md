@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (55).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 16A. Hardship payments[^c-9669e76881bb0c75f7f4fda192286fa0][^c-78b57750744e99e87ce105ee3b0a3fe2]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 121. Information standards for health and adult social care in England[^c-e550a48d4766a4cdba9afff5bb6f985e][^c-959d47d84cf49061789f12991cf0db15]
 

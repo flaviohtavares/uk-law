@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 59. Limitation on ability of landlord to charge insurance costs[^c-4d7e6720a184e8586d7b451e20fa20c2]
 

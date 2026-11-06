@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 165. Disabled passengers in wheelchairs: duties of drivers of designated vehicles[^c21162611][^c-e7ee3db51369a9213e26716ad89b3844][^c-e9ebd7c2ff0903975dfcde2ed95f4b9d]
 

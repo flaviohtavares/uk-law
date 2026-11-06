@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 45. Regulations as to charges.[^c-210e5554bf3cfef4d382bcb8e19b0e75][^c-9d78c64d4e95edaa6362ffd686cc9340]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 299. Possession orders relating to certain tenancies[^c-52920b44acbc0baadae7f0a985221e7e][^c-d396be97be915793c8a69085bdfff96d]
 

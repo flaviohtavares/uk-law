@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 143. Notices relating to payment[^c-cccdcd3050189a7047e5734abb64d5c3][^c-ac38a53c700a4d6b1c481ed98f84fd20][^c-d988164dc6ba623faf928c2779a35ad1]
 

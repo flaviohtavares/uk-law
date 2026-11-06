@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2020-12-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/23
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 27. Notice restricting accommodation at certain establishments[^c-b9050e51bd62dc92a3b94a8d3ad20f4f][^c-adcb4c2a5e6b49d1e77b3a2cb66fa0fb]
 

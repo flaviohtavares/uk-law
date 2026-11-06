@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 184. Right to acquire: supplemental[^c-f9abfc84e957fc78875bdd2bc61542a8][^c-1468216ddbb75a84d9f259e3f36fd170]
 

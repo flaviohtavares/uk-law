@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 47. Retention and disposal of documents: Scotland[^c-b6b682b4512163d49dcacd88f53c8a2b]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 7. Police and Criminal Evidence Act 1984 etc powers[^c-9d9c2174377ace8cab76839fd47fc07c][^c-ce92deae900a4046409575acd2059a8c]
 

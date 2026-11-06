@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-03-27.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 22. Further confirmations required for ROCs certifying matters within section 32B(3) to (6) of the Act
 

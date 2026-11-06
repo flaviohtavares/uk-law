@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 9. Emergencies[^c-e300ae91a8abe7c180ef4f37857386a3][^c-5953ba414d392a63c242198d51fb18f9]
 

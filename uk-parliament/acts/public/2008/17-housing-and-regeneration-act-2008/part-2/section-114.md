@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 114. Registration of local authorities[^c-9ce3f3334e7947e9f3f9c618e186c474][^c-4637b3ffac717f15da2c1eb39ca77e99]
 

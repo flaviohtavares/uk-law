@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37A. Redress for inadequate professional services.[^c-2b6470ffaafd2a5d6decbe816e6a25fa][^c-42eff8520c2b8cdeabdd827e8153d233][^c13348551][^c13348541]
 

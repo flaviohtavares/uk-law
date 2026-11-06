@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 7. Implementation of proposal.[^c15569301][^c-731abc69ea0e140fdefaf4057f5f13a6][^c-9700d312d985436a858eae9798d49154]
 

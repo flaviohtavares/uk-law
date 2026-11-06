@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-11-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 11. Disclosure of tax information by Inland Revenue to facilitate application for declaration that accounts are defective[^c-134bfa9b8f5be60a85c7de4bf55f2491]
 

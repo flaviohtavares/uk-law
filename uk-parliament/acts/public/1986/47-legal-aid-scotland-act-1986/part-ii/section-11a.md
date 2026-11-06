@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (32).** Text as at 2024-04-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 11A. Clients' contributions: specified criminal assistance by way of representation[^c-3d3c3c0c31773e407431000910813d28]
 

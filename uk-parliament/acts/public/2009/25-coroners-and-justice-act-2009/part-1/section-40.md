@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 40. Appeals to the Chief Coroner[^c-59f6c4b2e4b03c31ff4ff2841a2a1b5e]
 

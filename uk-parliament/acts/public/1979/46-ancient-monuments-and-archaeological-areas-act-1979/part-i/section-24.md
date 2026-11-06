@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2024-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1979/46
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 24. Expenditure by Secretary of State or local authority on acquisition and preservation of ancient monuments, etc.[^M_E_1a711157-9eb2-421b-9ba1-067e7b9fba30]
 

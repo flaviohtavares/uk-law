@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19. Notification of constitutional changes[^c-37a60507f7baeb331fb302203c606d04][^c-572d4e5c1672ab8f92d11598ebfdd43d]
 

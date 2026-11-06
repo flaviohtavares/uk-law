@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 126. Funding of the Board of the Pension Protection Fund[^c-6a50388db575050dac2529c5c938b5b7][^c-f1fd687625c8356fed00a8edeb4ac740]
 

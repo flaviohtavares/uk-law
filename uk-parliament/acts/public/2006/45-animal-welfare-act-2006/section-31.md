@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31. Time limits for prosecutions[^c-8994c1101cf9d0c9c2ecc3758c038651][^c-13483510af836edc7aa72b3090cf507f]
 

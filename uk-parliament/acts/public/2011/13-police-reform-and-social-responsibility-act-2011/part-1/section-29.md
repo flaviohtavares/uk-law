@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 29. Power to require attendance and information[^c-a68451e9f08f1ea96af9a5d12525aa88][^c-af73604b3eacc9e527bb3dac14590c3f][^c-e9bcf10605b237b920b2d025ac03e11e][^c-40f9a48dce2ac2614ddc77d6534fd332][^c-af23e461941d2360bd41849fdf490bd6][^c-7ce4a1b0c85cede7d36b74b1747e8086]
 

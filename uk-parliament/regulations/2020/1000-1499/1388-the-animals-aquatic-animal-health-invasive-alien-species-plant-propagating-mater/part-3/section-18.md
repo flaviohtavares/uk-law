@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 18. Commission Implementing Regulation (EU) 2018/878[^c-d241689769ac3e8e6c2c4c426374566b]
 

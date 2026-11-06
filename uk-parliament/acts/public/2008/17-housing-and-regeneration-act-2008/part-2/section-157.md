@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 157. Manager of registered society: extra powers[^c-8883308741e4b45194b0ba6d5ef57ed6][^c-0ab8a3190283f02ccb766b456929fa60]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2001/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2A. Educational course schemes[^c-ee7a5ee62ba823a76945a9f8a3cb8f06]
 

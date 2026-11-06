@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Section 32: interest and successors in title[^c-dcda7bb63987f4f0c29a234ccec69f68][^c-064a2747e424e7807a1baa4ea421d3b1][^c-60845003768571b8ffc0cb9032e88cce]
 

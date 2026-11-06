@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 84. Power to amend licence conditions etc: transmission systems[^c-d81ea2d30b0590f8ffe9f755512a981a]
 

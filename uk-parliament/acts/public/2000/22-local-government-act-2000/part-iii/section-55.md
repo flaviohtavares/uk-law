@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 55. Standards committees ... for parish councils.[^c-ce6e9f83b437121bccc65b1cd8d39a47][^c-89732f11501bd1efd0f222489d281031]
 

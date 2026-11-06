@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1967/10
 >
-> Extent: England, Wales, Scotland.
+> Extent: Wales.
 
 ## 27. Committees of reference for purposes of ss. 16, 20, 21 (affected by repeal, see note) , 25, 26A, 26B and 26C (affected by repeal, see note).[^M_F_19958652-57e8-4bc4-ed4b-225cd3e274e7][^c377359][^M_F_19958652-57e8-4bc4-ed4b-225cd3e274e7][^c-0825a6f91e972f23a900bf127e0d1283][^M_F_19958652-57e8-4bc4-ed4b-225cd3e274e7]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 509AE.  Complaints about transport arrangements etc for persons of sixth form age in England[^c-a2dfd255105af4fcb77dfe2f1a2a14b9]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 107. Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006[^c-94c0ed5ee4270571786605be3dfb2ac7]
 

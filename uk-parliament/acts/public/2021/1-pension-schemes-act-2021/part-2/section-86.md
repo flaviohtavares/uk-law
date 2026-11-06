@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 86. When a decision to withdraw authorisation becomes final[^c24481111][^c-4215e60a9bb20b55df6745f8d2abc9f3]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (34).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2016/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 43. Making of rent repayment order[^c-39ce5871dd2a385c74476d1c054c1c60][^c-1a010e3f3919680a1e5c4131e82cb194]
 

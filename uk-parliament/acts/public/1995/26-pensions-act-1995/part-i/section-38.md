@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 38. Power to defer winding up.[^c-ff9beaa521987729fdf270ac1a44523d][^c-4630aeca9b0a99b5a068213c963a12b1][^c-634515fd9ed5c7e99ddc7ed400488da9][^c-6daf232b16a844ee41edd243d7b1b435]
 

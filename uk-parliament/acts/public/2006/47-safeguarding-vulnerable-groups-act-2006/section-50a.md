@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (46).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 50A. Provision of information to the police etc.[^c-ef84f5bbbde53c45c667c60a0a1791a7][^c-41669064e4754a6bc19f11ef1f4b764d]
 

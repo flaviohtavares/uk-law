@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 93. Service of documents[^c-4d767ff9c733e33b149745442e314be4][^c-4bcd92e6953a9e76a14dc7d11253e732][^c-04a33f523f8ce4a520785b074ab3e54e][^c-367aec204566a6e9db4cda85800eb458][^c-ba09a9b1991df1047db0b06df0d7d8a2][^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81][^c-2e629ac37bfe3189a3bd12e5644dde85][^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81]
 

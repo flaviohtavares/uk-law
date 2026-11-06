@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (110).** Text as at 2025-03-03. See https://www.legislation.gov.uk/changes/affected/ukpga/2024/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 52. No first-instance applications to the High Court in tribunal matters[^c-840f571f596c2238092578e08352de87][^c-1d8ee41f9f642908230df326c6f0de28]
 

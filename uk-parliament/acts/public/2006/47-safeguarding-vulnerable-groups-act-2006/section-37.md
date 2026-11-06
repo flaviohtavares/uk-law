@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (46).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 37. Regulated activity providers: duty to provide information on request &c.[^c-9a081d0a125c6ba23faa8b3b12e063da][^c-8a4d9038beffaebaa5b069a05ba87dd7]
 

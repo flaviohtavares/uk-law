@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-10.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## SCHEDULE 3 (Extent: E+W) (affected by repeal, see note) — ANIMALS WHICH MAY NOT BE TAKEN OR KILLED IN CERTAIN WAYS (Extent: E+W) (affected by repeal, see note)[^c-f1fb34813a07d05887e3fbf45fc6f489][^c-4197ac64b9c09ea3869fdc46bbb85b15][^c-4197ac64b9c09ea3869fdc46bbb85b15]
 

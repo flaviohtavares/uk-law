@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. Credit for period of remand on bail: other cases[^c-045d62726e5150b0207d546ec1119b9d][^c-4539abe7faf6267f3e36c4c66e291c38]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 7. Installation of improvements[^c-c82a7a64ab4b11d07118f9ad5469a964][^c-54bcab88f69102ea5b9d23c07618cb9b]
 

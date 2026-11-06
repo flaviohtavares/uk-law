@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36. Guidance on use of mobile phones etc in schools in England[^c-61022e1be0f78ad361d28e9169e52fa8]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 24. Consultation on regulations[^c2342771][^c20012731][^c21090721][^c21093141][^c-41645fe2c3bc1d5ab7350400656325af][^c-245217763d6641ca39b6a5c3605aad2e][^c-dfc7b118994de4f4c98717f0f69aa528][^c-c06e700a1a4a158452d42df75404c859][^c-3f9f833322cb9779a260109b1f2b5180]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-12-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 74. The Welsh Ministers[^c-ac76136616e6a5cac69411528b1e668c][^c-9c3e2ce0904ba399def9e9241086da9c]
 

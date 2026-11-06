@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 2A — EXCEPTIONS TO PROHIBITION ON APPOINTMENT OF ADMINISTRATIVE RECEIVER: SUPPLEMENTARY PROVISIONS[^c18946451][^c-144744f6b3b378a26a690ceffa7cc177][^c15587681]
 

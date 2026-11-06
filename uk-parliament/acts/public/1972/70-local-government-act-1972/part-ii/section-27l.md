@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, W..
 
 ## 27L (Extent: W.). Orders separating a community from a group of communities (Extent: W.)[^c-dcf7f4348e9cad19f3df5e242b69f8b3]
 

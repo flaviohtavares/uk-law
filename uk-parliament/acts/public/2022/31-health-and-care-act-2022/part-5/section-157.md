@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 157. Offence of offering to carry out hymenoplasty: Northern Ireland[^c-d78aa809aadb7cd9a32f774c0d16eb55][^c-b458ea962e77359bcafbe32d343869f4]
 

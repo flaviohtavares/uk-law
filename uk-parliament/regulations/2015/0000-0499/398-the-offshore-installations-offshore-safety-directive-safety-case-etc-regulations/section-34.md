@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 34. Information on operations conducted outside of the European Union , Great Britain and external waters[^c-6ccecba843af4f301fb28dc8a2fca05e]
 

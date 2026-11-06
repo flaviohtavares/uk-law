@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 699A. Credit and financial institutions to which the Bank Branches Directive ([89/117/EEC](https://www.legislation.gov.uk/european/directive/1989/0117)) applies.[^c17419101]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-03-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 33. Complaints in relation to legal services.[^c-cdf4df5eab6ff0b7448c5219552ba230][^c-f6a7a6972576850f2c7e0f09964ac896][^c-ad70cf6bd303b7e9373d64dbe7ce7a56]
 

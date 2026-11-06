@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-05-17.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## SCHEDULE 1 — Marketing authorisations in Great Britain in Northern Ireland[^c-6c7e339c5ad8da492da3096e9173e504][^c-729d6bcf4bd9d8b27da3f15513f95114]
 

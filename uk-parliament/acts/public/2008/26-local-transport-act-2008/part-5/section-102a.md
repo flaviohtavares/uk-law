@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 102A. Application of Chapter to combined authorities and combined county authorities[^c-5ee2583d69a667234d2bc1e0606fccda][^c-58c8ad45801a17acfe27a4db89d2f115]
 

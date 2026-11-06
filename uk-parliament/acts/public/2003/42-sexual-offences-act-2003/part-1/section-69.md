@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (154).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 69. Sexual activity with an animal (affected by repeal, see note)[^c-c05c555f94ccc0ef46b6e8df7cf1744c][^c20916621][^c20916621]
 

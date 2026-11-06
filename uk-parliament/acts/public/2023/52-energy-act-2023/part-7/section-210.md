@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 210. Consequential amendments relating to multi-purpose interconnectors[^c-5d70c68d24c4c4000a8358502d64677e]
 

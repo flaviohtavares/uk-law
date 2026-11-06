@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 49. Subsidiaries and contractors[^M_E_c41c84ce-14d9-4f37-97b7-b8ad9a23147e][^c-dc440bbe671175c03761b7492e5b2754]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 53. Wildlife offences: time limits for proceedings[^c-dfb09956f93ed74342759b9a5cbef9b0]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 25. Jobseeker's allowance: sanctions for violent conduct etc. in connection with claim[^c-279a44ae52643b4561e9ef5f2bfd23d2]
 

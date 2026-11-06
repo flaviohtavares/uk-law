@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 206. Standard conditions for MPI licences[^c-56cb3dd0d77149f457620895d0057294]
 

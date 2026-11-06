@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 52. Exemption from liability in relation to defacement removal notices[^c-67b8a8b4bb61ef99bf8ff7d585e09afe][^c-13f2dc3e8cf110be793a7c766cb79a35]
 

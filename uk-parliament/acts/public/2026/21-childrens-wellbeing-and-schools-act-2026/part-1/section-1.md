@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. Family group decision-making[^c-ee0346d046559005c0c1d5eca7102596][^c-a7928dabecc32b8de96a64cb0a59dea1]
 

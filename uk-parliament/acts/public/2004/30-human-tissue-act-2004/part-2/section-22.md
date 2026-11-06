@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 22. Appeal on point of law[^c-901bd622d3c858db489de9636d563cdc][^c-5e8220d9effb6627da0f4b9bc7c9dffe][^c-5d97ba18bdaeab25c1f84a903a3d4c7f][^c-c1020fab6f28a22d2345af5613fab4b2][^c-1a85942620765dcd1235182f95b632b9][^c-6326ef0684cc31f4a27be5d4edeeaa1d][^c-4749444ce2b9b8e8ff059d8c762c5db7][^c-27d7df2cdfda35a06b154f00dac05e7e]
 

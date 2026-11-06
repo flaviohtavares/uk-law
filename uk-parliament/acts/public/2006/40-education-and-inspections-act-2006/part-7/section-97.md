@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 97. Parenting contracts[^c-179b06414937ce8f9c1fda7802f2825c][^c-2e5223b3e7d6dfaeaaee156c079fe65b]
 

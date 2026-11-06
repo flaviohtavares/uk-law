@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 31. Urgent procedure for suspension, variation etc.[^c-083eb8cafd243fcbee0fea203e315eba][^c-edcbd880505dd2076f953eab2e6ebf48]
 

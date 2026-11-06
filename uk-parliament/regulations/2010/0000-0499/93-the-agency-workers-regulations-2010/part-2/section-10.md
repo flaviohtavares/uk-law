@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 10. Permanent contracts providing for pay between assignments[^c-1b5bbd12f6d8bda91e111a5c9d15ef40]
 

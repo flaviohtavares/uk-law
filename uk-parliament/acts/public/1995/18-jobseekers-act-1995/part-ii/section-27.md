@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (45).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 27. Employment of long-term unemployed: deductions by employers.[^c11297911][^c11297921]
 

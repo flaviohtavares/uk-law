@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-15.
 >
-> Extent: England, Wales.
+> Extent: England.
 
 ## 67E. NHS England Workforce Collection[^c-67ccf55ee844f4c1c9c21a716bdcce0f][^c-5df31569bcb410a3531dd930e9c64e29][^c-289f02903579890afa2e88be2b7162be]
 

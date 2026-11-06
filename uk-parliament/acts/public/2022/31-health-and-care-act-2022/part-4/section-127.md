@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 127. Assistance of NHS bodies[^c-5c380ed9f171dbdea718c8eb476f0344][^c-9656d33101ea2f914d1a908fe3bd6a41]
 

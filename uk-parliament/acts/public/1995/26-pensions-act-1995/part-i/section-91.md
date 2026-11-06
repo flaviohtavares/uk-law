@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 91. Inalienability of occupational pension.[^c-8524aa9cd2752f460a69b8fa07c0d28c][^c-769743a955fb59a526d3df9633e1c84c][^c-fc20d5f5196c009cae5a079a12fe072e][^c-3008a86c18b5b106e261e46aa1eed919][^c-008c08fe746f4251cf6651b5853a6bf4][^c-4e2432cff02f69188472a225dc5e3c05][^c-4a7d2898c9ea9348b157baad424a0f57][^c-e42d26ee9caec39214c5cf596a73e555][^c-1c6e3af5df55fdfe0d2cdadfbd91c2e9][^c-ce6615d71043181262fe9a535a667583][^c-c537176b4faee20602d4fbd45cd6aca2][^c-c8a1d79b388028a5a08b42dc872de80d][^c-1da934d7a851421f9731133dbe895717]
 

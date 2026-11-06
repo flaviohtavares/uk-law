@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/anaw/2016/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 34. Powers of inspector to enter ... premises[^c-b3d6d2c643e1c822e58206c8602da853][^c-9ca06037793a5f94223de4c3667889e2]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (51).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 3 — Airport Byelaws made by Persons other than the Secretary of State[^c-0515bf82597068f5018cc19b07f2e87b]
 

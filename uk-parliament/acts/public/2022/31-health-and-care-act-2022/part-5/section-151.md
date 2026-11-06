@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 151. Hymenoplasty offences in England and Wales: penalties[^c-23200a23a3c9818645cd376d0c3d8a2c][^c-9fe1b3d86e763099863cec049db63af3]
 

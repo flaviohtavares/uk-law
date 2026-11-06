@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5. Relationship between regulator and housing ombudsman[^c-49b7ea74e3a3c762cf29cb39c802f104][^c-584ea61df817e925d2b964ac75ee6efc]
 

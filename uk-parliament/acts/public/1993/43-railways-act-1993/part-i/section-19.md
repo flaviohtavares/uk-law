@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 19. Access agreements: contracts for the use, on behalf of the Secretary of State, of installations comprised in a network.[^c18906791]
 

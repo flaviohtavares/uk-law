@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## A2. Apprenticeship assessment plans[^c-8df6c6e0f4ffa1f30a29b88180f40b9d][^c-bd21d3a6f3ee27e142e1ef9106f67af7][^c-6fbc08aa8ffcbc02d1af902de2f0dfc9]
 

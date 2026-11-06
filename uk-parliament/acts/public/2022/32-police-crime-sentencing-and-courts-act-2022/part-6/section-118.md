@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 118. Abolition of other cautions and out-of-court disposals[^c-f6d61df1ad5ff56cfce00700a5947682]
 

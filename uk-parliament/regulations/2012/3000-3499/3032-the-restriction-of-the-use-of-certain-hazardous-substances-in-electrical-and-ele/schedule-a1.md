@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE A1 — Restricted substances referred to in regulation 3 and maximum concentration values tolerated by weight in homogeneous materials[^c-e5b7232f09d18783112e5b4b69f7353b]
 

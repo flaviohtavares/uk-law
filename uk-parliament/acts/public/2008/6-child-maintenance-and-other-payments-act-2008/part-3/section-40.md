@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2023-09-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 40. Disclosure of information to credit reference agencies[^c-00cc8cebe6573f15e10e57512ac7bf36][^c-0377089d532de276f85db20baf3d2997]
 

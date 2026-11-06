@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 6 — Temporary registration of social workers: Scotland[^c-0b9e8d0001a1ec8518ddbd237588474b]
 

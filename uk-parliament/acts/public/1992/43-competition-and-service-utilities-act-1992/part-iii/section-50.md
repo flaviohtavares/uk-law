@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2010-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 50. Protection of interests of customers of water and sewerage undertakers.[^c-b779942054c416c59261306a3137c302]
 

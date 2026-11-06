@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 58. Corresponding provision in relation to FCA-regulated schemes[^c-3ce6f6860f411e3a0e0333e3e55dd400]
 

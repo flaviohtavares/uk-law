@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (91).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/53
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 61A. Fixed penalty notice mistakenly given ...: exclusion of fixed penalty procedures[^c-17ca1dc060ba56da6584f7c8b598c288][^c-c43c32c8a724f0892a135859a134bf82]
 

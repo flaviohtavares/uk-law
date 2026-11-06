@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 216. Restriction on re-use of company names.[^c20433671][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-60d66ec44d16fa044d121ed74ed46b40][^c-dc73bd67a4aab9b922ac093396ea5446][^c-d08c6a39d2ace7820cdc8be58ee9f428][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

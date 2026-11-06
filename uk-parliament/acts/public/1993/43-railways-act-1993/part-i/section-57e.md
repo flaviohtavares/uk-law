@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 57E. Interest and payment of instalments.[^c14105371][^c19324851][^c-929dc95eac7afac443ea4e095b07fde3][^c-fb87f02190aec8b5993e78f7f645458b]
 

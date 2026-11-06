@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 97. Housing Benefit (Decisions and Appeals) Regulations (Northern Ireland) 2001[^c-142087798135f897ab85a7aa650f6edb]
 

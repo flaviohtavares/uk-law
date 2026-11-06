@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19. Exceptional provision of education in pupil referral units or elsewhere : England[^c19112741][^c-b0277727004331ccd913a4a2b074df85][^M_F_8750af82-0640-44c1-a112-380a1127b237]
 

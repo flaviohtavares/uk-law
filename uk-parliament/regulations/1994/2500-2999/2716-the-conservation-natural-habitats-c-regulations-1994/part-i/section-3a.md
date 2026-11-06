@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-10.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 3A (Extent: E+W) (affected by repeal, see note). Duties in relation to wild bird habitat (Extent: E+W) (affected by repeal, see note)[^c-3762b24e20ff74365bf00f8acd060c4f][^c-16f082cd3e6a9b373f620ae21b631025][^c-2dd38f22e3f0e7272da0337fa848725f][^c-2dd38f22e3f0e7272da0337fa848725f]
 

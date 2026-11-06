@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 68. Appeals to the Tribunal.[^c-314f693f79afa8c3257bb154b8e84abf][^c21129041][^c-3530f343916ed38ffbcbf282a5a2ac17]
 

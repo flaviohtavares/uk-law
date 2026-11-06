@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 11. Adult dependency increases[^c-97a91ffe98dd25eb3d18e0b972a9433a]
 

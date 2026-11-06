@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 99. Transitional provision[^c-d73bc2ddfa36777d18bc62a25cd9312d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32. Conditions for making an order[^c-0d70bcd3ee49d8a30766d216b4a70a81][^c-31691c88a9252fa00d31b421a947f273][^c-40e6f01b483d47d008a4c461ca10affd][^c-2bd8ea43df63eb06adaa6b4b600e44fe]
 

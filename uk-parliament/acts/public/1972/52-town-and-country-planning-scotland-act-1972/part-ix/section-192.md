@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 192. Meaning of “owner-occupier” and “resident owner-occupier”.[^c14930941][^c14930931]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-04.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 67. Performance of local authorities in relation to elections etc.[^c18919741]
 

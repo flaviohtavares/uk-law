@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 34. Liquidators etc.[^c12426421][^c21097281][^c-a0b5434f1a1c3ee14e98fdc51b97b73a][^c-8a307a2f8056f993f097d1a6142a251e][^c-fdd7053652b1137f28b5102c924dbcde]
 

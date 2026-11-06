@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 243. Appeals against enforcement action[^c-bc7cba29ae24c475ec7e162c7cfd5ce4][^c-66a66c06758777e4f01ca1f6c6b5bd75]
 

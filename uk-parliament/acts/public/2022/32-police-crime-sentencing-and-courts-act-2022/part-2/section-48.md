@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 48. Voyeurism: breast-feeding[^c-4a976e1f2f6731c2b613c584567ddfaa][^c-fd972e8e29f7d994b40dd13153d5d9a2]
 

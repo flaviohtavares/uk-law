@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2018-01-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 11. Exemption of Sikhs from requirements as to wearing of safety helmets at workplaces.[^c-f5e94781a63995a2b107d4efd72f982c]
 

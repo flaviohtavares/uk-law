@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14. Material subject to the Police and Criminal Evidence Act 1984[^c-b5a103d9a0bd40a4d4e9b0cc2f716ea2]
 

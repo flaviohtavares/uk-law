@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2025-12-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/29
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 45. Water and sewerage charges: non-owner occupiers[^c-27de6a01be58f41ef7d9bc61357a8440][^c-ad7bb54f4421d3be703aef7e367bbc09]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 47. Restriction, suspension or withdrawal of approval[^M_E_df62c936-096c-4c4d-8b92-d64c6c7e3cdb][^c-dc440bbe671175c03761b7492e5b2754]
 

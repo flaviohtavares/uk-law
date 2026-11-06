@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 132. Powers of court and administrator etc[^c-b2e91108dc42731fbdfcc1009e8b8693][^c-d59f6c2a9c42161ca1815c0c61d9e1f6][^c-a454ab2e7903a99c2e733b17b67f9e8b][^c-d59f6c2a9c42161ca1815c0c61d9e1f6][^c-a454ab2e7903a99c2e733b17b67f9e8b][^c-d594f106ff708919e1f25cda5c440c45]
 

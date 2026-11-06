@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 9 — Regulation of social care workers: Wales[^c-32638450e7e037a973bad6ef3e0c9ebf]
 

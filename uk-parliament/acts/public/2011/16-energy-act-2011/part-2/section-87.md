@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 87. Powers of OGA to require information[^c-a7e755b248f8a6154ebf588796cf0a94][^c-5702698be3d027f41c9c83595e83cfd0]
 

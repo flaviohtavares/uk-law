@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 23. Benefices held in plurality.[^c6280111][^c-c719c5bdacac28929d7f236b58dc3091][^c6280101]
 

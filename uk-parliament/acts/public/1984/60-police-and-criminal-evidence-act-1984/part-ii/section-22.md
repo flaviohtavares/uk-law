@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 22. Retention.[^c11315501][^c11315521][^c11315511][^c16922061][^c18870011][^c-b51766719351b39d6e666ea20247ac65][^M_C_13c60a46-c94d-48db-df03-af457cef962a][^c-4f2bcbd731410b425da15c88045180f7][^c-31dd5f56e3a451edd8e119cf8e2a4f51][^c-354c497032dc4597a0199732eebf4150][^c-fe5b24e90269af97fe9edbeadb866672][^c-c973d6a01a73e9854806d57b787d9a18][^c-354c497032dc4597a0199732eebf4150][^c11315491]
 

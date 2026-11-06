@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 170. Power of entry for certain works purposes.[^c-ea3736f0950ae463a7929cd0e57752f0][^c-a40fbcefa7404e9e01b60240ebc1ad55][^c-9ef8b95e1db8643ba319326247b71751][^c-65d84f548e4fffa94d1cb574c62a9373]
 

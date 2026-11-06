@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 49. Principles governing conduct of members of relevant authorities.[^c1427916][^c-6140789fa4ccf6dedbcbc679a4913928][^c-6bb7cb71ff34a9828e1ebcdbed818fdb][^c-1c90b4816bee5a5e3aed9c25eb764788][^c-8f33abf4380d779a4842bad9f7d9f5f8]
 

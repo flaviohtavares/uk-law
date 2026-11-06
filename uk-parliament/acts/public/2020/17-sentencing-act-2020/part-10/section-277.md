@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 277. Suspended sentence order for person aged 21 or over: availability[^c-3c0441283c11f2ae5dba96a4fbb318bf][^c-be9ac4c17c7433b360db19778a194ce9][^c-546729937ade20e396676e1f18ca4311]
 

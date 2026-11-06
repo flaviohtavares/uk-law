@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 47. Restrictions on reporting directions under Chapter 1, 1A or 2.[^c9546311][^c-8c04b0cb3370adc811403685263780fc][^c-155df336bc8e6d939a8a0d0346cc5a09][^c-8c484837b1c6b4e2215e6ad7c6956408][^c-b45b319dad39388ab30c687e75f5c5f5][^c-b823787b3e16a6cd04c7f79a009ee23d][^c-3ca66206f8fb242c8a74213d6b0a4723][^c-7848088716e731de630385d6ca5b9b6d][^c-010c1d5f441c6ebbd8d6afe9982594bc][^c-14a1b8aa1cb7136b52ad6281aa6b35e9][^c-03635fb26a3949bdbe5f83a2e06446cf][^c-d0a01182df4f0f43dd7ac9d35352b1cc]
 

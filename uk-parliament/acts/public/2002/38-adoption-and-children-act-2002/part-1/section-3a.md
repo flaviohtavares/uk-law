@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; England, Wales, Scotland, Northern Ireland (the versions of this text differ in extent).
 
 ## 3A. Recruitment, assessment and approval of prospective adopters[^M_F_0880555d-342f-48af-92a5-7cc517bd094e]
 

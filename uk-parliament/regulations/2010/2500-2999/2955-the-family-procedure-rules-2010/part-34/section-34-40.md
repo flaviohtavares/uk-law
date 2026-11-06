@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2955
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 34.40. Enforcement of orders of the High Court or the family court[^c-54ba85089d6ee5d1e9045f09a91b2366][^c-022fd31db12b6090cfae18da5216a572]
 

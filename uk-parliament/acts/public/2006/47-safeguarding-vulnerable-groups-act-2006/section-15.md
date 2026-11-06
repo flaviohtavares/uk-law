@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Sections 13 and 14: checks[^c-4c5f3073947c6b60ba66be4545796f77]
 

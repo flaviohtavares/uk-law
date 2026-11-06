@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 82A. Monitoring officers: delegation of functions under Part 3[^c-8f33abf4380d779a4842bad9f7d9f5f8][^c-065194a9e59734999a42c4c55fb03858][^c-8f33abf4380d779a4842bad9f7d9f5f8]
 

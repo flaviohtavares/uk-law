@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 83. Displays of products and prices in Northern Ireland[^c-6b0588b5990555a76b567e48a795cf1e][^c-638f11af2c3e0a63861c73908b974554]
 

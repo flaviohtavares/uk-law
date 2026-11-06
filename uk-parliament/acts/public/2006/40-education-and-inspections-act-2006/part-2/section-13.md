@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Schools established outside area of relevant local authority[^c-29492e189a950926b580c8fcd2f8dd89][^c-6674810d9345c8ca96c6dfbe40cc8d46][^c-81ffb0eb20e62c98df124b83aeaf3944]
 

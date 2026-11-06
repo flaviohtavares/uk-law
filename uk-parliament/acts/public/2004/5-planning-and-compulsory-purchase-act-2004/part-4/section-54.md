@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 54. Duty to respond to consultation[^c-2c5a5e06ccb3675e5b720c2e9b1fcc51][^c-45de9671901ec851d1950dbb18d45be4][^c-963914d714bef559dcd6d69d5502f548]
 

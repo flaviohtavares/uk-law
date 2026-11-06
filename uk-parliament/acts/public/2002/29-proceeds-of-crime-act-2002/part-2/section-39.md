@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 39. Reconsideration etc: variation of prison term[^c-53e3e78f15547315eefa11504b744ea4][^c-a3889e161e736d1b5e0be99edde6119b][^c-bc59da76f74a5e9debfbda22fd326c18][^c-3d7ba393ae21e97ddae20aa0045f32a9][^c-dca43db4b548dd0ba5e4d68a9d8ddda8][^c-cdc38fc7a7f8860afeb2cd1c2587b49c][^c-a3889e161e736d1b5e0be99edde6119b][^c-bc59da76f74a5e9debfbda22fd326c18][^c-3d7ba393ae21e97ddae20aa0045f32a9][^c-cdc38fc7a7f8860afeb2cd1c2587b49c]
 

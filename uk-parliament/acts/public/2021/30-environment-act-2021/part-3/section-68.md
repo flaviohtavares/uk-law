@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 68. Littering enforcement[^c-37c72ddc96aee937a352ca6db7c105aa][^c-d488e57dc3ae9f80dc587ba8381af5e2]
 

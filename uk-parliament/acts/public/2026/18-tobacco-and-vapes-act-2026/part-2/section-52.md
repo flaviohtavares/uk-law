@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 52. Age of sale for tobacco products etc[^c-5427e4b27a3394e12fc257968e5f3e39]
 

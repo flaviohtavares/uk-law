@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (197).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 78. Local authority functions in relation to undertakers’ supplies.[^c-27e514de5d22a2802d0b06d82da3631b][^c-72b2e4992442f1a153ae045e7f7d207e]
 

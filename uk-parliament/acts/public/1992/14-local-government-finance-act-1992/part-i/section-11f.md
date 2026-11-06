@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/14
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 11F (Extent: W). Discounts: Wales (less discount or no discount) (Extent: W)[^c-fdd74cebbc6444fce1dc65fb3998a31e]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (25).** Text as at 2026-10-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 78TA. Registers: removal of information about land designated as special site[^c-7bda9940f0445daa758bbf15866c2363][^c13739731][^M_C_216e9449-2580-4f37-b19c-5f26cb37fdcb]
 

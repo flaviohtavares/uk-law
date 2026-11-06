@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (71).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 13CZA. Provision of false information: application for electoral identity document, anonymous elector’s document or electoral identity card[^c-734b3d62e0a7ded524fd3bb763bdb255][^c-3b8dd0fd870a8dd5c4d9263b78991c67][^c-db5859ff53862d872e6bba5af25e7926]
 

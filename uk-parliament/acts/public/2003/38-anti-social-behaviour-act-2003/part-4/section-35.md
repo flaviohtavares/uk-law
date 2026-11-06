@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 35. Authorisations by British Transport Police[^c-34602cb574ff4a834015aab7ed76477e]
 

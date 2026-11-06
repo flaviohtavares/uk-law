@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. “Protected animal”[^c-ecc6536d33d54f4a13f2906e06a80920][^c-152188cd42385528b061aa32fef93630]
 

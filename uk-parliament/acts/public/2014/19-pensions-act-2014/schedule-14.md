@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 14 — Power to amend schemes to reflect abolition of contracting-out[^c-3b966b67c9fb47a9bf737c87c5a89ff6]
 

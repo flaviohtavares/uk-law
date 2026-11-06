@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 39. Minor and consequential amendments, transitionals, and repeals[^c-11ea6f05d5c212ea3f81990adbc1f557][^c-6f1dd0c07e5c88a9472ea6107cff9484][^c-c37949706789445de2320b344f345265][^c-1022a0cdacb349bbb011e63ce059a92a][^c-50ed424c30aa271ca6bbfb9a992bccb6][^c-3f7db4327b656192989ba3774ae5a778]
 

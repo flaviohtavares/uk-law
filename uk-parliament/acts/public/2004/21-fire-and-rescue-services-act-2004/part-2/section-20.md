@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/21
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 20. Exercise of powers at or under sea[^c-88e704b7d847ffa3137e7481c11cbd2c][^c-7d3158131ab2a8dfae9974f233270428]
 

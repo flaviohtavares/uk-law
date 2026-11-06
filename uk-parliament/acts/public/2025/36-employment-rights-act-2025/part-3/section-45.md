@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 45. Failure to reach an agreement[^c-e3b68ee2e8de8e903b70aee70646b536][^c-3b5a7b74bb7ba4abe56d4ace05a6b5ce]
 

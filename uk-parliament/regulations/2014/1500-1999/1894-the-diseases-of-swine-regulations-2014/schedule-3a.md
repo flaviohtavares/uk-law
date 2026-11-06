@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-29.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## Schedule 3A — Measures in respect of controlled zones[^c-1b6bb9998af607f58a58269d4c06eaa0]
 

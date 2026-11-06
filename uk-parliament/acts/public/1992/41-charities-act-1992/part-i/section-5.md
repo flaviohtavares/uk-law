@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5. Effect of direction under s. 4 where charity is a company.[^c-68d0b2d8dc2e8aed043db1d3ee2b8464]
 

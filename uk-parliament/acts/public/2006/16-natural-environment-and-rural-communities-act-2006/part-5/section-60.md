@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 60. Procedure for orders designating National Parks[^c-fb1c369a24e264c1da657f2c51474a3d]
 

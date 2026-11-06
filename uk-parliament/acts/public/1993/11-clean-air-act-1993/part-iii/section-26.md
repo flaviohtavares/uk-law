@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 26. Power of local authority to make grants towards adaptations to fireplaces in churches, chapels, buildings used by charities etc.
 

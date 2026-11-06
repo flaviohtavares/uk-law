@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 67. Consultation with ombudsmen .[^c-206c17d189c668722f02662aca733500][^c-8c982b3da2a29e208f33eeaefbe4fa9e][^c-94055e7ce04e60957e4f225666e7bc7b]
 

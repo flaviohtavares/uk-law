@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 85. Execution of judgments or orders for payment of money.[^c-2828d7799743e9ca09547c63f9ba8dd0][^c-a5152b0530864d08a75761aa4dfaf5e6][^c-a5d22ccde46960281befc4d47daace3d]
 

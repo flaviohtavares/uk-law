@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6. Exercise by the Care Quality Commission of powers under section 113A of the 2000 Act[^c-3885049172659d6292eb722fbbb7cae3]
 

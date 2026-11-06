@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 94. Spoilt postal signing sheets: England and Wales and Scotland[^c-5a586bf9ec35abb69a4afb9785df36ae]
 

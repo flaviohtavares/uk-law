@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/14
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32. Appeals to the Tribunal[^c-7e3f28b7e4bfdebd7eb53e8305bf905c][^c-0358e0e6157d324cf8d10559d45cd1e6][^c-009bb9c0ddb59774e3408ac5f192ad55][^c-84f738dee4e66c40adeaaf6609fec0cc][^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81][^c-e9d26dd991dbe7e6487ee8e5f6a02742][^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81]
 

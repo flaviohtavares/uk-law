@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Promotion of well-being by community councils.[^c-c7751564a1d5e09d54d0a1801ad4fc2c][^c-1a5637c700370f4dee960f6a5b90db0e]
 

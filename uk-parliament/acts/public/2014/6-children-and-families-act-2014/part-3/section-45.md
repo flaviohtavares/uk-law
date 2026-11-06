@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 45. Ceasing to maintain an EHC plan[^c-3cc9afda994bc659e2fb4391ed3cef1e][^c-ad8ded1e83d406e7c76c5d30f2dc02e4]
 

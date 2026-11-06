@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 15A — Offences specified for the purposes of sections 225(3A) and 227(2A)[^c-606f4c9bd60939ed8a560acd3c85059c]
 

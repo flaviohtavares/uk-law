@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (156).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 100D. Postal voting: counting of votes etc. by independent person[^c14515611][^M_F_a77497f6-c849-4a61-dbe6-f586fd52f63d]
 

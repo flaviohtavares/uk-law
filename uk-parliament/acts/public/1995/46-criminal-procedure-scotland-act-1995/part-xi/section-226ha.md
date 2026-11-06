@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 226HA. Judicial co-operation in criminal matters: mutual recognition of financial penalties: requests to other member States[^c-32139bf351db51a0c636327e0e9f88b4][^c19923231]
 

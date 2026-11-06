@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 202. Principal objectives of Secretary of State and GEMA[^c-af8af81521d67fb1645c85de91652133]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 66. Assaults on, and obstruction of, constables, etc.[^c-a2943fb1941c90ff3f22b312d5c278a5][^c-3cb2d7bd854936752a844656c54c07a5]
 

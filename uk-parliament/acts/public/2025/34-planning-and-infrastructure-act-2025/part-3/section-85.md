@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 85. Powers of entry: further provision[^c-b6431037ce84df314529e73cb4903d76][^c-23bc2369708fd17f318f4f4caf12abc1]
 

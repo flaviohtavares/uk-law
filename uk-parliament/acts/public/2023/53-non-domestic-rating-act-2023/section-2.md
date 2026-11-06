@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2025-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/53
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Local rating: liability and mandatory reliefs for unoccupied hereditaments[^c-9fe099ec16de36b28cdc6a32553e0b33]
 

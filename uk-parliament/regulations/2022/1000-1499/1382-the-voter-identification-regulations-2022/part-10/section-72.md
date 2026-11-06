@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 72. Amendment of regulation 18 (issue of official petition notice)[^c-a06067c32465c65ad39337bc2c9a14b0]
 

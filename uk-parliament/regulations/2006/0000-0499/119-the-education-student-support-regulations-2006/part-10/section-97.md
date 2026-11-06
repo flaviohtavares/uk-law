@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 97. Payment of grants for books, travel and other expenditure and disabled part-time students' allowances[^c-cffd2a59a6d9484badaf029d5fc2160a]
 

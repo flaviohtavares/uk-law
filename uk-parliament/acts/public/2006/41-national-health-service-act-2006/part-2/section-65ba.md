@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 65BA. Care Quality Commission report on safety and quality of services[^c-b1fe245a6eeaa9c85fe273e7e1811a55][^c-17cf88763d4009b94ad6caf0b8ba8e30]
 

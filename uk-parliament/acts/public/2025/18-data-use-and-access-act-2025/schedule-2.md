@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## Schedule 2 — National Underground Asset Register (Northern Ireland): monetary penalties[^c-59cdd052f89a169b278598ce6c59aeda]
 

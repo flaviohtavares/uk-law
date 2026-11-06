@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE A1 — LAPSE OF INTERIM PROTECTION[^c-86d8fe5170f89d76d48d4f548e2cffbf]
 

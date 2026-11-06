@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 80. Wilful obstruction of highway[^c-84a062a39bd718ddad47c1c1376d2467][^c-9300c437bea472c7d637163930b3f77d]
 

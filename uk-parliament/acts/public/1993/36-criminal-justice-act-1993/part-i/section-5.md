@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5. Conspiracy, attempt and incitement.[^c10496191]
 

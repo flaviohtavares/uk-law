@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 51. Duty of relevant authorities to adopt codes of conduct.[^c1427921][^c-5fd4b5c8026802eae56939d422b3cf47][^c-a2a34e9533003edc20068675786ce1e1]
 

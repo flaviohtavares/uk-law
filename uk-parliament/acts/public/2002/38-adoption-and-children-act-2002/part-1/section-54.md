@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 54. Disclosing information during adoption process[^c-52b5e955fcb8317fc3eb7e63f5a5352a][^c-1dcdf1ac5e8c76215673424cb2afcd5e]
 

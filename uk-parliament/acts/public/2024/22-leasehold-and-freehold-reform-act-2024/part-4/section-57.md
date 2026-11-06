@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 57. Right to obtain information on request[^c-819c840219cc3cc0a46d58cb84e3f0c7]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 26. Minimum reserves[^c-3e7a45d7e1ab96d1226391c65b804af3][^c-2e3c26fb94e4e07b8040ff29a0be757f]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 144. Effect of compensation order on subsequent award of damages in civil proceedings[^c-11184c1d3f10c3ba42683c42808e5818][^c-7da0a541c8772907aa67f7c0ebe18b2a]
 

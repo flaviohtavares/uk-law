@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (25).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/53
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 61. Provision by local authorities of secure accommodation.[^c-c8d656450fa54866d2dcd01ef493164f]
 

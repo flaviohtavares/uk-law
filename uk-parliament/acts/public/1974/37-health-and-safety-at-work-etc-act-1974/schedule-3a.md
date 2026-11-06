@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 3A — OFFENCES: MODE OF TRIAL AND MAXIMUM PENALTY[^c-4f32d562932608c1f61a6ff8eb74d9ce][^c-d3eb98339dd2f8dd919564b2938ae2aa][^c-662933b66c7533cc69aff46cb5c8c1f2][^c19975251]
 

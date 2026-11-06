@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 60B. Notification of decision not to prosecute person interviewed[^c-ce4af47af30a64de49af4f8cbe19e6ac][^c-856329be6b366576f220f3d195366ac9]
 

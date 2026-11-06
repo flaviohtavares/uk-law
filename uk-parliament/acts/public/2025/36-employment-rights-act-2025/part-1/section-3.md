@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 3. Right to payment for cancelled, moved and curtailed shifts[^c-69e38153abe11760057de323e8b79f82][^c-26d2e6348df55b13c29a0ce80ff5b566]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (62).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 32LF. Onshore wind generating stations accredited, or additional capacity added, on or before 31 March 2017: approved development condition met[^c-e447f8383a67e9cfb4f726bee82f1fb9]
 

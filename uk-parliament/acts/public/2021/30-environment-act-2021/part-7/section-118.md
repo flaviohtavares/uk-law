@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 118. Conservation covenants[^c-37e051bb54e44e70f449e83617cdb8f7][^c-09c3f69fd830efbd987f598d8799050e]
 

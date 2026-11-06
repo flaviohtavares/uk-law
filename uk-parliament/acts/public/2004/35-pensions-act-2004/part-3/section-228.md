@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 228. Failure to make payments[^M_I_0e1fcdf2-26e3-4eca-e8c8-824441be1519][^c-b3fe77ed2d25d2f391d797881167199e][^c-e4c6135becae08bc234e235fd2888aae][^c-cea7e7bf9e8e9a0064a2dc6ad604f567][^c-5be3670b1f7fb172ef921f5f203e670c][^c-aa656be260842006494945a32be32a37][^c-882e98ae09e7abd62c886a686ad0a66b][^c-24276a817ce25c0e3fbd4b95582adaf9][^c-85c25da5b73c65adc75d7f9a4b604bcb][^c-e4c6135becae08bc234e235fd2888aae][^c-cea7e7bf9e8e9a0064a2dc6ad604f567][^c-5be3670b1f7fb172ef921f5f203e670c][^c-aa656be260842006494945a32be32a37][^c-882e98ae09e7abd62c886a686ad0a66b][^c-85c25da5b73c65adc75d7f9a4b604bcb]
 

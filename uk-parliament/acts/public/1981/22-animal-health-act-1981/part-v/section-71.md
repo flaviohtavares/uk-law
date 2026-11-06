@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 71. Other offences as to licences.[^c-69146985cf5ebc4094189d5e4566d322][^c-9c2efe83ce4aebc94f0ce79e5e9146f3][^c-d4a4e6d764af98e922e889ef015bb2af][^c-cf056c4b91cc55502db8bf8659bffc1d][^c-7770f5a95cfb1fd6a7e5f28bf760d128][^c-d57d391fb906d1d39147cc09f46813de][^c-32b8748818be6a5dbd8aa104ae056791][^c-086ff144a6c23adce21b699a71c2524d][^c-9e342b2be4b29082b19912188858eafa][^c-a2c9793a6ce69f1d4e0b4195f71a6e3c][^c-8971dbca5d28c13982439c6baba85fd1][^c-3b5bbf9337772b925b77d6291f253370][^c-d39d7eaaf973240f3a42f0a92d617d12][^c-8c46eefb065feb28963607a127c76d4e][^c-0486b67d6898d415516fb1a4f2b17d63][^c-7f51feabbcc2f1991bdaa9e11513f1c4][^c-7d006893ef30d7088f349b087cb33633][^c-330832bf81ef5363859a2ad7ec699922][^c-debe295adfc0da566d66cb18165dd7dc]
 

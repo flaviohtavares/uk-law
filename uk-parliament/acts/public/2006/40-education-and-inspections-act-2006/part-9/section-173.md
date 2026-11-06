@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 173. Special educational needs co-ordinators[^c-5eb8584c36dde4d1a4de52935470d441][^c-932b47c5a15893e6b4edc0bf74b6eab5]
 

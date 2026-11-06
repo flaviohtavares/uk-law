@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 48. Power of appropriate authority to deal with matters[^c-b2ae7dc33c18045f02173766982f0cc2][^c-e941c566e45066eb82f23bb0b232a4d2]
 

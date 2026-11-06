@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 58. Enforcement of duties relating to service charges[^c-4a18e389e69b3ce87ffe27f6d6264657]
 

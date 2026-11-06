@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (186).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 104ZA. Class 1, 1A, 1B or 2 contributions: powers to call for documents etc[^c-bf054aa66939241016d43fb4085b3c6c]
 

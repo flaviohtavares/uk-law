@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 1. Core functions of the Minister for the Cabinet Office[^c-099a58a025a1e7322ac19fdb074dc3d9][^c-be678cb9ad016bfc4ebf26933adc8cb9]
 

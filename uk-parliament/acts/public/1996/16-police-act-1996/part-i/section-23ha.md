@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 23HA. Decisions about efficiency or effectiveness[^c-8a507589c695766a0ee91074c470d896][^c-0d80583ecb11921312f235e3b9a88fc9]
 

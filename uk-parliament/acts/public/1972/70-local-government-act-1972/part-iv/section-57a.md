@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: W..
 
 ## 57A. Exercise of functions by the Welsh Commission on behalf of principal councils[^c-36256c383ee615ee6ab179ac3a0bb9df]
 

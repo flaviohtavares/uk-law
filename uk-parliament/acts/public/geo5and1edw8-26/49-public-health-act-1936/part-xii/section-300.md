@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 300. Appeals and applications to courts of summary jurisdiction.[^c611818][^c611819][^c611820][^c611821][^c-db31e892d3705858832fb82da69a32d9][^c-d76e69450b1ed8f667ce20714f3724fb][^c-cbf256d5ac1d7055fef3f56dec0eb8bf][^c-291a9ece78020aafdd2cfac0e29fa3fd][^c611817]
 

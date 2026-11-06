@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 242. Contributions by local authorities and statutory undertakers.[^c14936521][^c14936531][^c14936511]
 

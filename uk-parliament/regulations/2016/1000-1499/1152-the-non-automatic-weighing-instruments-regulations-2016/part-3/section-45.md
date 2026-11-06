@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1152
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 45. Rules and conditions for affixing the UK marking and the M marking etc.[^M_E_659c613c-39db-4012-abc1-1085f0bc3cb5][^c-590fa59eda77d2e5826413714f4e6af2]
 

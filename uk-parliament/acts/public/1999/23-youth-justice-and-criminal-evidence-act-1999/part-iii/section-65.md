@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1999/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 65. General supplementary provisions.[^c-8db4a5d324f11728393768a3375c4b41][^M_C_80c33877-0686-453e-d459-06207e0ab0b8]
 

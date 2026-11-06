@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 314. Minimum sentence of 3 years for third domestic burglary[^c-1366b19144a0e58412ae55f636de95a0][^c-fa06da75cc26646d1c17410963063e1f][^c-f990660ec7fd5ad03728e336434c9a1a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 298. Term of detention and training order[^c-18c3f65f6dee1509f313ebe29c11c950]
 

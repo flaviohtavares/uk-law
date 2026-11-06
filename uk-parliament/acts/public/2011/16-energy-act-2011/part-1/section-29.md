@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 29. Early repayment of green deal finance[^c-519157dd542761310bc23ea30b442017][^c-01de02e67f3fbed296cec5bc56400878]
 

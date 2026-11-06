@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 223. Heat networks: licensing authority in Scotland[^c-6be4ac99a73ca41efe3e6e39902f67aa]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8. Notice to clergyman before publication of banns.[^c-d7ef43976062fb7367d240e3a50f9325][^c-6704728298b40ccc47bd0a9fdc845738]
 

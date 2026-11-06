@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 204. Removal or restriction of planning functions[^c-3375e98e1835a6eefd480721b74ed6ec][^c-49e3877ff1da799ac7ba5bb78a0294d5][^c-eada4f88f4769f792731d2fc31c590a2][^c-250b381cc6b3a829195738e959b9cac8][^c-d494521147847803e025f769b5354e46][^c-3375e98e1835a6eefd480721b74ed6ec]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 50. Appeals[^c-436c881f6af5d56b183f3c5e4dbac19e][^c-7e1ce825bffc3c936fd19fd66b2838bf]
 

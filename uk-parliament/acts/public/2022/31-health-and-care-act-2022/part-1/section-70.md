@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 70. Trust special administrators[^c-0c60238e675ca76fa0681a0072f085e4][^c-b67440107d93995a71b9b6064c74cf45]
 

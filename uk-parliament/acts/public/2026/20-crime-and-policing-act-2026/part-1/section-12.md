@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Arranging or facilitating begging for gain[^c-013b498926989fbba4f39d1580f2bce9][^c-4bf3c340e105bb9e95ac04b3886b437d]
 

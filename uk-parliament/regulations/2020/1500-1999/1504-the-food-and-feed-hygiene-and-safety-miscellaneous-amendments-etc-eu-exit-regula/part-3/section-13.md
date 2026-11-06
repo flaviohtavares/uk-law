@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 13. Amendment of the Food and Feed Imports (Amendment) (EU Exit) Regulations 2019[^c-90c54761146881aee134430264571f01]
 

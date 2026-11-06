@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 19. Amendment of the Explosives Regulations 2014[^c-112b8e6b94831881b0ebae21e4fa46ce]
 

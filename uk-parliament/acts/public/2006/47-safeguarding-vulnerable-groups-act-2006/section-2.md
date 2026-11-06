@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (46).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 2. Barred lists[^c-3ae26f6280110a65adb8c95ea5a4f6de][^c-cf1a13496cedde67afce6d013b7fb7c7][^c-5cfeadf889ed8107ac9ace5f074d91c1]
 

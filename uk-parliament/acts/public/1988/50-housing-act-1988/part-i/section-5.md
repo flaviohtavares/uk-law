@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/50
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 5. Security of tenure.[^c-356cf91a8402c7071caecc781a1683c2][^c-1db3ef33e0022fa1fe67441f402bbb38][^c-f84f877db6657a2089f0100bfe144590]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/50
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 22. Reference of excessive rents to (affected by repeal, see note) appropriate tribunal (affected by repeal, see note).[^c-fc20bf788fddf36d09dbf266cb7b193f][^c-fc20bf788fddf36d09dbf266cb7b193f][^c-dcec4c314cd7ee03c8e2f3e96701e522][^c-fc20bf788fddf36d09dbf266cb7b193f]
 

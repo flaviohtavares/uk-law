@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland, Northern Ireland.
 
 ## 121. Police stations at which notifications may be given: Scotland and Northern Ireland[^c-4751dcd3babb77b2015cfa9d488bfbff]
 

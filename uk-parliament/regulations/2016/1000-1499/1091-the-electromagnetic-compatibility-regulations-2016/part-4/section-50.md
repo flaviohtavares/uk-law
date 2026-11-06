@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1091
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 50. Register of approved bodies[^c-a9d7c3c7b824bdfb5cc0b88495245c7b][^M_E_1bd8443b-2aa0-4b5f-bd8c-9b0876a2f3ff]
 

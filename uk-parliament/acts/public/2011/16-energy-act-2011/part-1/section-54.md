@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 54. Meaning of “domestic PR property” and “non-domestic PR property”: Scotland[^c-074e1e06ac2734bd6cec2889d9ed3a16]
 

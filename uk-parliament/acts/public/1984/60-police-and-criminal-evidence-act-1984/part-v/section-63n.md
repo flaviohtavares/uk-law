@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 63N. Retention of section 63D material given voluntarily[^c-6506d94fb2fd9cb799702bda9564e466][^c-9f547aea36b51fc954815f384ef0c946]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (62).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 6B. Applications for transmission licences.[^c-4fbdd91612fc06b75d2e1b7f9571cae8][^c-625badd73a799416a7cd5707bb9ce161][^c-dce879c4901fa2374971d6a019d86b63][^c-eb08d92c56e8d611a5157d0f0e43036e][^c-e4cb6142484a21031d44fc4dccab3d56][^c4110641]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Geo5and1Edw8/26/49
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 278. Compensation to individuals for damage resulting from exercise of powers under Act.[^c-e78afea88d03d4ec7e67c722cdc65870][^c-a14ce3aaadd142ccb34364ed9d1132ac][^c-a28fc1143fa7f63332386c45d128200e][^c611736]
 

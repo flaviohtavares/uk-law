@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 229. Pavement licences[^c-7ccd5113730c295e03aec6b54d5eca35][^c-7cc363405c19eaf22f7fe388ae6779bd]
 

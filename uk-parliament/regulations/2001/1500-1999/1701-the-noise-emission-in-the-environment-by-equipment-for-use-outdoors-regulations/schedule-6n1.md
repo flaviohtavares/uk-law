@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-13.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## Schedule 6 — Annex III - METHODS TO MEASURE AIRBORNE NOISE EMITTED BY EQUIPMENT FOR USE OUTDOORS[^M_E_33e163e9-79c2-4fa7-e38e-c369b391402a][^c-bbce44ca441eb605e231cdb50d66784a]
 

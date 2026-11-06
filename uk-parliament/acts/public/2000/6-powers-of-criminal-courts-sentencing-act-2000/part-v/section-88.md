@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 88. Meaning of “remand in custody”.[^c-d8b790ef154b3e919541d0460d26d103]
 

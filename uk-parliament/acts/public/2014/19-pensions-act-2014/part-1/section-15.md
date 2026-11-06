@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 15. Pension sharing: amendments[^c-f161932156b3a9d21a7aa06a511bc612][^c-34d8d3ba3580bfdf93a9ac1ea972aebc]
 

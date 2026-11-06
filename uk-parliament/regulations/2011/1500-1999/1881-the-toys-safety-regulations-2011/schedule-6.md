@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2011/1881
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 6 — CONFORMITY ASSESSMENT PROCEDURES (Annex II to Decision No [768/2008/EC](https://www.legislation.gov.uk/eudn/19768/2008))[^c-ba5d96504e6e6e33be830a43d095f45d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 5. Parties being of the same sex no longer to be a ground on which a marriage is void[^c-3e12b7db6e1c4c5427b6384e857da47b]
 

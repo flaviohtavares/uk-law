@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 11. Children in temporary accommodation[^c-26ff219913b860fa13a3f140d9c07994][^c-b198b75ff0091e33004457151d3c19e0]
 

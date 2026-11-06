@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 112. State Pension Regulations (Northern Ireland) 2015[^c-77a3236bd37b6e9c6f26646e0db97b35]
 

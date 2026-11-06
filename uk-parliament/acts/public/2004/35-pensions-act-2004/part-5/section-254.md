@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 254. Representative of non-UK scheme to be treated as trustee[^c-0335152aedcdbe98f4c3b485129936fe][^c-99c28b701f6d213c0a7c1e380a3a2c2a]
 

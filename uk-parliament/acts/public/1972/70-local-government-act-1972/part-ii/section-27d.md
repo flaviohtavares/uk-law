@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, W..
 
 ## 27D (Extent: W.). Orders dissolving separate community councils for communities (Extent: W.)[^c-f1ae539771c6d4b896e80257a1d8a45f]
 

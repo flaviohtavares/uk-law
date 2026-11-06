@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (62).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 3A. The principal objective and general duties of the Secretary of State and the Authority.[^c-c401ea9c745645866401a3898a9519f3][^c-8d18bc1371fb7768c484672888ac1068][^c-ff54ac601e65b9dd3c7d0fd4cd4c3acc][^c-ad0baf8af1b4c42c1ffaf1cd5aa93fb6][^c-281897c499f9931bd0968fd75a54fb5f][^c-80f423621cdd4c7325cd4a58811049cc][^c-c044ead3152f405cf550a92b66a6eb48][^c-7d8176798aca35e085ba05b2116fb3a2][^c-66f9cbdf75abd6d9a24107ebac5f32d1][^c-82f50f3e5ffbfc87d847a558e3957fed][^c-d5fe5b27bcb7ed48f707c207bfa8ba20][^M_C_e8e7c46f-07bd-4f83-ad1b-78ef615149d2][^c-b17051bf70b75bbfc49499566df45c02][^c-089356ee22b7c5bac4d6293d5dd8115b][^c-a40e0682399ce00c908ea4bd3f4ccdea][^c-a9505f428405b1c5757dbe1592601887][^c-18f30882533ae40369a5e2d132c02fd6][^c-51dd037fd4cbb19e08ab51f4d83f30e1][^c-5780cf27a03662e9b5e513e1e36f5580][^c4110061]
 

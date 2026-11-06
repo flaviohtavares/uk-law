@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 38. Development plan[^c-197066afd2efe9f35662be51d7975fb3][^c-12e1873d3bce141e29fec3a4dceb8333][^c-9c00d3ebcd30a38967a9e043894447b2][^c-df921bd923471d9a598c268b2665f872][^c-02188ebf6f0b88d725f4bc1f03609411]
 

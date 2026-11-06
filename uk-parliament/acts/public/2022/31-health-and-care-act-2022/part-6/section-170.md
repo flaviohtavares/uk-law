@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 170. Commercial dealings in organs for transplantation: extra-territorial offences[^c-732162b91a45d4a7ffbcad785c6845c5][^c-8642dac29be30f3fc2759f8d185056a3]
 

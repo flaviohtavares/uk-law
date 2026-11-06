@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1152
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 43. Conformity with ... requirements to be indicated by the UK marking[^M_E_ada8ada7-9c91-477a-d1ec-abc9b6a35c70][^c-9f3a5ae2a23649ff71229d1dda230e41][^c-1f3a4324ef38db3bb70472e47a41e9f3]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/50
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 13. Increases of rent under assured periodic tenancies (affected by repeal, see note) tenancies other than relevant low-cost tenancies.[^c-2f39627229666f7d14116cb1160f4293]
 

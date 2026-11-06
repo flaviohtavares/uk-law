@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 271S. Relevant considerations[^c-ad57f6d736639648bab48cdff7b984da][^c-f19ec92dcab2752e44bde5d5e8fcf2e4]
 

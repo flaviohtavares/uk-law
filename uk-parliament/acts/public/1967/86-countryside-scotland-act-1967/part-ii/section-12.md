@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 12. Commission to consult with local planning authorities and other bodies on access requirements.[^c-77fdb88ae8e9f276f0476bfaf71aaf04]
 

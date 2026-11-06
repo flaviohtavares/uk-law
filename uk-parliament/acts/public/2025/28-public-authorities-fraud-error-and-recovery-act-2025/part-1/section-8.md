@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 8. Disposal of property[^c-0f06ee531d130ff86012651bffce1ebb][^c-5f2f5e53974ca6a21868280fa44687c4]
 

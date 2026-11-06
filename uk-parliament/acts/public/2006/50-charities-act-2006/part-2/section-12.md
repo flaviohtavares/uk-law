@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-02-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Increased regulation of exempt charities under 1993 Act[^c-be604e121945c9f6aa6e0a34b1d32584]
 

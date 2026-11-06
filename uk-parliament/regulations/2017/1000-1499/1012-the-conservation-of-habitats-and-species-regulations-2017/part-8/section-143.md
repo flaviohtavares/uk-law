@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2017/1012
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: E.W..
 
 ## 143. Amendment of Schedules[^c-d6cfab54d0ed2b66008175a9c6ce2e57]
 

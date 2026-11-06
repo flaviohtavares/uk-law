@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-22.
 >
-> Extent: England, Wales.
+> Extent: Scotland.
 
 ## 50. Discrimination relating to children or benefits status[^c-a7d4a397a27c6de91907889e041e93b2][^c-6fcebfae167e6734ae81fc6e92771b32]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 43. Power to create other exemptions from indexation[^c-78319e7f739b67fc9d1dd3667d5a007d]
 

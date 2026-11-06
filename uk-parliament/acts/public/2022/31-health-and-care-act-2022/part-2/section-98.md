@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 98. Collection of information from private health care providers[^c-7d5579b0bdafcdb116d07e25b85d831a]
 

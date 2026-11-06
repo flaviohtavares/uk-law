@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 74B. Transfer where charity has permanent endowment[^c-c19229d866e13afe36d39b34d22ef788]
 

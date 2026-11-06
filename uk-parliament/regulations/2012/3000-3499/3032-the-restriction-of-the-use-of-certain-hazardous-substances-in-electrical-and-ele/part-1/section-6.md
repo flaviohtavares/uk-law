@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## 6. Exclusion until 22nd July 2019 for EEE outside the scope of the 2008 Regulations[^c-4cf83604684bcc8c414169cc6c7d2d27]
 

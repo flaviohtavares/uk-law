@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 23. Conduct of licensed activities[^c-93d4a9a6a5fb13d3dc6d0ed13ea8c847][^c-9e4427eee636919df7f0472180e5a124][^c-bcc511109f366f35936cbf4687a25267][^c-86d43b19e4ba62a9172415c54ea5d927][^c-ef50efdf6bc669e73f0570dfe7ebd5cf][^c-6326ef0684cc31f4a27be5d4edeeaa1d][^c-4749444ce2b9b8e8ff059d8c762c5db7][^c-27d7df2cdfda35a06b154f00dac05e7e]
 

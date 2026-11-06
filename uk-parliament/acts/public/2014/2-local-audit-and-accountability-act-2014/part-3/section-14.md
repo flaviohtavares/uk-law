@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (173).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14. Limitation of local auditor's liability[^M_I_591d1769-409c-431f-e60a-a54fa2c5a455][^c-c05c3b15de15c6721db1d6000836bb93]
 

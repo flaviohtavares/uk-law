@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-03-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 49. Provisions supplementary to ss. 47 and 48.[^c-4cb0a4342eba0f68639297663f6b8444][^c-417a92380e9ee38ab5022a89f43c7e40]
 

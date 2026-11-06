@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 62. Provision of equipment and facilities by local authorities[^c-108a569f013e7f58376b162faa224170]
 

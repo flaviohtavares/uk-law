@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 189. General interpretation.[^c-236e3669562c1bbe687c90f84db7e739]
 

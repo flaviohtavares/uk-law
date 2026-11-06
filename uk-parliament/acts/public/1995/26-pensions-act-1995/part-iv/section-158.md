@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 158. Costs and expenses.[^c-121827bb53ff2bcf10bd14e707712631][^c-675519b54e6d1c6a5fffc1e4f367910f][^c-eb5dfc5927088968aa6cada97f686699]
 

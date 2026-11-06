@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 16A. Slaughter of vaccinated animals[^c-a51bcbd3410a7a9fcaed46a46ca5f282][^c-64cec524cf6196b858c17152bc570fc0][^c-14631c389807e82310acf25adf495205][^c-abc50801dd621fcd12c11a5774b659a3][^c-a8c780b723371adf52c734780211b38c][^c-ddbd494c089283920051b2d46bf7ce5f][^c10345261]
 

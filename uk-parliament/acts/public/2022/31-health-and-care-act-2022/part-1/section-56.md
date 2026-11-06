@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 56. Recommendations about restructuring of NHS trusts[^c-d79f1270b0c1279d9815253d10c02e24][^c-fec629a87fe6b7e3a0808189d4833cf1]
 

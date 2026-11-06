@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 12 — Recall of MPs Act 2015 (Recall Petition) Regulations 2016: New forms[^c-4fb84302d6e73c92e84daffd6dd1ed3d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-22.
 >
-> Extent: England, Wales.
+> Extent: Scotland.
 
 ## 55. Interpretation of Chapter 5[^c-db9cfffb1eda048e32edd07c905625ce][^c-8361da769a8ba836f0a9725ccdd0a2de]
 

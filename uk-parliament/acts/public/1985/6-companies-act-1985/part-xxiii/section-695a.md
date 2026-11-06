@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 695A. Registrar to whom documents to be delivered: companies to which section 690A applies.[^c17418911]
 

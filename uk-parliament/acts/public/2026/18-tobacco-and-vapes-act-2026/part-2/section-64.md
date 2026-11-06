@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2026/18
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 64. Displays of vaping and nicotine products[^c-70846797bfbfe4928bde2b9be6fca016][^c-2ac57e329b918babb20cce958b47ac17]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 37. Appeals to magistrates’ court or sheriff.[^c-063e44db8a3399e5ac7c04cdfbf5dbf9][^c-6ec399b50aef0f022eefa0f296ae508a][^c-4533dd19a9e22c7f73007e061c1930a1][^c-c4bfd7e160d66d821da7f60f51389601][^c-18df58c5bc66b1148ff06111b7624fe6][^c-61a87908c178428b6da95986570cbfd7][^c-94911bb6de8b9ddb5883cb0b07f0e07e][^c-237bb4a3c290b787149fd3bd2a4800e3][^c-41cd353e3d9ea2b8059ede3ffe3cdd2f][^c-5828f7058e01a773f3fdd9016153167d][^c-ebc7c9bd4beb5e13c73019e0fcb5d030]
 

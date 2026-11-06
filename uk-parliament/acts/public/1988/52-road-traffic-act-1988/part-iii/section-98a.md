@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## (not yet in force: 98A). (not yet in force: Compulsory surrender of old-form licences)[^c19276101]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 153. School admissions: supplementary[^c-89a41217db1d4e7450b2c4606e7817b6][^c-f79fdb881edd61d8f79003e01a71fd2c]
 

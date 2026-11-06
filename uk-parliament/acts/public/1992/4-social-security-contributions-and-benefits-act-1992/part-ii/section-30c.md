@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (139).** Text as at 2026-07-08. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 30C. Incapacity benefit: days and periods of incapacity for work.[^c-fceb2ede409da63434853496d3b9f7c1][^c-9764f7e77e29f30bf359c0cd3cb7ef03][^c-bc0c0930807c7d227209e7083b9d70f6]
 

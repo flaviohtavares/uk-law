@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 4. Formation of civil partnerships by opposite-sex couples in England and Wales[^c-1d4c705c1a3380e10fe4430f3e8cf0eb]
 

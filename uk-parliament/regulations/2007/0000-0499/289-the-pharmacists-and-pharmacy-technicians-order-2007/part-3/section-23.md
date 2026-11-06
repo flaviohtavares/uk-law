@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 23. Preregistration requirements for pharmacy technicians in respect of qualifications and additional education, training or experience[^c-44845bc8703bf4e52045263f17d0cd1c]
 

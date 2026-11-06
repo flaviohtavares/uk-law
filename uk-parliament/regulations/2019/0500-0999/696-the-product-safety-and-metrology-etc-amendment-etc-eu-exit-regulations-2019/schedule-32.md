@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 32 — Amendment of the Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations (Northern Ireland) 2017
 

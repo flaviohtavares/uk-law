@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 72. Consideration of application: demand[^c-ba9cbe953d8639e51d76ef5a954d5a38][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-bd075916971e000f56fb4d774683ed5c][^c-e1f6e585bac667309e250f830e864ec8][^c-b8a7725303091ab360e739f38af5db96][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-e1f6e585bac667309e250f830e864ec8]
 

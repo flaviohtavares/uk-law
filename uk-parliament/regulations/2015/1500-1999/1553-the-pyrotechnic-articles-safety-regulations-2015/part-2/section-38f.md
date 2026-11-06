@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 38F. Qualifying Northern Ireland Goods[^c-3c6b9581de1cc9355962501a52a7d89b]
 

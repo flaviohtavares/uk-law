@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 432. Offences by bodies corporate.[^c15585981][^c15585991][^c15586001][^c20441551][^c20441581][^c-e80e395da61b54e6adfc62bb273ff153][^c-8c6c8113ff56e9c080f8eba84dcd827d][^c-7944e73dfe3d99dd56b2d9152b2bdef4]
 

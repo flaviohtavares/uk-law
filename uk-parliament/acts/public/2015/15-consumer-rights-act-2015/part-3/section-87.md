@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 87. Enforcement of the duty[^c22520541][^c-c88b1f24efffc50bd72dab39d446bb04][^c-f1672fe5c1e4f1ca12c711f07a6bc302]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1982/30
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## SCHEDULE 3 — Control of Sex Establishments[^c5207081][^c2553731][^c-f92ea59f69f3b8d67d8308331f1e5dd7][^M_C_61e627a6-de35-4878-ebdb-ead39c6f87f8][^c-0306af246e5ba9e26a51390e750367c8]
 

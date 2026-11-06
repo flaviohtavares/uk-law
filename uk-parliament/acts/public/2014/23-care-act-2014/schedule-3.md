@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 3 — Discharge of hospital patients with care and support needs[^c-158c4874507a7e6b65b7c45cc3763b49]
 

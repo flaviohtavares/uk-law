@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-03-27.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 13C. Revision of the obligation level published on 27th September 2023 in respect of the 2024/25 obligation period[^c-fb09199b552848e6c73fccd322cec4bf]
 

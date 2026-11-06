@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 143. Review of compensation orders[^c-fad61e4160257a0ece1627359015a7cc][^c-e6de2b779d6f0f40e221291fd5ab8b58][^c-2c52f38c099ecdd1a417dd24bdb2979d]
 

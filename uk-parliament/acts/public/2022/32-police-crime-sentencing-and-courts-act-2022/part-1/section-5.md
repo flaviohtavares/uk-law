@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 5. Meaning of dangerous driving: constables etc[^c-130ef9094a3a6aaa8752239292ad2843][^c-a54489559a56a6fd619434add0ee4928]
 

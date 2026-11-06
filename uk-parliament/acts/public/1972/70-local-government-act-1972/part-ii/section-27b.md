@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, W..
 
 ## 27B (Extent: W.). Orders establishing separate community councils for communities (Extent: W.)[^c-67ec08cbd0a15c6fcc46cb45dc571e34]
 

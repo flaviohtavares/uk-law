@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1981/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 69. Falsely obtaining licences etc.[^c-f80e8a8e87e5a481788129e80743a841][^c-c0f554aed2eece2779da661ccab11d08][^c-06e0151e03e8b2e71690642c0e2e5115][^c-19224c1be988c76cceb26dc80c8eaabc][^c-44b3e659a6768c01386914e5ef66ec59][^c-48e24b40a02a2d2ed8176100c2f8074f][^c-f7746b46e87c731d7cb9094119d987cc][^c-ea51442808c029f5baaa6d700f2ed865][^c-11c0aab1257644006bd27c433e543db3][^c-35814fb9ff212d77d7658f441b8ab495][^c-211c17f9eaf2997d108b13e051510381][^c-dc5c99c1916cbba3ddf28306668af9a8][^c-1ed7c493784bf5cd63d74d7e8c4cd48d][^c-3caaaecdfc4dd5724d49c324ad2af161][^c-d2be741db3383505f9c457a911e58a90][^c-6bfbce85c892cfd81bec087ed09fa51e][^c-62ba63a0391d7a1312a5038435aa8033][^c-2a0d7f85b329df481ecead2da0a848ae][^c-3a57b13b389ee52739b8cdb6a0e8cc3a]
 

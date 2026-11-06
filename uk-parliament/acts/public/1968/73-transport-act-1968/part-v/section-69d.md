@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 69D. Variation of operators’ licences with respect to operating centres and conditions affecting their use, etc.[^c15323191]
 

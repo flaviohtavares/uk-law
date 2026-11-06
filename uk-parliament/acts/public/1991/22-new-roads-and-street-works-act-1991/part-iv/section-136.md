@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (403).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 136. Liability for cost of use of alternative route.[^c-97a049678549a7658c0298fefad8b3a4][^c-a73e787c2bcfe5196ae55cf93d1b5022]
 

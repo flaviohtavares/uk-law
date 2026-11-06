@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 12. Anti-social behaviour: landlords' policies and procedures[^c-5b7f146a5cae40842769473d25306a7f][^c-90383ae4616de557b9cd5534aa30562d]
 

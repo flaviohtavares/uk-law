@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 43. Review in relation to non-scale default arrangements[^c-4219b48f997f48eb40a3d442784c14eb]
 

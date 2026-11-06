@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 108. Removal of excluded pupils to designated premises[^c-cd20d5a7b8ccab990f61c24fcb97a2d4][^c-943d9f412704c178d7008345ed911f99]
 

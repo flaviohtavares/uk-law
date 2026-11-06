@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 175. Preferential debts (general provision).[^c19937051][^c20462181][^c18946021][^c20430451][^c21426341][^M_C_122baba9-cedc-4725-fc7f-581bb3c4754e][^M_C_1a45eab2-34ae-42b5-e8a9-7ab17955849e][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

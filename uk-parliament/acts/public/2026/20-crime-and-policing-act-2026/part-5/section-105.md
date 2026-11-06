@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 105. Pornographic images of strangulation or suffocation: Scotland[^c-bfb1e359e87b16290bce09152bbea47f]
 

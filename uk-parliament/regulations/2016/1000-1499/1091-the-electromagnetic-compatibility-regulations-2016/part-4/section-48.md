@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1091
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 48. Operational matters in relation to approved bodies[^c-a9d7c3c7b824bdfb5cc0b88495245c7b][^M_E_20f8c951-66b9-43cf-a505-fa2ac6e8343d]
 

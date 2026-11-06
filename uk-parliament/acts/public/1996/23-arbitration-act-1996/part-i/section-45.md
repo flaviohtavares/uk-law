@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 45. Determination of preliminary point of law.[^c833517][^c2085240][^c2085652][^c2085771][^c2086226][^c-4799049f92856ccc8093454a231f9ad4]
 

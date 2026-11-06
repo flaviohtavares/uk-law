@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Improvement notices[^c-6ca2e9a7014e93114c8fc9679310c505][^c-8beb7baccb8196f09199fb3c9d8cf420]
 

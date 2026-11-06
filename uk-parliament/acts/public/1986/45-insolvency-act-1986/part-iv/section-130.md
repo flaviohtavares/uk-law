@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 130. Consequences of winding-up order.[^c15572821][^c15572831][^c20446401][^c-e098c65ac7774fc2e377e70f38b65c11][^c-e32698cfc7f4e69c3332fa4382d453e1]
 

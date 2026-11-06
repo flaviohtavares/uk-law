@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 222. The statutory funding objective[^M_I_e7fbb7f5-5ed0-49e2-d0d3-0e9b97385584][^c-52c6b03c54219931aac1c6578c39f2b9][^c-e4c6135becae08bc234e235fd2888aae][^c-cea7e7bf9e8e9a0064a2dc6ad604f567][^c-5be3670b1f7fb172ef921f5f203e670c][^c-aa656be260842006494945a32be32a37][^c-882e98ae09e7abd62c886a686ad0a66b][^c-85c25da5b73c65adc75d7f9a4b604bcb][^c-e4c6135becae08bc234e235fd2888aae][^c-cea7e7bf9e8e9a0064a2dc6ad604f567][^c-5be3670b1f7fb172ef921f5f203e670c][^c-aa656be260842006494945a32be32a37][^c-882e98ae09e7abd62c886a686ad0a66b][^c-85c25da5b73c65adc75d7f9a4b604bcb]
 

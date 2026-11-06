@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 140. Appointment by the court following administration or voluntary arrangement.[^c15572942][^c-3eeb8214fe438f1877f4ab4895630b83][^c-cbe364b642a1069aa818a64a0326d3e4]
 

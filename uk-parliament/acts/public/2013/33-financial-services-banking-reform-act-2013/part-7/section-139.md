@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-20.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 139. Power to impose penalties on persons providing claims management services[^c-c4947653a2291915eaed7829b13a936e]
 

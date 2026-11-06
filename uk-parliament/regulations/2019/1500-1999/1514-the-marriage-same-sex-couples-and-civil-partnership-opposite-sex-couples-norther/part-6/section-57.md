@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 57. Lands Tribunal and Compensation Act (Northern Ireland) 1964[^c-0a6b911fba0e97f37d72674ec31f0fac]
 

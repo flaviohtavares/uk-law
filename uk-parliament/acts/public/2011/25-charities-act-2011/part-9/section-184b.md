@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 184B. Power to confirm trustee appointments etc[^c-33b6a61bf611ad9dedad286159c5e46d]
 

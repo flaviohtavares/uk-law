@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2019-03-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## SCHEDULE 1 — Amendments of subordinate legislation made pursuant to the County Courts Act (Northern Ireland) 1959 and the Resident Magistrates' Pensions Act (Northern Ireland) 1960
 

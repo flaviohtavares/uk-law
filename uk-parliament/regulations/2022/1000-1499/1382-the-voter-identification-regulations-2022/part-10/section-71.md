@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 71. Amendment of regulation 17 (appointment of petition assistants)[^c-e0129763c93a22156136c4a53baf3ff3]
 

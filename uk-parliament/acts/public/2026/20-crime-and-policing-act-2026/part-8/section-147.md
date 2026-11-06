@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 147. Threatening or abusive behaviour likely to harass, alarm or distress emergency workers[^c-fd53e942ce6aeeebec246e11ada504ba]
 

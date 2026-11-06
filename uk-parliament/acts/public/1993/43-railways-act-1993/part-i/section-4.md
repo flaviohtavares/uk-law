@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 4. General duties of the Secretary of State and the Office of Rail and Road[^c14097381][^c-288dfc4ebfd8780b7a24a454074acaf9][^c-3517b0ea70cd34ca16c202845efd9044]
 

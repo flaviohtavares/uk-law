@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## Schedule 1 — Amendments connected to section 4[^c-b409aea1e9c69d6a2b77c140d500dc8b]
 

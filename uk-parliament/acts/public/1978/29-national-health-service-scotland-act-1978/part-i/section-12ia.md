@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2026-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 12IA. Duty to ensure appropriate staffing[^c-77f9bb69c2cae016d260831cc2183778][^c-7b0d4f3f7072e5ae0cc9ad0f0d3834ca][^c-b23ad155f6faa4336a24045ad9336547][^c-5b40ad1d86314c24bf57d08225af1a5b][^c-579c923316e143a968d434aa55ba11ee]
 

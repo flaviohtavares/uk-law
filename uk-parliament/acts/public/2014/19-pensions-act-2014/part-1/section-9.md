@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 9. Survivor's pension based on inheritance of deferred old state pension[^c-36ede23a72328323d25134d2e78d37ac][^c-94d9c91b986b129d5834ec8d224178d9][^c-e75cd5b7f766642c9fac9d799413829d][^c-356018f2e3dee8970a7b0d317560cda6][^c-43bbf8a5bc313fea13f132cd044352f6][^c-610ab3756b0a0d7e54e7227b884a1ded][^c-288c2fce8940fd240c7a0b39a64d0bc7][^c-a78fc2375027a3ad3b4f7eced17a3490][^c-a53d04d0143aec75f524d5d398864adc][^c-e9a5a0d0587d83b6c547ad042a13a298][^c-c9602d5f501e143331ec33b0d333ad9c]
 

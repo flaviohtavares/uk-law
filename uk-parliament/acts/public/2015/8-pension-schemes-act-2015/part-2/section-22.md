@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 22. Power to impose requirements about dealing with a deficit or surplus[^c-46cf5ee759976f9e4f8c612f3e70c8c8]
 

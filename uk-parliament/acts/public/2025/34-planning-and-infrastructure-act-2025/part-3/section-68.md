@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 68. Amendment of an EDP[^c-a98914cdfa199129bab1294b31292ae5][^c-57b16dda9f22366b1a7a9b594f55a4f6]
 

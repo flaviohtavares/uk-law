@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 106. Required content of newspaper notices[^c-a6eeefad3183da2de1672895f6b511e4][^c-4198b3f695d5c0713f0488de25545a03][^c-e0824d0fc52df2db093729e2eff7b0dc]
 

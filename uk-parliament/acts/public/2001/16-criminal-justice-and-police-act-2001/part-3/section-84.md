@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2001/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 84. Amendment of Terrorism Act 2000 equivalent to s. 82[^c-438fb3ec03060916b7671c7065461d3e]
 

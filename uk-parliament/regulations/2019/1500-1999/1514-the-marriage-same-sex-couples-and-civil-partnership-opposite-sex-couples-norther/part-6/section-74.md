@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 74. Welfare Reform (Northern Ireland) Order 2015[^c-2b54c3fba6bf495905c8e5fe159ec862]
 

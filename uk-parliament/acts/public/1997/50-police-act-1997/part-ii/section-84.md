@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 84. Information as to the manner of dealing with complaints etc.[^c-bb82d393f70dabe032c66aeac0609bc4]
 

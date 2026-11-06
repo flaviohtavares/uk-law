@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Annual reports[^c-011a62f8a5851ed350c427e6b84895c7][^c-b4ddd98cb3f17ca6a8f6c430c4a4388d]
 

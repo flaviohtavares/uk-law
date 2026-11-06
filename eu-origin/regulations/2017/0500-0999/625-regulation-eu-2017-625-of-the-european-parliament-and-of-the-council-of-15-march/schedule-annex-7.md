@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2025-07-01. See https://www.legislation.gov.uk/changes/affected/eur/2017/625
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## ANNEX 7 — Goods exempt from the application of Annex 6[^c-242c3f8cb79e1e55101f72ddc99833ce]
 

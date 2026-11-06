@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (110).** Text as at 2022-03-10. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 39B. Disqualification for holding or obtaining United Kingdom passport[^M_C_fad9c876-f819-4c20-d2fc-aa969508adf9][^c-37aa56a290809b52ab922f52cc1c530a][^M_F_0c195139-c51f-4a85-fa78-02ab54a9c3f3]
 

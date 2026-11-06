@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-06-28.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 34. Power to apprehend persons fishing illegally ....[^c10050101][^c-41fd5b7e52be113c83ea86682cf49d15]
 

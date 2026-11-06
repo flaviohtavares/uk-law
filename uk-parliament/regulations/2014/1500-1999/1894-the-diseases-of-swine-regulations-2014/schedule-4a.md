@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-29.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## Schedule 4A — Cleansing, disinfection and treatment in England of premises, vehicles and other things[^c-b879c02781b61bf4ad0f0244719e5ef6]
 

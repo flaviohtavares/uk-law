@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 30. Action after inspection[^c-78ba8ba1d946c8daa32fbbf9c0af35a2][^c-593b92dc8b0c74a719106d4bc8fa4f98]
 

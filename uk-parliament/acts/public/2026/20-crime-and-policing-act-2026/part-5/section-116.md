@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 116. Disregarding convictions and cautions for loitering or soliciting when under 18[^c-a926c249ab2944c5a960ec66689f71fc]
 

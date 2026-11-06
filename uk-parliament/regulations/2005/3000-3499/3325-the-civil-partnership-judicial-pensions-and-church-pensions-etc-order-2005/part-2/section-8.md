@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2019-03-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 *Extent: N.I.*
 

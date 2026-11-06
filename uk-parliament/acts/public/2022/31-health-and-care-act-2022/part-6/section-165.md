@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 165. Care Quality Commission’s powers in relation to local authority failings[^c-3347b8bdba54be817634ff2339d5b057][^c-071ad60ac9f7ac861200103fd83a7ae8]
 

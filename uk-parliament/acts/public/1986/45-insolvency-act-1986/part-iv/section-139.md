@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 139. Choice of liquidator by creditors and contributories.[^c15572921][^c-2d114c1026b5008f94191d6b94edc873][^c-3eeb8214fe438f1877f4ab4895630b83][^c-6bf551a3428b350dc3422a885d0d7260]
 

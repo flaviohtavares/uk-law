@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-04-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21. Standards relating to competence and conduct[^c-ad84ab08ca565ef9e0ee5c0cd8570d27][^c-281f26b43e717461af45c3b0071d2141]
 

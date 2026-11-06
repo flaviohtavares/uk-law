@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (205).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 60A. Failure to satisfy contribution condition in paragraph 5A of Schedule 3[^c-21e2591c9038ad65b5de92d2f8d8210e]
 

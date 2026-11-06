@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 2. Interaction with other public authorities etc[^c-3eefe1127b7045398806ed421c077e64][^c-c221f430d07cb75f02de17220cd6f7c1]
 

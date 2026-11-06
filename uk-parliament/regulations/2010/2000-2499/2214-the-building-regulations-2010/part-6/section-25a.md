@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2214
 >
-> Extent: England, Wales.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 25A. Consideration of high-efficiency alternative systems for new buildings[^M_C_30958739-456b-499a-921a-e12b03f60b9a][^M_E_5cf18592-7384-42af-ebec-697fd9e89ad9][^c-a7afe173926bcd5835b7578b6013dbdf][^c-8ed757aee29a1c07fa857e75b2c050d1][^c-831e0f71ab6557d56dade31b0de1887f]
 

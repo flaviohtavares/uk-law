@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2025-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/10-11/58
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 37. Fire-brigades, police, &c., to be notified of certain pipe-line accidents and to be furnished with information.[^c7379761]
 

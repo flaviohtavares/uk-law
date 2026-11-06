@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 229. Identification, designation and review of zones[^c-c9ce27af536247ec7fe8584cb76a05ef]
 

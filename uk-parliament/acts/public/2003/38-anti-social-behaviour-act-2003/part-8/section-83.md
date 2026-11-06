@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 83. Power to amend sections 65 and 66[^c-dbc426cea37fa03d9d23230664451eca][^c-f9e4d03bad044eea062a3b1c4cb41a1e]
 

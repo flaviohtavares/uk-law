@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 167. Winding up by the court.[^c15573241][^c20430181][^c-f81583bf748413089bafb8cfaae876e0][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-112c027425eb6584fcf93bbb964f30fc][^c-063fbd4cd4021ad5d0cc8eebd0b16dfa][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

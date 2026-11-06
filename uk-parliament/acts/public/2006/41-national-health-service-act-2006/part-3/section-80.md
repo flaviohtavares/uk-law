@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 80. Supply of goods and services by the Secretary of State , NHS England and integrated care boards[^c-6f6a1bb6f8b247d88592a2a5027878df][^c-fa39267819af1b74e8a20beb56c4c42c][^c-c26379f595629655ada8a57e0d3d2bfd][^c-93d7f68e10a4e2fb3562d8052ccc4aab]
 

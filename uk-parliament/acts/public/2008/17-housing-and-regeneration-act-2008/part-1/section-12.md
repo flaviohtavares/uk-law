@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Powers in relation to, and for, statutory undertakers[^c-e381f2a28dcd4ada104f5d8495dd5682][^c-c4ec33f6a24271ae3655990c052801e6][^c-419997b8c93a4aa52d7ecb2268a7bec1][^c-e5a6b8e87fd1788994be54e3588f08a2][^c-e399d70397752a2483a7bdadc6ad439c][^c-6a38970d4555b972a99b66066db52744][^c-56f30b92434ddf6d820ab31baf1969fb][^c-d659a409c6b284d81462a518a3c90f88][^c-361a89d9a9ffc202affaf2d9e6b26785][^c-7454460b0830f6a888cef42d58b32dbd][^c-6a8339de29a5dac5657b7afb030213cf][^c-d46c806e8dd3094a80fcc35022b449ab][^c-c645ce796ae3c192fca214a075c378d4][^c-cb9161416000981239a68ee9659fcf90][^c-b473cad868dfc5e1b004231e22893571][^c-1ef8a2c32562bb928464aa64f1a9eba0][^c-56f30b92434ddf6d820ab31baf1969fb][^c-361a89d9a9ffc202affaf2d9e6b26785][^c-6a8339de29a5dac5657b7afb030213cf][^c-cb9161416000981239a68ee9659fcf90]
 

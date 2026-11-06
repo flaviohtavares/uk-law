@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 67AA. Destruction of seized cryptoassets[^c-2a07c3c0f9c218232ee0bb46da5f4043][^c-69486128bcd298081e6f1707dab9157d]
 

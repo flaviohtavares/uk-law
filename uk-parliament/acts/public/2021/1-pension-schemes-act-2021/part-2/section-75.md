@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 75. Rules about modifying schemes[^c24480841][^c-052fa20238712fb244be1f5cb248f911]
 

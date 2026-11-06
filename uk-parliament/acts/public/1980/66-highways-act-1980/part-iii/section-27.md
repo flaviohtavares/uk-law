@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27. Making up of new footpaths , bridleways and restricted byways.[^c13419611][^c13419621][^c18592521][^M_F_61e41f72-3971-44bc-dc3a-b5163708354d]
 

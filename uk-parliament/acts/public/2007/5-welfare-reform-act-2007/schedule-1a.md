@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 1A — Persons dependent on drugs etc.[^c-4cd79f6c79eaa8d608c295802d522d38]
 

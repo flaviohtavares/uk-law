@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 68. Process for considering, approving and implementing proposals for the establishment of new schools[^c-073882cc7c4e17aa533d90bab55b100c][^c-5f46f8f1419c716c6bd2c5dd489a8ccc]
 

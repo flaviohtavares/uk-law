@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## FOURTH SCHEDULE — Provisions of Act which are excluded or modified in their application to Naval, Military and Air Force Chapels
 

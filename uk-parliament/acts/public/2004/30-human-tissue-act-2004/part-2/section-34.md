@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 34. Information about transplant operations[^c-6f9bf55b3d172af6b8cdcc8802c584e8][^c-285f054d5c36e196ec4e6f87dd74c616]
 

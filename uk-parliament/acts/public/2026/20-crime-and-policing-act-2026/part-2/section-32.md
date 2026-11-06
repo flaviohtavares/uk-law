@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32. Remote sales of knives etc: England and Wales[^c-152be5dc35c432d25a7f6649d1d85b24]
 

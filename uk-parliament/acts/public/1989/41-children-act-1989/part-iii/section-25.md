@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (96).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 25. Use of accommodation for restricting liberty.[^c15162511][^c15162521][^c15162531][^c-585c511fa9d8d76e008d9806941a3b1d][^c-684a13a1bf37a941fe3dcbe1e1eb656a][^c-16b9579778bfabb7cd58b684b7178118]
 

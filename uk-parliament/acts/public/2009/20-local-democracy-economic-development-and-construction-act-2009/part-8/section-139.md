@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 139. Requirement for construction contracts to be in writing[^c-43690f71ddce1d815e4405520159df90][^c-60719d7e0dd4723324313c6b12ac188d][^c-d794430d79149aa7f1b3d2f3d4bb925c]
 

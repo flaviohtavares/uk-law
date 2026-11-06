@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 17. Enforcement by trading standards authorities[^c-aba760fee0e32d92daa9b46ace4f13ae]
 

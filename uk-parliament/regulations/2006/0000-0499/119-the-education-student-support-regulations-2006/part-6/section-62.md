@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 62. Students falling into more than one category[^c-cffd2a59a6d9484badaf029d5fc2160a]
 

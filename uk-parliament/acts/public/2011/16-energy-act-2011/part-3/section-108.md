@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 108. Carbon dioxide pipelines: powers of compulsory acquisition[^c-810ff4da4159c1feb404da9ea3675e5c]
 

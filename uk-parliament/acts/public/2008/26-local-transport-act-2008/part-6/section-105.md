@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 105. Joint local charging schemes to implement policies of ITAs[^c-a812225c4b9f6b92f92d15d38801f0f3][^c-d3070ed19dd17a2711b3fc1212b18b08]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 172. Removal, etc. (winding up by the court).[^c15573551][^c20430391][^c-5be07a42e052644112aba8b303b316c3][^M_C_9d0bcfc7-afab-447b-b03d-99eb4ea47b6c][^c-d56b7d91104a81b9838cc2c597193a37]
 

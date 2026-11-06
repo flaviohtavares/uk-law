@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 362Q. Registration[^c-09861482c007ada2ae32bdd5ea3f2555][^c-0210d8e0aadc5604ca924915cec24bd5][^c-3de4c3b300c2d60220830e5e8d325676]
 

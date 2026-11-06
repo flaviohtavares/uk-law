@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## Schedule 1 — National Underground Asset Register (England and Wales): monetary penalties[^c-41ce62137846b0ba3049b6503527e316]
 

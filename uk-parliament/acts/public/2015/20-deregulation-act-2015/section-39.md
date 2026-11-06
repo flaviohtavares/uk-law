@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 39. Requirement for landlord to provide prescribed information (affected by repeal, see note)[^c-81864090582fb47c65dd73408791e722][^c-7275c2dc22c74cf861eed729bf034a7b][^c-ba443a201038ad76c217678840dc9840][^c-ba443a201038ad76c217678840dc9840]
 

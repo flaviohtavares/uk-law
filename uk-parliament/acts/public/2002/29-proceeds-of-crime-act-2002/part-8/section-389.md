@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 389. Further provisions: general[^c-8dfeae3ca6af6aab9321706a72c00eaa][^c-450af9a20dcf55e5426ce93ba8b54a50][^c-1c8d818736478aa9ba7f9044c05950d0][^c-10f244e24c6ed88d3497377773605423][^c-c25e3c150c18a138f771f50ad0937c0b]
 

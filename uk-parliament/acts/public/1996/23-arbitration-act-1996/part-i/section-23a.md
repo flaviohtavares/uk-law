@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 23A. Impartiality: duty of disclosure[^c-dbee208b299c5f128ea7e2640205f0a4]
 

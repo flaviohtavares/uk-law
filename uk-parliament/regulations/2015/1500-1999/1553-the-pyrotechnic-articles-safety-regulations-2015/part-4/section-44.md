@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 44. Approval of conformity assessment bodies[^M_E_413c1c7c-6700-433d-cde8-99698fe17017][^c-dc440bbe671175c03761b7492e5b2754]
 

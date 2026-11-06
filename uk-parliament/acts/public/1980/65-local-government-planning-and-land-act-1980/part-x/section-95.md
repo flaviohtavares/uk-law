@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/65
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 95. Registration of land holdings.[^c-afa9be455971167deec6998ab901e509][^c-d4a083dcdfb52d069a6470b9ed4ca16c]
 

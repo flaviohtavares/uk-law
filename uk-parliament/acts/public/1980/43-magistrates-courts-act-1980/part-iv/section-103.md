@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 103. Evidence of persons under 14 in committal proceedings for assault, sexual offences etc.[^c-233d4ecee1d05e36ee5a14bd349d9c28]
 

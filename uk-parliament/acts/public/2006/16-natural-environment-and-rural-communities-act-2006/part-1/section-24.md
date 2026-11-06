@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 24. Grants[^c-9d3ecc9523cacaafb2ebb6555303d3eb][^c-3b851c9de0fe70a5b198904ca1ecc627]
 

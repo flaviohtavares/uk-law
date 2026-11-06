@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 9. Category B retirement pension for widows and widowers[^c-97ba13d60ea6e380d55687d6203d2e98]
 

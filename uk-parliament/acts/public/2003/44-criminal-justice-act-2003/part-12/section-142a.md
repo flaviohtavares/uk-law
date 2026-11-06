@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 142A. Purposes etc. of sentencing: offenders under 18[^c-470fa263999d1495d83450fb96d79cb8]
 

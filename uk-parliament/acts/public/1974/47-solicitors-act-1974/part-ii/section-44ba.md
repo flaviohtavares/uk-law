@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/47
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 44BA. Power to require explanation of document or information[^c-3439d3ee3237ccbc9ef483a8ca5fe1bc][^c-c07c30c577233d8573d0764aaa0027ae][^c20569011][^c19662871][^c19662701]
 

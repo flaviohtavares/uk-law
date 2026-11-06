@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 110. Protected site strategies[^c-46f174f3bc282c992580bfb5ab3fa969][^c-a643ee63666cac6592eedee9ac0a9f1a]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2026-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/1978/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 16B. Financial assistance by the Secretary of State to voluntary organisations.[^c14160451][^c-a8d138824d6da570e20d7d26a96eb9a1][^c14160431][^c-046ff196cf20fcbfdda9dbc11f657411][^c14160441]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1974/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 59. Duty of responsible authority to keep accounts and to report.[^c7814491][^c7814502][^c20459791][^c-0fe72d9a6077d9cfd7b83aac041509d3]
 

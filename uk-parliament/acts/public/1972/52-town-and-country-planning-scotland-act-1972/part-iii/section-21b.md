@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 21B. Simplified planning zone schemes: conditions and limitations on planning permission.[^c14914821]
 

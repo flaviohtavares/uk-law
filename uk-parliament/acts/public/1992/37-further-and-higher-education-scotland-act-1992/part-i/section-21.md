@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-02-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 21. Directions by Secretary of State.[^c-52d2e2aca1d17fa94b72daaeffdf2532]
 

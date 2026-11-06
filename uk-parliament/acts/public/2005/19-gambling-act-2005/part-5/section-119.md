@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 119. Revocation[^c-19db83a45409acc06268949ced86c1a2][^c-0d35cf6ff7100add4087b6464eb39ff8][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-c9eb6008395a70b774ec6043718c2440][^c-e1f6e585bac667309e250f830e864ec8][^c-200ded5cf36fe0a7f6b74c1bcd48396c][^c-900a658546e2a9307c8a62e02f7f9b16][^c-db6a924b6c60dc1ce719f4a0f0ef546f][^c-e1f6e585bac667309e250f830e864ec8]
 

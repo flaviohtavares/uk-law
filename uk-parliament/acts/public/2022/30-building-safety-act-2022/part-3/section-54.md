@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 54. Functions under Part 3 of Building Act 1984[^c-7332e12ebe74df1c65629c12286e9f3d][^c-fb5a3c1eec84328d32211c05d531411f]
 

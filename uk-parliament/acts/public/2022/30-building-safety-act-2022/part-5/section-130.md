@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 130. Building liability orders[^c-cc9e396ee815f9e6d3bae1555cea4af0][^c-a348a12b42654ce3cc2b8346d3ba515a]
 

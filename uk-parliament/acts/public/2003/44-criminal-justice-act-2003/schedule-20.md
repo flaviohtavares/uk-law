@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 20 — Prisoners liable to removal from United Kingdom: modifications of Criminal Justice Act 1991[^c-a9d3ebc2c5d67a8384f1489955e28626]
 

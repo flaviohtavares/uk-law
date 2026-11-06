@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 400. Meaning of “associated offence”[^c-fd3dd016cc81f359f2f97d7a984576cb][^c-ac4c2e7ae5d608d6942cbf9a1537aeb5]
 

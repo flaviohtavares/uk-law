@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 217. Power to provide for court review of community orders[^c-5132daa9be35bbf4617b5df000afc124][^c-1f3af7b31f2333e6f13309acd92ee15f]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 241. The period of detention and training[^c-175b2cfdc84adbc8a4c0d55026c3b5d1][^c-eca003c404d364f044cc7865c44652a6][^c-929b6d076c65504ebf82f5ccab42c9bf][^c-224bf2e90727942983a137d576d51e14]
 

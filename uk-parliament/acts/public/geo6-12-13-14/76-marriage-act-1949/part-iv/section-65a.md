@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 65A. Searches and records of information: additional provision[^c-b4a54fdcbbd27eb4a980fa32d28a87da]
 

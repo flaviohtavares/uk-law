@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2015/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 6 — Specified authorities[^c-13638ea74e91b12dd72f46fe3f09db48][^c-b5bd1a227a0a433dd4ecf3b9cdc92723][^c-f1307aa7e4c33704dcfac58c6af3290a]
 

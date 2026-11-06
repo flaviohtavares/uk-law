@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 4D (Extent: S). Power of the Authority with respect to coal mine water discharge: Scotland (Extent: S)[^c-344206386d4e1845bacbe970395babd2]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 11 — GOVERNMENT AND CONDUCT OF GRANT-MAINTAINED SPECIAL SCHOOLS[^c1400695][^c1400696]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1990/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 30. Analysis etc. of samples.[^c10204221][^c10204231][^c10204241][^c10204251][^c-e3337ca435458c228be71d972bd8f9c3][^c-7a542419eb29a40ce0dfa26721bed4c0][^c-40d3b03b297a85846b374d92d15af6f8][^c-df96a2c11b15a7a3e759d330ddc829c8][^c-0c81407ee04e56bedcc4c72fced4c985][^c-43982c756b4a730f4cca2ee3cb601756][^c-8fea5fdd5f7752f389688a7a7799d0f3][^c-00828cec57bf1654b8c461eae1e2273a][^c-358e5e47773af585e45bda49aaa0b028][^c-a96bb1ee58ababd4643813c136d89cfa][^c-25d35090c019b097c9aee1639773dc9f][^c-a64486cafe30e141c2d3e80841fa9de9][^c-878cacb19515de23daf5d552bb1bf6b3][^c-4e03a6c7e96eb7d7b1da93fe25e7ac2b][^c-6013d4b34b434871cc980f4c15dc1f8f][^c-dfde0722e976352b6f8f8c166fb792f0][^c-910918b88da461e0e5067fd997493365][^c-877dcbac7d5e293acc3dc0e8c972602b][^c-719c5e78469584c050fd7cff1bf2486c][^c-f4a76ee694d402f69a55588de9ee45c2][^c-c20177cdcb681c082458b8f9bff662b6]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15B. Functions in respect of education for persons over 19.[^c-4e5059535b48107dd51f10d100486952][^c-8e99ab1134c6bab137b77531a4c5f0b6][^c15241551]
 

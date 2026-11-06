@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 10. Sibling contact with children in care[^c-978c8f9c2312cfb3a68b46c0605739a5]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 41. Matters within Negotiating Body’s remit[^c-f92503673d480f8f25dc7a2c5ffc2a80][^c-27cb7d72f5c5c687cae1f3c1f75096a8]
 

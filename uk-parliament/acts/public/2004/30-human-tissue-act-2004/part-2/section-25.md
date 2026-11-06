@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 25. Breach of licence requirement[^c-8be92fc34947c1fe85cf19ea0bff3ab2][^c-cde0bbe707d850b26af18d55b798183b][^c-7c5f5981de41c010f9fc974592874575][^c-7fa74dd88259d8bfa1b1862c0a6bcbfa]
 

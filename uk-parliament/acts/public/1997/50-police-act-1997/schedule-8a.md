@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/50
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 8A — Offences which must be disclosed unless a sheriff orders otherwise[^c-cda1fd6d0aded7cc5666a383cc53f150][^c-07e5e45711eebd95ad99d78528a798b6]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 26. Breach of notice[^c-5b11340a21a677b584d3d9c2af599093][^c-ef32b5b88d8bad3cb158e7d8abb09d3c][^c-6d766c28621e812972795b98a3f86801][^c-277ede528cdce07b383976cd67047a4c]
 

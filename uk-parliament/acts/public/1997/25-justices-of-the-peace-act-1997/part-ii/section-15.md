@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Certain restrictions on magistrates’ courts not to apply to stipendiary magistrates.[^c19068711]
 

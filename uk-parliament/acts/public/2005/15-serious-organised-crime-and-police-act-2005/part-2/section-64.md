@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-10-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 64. Restrictions on requiring information etc.[^c-2b2384b893f4302ed5112030498f9cc2][^c-229b61980f20eb6be32c46aa5c15dec8][^c-a8faaf61725f45aa0284914e8dc2ea99]
 

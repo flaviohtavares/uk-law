@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5. Police and crime commissioners to issue police and crime plans[^c-464ec4c1fcc28728cd287615dd517f09][^c-7e7106385b6735d00652823ca22e2f80][^c-9edab88e2a30c9b9604814557990a81f]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 94. Financing of new police and crime commissioners .[^c-354fee52f19519b911ff959dfb61adbb][^c-d9132faef3cc13ca691c619555852ba3][^c-474ac107d4342b3957d95739f8a31c2c]
 

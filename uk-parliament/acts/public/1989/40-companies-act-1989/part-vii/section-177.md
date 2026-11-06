@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2024-01-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 177. Application of margin or default fund contribution not affected by certain other interests.[^c13696241][^c13696251][^c-0c29f08ac4eb469d59385026668ba546]
 

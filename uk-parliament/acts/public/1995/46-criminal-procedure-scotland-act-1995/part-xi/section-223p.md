@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 223P. Transfer of certificates to central authority for England and Wales, or to central authority for Northern Ireland[^c-ebc49b052e9802f4cc721098dcc12827][^c20441351]
 

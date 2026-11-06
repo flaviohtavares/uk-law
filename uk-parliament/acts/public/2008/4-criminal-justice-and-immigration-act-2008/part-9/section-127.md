@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (22).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 127. Investigation of complaints of police misconduct etc.[^c-45b39e2e95e1de9cd7e0da167d42d1ea][^c-f3f4d4618bd6b930b90cf252219577fe]
 

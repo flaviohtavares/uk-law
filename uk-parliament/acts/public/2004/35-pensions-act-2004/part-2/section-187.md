@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 187. Board’s powers to make fraud compensation transfer payments[^c-5d00a70138198873138b70b1a9eda3d6][^c-85813573544152d94d8068f5d8d11a27][^c-9f7630100fb0bee3a3dbda1545f54369]
 

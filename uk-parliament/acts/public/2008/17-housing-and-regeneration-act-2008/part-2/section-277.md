@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 277. Consequential amendments[^c-b561e78316f8fbfea2c3653127922623][^c-fa82f5c6fe3f505759d267b06be95c96][^c-ef1682e5446f95a4092000ce75481780][^c-2dcdfeb804c5002bf1f185e9cdc18a0f]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 88. Exception for certain consensual sexual activities between children[^c-4ac29cc5ac6f8be3383a0a6ffdded390]
 

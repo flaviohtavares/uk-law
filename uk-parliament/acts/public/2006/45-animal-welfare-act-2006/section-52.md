@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 52. Conditions for grant of warrant[^c-bc30e0e0afb7aca723072f47ee57e377][^c-ed45b212b975e961698670bbc6aa13ba]
 

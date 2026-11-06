@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 101. Travelling Expenses and Remission of Charges Regulations (Northern Ireland) 2004[^c-ec85dcd0d69f1de8301a16278812488b]
 

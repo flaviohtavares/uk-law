@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 28. Expansion of NHS England’s duties in respect of expenditure[^c-b93a2b01909d51513f7af5293757c445]
 

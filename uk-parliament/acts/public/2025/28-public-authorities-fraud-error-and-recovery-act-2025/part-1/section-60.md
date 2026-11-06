@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 60. Penalty notices[^c-d74f9e8bcf27a66cb1be1903c65a962f][^c-2cf79ce637a36966178699f493f18925]
 

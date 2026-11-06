@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-12-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 87. Financial assistance with respect to formation, management, etc. of certain housing associations.[^c11842191][^c-8be800ee757ea7bd80654295b3653f1a][^c11842181]
 

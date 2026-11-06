@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 122. Prohibition on disclosure of HSSIB material[^c-e1b5b66f7d1a5f509611e3f3590a2050][^c-393910877b1522bc3c5f90fa46656596]
 

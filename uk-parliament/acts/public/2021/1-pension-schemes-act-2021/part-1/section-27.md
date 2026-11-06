@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 27. Requirement to submit supervisory return[^c24459041][^c-f19a7287377855e1b97a25a364139c7b]
 

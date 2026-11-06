@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2025-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 70. Disposal of referral by children’s hearing: supervision requirements, including residence in secure accommodation.[^c-3867fcb93b6b746a0f2e2ee95180cf25][^c13126761][^c-8cdc7c1aba741c1decee0096438a073b][^c-8d459ea3fa37a641ced7ed3a532a1638][^c-c32dcb1102f215bdbedc0b73f474a026]
 

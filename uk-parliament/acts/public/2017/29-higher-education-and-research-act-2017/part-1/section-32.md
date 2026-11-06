@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 32. Content of a plan: equality of opportunity[^c-2321298cadfdc84e8e3fad1261f17c07][^c-a58ec4defe5395f92ff0f5137cc3f971]
 

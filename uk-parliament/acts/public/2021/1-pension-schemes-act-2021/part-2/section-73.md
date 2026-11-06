@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 73. Benefits adjustments[^c24480821][^c-94fa6fcbf1c9540910ebb2e373897e8d]
 

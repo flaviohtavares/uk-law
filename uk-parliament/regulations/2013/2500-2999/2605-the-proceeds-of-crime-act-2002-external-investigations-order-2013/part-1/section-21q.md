@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-04-26.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: E. W. N.I..
 
 ## 21Q (Extent: E. W. N.I.). Costs orders[^c-b1ebacd9b1254e839f0162f60442e9bc]
 

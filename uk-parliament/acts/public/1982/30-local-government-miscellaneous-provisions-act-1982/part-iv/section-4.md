@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 4. Closing hours for take-away food shops.[^c-f01a0b35f728046097d822afdebc7f08]
 

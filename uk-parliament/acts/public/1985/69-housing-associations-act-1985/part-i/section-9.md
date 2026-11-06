@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2023-12-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 9. Control of disposals by unregistered housing associations[^c-1d7be442e67616a923464f0939d645d7][^c11833071][^c11833061][^c-611df0d43eff0911394754e1f181d659]
 

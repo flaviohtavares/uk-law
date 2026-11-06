@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 21. Authorising of publication of banns and solemnization of marriages in churches and chapels of extra-parochial places.[^c6280091]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-04-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1975/71
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## Schedule 14 — Amendments of the Employment and Training Act 1973[^c890622]
 

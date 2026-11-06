@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6. Duties as to reducing inequalities[^c-e7ba5f31be991f684cb325bb11b22ba1][^c-46ea4cd2cd93e1289dac8d07124642fa]
 

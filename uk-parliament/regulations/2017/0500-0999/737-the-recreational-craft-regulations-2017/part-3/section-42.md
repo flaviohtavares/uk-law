@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2017/737
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 42. Applicable conformity assessment procedures[^c-2944f5152b237dc7a234b5b2b91b2045][^M_E_017b7d98-4518-4255-ab29-e484194e5993]
 

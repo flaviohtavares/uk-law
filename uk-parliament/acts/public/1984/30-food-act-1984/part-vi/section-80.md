@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-08-18.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 80. Samples taken for analysis.[^M_F_e6032e93-5ac3-4306-f180-a02406b27959]
 

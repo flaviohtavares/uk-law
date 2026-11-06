@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 21. Powers under sections 17 to 20: consultation[^c-2905dac2ad97b68f520501b5fd5ec0c3]
 

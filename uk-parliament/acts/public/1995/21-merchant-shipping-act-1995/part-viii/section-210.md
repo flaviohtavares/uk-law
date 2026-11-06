@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-06-23. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/21
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 210. Light dues leviable by local lighthouse authorities.[^c14527941]
 

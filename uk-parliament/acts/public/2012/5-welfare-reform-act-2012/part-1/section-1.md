@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 1. Universal credit[^c-71a8d16d80571b56849abd085334d33a][^c-100f2432153b7d0afac90ffbc1df46e0][^c-f0c316d9d1b0dfd0e226e5ef4e030922][^c-355a52ce476c712359c27b7bdb7b76b8][^c-a32d44b999653a8048fcaa961e19beb2][^c-bb91c25aaa44e5909c086e22d0afad06][^c-3422ee7fe0fddc12e17f994653a02f47][^c-e359887d88bf9fb725796cfd0e47d786][^c-c729a20c33d8e015c8d194b92be49004][^c-c6631f2dbf2f1c7dca1dff18d3889915][^c-1322ea315d2d8771098a8f76c56aa634][^c-125e4879c6e62701421669d246cbdbae][^c-f0b4c6a54e61746ca8497b453ce7cd5f][^c-6ea79f1fd0d7f899ed483407479925c4][^c-d370bdb918d4e36dc86be5f57cfadb2d][^c-c87cc5d44ff33572f4ea0cea2efbe32b][^c-5538f928d56e74737a9b61843b452c2c][^c-73b7d6302a6e2ccf5a6af05ee66f357b][^c-878ebf0f3ac4e4824627c2f5abeef2a6][^c-f0c316d9d1b0dfd0e226e5ef4e030922]
 

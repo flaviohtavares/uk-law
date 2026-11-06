@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15. Power of CIECSS to impose monetary penalties[^c-1433c3a60882d8b1f03b94b9c8316122]
 

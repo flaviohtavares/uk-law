@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 34. Mitigation of penalties, etc.[^c-b549ec49752ff5e3a95f0986755108bb][^c-fc55e5d8c7b17615bea18c14b7d2da5c]
 

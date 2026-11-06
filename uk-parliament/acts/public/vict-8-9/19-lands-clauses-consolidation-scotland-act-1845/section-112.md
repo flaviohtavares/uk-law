@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2017-04-11.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 112. Where part only of lands under lease taken, the rent to be apportioned.[^c5627111][^c5627101]
 

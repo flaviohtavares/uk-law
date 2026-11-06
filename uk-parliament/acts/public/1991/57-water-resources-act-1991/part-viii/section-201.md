@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/57
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 201. Power to require information with respect to abstraction.[^c-beb4824bde4a2e18e657f3ebb52da4c9][^c-194bad99f1c66b1e0531a9011f211bdc]
 

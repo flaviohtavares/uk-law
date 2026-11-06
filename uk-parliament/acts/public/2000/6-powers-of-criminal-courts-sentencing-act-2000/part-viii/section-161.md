@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (106).** Text as at 2024-05-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/6
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 161. Meaning of “associated offence”, “sexual offence”, “violent offence” and “protecting the public from serious harm”.[^c-600ab49b5289a0916bb1b694c0b91580]
 

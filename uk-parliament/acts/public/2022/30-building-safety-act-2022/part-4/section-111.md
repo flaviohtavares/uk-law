@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 111. Building safety directors of resident management companies[^c-ef1c7506ac5a9c33c32de24300fd7db4][^c-12fc859b3de9631e7f6df0e5cf131a42]
 

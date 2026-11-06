@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/16
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 56. Assistant inspectors and staff officers.[^c-7b2cca9c216f872d0ebfce74d98db39c][^c-fbf718275888cc12b7e7ee0386263d97][^c-096c89e8d7c34f0dca282bc8ef7abf11]
 

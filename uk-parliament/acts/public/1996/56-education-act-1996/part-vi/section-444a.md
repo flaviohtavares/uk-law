@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 444A. Penalty notice in respect of failure to secure regular attendance at school of registered pupil[^c-653cae3f1bdc21ea24b664c89ef350a0][^c-0c56158767724e050f354884c7742863]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 18 — Procedure in connection with Orders relating to Footpaths and Bridleways[^c14949601][^c14949611][^c14949621]
 

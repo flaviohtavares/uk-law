@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 48. Operational matters in relation to approved bodies[^M_E_db0d30bb-dacb-4d99-e452-5538311217a0][^c-dc440bbe671175c03761b7492e5b2754]
 

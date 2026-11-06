@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. NHS Commissioning Board renamed NHS England[^c-46542ccaf88b354af693e63cd0b84cc1]
 

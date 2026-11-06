@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 46. Applications to vary[^c-95d2c0956a28c2e020038f91bab2ff06][^c-1f5b0d12e29bedf399d7c75145e7e568]
 

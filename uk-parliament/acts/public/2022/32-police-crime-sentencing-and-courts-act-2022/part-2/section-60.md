@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 60. Code of practice relating to non-criminal hate incidents[^c-ba1a406bc4e3b4f80519b371bc3a6d9a][^c-e1c9167cd00ff2c465986668aacd6e52]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (189).** Text as at 2025-01-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/54
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 11. Provisions supplementary to s. 10, etc.[^c-1890eefa90a8d9ffb75addcf6a91acf2]
 

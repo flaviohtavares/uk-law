@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 26. Amendment of the Electrical Equipment (Safety) Regulations 2016[^c-5a85bb01170957d08f330a2551afa869]
 

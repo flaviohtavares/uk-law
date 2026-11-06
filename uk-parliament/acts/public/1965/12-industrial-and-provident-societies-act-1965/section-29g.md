@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 29G. Authorisation of use of official seal .[^c-34c362397c3355edb42a2aea3f55402b]
 

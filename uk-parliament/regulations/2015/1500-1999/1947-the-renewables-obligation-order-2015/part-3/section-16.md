@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-03-27.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 16. When electricity is to be regarded as supplied to customers in Great Britain or Northern Ireland
 

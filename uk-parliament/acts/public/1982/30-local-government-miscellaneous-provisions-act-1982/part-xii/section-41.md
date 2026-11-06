@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1982/30
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 41. Lost and uncollected property.[^c2552491][^c2552501][^c2552511][^c-e89ede292977482786551e4dff38103a][^c-f5b0fc0643dd83fba5e0dfe4190211c6][^c-e8898e3fd9e0b302d7deeb820efa2d5c][^c-267a34ffd2a94bcfe9c6100360a779e4][^c-5d384f3a441c4e793524b64671ac4350][^c-aa54bbf2af6182ea427416fd89ef8c8e][^c-c2b11bd4ecda28f3bdd6910060bda5f4]
 

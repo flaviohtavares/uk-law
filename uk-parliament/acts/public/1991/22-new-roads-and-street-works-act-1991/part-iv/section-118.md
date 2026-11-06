@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (403).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1991/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 118. General duty of road works authority to co-ordinate works.[^c14150371][^c14150381][^c-7664f8a2b381260a58ff21ea85d1931b][^c-e48ed280caa5d52dfcba97c1e03d01e1]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2026-09-21. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/13
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 67. Disqualification of person holding office as police and crime commissioner[^c-14fd6a1dab7910db76f9585b89f5ab3c][^c-0dcf683e5f97f882b10d269fa48f2b67]
 

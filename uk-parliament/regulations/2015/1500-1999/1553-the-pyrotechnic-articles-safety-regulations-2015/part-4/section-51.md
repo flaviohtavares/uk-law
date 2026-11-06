@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 51. UK national accreditation body[^M_E_fa0ca97e-064e-459b-fa08-e5fbd9cec82b][^c-dc440bbe671175c03761b7492e5b2754]
 

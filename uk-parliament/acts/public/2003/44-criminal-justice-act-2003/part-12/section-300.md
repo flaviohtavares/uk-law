@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (151).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 300. Power to impose unpaid work requirement curfew requirement or attendance centre requirement on fine defaulter[^c19082821][^c20172771][^c20172851]
 

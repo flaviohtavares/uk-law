@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 85. Co-operation as regards provision of 14-19 education and training[^c-5fd6208654afe478fe664f3e1eb126b6][^c-eb3fcca329336db9465783d4e0cfa105][^c-c292c55eaed772ff90c9b6336346f4d8][^c-bce93a332528c061de37e8ae3b4c3ff2][^c-a40f24b65807082e3e18e62cb41f94e4]
 

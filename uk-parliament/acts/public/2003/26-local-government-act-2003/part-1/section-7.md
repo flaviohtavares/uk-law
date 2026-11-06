@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 7. “Credit arrangements”[^c-06998675d5886c916c10501e24464b5f][^c-a731a2acd702985dc4c87006c5d67fa2][^c-ef58782d519242b5c76d4c3dea50c8de][^c-4d7be73f71b6b96e71027ddd1f955392]
 

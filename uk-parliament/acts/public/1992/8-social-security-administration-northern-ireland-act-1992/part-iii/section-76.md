@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (186).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 76. Child benefit - overlap with benefits under legislation of ... member States.[^c-1e2592248f9b1b5fd117a726ef20b901][^c-b244c758d46bfca9e250cfab1c1eb7fb]
 

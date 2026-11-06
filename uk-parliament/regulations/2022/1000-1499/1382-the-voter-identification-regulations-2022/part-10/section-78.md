@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-11-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 78. Amendment of regulation 30 (tendered signing sheets)[^c-9839668ea83eef57ffd3a80ddce7fcd0]
 

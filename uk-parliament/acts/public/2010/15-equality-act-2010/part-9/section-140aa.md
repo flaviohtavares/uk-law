@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (10).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2010/15
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 140AA. Extension of time limits because of alternative dispute resolution in certain consumer contract disputes[^c-3d675f48f4970496870ad4ac7516e7e8][^c-d7ff0ed2231d7fc5b9fc5f581ac7d728]
 

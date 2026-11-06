@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2023-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 157. Appeal against a certificate or a waiver decision[^c552129][^c-a09382045218daee80cc1c9494e50c8d][^c-3f55cd2f43ebdd6da689dbec965e4653]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 20. Consecutive terms of imprisonment[^c-d606a4ca5da73a7e343161b1ce09b054]
 

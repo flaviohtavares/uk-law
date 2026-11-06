@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 44. Power of direction: investigation functions[^c-26fdb7a151b60fdeb7f584c7633701d9][^c-01c39cfa6c8882b538e850745a40b825]
 

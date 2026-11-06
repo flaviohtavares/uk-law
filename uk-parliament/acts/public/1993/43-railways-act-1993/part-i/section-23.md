@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 23. Designation of passenger services.[^c14100331][^c-f0d03d0af7a270ee226f33fcebd66a22]
 

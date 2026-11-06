@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 319. Great British Nuclear’s objects[^c-df3fa031600f803ac6fa72f4fa1eaf18]
 

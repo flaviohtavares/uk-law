@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 266. Release on licence etc: drug testing requirements[^c-4fc1cd857f71449f121f588a9738ca35]
 

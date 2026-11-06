@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 20. Employers to take all reasonable steps to prevent sexual harassment[^c-4b6bc75516a4ed28e0e4e774ce8e61af][^c-f4939ecfb70aee7705737b418955d9b5]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 47. BID Revenue Account[^c-57f5a9d9fb82d15fb20d56393ed67c48][^c-4e15f418e848eb319f908e07e0321b93][^c-3e2b937793637045d4b193e54290d011][^c-4c547880d60c75f3a6ed5074a5b2624a]
 

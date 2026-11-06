@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2015-03-06.
 >
-> Extent: England, Wales, Scotland, NI.
+> Extent: England, Wales, Scotland, Northern Ireland.
 
 ## 1. Citation and commencement[^c-1695c73981d439d7e2532021d51b1be3]
 

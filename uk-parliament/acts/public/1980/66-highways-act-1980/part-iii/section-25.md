@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 25. Creation of footpath , bridleway or restricted byway by agreement.[^c13419451][^c13419461][^c18592501][^c18559401][^M_F_8677c4eb-52b7-4aec-cccc-d5d6904b6d5e]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (63).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 159. Abolition of financial plans of Passenger Transport Executives.[^c14881841][^c-afa4d55676cdde2fa792f5bd827fd9fe][^c-c05adb8597f2acc398b3fefbd54794ff][^c-ba53aa819dfa66b6ca6177e0cd938ee3]
 

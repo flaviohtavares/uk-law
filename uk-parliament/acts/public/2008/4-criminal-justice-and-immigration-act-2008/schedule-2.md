@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 2 — Breach, revocation or amendment of youth rehabilitation orders[^c-7265b82c02d86e6894c99208444af3fd]
 

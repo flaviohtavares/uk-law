@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 18. Duty of the designated individual[^c-a0202f92c5c6c14ed50e446afb47efc9][^c-afab3d38dcd32d6a59d379e5d3865847][^c-cbbe411540a0ab4890e229c8853d0e2c][^c-4d70e11b76547dfe6b6c41d79f28137c][^c-2d2d8e48ea7a99dd982fe11bcc3f107a]
 

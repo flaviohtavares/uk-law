@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 98. Orders and regulations under this Chapter[^c-50636edd8983f5f29c56c119cdb5d79e][^c-50fc869339251460055289aafa825917][^c-77fa4042dd87be201ea17f7ab100c5f8][^c-e10846f34bb10465b04f71b1cd65cc93][^c-57cc28dd9e151d559a8335aae8cab0d2][^c-14fed47c7f6e1c26b7c96cfdcaa1e941][^c-14681a348d3f44f5535328b20e185fd3]
 

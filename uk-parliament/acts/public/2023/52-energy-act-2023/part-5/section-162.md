@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 162. Designation etc[^c-778e4e354634f3a645ef82ce5327ae23][^c-9ff8ff3c3d562eaeda84ceadc263f2a1]
 

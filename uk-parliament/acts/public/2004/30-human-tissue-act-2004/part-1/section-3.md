@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 3. “Appropriate consent”: adults[^c-73da5e8a62277e954e35c9e75d9a213b][^c-c53d3cea11a733fd35b6bb8ebffd211c]
 

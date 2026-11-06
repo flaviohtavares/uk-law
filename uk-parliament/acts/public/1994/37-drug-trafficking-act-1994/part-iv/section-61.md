@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2016-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1994/37
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 61. Extension of certain offences to Crown servants and exemptions for regulators etc.[^c8345221]
 

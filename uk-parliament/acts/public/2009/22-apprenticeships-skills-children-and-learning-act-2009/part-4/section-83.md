@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 83. Power to secure provision of apprenticeship training[^c-1377553b5c9ae54015fae28b7c28916b][^c-e4f5e18250661815ac16933e298383cb]
 

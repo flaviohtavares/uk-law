@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 29 — Residential tenancies in England and Wales: protection from eviction[^c-11a72c4d54d8df07ff857ee748e807b7]
 

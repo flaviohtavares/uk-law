@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 173. Duty to keep developments in energy sector under review[^c-3f4e2bc80498306623ea806519e5bcde][^c-4e7fc2e53c86e73462d97a79f73db533]
 

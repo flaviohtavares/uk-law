@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 11. Amendment of the Noise Emission in the Environment by Equipment for use Outdoors Regulations 2001[^c-2fb6974b9d140214648a1a35a6673bb4]
 

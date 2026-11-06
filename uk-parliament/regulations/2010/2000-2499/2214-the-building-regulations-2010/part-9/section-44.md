@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (33).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2010/2214
 >
-> Extent: England, Wales.
+> Extent: England; Wales (the versions of this text differ in extent).
 
 ## 44. Commissioning[^M_E_ac400792-e61c-4fc8-9bc3-c0676d915f1c][^c-bd4cdaa541b2a2aa086ac7c6b9580c13][^c-7ad0f0e2ef90d88cf34f363a2540b98a][^c-3f72cb62454cd1212c0d4e2db48f51d2]
 

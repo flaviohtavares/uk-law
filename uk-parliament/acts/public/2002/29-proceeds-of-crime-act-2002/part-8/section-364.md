@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 364. Meaning of customer information[^c-749e610edb0ef1dd6790a44756b7852d][^c-4645abd317f5f7a1a9e087e3c3f823c1][^c-89b9c233fbbeafce5f32701e1c756b49][^c-14447de71e800c27edf3d554eccd8c67]
 

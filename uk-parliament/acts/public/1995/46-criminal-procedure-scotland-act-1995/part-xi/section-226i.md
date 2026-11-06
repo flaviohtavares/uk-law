@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 226I. Enforcement of fines etc.: interpretation[^c-ecd488155fe18cb1eafbc68fb6268255][^c-f0fba77bce7718efdd12d2d572879251][^c-4c3a64a1877232fd17741bfd3c817bb3][^c-10423de86af063d21966bdb35bc811b5][^c-b7fd499c57d328e566301ce82f375bbb][^c-c01c6d61c5a8d1bffc0c2b2ad2f68239][^c-b4d645ce63252c9b2311552792044aba][^c-e5d9878925a3df4a669d6ee01223cc36][^c19923231]
 

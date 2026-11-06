@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England; Wales; Scotland (the versions of this text differ in extent).
 
 ## 3A (Extent: W) (affected by repeal, see note). Immobilisation after stunning (Extent: W) (affected by repeal, see note)[^M_E_88fq0m7i-q5tt-4pcn-sets-67c1bc768229d][^c-29e8ef3a5d57f823261f46df805d0311][^c-29e8ef3a5d57f823261f46df805d0311][^c-29e8ef3a5d57f823261f46df805d0311]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 26A. Unconnected multiple employer schemes: requirement to submit annual accounts[^c-3eba2932e953f74db5a6c73334fa9736]
 

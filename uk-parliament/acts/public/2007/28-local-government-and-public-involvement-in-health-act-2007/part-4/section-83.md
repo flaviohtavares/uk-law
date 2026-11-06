@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 83. No review being undertaken: duty to respond to petition or application[^c-6214ed9c31b6d3b3496ec8cc4aefafc2][^c-34bd74c656c2a6b27fd596ba8af98bd6]
 

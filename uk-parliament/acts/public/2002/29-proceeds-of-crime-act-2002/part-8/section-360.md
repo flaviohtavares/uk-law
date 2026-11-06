@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (210).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2002/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 360. Statements[^c-2b4f3d9b5e9c3fe43a2ca01da6085879][^c-1c8514ac7dfc02355ce2d4623e541dd8][^c-8aac48b2fd62a8ecac2a9f19e9a8c650][^c-caf16d0c981bfb37158b01fbd0c17a71]
 

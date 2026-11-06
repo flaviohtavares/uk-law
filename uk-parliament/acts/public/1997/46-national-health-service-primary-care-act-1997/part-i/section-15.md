@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (26).** Text as at 2007-03-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 15 (Extent: S) (affected by repeal, see note) (Extent: E+W) (affected by repeal, see note) (Extent: S) (affected by repeal, see note). Liabilities and obligations in relation to deputies. (Extent: S) (affected by repeal, see note) (Extent: E+W) (affected by repeal, see note) (Extent: S) (affected by repeal, see note)[^c-1840bf2f2b5bad1b854c96361c7b02a2][^c-b7babe81737a171c093fd2c5cce1afdb][^c-c7ca9c43dc3c89debb9f9b57d9f45be6][^c-1840bf2f2b5bad1b854c96361c7b02a2][^c-b7babe81737a171c093fd2c5cce1afdb][^c-c7ca9c43dc3c89debb9f9b57d9f45be6]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (5).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1971/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 24. Deputy Circuit judges ...[^c-c47482f0f6abb326dc31b47d2e4881b3][^c-b05f57c6290eec59b752a0fe034ec613]
 

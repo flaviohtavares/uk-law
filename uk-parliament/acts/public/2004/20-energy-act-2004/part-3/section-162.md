@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-09-18. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 162. Restrictions on making of ordinary administration orders[^c-6880a20020ef06136a8c340fb5c0f972][^c-6ecbca2562a3c5581953b7d8588ba2fd][^c-90a8d97610a82fef4912cd54b0422e70][^c-9a9ba38510a5e178498ff389b22b0a31][^c-a84a7e49776816b972279dde4dee8bbe][^c-656e02a0185857c795b0c6d274c17389][^c-bca560f038162d6e6d3085e8859eb9d2][^c-5f2612a932ea39cbd9eeade118f49d7f][^c-251a5224c4b519bdf6490ef070071a5c][^c-dd345823bbc29c278b5dd01448e13e50][^c-85991a34f53dacc4468f4e2e40b4ff29][^c-5f2612a932ea39cbd9eeade118f49d7f][^c-dd345823bbc29c278b5dd01448e13e50]
 

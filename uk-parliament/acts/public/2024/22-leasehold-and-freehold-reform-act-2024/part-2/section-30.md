@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 30. Eligibility for enfranchisement and extension: specific cases[^c-bae72d5b1c02149b27099e414fc2dba4]
 

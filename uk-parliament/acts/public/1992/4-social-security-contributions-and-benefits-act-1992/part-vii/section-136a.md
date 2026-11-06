@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (139).** Text as at 2026-07-08. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 136A. Effect of attaining qualifying age for state pension credit (affected by repeal, see note)[^c-92fd9207b53360c9e1de62a076a9e9ee][^c-67b23406b28006f5c07c2e1260fcd11e][^c-67b23406b28006f5c07c2e1260fcd11e]
 

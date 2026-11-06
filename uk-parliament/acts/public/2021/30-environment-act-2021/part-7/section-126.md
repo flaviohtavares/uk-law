@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 126. Defences to breach of obligation[^c-8a35cabf1afaac3f488a95e38691090d][^c-854fdf930d45846ec33ec8814012a7ea]
 

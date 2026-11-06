@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 136. Time limit for certain offences.[^c14470801][^c20424941][^c20426931][^c20426971][^c20427431][^c20427631][^c-8618f9f0f83d1271df0443decf56362c][^c-0390ace93c26a7ac2938abd6a84de41e][^c-878237ec5f3cbd4b35aeb52e05f795f6][^c-2edb0f2e5d30dcbd319ccbc1bf2debab][^c-47395c4e77567b3f238fd2d042e51900][^c-93db6ff88f9927f85e977c5282c97898][^c-9b8ac204cf2cc084059ab35640648fe4]
 

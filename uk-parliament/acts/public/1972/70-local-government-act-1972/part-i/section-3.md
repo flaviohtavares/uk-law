@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England.
 
 ## 3. Chairman.[^c19884601][^c19884581][^c-76adb4e43cba1d02b011db2ced210944][^c-8d836fd8f45b44924a683047973ec31b][^c-170c148d3481d407d53a59cfebb59e87][^c-21bf259f4b090aec57a688402020d88f][^c-6f5d01699354af5613b9a2f3003fe0fa][^c-1f688c47ab8fcddcff9255944405d9ea][^c-9719315554b50ad798c53d31c426878d][^c-65d650373fea07acbdfea19d9f1631a0][^c-8f1af356679acfb7ac18bd8982893555]
 

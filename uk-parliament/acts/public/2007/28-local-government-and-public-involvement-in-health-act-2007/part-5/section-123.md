@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 123. Joint overview and scrutiny committees[^c-ba89acc705ae06ce9395318b64656338][^c-053f3d9d3e00c8a09b3e09a1eb21c896][^c-de1e04d1d9b0bc92d19003a542fc01e6]
 

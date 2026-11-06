@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 12. Deduction of fees from salaries, etc.[^c-3006d573236b28f3024c127eaf6cf603]
 

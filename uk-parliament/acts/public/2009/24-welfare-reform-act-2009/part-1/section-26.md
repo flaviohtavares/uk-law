@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (25).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/24
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 26. Repeal of sections 62 to 66 of the Child Support, Pensions and Social Security Act 2000[^c-bed9e55d73f24d8e133c8fc217994b32]
 

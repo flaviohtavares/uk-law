@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-04-26.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 63. Account monitoring orders[^c-0e3842f6be14db8ffdfd22f807d980c9]
 

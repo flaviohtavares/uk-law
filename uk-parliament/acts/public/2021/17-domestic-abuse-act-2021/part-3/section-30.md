@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-03-25. See https://www.legislation.gov.uk/changes/affected/ukpga/2021/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 30. Remand under section 29(8) of person arrested for breach of notice[^c-dfd4fa71202700f72d070111178f35f5][^c-9a82934606eda5dba4f82f487112fdc5][^c-3a9c1966b2bae956aff2f551b5be34ea][^c-9bd1a79b495f01190d2bdf2ff90cce2a]
 

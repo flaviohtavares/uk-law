@@ -14,7 +14,7 @@ summary: ''
 
 > This law has been repealed or revoked.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 76A. Public authorities: general statutory duty[^c-16c4161f5cf6afbb4b3e7582d1a452e1]
 

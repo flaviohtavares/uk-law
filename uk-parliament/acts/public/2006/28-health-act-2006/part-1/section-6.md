@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6. No-smoking signs[^c16418391][^c-a018721394b970ab76476ab1b31b9da2][^c-32af3e290a4c9a179f704f534a087368]
 

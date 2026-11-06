@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 94. Estate management: sales information requests[^c-1758ef4edd40c16e5d0a0d4fd008ac68]
 

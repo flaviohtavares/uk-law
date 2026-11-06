@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 213. Power to extend time limits[^c-6a8d6a2eaa6840f319b6a5c5f0c47b3a][^c-1497f6a23ef6c07d8b16b1a0b4bc33c8]
 

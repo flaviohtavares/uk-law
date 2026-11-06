@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 68A. Unconnected multiple employer schemes: ability to pursue continuity option 3[^c-7115be281a5c169d0ac9e1f776855891]
 

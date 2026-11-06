@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/8
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 195. General vesting declarations.[^c950195][^c-be5c09b8b8c025323725bb626d798e19][^c-5a87ba4b5076c2fbe444b90a68ecccb2][^c-7ea628ce9e98543870d9413e0c669b6d][^c-6840003209afb8ed52b87797e0d46af0][^c-1e42285bbb20989dca5768170544208e][^c-10b8ec4ea3ce35dd348ebec14cfd9713][^c-9aefa6fb953aa21bc5b3dab7935ba369][^c-935091ef9d16de849f913aa9840e20fe][^c-6f735fe9c2e10bb6e4f313f473a54f75][^c-9da04ec90297068123cc3837d9188004]
 

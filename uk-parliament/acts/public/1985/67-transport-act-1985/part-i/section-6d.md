@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (54).** Text as at 2026-06-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1985/67
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 6D. Applications for registration where an enhanced partnership scheme is in operation[^c-28711a4097679fd646c35e578df27f95][^c-29c8323716e26d9d3fe79d912962da22][^c-cb64e4f430f674c1719be0ec14ebd4de][^c-28711a4097679fd646c35e578df27f95]
 

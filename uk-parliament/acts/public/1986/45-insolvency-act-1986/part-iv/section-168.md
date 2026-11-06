@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 168. Supplementary powers (England and Wales).[^c20430271][^c-ba9923803bbf3e12ba1bd16a09a0f199][^c-d42c95f368c806f53e80c7334bd5b6c3]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 67. Domestic property[^c-85cb4c060c82afe3565343853ecb3cb8][^c-a672dbbedeb637a39dd66982278c0925]
 

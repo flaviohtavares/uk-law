@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. Citation, commencement, extent, application and interpretation[^c-d3a787a9513caf4a5f4ad0152c4df983]
 

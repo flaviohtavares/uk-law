@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (71).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1983/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 9C. Removal of anonymous entry[^M_E_c49a2287-4ca9-49ba-de8e-5fa04e187ab0][^c-64468661ca1cc436f5ce108153d5f6ec][^c-5d4854e229393a80849da6697eb4334e][^c-5cac7bb6023c7a704656be85834eee40][^c19419261]
 

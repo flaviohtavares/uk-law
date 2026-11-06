@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 214. Payment as alternative to complying with certain energy company obligations[^c-ad086af17aff317cd69b889dec6727eb]
 

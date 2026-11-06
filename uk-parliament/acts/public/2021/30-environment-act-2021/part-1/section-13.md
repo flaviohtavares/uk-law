@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Renewing environmental improvement plans[^c-d85dbb436a18cdafe4653450d05d3341][^c-8c39a63bcca86ae808e4dc2f484b0db1]
 

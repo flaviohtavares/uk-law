@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (154).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland; Scotland (the versions of this text differ in extent).
 
 ## 96A. Offences committed in a country outside the United Kingdom[^c-a664146b9713b6c19e0ea2b71477c42f]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 97. Construction of “occupational pension scheme” and “employer” in relation to superfund schemes[^c-3c8632b052cfb0116e18961c504d400f]
 

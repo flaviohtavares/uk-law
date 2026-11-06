@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 141. Restriction on planting of trees etc. in or near carriageway.[^c13425901][^c19867631][^M_C_533f5cd9-d90c-48ee-80a4-adefc2e2a661][^c-22df68f8242c3400a531c95301d25805][^c-09dea2303f2a39f7e864b0d76368e7a2][^c-24fe63a8508d66232513287be0a74f72][^c-dd65ab00395360b85df8c8cb0cd9e84d][^c-89790648c160db2c203adacb1adcf26e][^c-5eb12f750ae8884b8761ac3b51f21311][^c-0ff8c21e044a61b8e80cbfc9e7c7ef0f][^c-e8cc51fbcb472cb6584a15796038308b][^c-ff809c226ff5294b8ba7d1fe821dbd37]
 

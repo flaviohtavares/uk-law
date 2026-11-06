@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 33. Provision of facilities for gambling[^c-7c0535d0487a7653e693ed11e4265739][^c-7e5256ca694be9f310d9315d36c71bd2][^c-a539dfa47fe2fac3eeb21edc3e0ec251]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 80. Applications for building assessment certificates[^c-20591acac66b83cc470bb00ae68ce1e9][^c-a939cf812fbd5e037af36ac5cc1c2db5]
 

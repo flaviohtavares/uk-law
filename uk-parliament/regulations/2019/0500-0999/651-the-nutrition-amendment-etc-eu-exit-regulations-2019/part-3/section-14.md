@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-08-12.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14. Amendment of the Infant Formula and Follow-on Formula (England) Regulations 2007[^c-d27678c806e8cd16be97f5c135a23ee1]
 

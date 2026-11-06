@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (182).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/27
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 21. Powers of Crown Court to vary or replace orders on breach[^c-f7535cb4f0816fc31c9aa042d288faf4][^c-9ba77ae78ec43af45bd544b83cb789d7]
 

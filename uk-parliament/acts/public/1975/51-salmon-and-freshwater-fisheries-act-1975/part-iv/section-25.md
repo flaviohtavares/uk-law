@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-06-28.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 25. Licences to fish.[^c-f34f88ede40f32a0f28fabc31e65e250][^c-708f41672a578b6ddd96367bf14cdaa4]
 

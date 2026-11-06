@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (205).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 141A. Entitlement after death of child or qualifying young person[^c-4dce6e9f50a166295565b0c4596ddb3e][^c-2c6014fffae70c61e79fdc5070dd7299]
 

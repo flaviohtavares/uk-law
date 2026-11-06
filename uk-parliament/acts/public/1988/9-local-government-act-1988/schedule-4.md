@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-02-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/9
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## SCHEDULE 4 — Sections to be Inserted in Part III of Local Government Finance Act 1982[^c13398701][^c13398711]
 

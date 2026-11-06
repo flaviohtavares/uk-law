@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8. Duty to establish system for giving of building safety information[^c-250254935c153bb8ea31a25bacdcc05b][^c-29b8df8a36c578b7d6ef9460a5e3268b]
 

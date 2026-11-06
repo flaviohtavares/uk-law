@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 19D. Exception from section 19B for certain acts in immigration and nationality cases.[^c12454791][^c18565491]
 

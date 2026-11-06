@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (48).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2011/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 219. Guidance by the Mayor[^c-3375e98e1835a6eefd480721b74ed6ec][^c-1766b120acd2aacc693c24eb901753cd][^c-980e2238474bf0779c9013561de64b53][^c-eada4f88f4769f792731d2fc31c590a2][^c-250b381cc6b3a829195738e959b9cac8][^c-3375e98e1835a6eefd480721b74ed6ec]
 

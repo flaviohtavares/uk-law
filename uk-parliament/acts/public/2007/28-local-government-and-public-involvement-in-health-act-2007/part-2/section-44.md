@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (1).** Text as at 2026-07-07. See https://www.legislation.gov.uk/changes/affected/ukpga/2007/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 44. Local Government Boundary Commission to make order for new electoral scheme[^c-c1f524f24864c65c8162e9ddc62db576][^c-5aad2065e327a868ef5d0f16deb5e46d]
 

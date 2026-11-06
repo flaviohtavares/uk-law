@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 40. Membership, procedure, etc of Negotiating Body[^c-00b53fee315ccf4858c86ae3dcbe0a8c][^c-643e03772eedf9ca1697688e2951b40f]
 

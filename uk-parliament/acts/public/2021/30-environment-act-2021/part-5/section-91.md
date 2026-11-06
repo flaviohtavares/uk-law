@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 91. Water quality: powers of Northern Ireland department[^c-eb7503e9322e44e803b7747f876eb74f][^c-a2f9125122fab3850203767019e8f0ec]
 

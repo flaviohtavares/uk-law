@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 144. Duty to pass CLA receipts to other persons[^c-67e9e2e6ba1ddc5b205f03a930bc5607]
 

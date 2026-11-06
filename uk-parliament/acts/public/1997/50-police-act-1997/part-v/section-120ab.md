@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-04-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1997/50
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 120AB. Procedure for cancellation or suspension under section 120AA[^c-176b10f3f936dd42e89302ed00acc422][^c-012c56c7c73adf01b30d4bb813937930]
 

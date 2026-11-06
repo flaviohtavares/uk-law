@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 71. Supplementary provision where Panel replaces single appointed person[^c-a44d179c2ab70e86dc75276c6225468f][^c-c8e2eb89d9433e9124ec02a4e5c062f9]
 

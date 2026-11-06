@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19. Annual report about information provided under mandatory reporting requirements[^c-241fec09ad63ee0e7f9605c77748e371][^c-42e55f6b6096d59f1c2997922371754d]
 

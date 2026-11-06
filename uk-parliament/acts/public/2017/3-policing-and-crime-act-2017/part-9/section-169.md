@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (13).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2017/3
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 169. Posthumous pardons for convictions etc of certain abolished offences: Northern Ireland[^c22720051][^c-8976546324c134f6d9072b2a95f3903d]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1093
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 13 — CONFORMITY TO TYPE BASED ON PRODUCT QUALITY ASSURANCE FOR SAFETY COMPONENTS FOR LIFTS (Annex VI to the Directive)[^c-bab6ba6bb63318b273db6356bd96a3eb]
 

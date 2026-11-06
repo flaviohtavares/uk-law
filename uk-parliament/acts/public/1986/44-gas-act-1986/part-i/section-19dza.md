@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (31).** Text as at 2025-11-13. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/44
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 19DZA. Duty to allow others to use LNG import or export facilities: exemptions in relation to take-or-pay commitments[^c-659d069930bff47f059b39d73dd97e1f]
 

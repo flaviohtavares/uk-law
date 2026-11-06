@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-09-30.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 197. GEMA’s annual report to cover matters relating to designated documents[^c-4a43e58f75411d4c39cbf4efbbd5d64b][^c-ce0f5b1114027700c2387743723ec916]
 

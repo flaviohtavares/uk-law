@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-10.
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 53A (Extent: E+W) (affected by repeal, see note). Control of operations requiring consent (Extent: E+W) (affected by repeal, see note)[^c-e06632cd074440f427153c054a629770][^c-2dd38f22e3f0e7272da0337fa848725f][^c-2dd38f22e3f0e7272da0337fa848725f]
 

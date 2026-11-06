@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 56. Meaning of “the Welsh Ministers”.[^c-0a9554b9baae9414e59cb2fbd73c5c02][^c-f7ae2fed77dfb8056654da6e10b067a3][^c-056e78dee416c01b82be7c499a9de4ee]
 

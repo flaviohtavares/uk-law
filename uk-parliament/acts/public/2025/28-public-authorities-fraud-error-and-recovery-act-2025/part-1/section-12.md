@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 12. Restriction on availability of powers: claimed amounts[^c-96e5022f9fd51765746cb1fcfb3e5d48][^c-7ecbd13909996e542118d9c35552dde3]
 

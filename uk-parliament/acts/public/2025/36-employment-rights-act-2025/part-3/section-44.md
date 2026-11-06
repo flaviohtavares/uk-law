@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (7).** Text as at 2026-10-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/36
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 44. Reconsideration by Negotiating Body[^c-1453a946f62b8a6e37c6a8a4b839df96][^c-ca5d46a4ab307c4ce19fbfbb6e3b23fc]
 

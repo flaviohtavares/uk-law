@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 11. Fit and proper persons requirement[^c24458161][^c-ac86db7bcf63cb0ff93959ecbfc85ea3]
 

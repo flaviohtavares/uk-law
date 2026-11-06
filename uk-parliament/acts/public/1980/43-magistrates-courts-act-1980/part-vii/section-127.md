@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 127. Limitation of time.[^c18258771][^c18258781][^c18258801][^c18258791][^c19979421][^c-4c47f01c50fc4c1d268add330aeea553][^c-d5c2f260fe0cee30f5ff6d83684f1c41][^c-2c429c9d4ad2048de62c6fdb0e122d6e][^c-06ffb43797948c29923ebad1a6c72521][^c-ecc35c96eef389b167baee310cedc29e][^c-a6c58d189cad06295bc423262c172f72][^c-ee3f0ce5518117afd92f246b51dd22e9][^c-3482d8b1c0e027ab87c6b34a0d8f91b1][^c-8fed9af41327bfce635fe72ddfdf7205][^c-50881f56bbbcee7f05544ac04751e888][^c-9de7b0bf4536020b9c82859f3d41e722][^c-cdbd41b1bc2cd2962ed2475e6754bcdd]
 

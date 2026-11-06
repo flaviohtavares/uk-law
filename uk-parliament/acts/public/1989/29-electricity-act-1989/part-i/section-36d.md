@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (62).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 36D. Proceedings for questioning certain decisions of the Scottish Ministers[^c-f987eee924403457bf42e963f500b3d1][^c-fb04f756b842f898dfc6ac1bf6319534]
 

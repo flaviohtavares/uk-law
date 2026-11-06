@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 129. Commencement of winding up by the court.[^c15572801][^c-137ceb32c206904c7b470db7692aefcc][^c-03caff2bb12bf9923001b29c18763f48]
 

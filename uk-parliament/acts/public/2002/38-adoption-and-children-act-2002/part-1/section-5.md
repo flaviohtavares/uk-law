@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 5. Local authority plans for adoption services[^c-96fce4228fd0e7d18d5c77c1e596cbc7]
 

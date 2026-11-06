@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (147).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/41
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 244. Review and scrutiny by local authorities[^c-c2c4827c5a8a776f340718b50cc76b29][^c-ed19b6d92405155d34db910a4df57e6e]
 

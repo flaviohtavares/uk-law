@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 43A. Functions of magistrates’ court where a person in custody is brought before it with a view to his appearance before the Crown Court.[^c-67a760700dc8ddb81d3d69da78a9a3dd][^c18242881]
 

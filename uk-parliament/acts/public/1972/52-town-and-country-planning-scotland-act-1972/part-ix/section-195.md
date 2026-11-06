@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 195. “Appropriate enactment” for purposes of these provisions.[^c14931081][^c14931071]
 

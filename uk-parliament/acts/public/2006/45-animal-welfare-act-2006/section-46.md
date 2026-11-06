@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 46. Effect in Scotland of disqualification under section 34[^c-ce43261b912770506451af205d449be3]
 

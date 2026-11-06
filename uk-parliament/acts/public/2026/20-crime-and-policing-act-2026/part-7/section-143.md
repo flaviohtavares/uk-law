@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 143. Guidance about honour-based abuse[^c-d380d5816f1bb944e20858c5ca2a997d]
 

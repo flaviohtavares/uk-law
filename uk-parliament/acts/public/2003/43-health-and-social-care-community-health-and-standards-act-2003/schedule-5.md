@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 5 — Audit of accounts of NHS foundation trusts[^c-c56ddb9f931c12940feb06078e91daa7]
 

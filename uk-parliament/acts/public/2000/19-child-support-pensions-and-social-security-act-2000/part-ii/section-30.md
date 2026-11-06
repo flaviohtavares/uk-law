@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (25).** Text as at 2016-04-06. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 30. Earnings from which pension derived.[^c18700711]
 

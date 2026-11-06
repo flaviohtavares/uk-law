@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 177. Amounts to be raised by the pension protection levies[^c-0de9f4069a31a7da6ad3bfba64a1266e][^c-8ae4f61b00045ebee33fee3b22100c82][^c-a7ed8489e179b987a8f0f27af89fb104][^c-8ae4f61b00045ebee33fee3b22100c82][^c-a7ed8489e179b987a8f0f27af89fb104]
 

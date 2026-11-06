@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 228. Exclusion of s. 227 at option of statutory undertakers.[^c14935131][^c14935141][^c14935121]
 

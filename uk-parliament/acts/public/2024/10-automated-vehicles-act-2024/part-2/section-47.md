@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 47. User-in-charge not liable for manner of driving[^c-fa9ca13b7c2df557c5fea946155ae6f6]
 

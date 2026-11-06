@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-13.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 9. Exceptions to placing on the market and putting into service of certain equipment[^M_E_394da38e-9b4f-45fa-dc2a-815da6983c47]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 48. NHS trusts in England[^c-a3cce5e31adf32f186344862b2809f10][^c-ec05b7b4734de6f983708964577716a1]
 

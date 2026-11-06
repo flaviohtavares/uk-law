@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 28A. Guidance for local authorities in England[^c-15a15b1156c7b4a65ec54acf0d2e9008]
 

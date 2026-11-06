@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 62. Capital spending limits for NHS foundation trusts[^c-0dfbe9678adf9a37ca537bdd0d60534d][^c-2a1b8c09da4cad687c43f1dc6b0b6007]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 62. Expenditure by National Parks authorities[^c-3c56a58a9b458eab3ea99ad0407cbbe9]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (41).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/28
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 49. Code of practice relating to delegated functions[^c-bfa4e617dfe84876c0c4355808a16e33][^c-51375cf79111f4adb7baa710d3bb5cea][^c-6a036a889b88170ae21f49c570f46ec9]
 

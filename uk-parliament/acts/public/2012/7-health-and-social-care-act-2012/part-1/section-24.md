@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 24. Financial arrangements for the Board[^c-43d0a6249696b4540c654a01802135f6][^c-5656dbe5f76a7bb3349f784ea1eb4ee8][^c2191279]
 

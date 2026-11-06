@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 163. Determination of application[^c-256e713bb58f4a154dede01cc8bca2f6][^c-7027d715d03bfcadc1647d39aaae259e][^c-755f7df1af28b10839bd2cde66ec5ab1][^c-b87cd5f6d1377ba5bc8c224b10535c78][^c-8ba5afad058d402e25d4590b919ef73b]
 

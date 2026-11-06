@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 36. Expenses in connection with proposals for acquisition of grant-maintained status.[^c1400155][^c1400156]
 

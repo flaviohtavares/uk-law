@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 221. Notice for same purposes as s. 219 but given by statutory undertakers to developing authority.[^c14934591][^c14934601][^c14934611][^c14934621][^c14934631][^c14934581]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2025-08-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1973/65
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 56. Arrangements for discharge of functions by local authorities.[^c9671831][^c9671841][^c9671851][^c9671861][^c-527bf8cc29d35f7daf86d5bf21fffaa4][^c-12b7d148bfa8cd806691339a1eb8c4f2][^c-f57149bc5a82de18c46cf7b368dfe352]
 

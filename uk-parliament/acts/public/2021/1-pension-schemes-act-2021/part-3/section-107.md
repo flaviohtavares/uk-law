@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 107. Sanctions for avoidance of employer debt etc[^c-a05950a42940f47cdfc592f474c40dd0]
 

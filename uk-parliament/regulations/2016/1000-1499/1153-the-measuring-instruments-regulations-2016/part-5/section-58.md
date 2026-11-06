@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2016/1153
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 58. Register of approved bodies[^M_E_382f046f-4f9e-4bb7-a268-bb913f6815c8][^c-819bc0dbe42933501fb9b560b0fdcea2]
 

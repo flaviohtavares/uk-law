@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 59. Fishing[^c-10623995d874327ba4fbd60afa2917ad][^c-8b17a098e3def8b6c0ad599c0528f2b3]
 

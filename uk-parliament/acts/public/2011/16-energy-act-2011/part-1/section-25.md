@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 25. Exemption from Consumer Credit Act 1974 in relation to credit to business debtors[^c-f059ff6bc0f5be2cb9a9a920afef444e][^c-003b3f2ec57adc8f54b3bc166e44e238]
 

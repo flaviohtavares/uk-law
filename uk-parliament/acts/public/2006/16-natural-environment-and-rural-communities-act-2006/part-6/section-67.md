@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-06-17.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 67. Ending of certain existing unrecorded public rights of way[^c-73423961407e3a98b32648111b459a2c][^c-712a9d53ab3b1923132864b7658c8747]
 

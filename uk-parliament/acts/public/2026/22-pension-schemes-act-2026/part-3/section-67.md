@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 67. Special provision for certain schemes coming out of assessment period[^c-c33f31344f44414fc73e90364d72afbd]
 

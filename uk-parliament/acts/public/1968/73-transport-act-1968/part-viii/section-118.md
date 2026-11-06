@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2024-05-07. See https://www.legislation.gov.uk/changes/affected/ukpga/1968/73
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 118. Duty of highway authorities, etc., as respects bridges over certain railways or inland waterways.[^c15332531][^c15332541][^c15332551][^c15332561][^c-7c111eb3f2e076506b30a123743c1474][^c-ca338843879e60dd57e1a5b64ad5d8f1][^c-72530f88347db8ba29d740b08f9430e5][^c-2a3b073eb10067ca529a772b479ee1af][^c-dcf76ef168e993053305570762a1b4e7][^c-96fe16cc6a38a4e5efc1ad2d5a95a43a][^c-cfec4b11bb5259130cc75bcf6559ff37][^c-dc11b3abcf8ac2b32e8c60a71f0edb75][^c15332521]
 

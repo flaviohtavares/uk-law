@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 146. CLA infrastructure delivery strategy[^c-26527af04ed6137c18ffee4c0e9f3983]
 

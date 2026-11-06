@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (95).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/35
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 183. Board’s duties in respect of certain applications under section 182[^c-324c993d556d0fe9f896120097393708][^c-9f7630100fb0bee3a3dbda1545f54369][^c-85813573544152d94d8068f5d8d11a27][^c-7b7ce648e60744e360a8cb4df26ac46d][^M_I_604eb3dd-7332-47b5-9cab-d5fdc1b271bb][^c-9f7630100fb0bee3a3dbda1545f54369]
 

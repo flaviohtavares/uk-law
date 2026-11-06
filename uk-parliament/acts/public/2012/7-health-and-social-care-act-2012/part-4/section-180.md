@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 180. Repeal of provisions on authorisation for NHS foundation trusts[^c-a58b4c7ba8e0d2f879781f8ae25b859c]
 

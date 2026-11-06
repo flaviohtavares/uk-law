@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (105).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1993/48
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 64. Actuarial tables for purposes of calculations relating to premiums.[^c-b2420b334224015da50d5c92d2a2876d][^c-036c31ef7347b27efbfd0fe3c8cdd455]
 

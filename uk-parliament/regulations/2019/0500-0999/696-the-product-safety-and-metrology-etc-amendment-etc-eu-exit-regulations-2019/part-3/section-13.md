@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 13. Amendment of the Offshore Installations (Safety Case) Regulations 2005[^c-304b65f92e85d5e00acb610887ccc1e0]
 

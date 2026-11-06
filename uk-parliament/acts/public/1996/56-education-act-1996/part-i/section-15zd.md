@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 15ZD. Sections 15ZA to 15ZC: duty to have regard to guidance[^c-ab98ad954c7f0f535fba44b6c1d9e717]
 

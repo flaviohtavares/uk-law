@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-10-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/43
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 128. Remand in custody or on bail.[^c18259581][^c18259591][^c19964741][^c20645761][^c-5ace60b9dfab011103ed5b742589cd73][^c-c16033bb017e25a57b698d81500cb284][^c-4fd9c8ab3c365e56f4f2a6bb0e7f943a][^c-a62ad543bf46fb2176aeb3978c2fccfa][^c-419cfc682de454866108fa13e14c0705][^c-804f30e34f3b58b8d4e1d9fdcfec15f6][^c18259571]
 

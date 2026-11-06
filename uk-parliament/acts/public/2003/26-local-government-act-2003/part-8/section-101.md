@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 101. Staff transfer matters: general[^c-4541d0efa0d20618006fd3ea3db97cde][^c-648da1106771f36c95006a5ad2fa262e][^c-0cb4420405fd209f44c66965e783b17b]
 

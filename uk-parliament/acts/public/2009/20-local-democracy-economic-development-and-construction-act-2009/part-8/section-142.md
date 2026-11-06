@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (44).** Text as at 2026-07-15. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/20
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 142. Determination of payments due[^c-7d1adccaa046ae7c3d14ba802365b45c][^c-9b4e342bb3f76cf02eb51bab5625a928][^c-c76767512f209db3b14fbb7e01f40937]
 

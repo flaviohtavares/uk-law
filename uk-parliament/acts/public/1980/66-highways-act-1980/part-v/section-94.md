@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (125).** Text as at 2026-09-14. See https://www.legislation.gov.uk/changes/affected/ukpga/1980/66
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 94. Powers of highway authorities and bridge owners to enter into agreements.[^c-00d61f89bb216a63b7c6a10ac83e7c4b][^c19867921]
 

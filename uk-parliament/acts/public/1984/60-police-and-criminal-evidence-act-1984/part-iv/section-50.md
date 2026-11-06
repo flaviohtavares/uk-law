@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (67).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/1984/60
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 50. Records of detention.[^c11323381][^c-94307d3deb9b5e2c8c969be2f5d75ba3][^c-c66738ec00bcf96a542f88e3c60aaa3e][^c11323371]
 

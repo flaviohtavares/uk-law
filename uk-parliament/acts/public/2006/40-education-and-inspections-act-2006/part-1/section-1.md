@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 1. Duties in relation to high standards and the fulfilment of potential[^c-38603773f19e07f558a075320bd02a14][^c-12006836c304bff38b497f4fb9421c55]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-22.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 62. Power to apply this Chapter to other nuclear installations[^c-26291ef44ec23c282e055c5d1e3ffef7]
 

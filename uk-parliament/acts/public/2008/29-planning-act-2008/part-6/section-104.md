@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (75).** Text as at 2026-07-24. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/29
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 104. Decisions in cases where national policy statement has effect[^c22564371][^c-b4c9218ce48ce4069e793c46b4352c02][^c-3cf1ee9e092de887b7c290846f919206]
 

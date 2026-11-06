@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 2 — Reallocation of functions of Health Authorities to Primary Care Trusts[^c-a274e2b9d0403e7f5ede7757f09ce0ae]
 

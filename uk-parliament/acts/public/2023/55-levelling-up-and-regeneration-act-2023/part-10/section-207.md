@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 207. Power to grant tenancy in default[^c-e4f70868c181060684e7c769050ef1f8][^c-4592db25ed46a5e70d65d171d6edf68a]
 

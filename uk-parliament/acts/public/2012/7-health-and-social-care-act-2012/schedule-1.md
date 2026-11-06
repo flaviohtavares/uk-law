@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (16).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/7
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 1 — The National Health Service Commissioning Board[^c2191374][^c-a430225acdce38d7f9658c78362b23a1][^c-278e28475114042c9d29adc9c5fb0e45]
 

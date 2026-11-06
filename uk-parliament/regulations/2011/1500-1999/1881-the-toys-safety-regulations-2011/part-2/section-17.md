@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2025-02-27. See https://www.legislation.gov.uk/changes/affected/uksi/2011/1881
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 17. Technical documentation and correspondence relating to Type examination[^M_E_f067c12e-f3fa-48f0-a772-67ff48744622][^c-f9000cda15a2083d759632adba3d7dc7]
 

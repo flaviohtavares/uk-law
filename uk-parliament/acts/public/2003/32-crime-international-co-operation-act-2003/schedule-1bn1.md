@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2022-11-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## SCHEDULE 1B — Certificate under section 11(4) or 20(5): specified information[^M_E_f47d9b88-bbea-42ac-c52c-1ad9aaab3aa5][^c-edd9151b70d3c81a203a8695c6a09652]
 

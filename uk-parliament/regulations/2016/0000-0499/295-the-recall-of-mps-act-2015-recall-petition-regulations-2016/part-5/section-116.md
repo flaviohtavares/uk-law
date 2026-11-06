@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 116. Requirement to provide fresh signature following rejection of a postal petition statement: England and Wales and Scotland[^c-1a83ff0eea7a525b4bc707fe8b637a86]
 

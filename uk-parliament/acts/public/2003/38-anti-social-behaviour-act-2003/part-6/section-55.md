@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/38
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 55. Unlawfully deposited waste etc[^c-a23d3b95d715b99b22890ec772e0e96b][^c-a1ecff882d210f82ef1d7088d3333634]
 

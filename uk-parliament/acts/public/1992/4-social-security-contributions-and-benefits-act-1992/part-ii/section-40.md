@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (139).** Text as at 2026-07-08. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/4
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 40. Long-term incapacity benefit for widows.[^c-805463a276f5b93d8e7f2768a00aae58][^M_F_28970be0-d485-4699-84c8-0b9ee6bb5452]
 

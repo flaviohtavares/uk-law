@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 20. Licensing of chapels for publication of banns and solemnization of marriages for persons residing in specified district.[^c6279971][^c6279961]
 

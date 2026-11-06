@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 210. Community order to specify offender's home local justice area[^c-cf019f822c2ecf37a9e312af29080a0b][^c-edf2dd12e434c81e7cd05a30995fb966][^c-e436af2943ad91bbad1cc5c6de6ee48e][^c-d0daf0f699b4471240240feb04f758a6]
 

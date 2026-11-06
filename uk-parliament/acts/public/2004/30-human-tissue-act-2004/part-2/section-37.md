@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2024-09-09. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 37. Directions[^c-34d32479066fe9d0236c57284cd3bbc1][^c-202af62fd80b58b05b77568ce9af97ba][^c-b92a7a38ef41f4c7ab3a5cdc4c909083][^c-28041b8f9fcec09b24aec18c53397766][^c-b4b19c43e715563eefbe6b07361cb125]
 

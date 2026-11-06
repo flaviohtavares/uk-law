@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 23. Transfer schemes in connection with transfer of primary care functions[^c-30acd2a2336457524a63b8258e307cb0]
 

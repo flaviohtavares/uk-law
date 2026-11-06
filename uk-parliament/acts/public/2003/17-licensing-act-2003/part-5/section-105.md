@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (40).** Text as at 2026-06-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/17
 >
-> Extent: England, Wales, Northern Ireland.
+> Extent: England, Wales.
 
 ## 105. Counter notice following ... objection to standard temporary event notice[^c-f9ee91fccda5589e2580fbcc3c1477b8][^c-0fd1d4cffeccdffe7b1339c4e8feaad7]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (23).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/31
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 47A. Schools forums[^c-f0267fb570cdd8d081de0060eaed0ac5][^M_F_2bb74879-d024-49d6-dfb4-e927c67244ce]
 

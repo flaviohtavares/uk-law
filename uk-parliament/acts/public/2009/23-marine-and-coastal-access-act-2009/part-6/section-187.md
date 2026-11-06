@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/23
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 187. Abolition of local fisheries committees[^c-41e77f8def045287fdccc986d1200bd2][^c-05ed961e668445e53777a13a6a7198ce]
 

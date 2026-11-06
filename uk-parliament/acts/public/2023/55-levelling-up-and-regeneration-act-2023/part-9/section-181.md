@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 181. Online publicity[^c-54d6414b4d81741ba67552c75065711a][^c-5b0a760316aaf9bef98f9aa4324356b2][^c-7c86e252483b81d8cc00ced3b6b9d592][^c-8af0c85f745d7323677f2368566e5eb6]
 

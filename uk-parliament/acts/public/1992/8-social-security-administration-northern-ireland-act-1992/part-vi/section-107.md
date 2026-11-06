@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (186).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 107. Breach of regulations.[^c14898111][^c-cf5518e1e53846b197dd6d4aeea45a75][^c-e60d0f98d24a2649e09bd079e30a24c3][^c-39d529b00f632b4438ef63348510e0f6][^c14898101]
 

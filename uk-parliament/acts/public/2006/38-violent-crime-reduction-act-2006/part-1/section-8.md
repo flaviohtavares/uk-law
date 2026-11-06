@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2021-07-14. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/38
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8. Variation or discharge of orders under s. 6[^c-158f28e51988d49a7557d63e895e615f][^c-c206699dfc18f3ec80aca8580c5767dc]
 

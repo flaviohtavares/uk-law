@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 269. Investigation by Local Commissioner of decisions of certain appeal committees.[^c1400555]
 

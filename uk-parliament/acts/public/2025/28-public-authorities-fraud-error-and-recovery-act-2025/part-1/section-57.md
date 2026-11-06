@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 57. Procedural rights[^c-41de976ae0d51e747cfd318446ac5064][^c-f6728d087ef9f390585c8c1fbd075675]
 

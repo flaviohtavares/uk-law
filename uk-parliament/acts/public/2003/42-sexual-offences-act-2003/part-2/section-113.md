@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (154).** Text as at 2026-09-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/42
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland, Northern Ireland.
 
 ## 113 (Extent: S) (affected by repeal, see note) (Extent: E+W) (affected by repeal, see note). Offence: breach of SOPO or interim SOPO (Extent: E+W) (affected by repeal, see note) etc (Extent: E+W) (affected by repeal, see note)[^c-cec741f4701ab4a552dcc60c2ab7b124][^c-8216d299001d1851e1b7db26cb0e3690][^c-b126c6c6d2bc3809d43e6b360550c50f][^c-12f011d2c77e11f02549c20ede30da60][^c-df99c325224174918305e50de88d7c70][^c-8216d299001d1851e1b7db26cb0e3690][^c-f617c4437010c396808cb2fb9fea8d00][^c-8216d299001d1851e1b7db26cb0e3690]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 25. Amendment of the Lifts Regulations 2016[^c-d18e561d0dad485a5c889f756f76e2e1]
 

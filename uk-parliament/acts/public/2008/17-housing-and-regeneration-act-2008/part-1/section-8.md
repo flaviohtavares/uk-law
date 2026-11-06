@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-05-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 8. Powers to deal with land etc.[^c-b9421634553b7efa4535bbaad6138302][^c-bf4e8d1bcceee646ae69b11880981497][^c-09bfbf007c6714ffbb917f4858ba1326][^c-454fa111e23b680f071115a676d9b861][^c-ed7213efc6dc42a15ea3a723406bae00][^c-4e6590e67442cfcba7f0081244857d06][^c-56f30b92434ddf6d820ab31baf1969fb][^c-5a3e3153ab312dddf1e8a46db003af79][^c-361a89d9a9ffc202affaf2d9e6b26785][^c-c4d8ce5a28c11d55575380fffca23cb7][^c-6a8339de29a5dac5657b7afb030213cf][^c-cb1b95dfdb3e89b151890ce3870d723f][^c-b01ce8f00b124f6aece2cd01a8b4b88c][^c-cb9161416000981239a68ee9659fcf90][^c-b473cad868dfc5e1b004231e22893571][^c-21d3c286633b1f96989aab536346123e][^c-96396265e555cef2018631befff89943][^c-c4e8158af0841c8a243df83312f08196][^c-4b7e64ac437c7d6ba3ab98113c4de111][^c-2a91ca5c7b3af245caf592d9d7b10948][^c-17550a3aee12771120eb51a0abf63273][^c-8847da2912753770f91afc317920e2e4][^c-7a6cf72ed068058e56ffdaf16a41cb8c][^c-1ffa73a3d93c3d8f52481b3303f2ba6f][^c-dd18f8b2e43a50a8229897901941fa8b][^c-56f30b92434ddf6d820ab31baf1969fb][^c-361a89d9a9ffc202affaf2d9e6b26785][^c-6a8339de29a5dac5657b7afb030213cf][^c-cb9161416000981239a68ee9659fcf90]
 

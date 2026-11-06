@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## A2IA. Transfer of copyright relating to technical education qualifications[^c-3b279e0dd6d1e6d50fe0abee68cd3875][^c-bd21d3a6f3ee27e142e1ef9106f67af7]
 

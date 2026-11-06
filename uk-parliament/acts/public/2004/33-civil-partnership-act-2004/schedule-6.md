@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (29).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/33
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 6 — Financial relief: provision corresponding to provision made by the Domestic Proceedings and Magistrates' Courts Act 1978[^c-eda4a41faab17f86df12e80bd31b1d56]
 

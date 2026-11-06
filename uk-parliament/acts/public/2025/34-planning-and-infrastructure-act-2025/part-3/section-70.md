@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 70. Remedial action by Secretary of State where EDP ends or is revoked[^c-31b6d61f0e72e5b30fc0b4ee96cd8260][^c-3953369c4f38830dc24eb0f16bb34d42]
 

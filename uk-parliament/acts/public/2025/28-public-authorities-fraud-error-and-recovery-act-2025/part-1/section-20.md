@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 20. Joint accounts[^c-b225431e652f88980cd791c2d21c60a7][^c-fb3359230a507ac988115e703152fad4]
 

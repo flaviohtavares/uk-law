@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, W..
 
 ## 27H (Extent: W.). Orders adding a community to a group of communities with a common council (Extent: W.)[^c-4f1913c43eb8e0c0b2bfa4892ddb6eb2]
 

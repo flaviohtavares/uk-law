@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 75. Requirements as to procurement, patient choice and competition[^c-02c3693b4d8d52bfe9fe722de9e2ac08]
 

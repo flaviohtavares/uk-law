@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 18. Powers in relation to animals in distress[^c-33b345bd831b83459cec9217b6b90d42][^c-ed73cc4507f47ccaa7b9338359046cba]
 

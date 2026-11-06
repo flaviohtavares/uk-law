@@ -98,7 +98,7 @@ summary: ''
 
 [image: see source](https://www.legislation.gov.uk/uksi/2002/3113/images/uksi_20023113_en_epp_084.gif)[image: see source](https://www.legislation.gov.uk/uksi/2002/3113/images/uksi_20023113_en_epp_085.gif)
 
-640.2A[^c-071e865b26b26c1d9a220e42509c2699] *(affected by repeal, see note)*[^c-c04181b99fd16d713999f801bf7e1d8b]
+640.2A[^c-071e865b26b26c1d9a220e42509c2699]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2002/3113/images/uksi_20023113_en_epp_121.gif)
 

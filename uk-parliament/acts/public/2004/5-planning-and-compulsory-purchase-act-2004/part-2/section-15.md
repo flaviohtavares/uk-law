@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 15. Local development scheme (affected by repeal, see note)[^c-7b14a72d35ac2668d777688a7d85fefe][^c-5c7225469a52d22bdee5719dc3b9fe08][^c-98f4c0dbe1b61a5cc2b1fa17f401c961][^c-9833ca95bc5de0c5903e5e25395fa588][^c-5864c7feb43d514b3eac2ec8666285fc][^c-7683a3ece30ec07a2cedfcd596b5985e][^c-e09c57ecb9bee820da3066b6bbd944ba][^c-a4786e1a7152c2ef98727405a7212f1b][^c-809ffa13831c0b21528279546a0b5250][^c-66b206efe3e504a200801217f5a84a3a][^c-7683a3ece30ec07a2cedfcd596b5985e][^c-66b206efe3e504a200801217f5a84a3a]
 

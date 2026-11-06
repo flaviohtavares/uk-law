@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-07-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 19. Establishment of integrated care boards[^c-6b47fe6f0d265ff57750609a9ba868b0]
 

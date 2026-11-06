@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (29).** Text as at 2026-05-12. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 24. Supply of information in connection with student loans (Extent: W) (affected by repeal, see note) support (Extent: W).[^c-efb11119cae1d6633dffa73e312eed9b][^c-d7da3bb38d81ef6ccaf205d5729ada46][^c-1024c02f0ac3f21345781bfca2ad61c3]
 

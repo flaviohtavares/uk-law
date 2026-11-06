@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (303).** Text as at 2026-10-26. See https://www.legislation.gov.uk/changes/affected/ukpga/2020/17
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 1 — Offences committed before the commencement of section 1 of the Counter-Terrorism and Sentencing Act 2021 where terrorist connection to be considered[^c-f50e295b33b8ccdb3964f8a0ee3c444f]
 

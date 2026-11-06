@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 65. Recovery order on conviction for certain offences involving dogs[^c-bd2798619dd18d7d0514d6f115ed9232][^c-796a09be48e0c16fd3603a433d3c4e6f]
 

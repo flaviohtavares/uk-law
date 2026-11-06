@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2016-10-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 57. Discharge of certain mortgages.
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 497AA. Power to secure proper performance: duty of authority where directions contemplated[^c-56f00ec6623f3f267774f7282c90b477][^c-0a680afe911e49d11e4908f03110192c][^c-644e38e053a496376036453c1015b131][^c-d4e9511d322a6d4b5c0379e94174be49][^c-b407545cc751ca02b40c1438190b4b45][^c-e44355fd0fd16da3e356274c320bf183][^c-c7385410677784d1af80eedf2112227e][^c-33cf258ca3f3733b4c81e19d83baf24f]
 

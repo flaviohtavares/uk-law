@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 76. Social Security (Credits) Regulations (Northern Ireland) 1975[^c-d87fc97d1ddfc0afafa24a0172f0d463]
 

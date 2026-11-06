@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 45B. Power to delay entry of name in register following a s. 42 direction[^c-eb27395ac6bcc7c653154968df29523b]
 

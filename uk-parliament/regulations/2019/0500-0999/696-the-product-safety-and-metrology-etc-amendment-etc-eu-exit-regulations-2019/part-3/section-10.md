@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 10. Amendment of the Lifting Operations and Lifting Equipment Regulations 1998[^c-3de47279007beb176dfa204ae7472e99]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (14).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2022/30
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 71. Meaning of “occupied” higher-risk building etc[^c-ff340c30af4efb4d6ea07d13083c0da2][^c-c4126336b4f91ee2852232f55710d8c5]
 

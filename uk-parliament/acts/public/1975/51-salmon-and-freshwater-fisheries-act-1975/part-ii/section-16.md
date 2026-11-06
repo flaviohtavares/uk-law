@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-06-28.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 16. Boxes and cribs in weirs and dams.[^c-a2da75de63fee8e554f12e76743e6c58]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (9).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2025/34
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 86. Powers of entry: compensation[^c-a1fea0e2691c9c50cfcca6f46cec7f9b][^c-a2e0c6f5d7609d3a540d07c665aef592]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2024-01-04. See https://www.legislation.gov.uk/changes/affected/ukpga/1989/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 15 — Charges on Property of Oversea Companies[^c-728d8765ea85703a3574d370bb563f1f]
 

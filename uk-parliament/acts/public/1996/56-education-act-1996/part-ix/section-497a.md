@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (69).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/56
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 497A. Power to secure proper performance of local authority’s education functions .[^c-56f00ec6623f3f267774f7282c90b477][^c-17039ae664b3077b8aa031c715b59c27][^c15251812][^c-a8c3f02d92e24e7f3b081792a80d1017][^c-dff9374984b5eace86fe783059db4598][^c-eb6c0765665f1ad1f1003f01502bde2f][^c-417c74de7c2230c0469b8a181dbf7a5e][^c15251801][^c-d48ce0cb81b2e83245814958852beb43]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2024-10-01. See https://www.legislation.gov.uk/changes/affected/uksi/2017/737
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 29. Duty not to make a product available on the market where a distributor suspects that it is not in conformity[^c-26ddc8b7aba47719f2d023e3673aa7fc][^M_E_23b87e22-849a-4353-c7ba-163fada3f75d][^c-294ac8e665517ff658dc20a472e49334]
 

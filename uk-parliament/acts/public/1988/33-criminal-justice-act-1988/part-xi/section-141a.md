@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (43).** Text as at 2026-07-08. See https://www.legislation.gov.uk/changes/affected/ukpga/1988/33
 >
-> Extent: England, Wales.
+> Extent: England, Wales; Scotland (the versions of this text differ in extent).
 
 ## 141A. Sale of knives and certain articles with blade or point to persons under sixteen.[^c19075101][^c12795661]
 

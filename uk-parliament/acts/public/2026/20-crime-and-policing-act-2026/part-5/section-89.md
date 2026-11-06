@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 89. Exception relating to commission of offence under section 14 of the Sexual Offences Act 2003 by a child in certain circumstances[^c-6a58d9fcfaa2fc92c0bbb5c47520e106]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (17).** Text as at 2024-09-10. See https://www.legislation.gov.uk/changes/affected/ukpga/2000/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 11. Revision of procedures in the light of pilot schemes.[^c9549521][^c20334671][^c-49bfea578bfe95dde75be401152147ff]
 

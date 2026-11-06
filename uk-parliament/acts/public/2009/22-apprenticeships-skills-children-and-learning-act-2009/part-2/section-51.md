@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (11).** Text as at 2026-04-29. See https://www.legislation.gov.uk/changes/affected/ukpga/2009/22
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 51. Detention of child or young person: local authorities to be notified[^c-f01d3d0938a476c7028170516ccf46ae][^c-874a71cf2c27a8fe370e43a40b750153][^c-062d27e760c356996de33ee6a2c9d7a4]
 

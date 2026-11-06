@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-05-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 33. Period of validity of marriage schedule.[^c-a9aa33f8f1f83fc782817b370600a3c9][^c6282041][^c-c898f7a5800b3f42e0c6454cec446a45][^c-732d507a0b3966fbc570dce033c79086]
 

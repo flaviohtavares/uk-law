@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2020-12-31.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 2. The Ozone-Depleting Substances Regulations 2015[^c-0095d13e49d8ee58b3033d2812b31c8c]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 194. Local benefit condition[^c-166dd93a37a3aee2fd1a672b78932cfc][^c-65718c3efba77041ee9d16e181c1ea90]
 

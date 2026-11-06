@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-03-21.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 65. Additional requirements for applications for a proxy signature for an indefinite period on grounds of blindness or other disability: Northern Ireland[^c-d5c0b50412d42f91385770076f11781e]
 

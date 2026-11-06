@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/8-9/62
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 5A. Relevant protected sites: annual fee[^c-3943d800790ba9244630c138f75fdde2]
 

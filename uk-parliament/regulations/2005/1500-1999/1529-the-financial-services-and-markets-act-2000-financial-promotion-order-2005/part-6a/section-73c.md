@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-07-15.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 73C. Communications made by a charity or not-for-profit agency[^c-f11698a7cd0ad40f9f946fbec67d6282]
 

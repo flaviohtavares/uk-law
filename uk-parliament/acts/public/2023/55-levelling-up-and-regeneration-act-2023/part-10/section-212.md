@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (97).** Text as at 2026-10-20. See https://www.legislation.gov.uk/changes/affected/ukpga/2023/55
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 212. Offences in connection with section 211[^c-f592df206c44ec61b250b96aa9d95f8d][^c-ffd130d232ca228507f606db5f99df83]
 

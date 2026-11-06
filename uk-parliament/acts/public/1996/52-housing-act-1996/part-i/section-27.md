@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (127).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/1996/52
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 27. Recovery, &c. of social housing grants.[^M_C_f9f7041a-760b-4dfb-b746-e04ccf09abe8][^c13148551][^c13148561][^c-a9fab5a363d73de8a1b4526f74441ffa][^c-d45301090aa01aaafe7761e1a2482b52][^c-e4dba36e948b97d5a9b055b84ed894f0]
 

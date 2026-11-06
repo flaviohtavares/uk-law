@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-12-01.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 28. Exemption from requirement to give notice of sums in arrears[^c-44a63cf2e64d94a1095f8f59540297f3]
 

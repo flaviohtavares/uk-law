@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (19).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2006/40
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 44. Prohibition on interviews[^c-66a0aad21cd1aa1b93de04c51c6a2c33][^c-8e9f42f1fa48a14659bb01217030ab47]
 

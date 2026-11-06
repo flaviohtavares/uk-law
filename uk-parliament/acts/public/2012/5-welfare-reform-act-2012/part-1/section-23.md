@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (68).** Text as at 2026-07-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/5
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 23. Connected requirements[^c-020c1f2845d376b5d3e8d63973743be1][^c-f0c316d9d1b0dfd0e226e5ef4e030922][^c-67d35fc5150c65ec97ed620694da2118][^c-99342ee16921c440278afade6eecb952][^c-ea5dc77a2f4428d8594c7e4c97a4b59b][^c-0e075c1aa04a3db35ae570f27f86e77e][^c-db352268fb548d452cfcf00e34f38eb5][^c-000368306daa1fee68a4e8ac10bffc35][^c-da26a04125bab26639bbb9dc6345ce88][^c-0065d09feef340b32ca5776d42e51844][^c-b1574e2f03b08f2b755e452fefc371b0][^c-96b4cd00527a563216478eef790d8736][^c-78f3e0af50767780a616a3fc2e956f08][^c-70caf494aaa2b510a24021439a8f7151][^c-07255a7bfda76d75001cb951a8ca8876][^c-b28801f51a12673ebaba9ccde4f3908e][^c-befe0a7b4f34b5cbf9794a109f9e364b][^c-84fe984b3cd58d5d9339962880728b1b][^c-f0c316d9d1b0dfd0e226e5ef4e030922]
 

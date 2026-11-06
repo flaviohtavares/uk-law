@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-10-26.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 18. Accounts which may be subject to a direct deduction order[^c-72fa91c48ceba5af8dcfdd3d85d29b5c][^c-45bf14cc5bc35ad3fdab682ce75dac37]
 

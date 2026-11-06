@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (30).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/1972/70
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 129. Payment of purchase or compensation money by one local authority to another.[^c15108331][^c15108341][^c-87aa258111d7690e32b42bba8153eed4][^c-06ca4209fba3313552a193434db3f14a][^c-3f5273fe1b8a03f04dc293e6e17b4d0a][^c-0ced813a3b0a4f54f24449825dd2abd8]
 

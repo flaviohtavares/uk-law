@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 73. Public Sector Fraud Authority and transfer of functions[^c-9e04b92d99f426f5b3c53b848202fcc4]
 

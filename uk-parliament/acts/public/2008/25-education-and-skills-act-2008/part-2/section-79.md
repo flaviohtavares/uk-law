@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (56).** Text as at 2026-09-01. See https://www.legislation.gov.uk/changes/affected/ukpga/2008/25
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 79. Existing functions of Secretary of State[^c-231b56fd9b56537a72e3c19b172a1a24][^c-a9842bc9d4914b7ecbd65408e377f455]
 

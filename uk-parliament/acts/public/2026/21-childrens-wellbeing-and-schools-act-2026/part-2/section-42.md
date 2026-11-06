@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 42. Children not in school: consequential amendments[^c-fb429e2516079cc5da192fa37a6ea6db]
 

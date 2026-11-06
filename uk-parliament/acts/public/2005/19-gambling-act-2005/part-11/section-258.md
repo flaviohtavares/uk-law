@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2025-07-22. See https://www.legislation.gov.uk/changes/affected/ukpga/2005/19
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 258. Promotion of lottery[^c-57d21785c85f2f22b953c50ed7bb543f][^c-0c34b6ee286fec89b7b983d992b9026e]
 

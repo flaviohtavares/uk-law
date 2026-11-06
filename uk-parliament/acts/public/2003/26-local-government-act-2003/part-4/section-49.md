@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (18).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2003/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 49. BID proposals[^c-3041ea6e7c45d6bbb5f646b095293cc1][^c-fd9c11fb12843febadc215b458468541][^c-5e2d418dcf8097f2a0bc106de17e98ee]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2024-09-16.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 24. Countries or territories in which armed forces marriage between civil partners may take place[^c-2f79b10d6810309003dd0d322b91f145]
 

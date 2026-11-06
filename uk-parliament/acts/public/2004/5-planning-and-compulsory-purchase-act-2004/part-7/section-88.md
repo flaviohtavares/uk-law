@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (90).** Text as at 2026-11-04. See https://www.legislation.gov.uk/changes/affected/ukpga/2004/5
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 88. Subordinate legislation[^c-1051a08db32ce084dc5c38ce02f5be3a][^c-c3e6e7b6c2beb860427b6f679b34db3b]
 

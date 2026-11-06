@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/8-9/62
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 9E. Power to take emergency action[^c-c5af52a0e544264edc329a4fc8af0af1]
 

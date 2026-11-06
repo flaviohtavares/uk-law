@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (173).** Text as at 2026-10-05. See https://www.legislation.gov.uk/changes/affected/ukpga/2014/2
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 13. Failure of health service bodies to appoint local auditor[^c-46116435584a69cc1182764e59e94a6c][^c-ba9f9f13df2ec7762b5de4e8fb1fbfb9]
 

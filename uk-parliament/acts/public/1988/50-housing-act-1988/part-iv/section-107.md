@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland.
+> Extent: England, Wales.
 
 ## 107. Power of Corporation to provide legal assistance to tenants in relation to acquisitions.
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 74. Limitation of estate management charges: reasonableness[^c-d2ce04b4f8d72d0847aba8163ba153b0]
 

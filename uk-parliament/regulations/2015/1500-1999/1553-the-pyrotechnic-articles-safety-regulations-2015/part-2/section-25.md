@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2025-02-27.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 25. Requirements which must be satisfied before a distributor makes a pyrotechnic article available on the market[^M_E_1af62a1f-fba7-4024-fc51-8bd29b52ccf8]
 

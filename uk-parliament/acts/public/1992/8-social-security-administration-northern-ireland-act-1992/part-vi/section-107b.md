@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (186).** Text as at 2026-07-09. See https://www.legislation.gov.uk/changes/affected/ukpga/1992/8
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 107B. Statutory sick pay and statutory maternity pay: fraud and negligence[^c-b6f6d638b0875107d5774a322397f5f5][^c-18082f5455c3c56b97c8d95c3d371db2]
 

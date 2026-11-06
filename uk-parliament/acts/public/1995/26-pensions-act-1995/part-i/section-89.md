@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (65).** Text as at 2026-07-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/26
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 89. Application of further provisions to money purchase schemes.[^c-7adae210abdb3af3d69d04f5818ba41c][^c-3acc75ff2c1e9394e8d4045ee256b5cb][^c-12485c4abdc9ac6323952a091952c605]
 

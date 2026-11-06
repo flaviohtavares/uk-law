@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (15).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/ukpga/2012/9
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## 89. Orders under section 88[^M_C_3b823766-223a-4fe0-d64d-c100e1cb8ba9][^c-c9de7e5792d4ee1573560ddabe3d61b5][^c-dd180286ebe7aba2a3b6d6edf4ad2771]
 

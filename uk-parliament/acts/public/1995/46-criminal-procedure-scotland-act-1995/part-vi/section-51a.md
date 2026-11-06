@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (150).** Text as at 2026-11-02. See https://www.legislation.gov.uk/changes/affected/ukpga/1995/46
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Scotland.
 
 ## 51A. Criminal responsibility of persons with mental disorder[^c-7706c87dd9faf3f7603707be6a255cf0][^c-0d03765b13e298127b1aca4b7697a277]
 

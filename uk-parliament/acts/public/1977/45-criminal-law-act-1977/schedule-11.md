@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (4).** Text as at 2020-12-31. See https://www.legislation.gov.uk/changes/affected/ukpga/1977/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## SCHEDULE 11 — Amendments of Criminal Procedure (Scotland Act) 1975\][^c4776751][^c4776761]
 

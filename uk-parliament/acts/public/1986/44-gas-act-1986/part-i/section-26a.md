@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 26A. Competition Commission’s power to veto modifications following report.[^c-3b1d17667d7b1d09baae074342a2160b]
 

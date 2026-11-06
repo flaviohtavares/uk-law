@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-04-28. See https://www.legislation.gov.uk/changes/affected/ukpga/Eliz2/8-9/62
 >
-> Extent: England, Wales, Scotland.
+> Extent: Scotland.
 
 ## 32B. Relevant permanent site application[^c-818409832dab261966f68144f9387d36][^c-15d4648741df976fd01e718f2983f63d][^c-818409832dab261966f68144f9387d36]
 

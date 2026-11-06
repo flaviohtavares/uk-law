@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (2).** Text as at 2026-01-05. See https://www.legislation.gov.uk/changes/affected/uksi/2017/1206
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland; Northern Ireland (the versions of this text differ in extent).
 
 ## 27. Duty to take action in respect of radio equipment placed on the market which is considered not to be in conformity[^M_E_c5ae3e89-2ab7-481c-f3e8-467b03acdbfd]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 107. Meaning of “ youth detention accommodation” and references to terms.[^c-8b3d1f33f53b705f018241d61a6577ea]
 

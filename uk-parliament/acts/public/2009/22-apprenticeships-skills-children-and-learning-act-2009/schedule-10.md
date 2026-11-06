@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Northern Ireland.
 
 ## Schedule 10 — QCA: transfer schemes[^c-d5ac27660459b1eee08b486450cb21f1]
 

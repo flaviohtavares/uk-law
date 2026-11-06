@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (6).** Text as at 2026-10-01. See https://www.legislation.gov.uk/changes/affected/ukpga/1986/45
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 142. Liquidation committee (Scotland).[^c15572971][^c20429511][^c-c4803ed8ec1f1b282894c3e11728c528][^c-19a0dbd549ca6815d6c057f3c4163f52]
 

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2022-04-28.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 14. Marriage according to the usages of belief organisations[^c-24e12b7b8b59ba5fc7e5df53e4981664]
 

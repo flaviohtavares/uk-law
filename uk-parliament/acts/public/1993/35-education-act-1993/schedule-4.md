@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## SCHEDULE 4 — ACQUISITION OF GRANT-MAINTAINED STATUS: EXERCISE OF POWERS BEFORE DATE OF IMPLEMENTATION[^c1400666]
 

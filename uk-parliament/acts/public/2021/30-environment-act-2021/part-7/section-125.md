@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-05-07.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales.
 
 ## 125. Enforcement of obligation[^c-015bc7e3f79e1866afe752ea0d4d0c84][^c-838b66fc894662cf1ef0c89364169653]
 

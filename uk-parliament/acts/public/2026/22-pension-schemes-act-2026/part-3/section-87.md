@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is not yet in force.
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: England, Wales, Scotland.
 
 ## 87. Notification of Regulator in respect of events of concern[^c-eec13b505acfff2ac2a39dd1309ad2a2]
 

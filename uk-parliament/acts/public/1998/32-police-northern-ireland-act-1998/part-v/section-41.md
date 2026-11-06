@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (3).** Text as at 2026-03-18. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/32
 >
-> Extent: England, Wales, Scotland, Northern Ireland.
+> Extent: Northern Ireland.
 
 ## 41. Appointment of inspectors of constabulary.[^c-95d650a7070866c5cba71b3e47f701cb][^c-c667d9f7455a032f887af26de46d1290]
 
